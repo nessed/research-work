@@ -1,6 +1,6 @@
 # Task Name
 
-corpus_inventory
+01_pes_folder_map
 
 ## Purpose
 
@@ -32,14 +32,14 @@ Input files:
 
 Generated files:
 
-- `agentic/corpus_inventory/pes_inventory.json`
-- `agentic/corpus_inventory/manifest.md`
-- `agentic/corpus_inventory/review_prompt.md`
-- `agentic/corpus_inventory/review_report.md`
+- `agentic/01_pes_folder_map/pes_folder_tree.json`
+- `agentic/01_pes_folder_map/how_to_reproduce.md`
+- `agentic/01_pes_folder_map/adv_review_prompt.md`
+- `agentic/01_pes_folder_map/adv_review_results.md`
 
 Primary reproducible output:
 
-`agentic/corpus_inventory/pes_inventory.json`
+`agentic/01_pes_folder_map/pes_folder_tree.json`
 
 ## Reproduction Procedure
 
@@ -59,7 +59,7 @@ Primary reproducible output:
 14. Compute total year folder count.
 15. Compute total PDF count across all year folders.
 16. Compute total non-PDF file count across all year folders.
-17. Export the inventory as JSON to `agentic/corpus_inventory/pes_inventory.json`.
+17. Export the inventory as JSON to `agentic/01_pes_folder_map/pes_folder_tree.json`.
 18. Preserve source filenames, relative paths, and counts exactly.
 
 ## Validation Procedure
@@ -77,7 +77,7 @@ Primary reproducible output:
 11. Flag duplicate-looking filenames within and across year folders.
 12. Flag weird filenames, spacing differences, casing differences, and typos.
 13. Flag missing-looking chapter sequences or inconsistent chapter naming.
-14. Record findings in `agentic/corpus_inventory/review_report.md`.
+14. Record findings in `agentic/01_pes_folder_map/adv_review_results.md`.
 
 ## Constraints
 
@@ -88,7 +88,7 @@ Primary reproducible output:
 - Use filesystem metadata only.
 - Preserve exact source filenames.
 - Preserve exact relative paths.
-- Keep generated files under `agentic/corpus_inventory/`.
+- Keep generated files under `agentic/01_pes_folder_map/`.
 - Do not start extraction.
 - Do not start family mapping.
 - Do not infer data values from filenames.

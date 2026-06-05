@@ -1,58 +1,93 @@
-# Project Context
+# PROJECT_CONTEXT
 
-## Project Identity
+## FIXED_CONTEXT_DO_NOT_EDIT
+This section is stable. Future agents must not change it unless Ali explicitly asks.
 
-This repository supports Ali's LUMS RA work under Ali Hasanain.
+- This is Ali's LUMS RA work under Ali Hasanain.
+- Project focus: Pakistan economic data, Pakistan Economic Surveys, budget docs, official sources, commentary, reproducible AI-assisted research.
+- Raw source truth lives under: `datalab_master/Master Data/`
+- Derived work lives under: `agentic/`
+- Raw source files must stay untouched unless Ali explicitly says otherwise.
+- Reproducibility is mandatory.
+- Every important output must be traceable, reviewable, and reproducible from source materials.
+- Sir's current assignment for Ali is task #2: absorb and track what Pakistan Economic Survey commentary said at what time.
+- This is separate from task #1, which is numeric/time-series ingestion into the database.
+- PDFs are raw source, but too heavy and messy for repeated LLM use.
+- Markdown/text is the working format for LLM commentary work.
+- Commentary will be used through summaries and structured extractions, with awareness that summaries cause signal loss.
+- Later commentary extraction should focus on cause-effect claims, policy actions, constraints, outlooks, risks, sector narratives, optimism/pessimism signals, and recurring narratives.
+- Any extracted claim must stay source-grounded with page references and source quotes.
+- Tables, numeric values, and chart-derived values are weak unless separately verified.
+- Important outputs should be reviewed by a fresh-context adversarial agent when approved.
+- Never create publishable figures, claims, or conclusions from AI alone.
 
-The project concerns Pakistan economic data and AI-assisted research workflows, including Pakistan Economic Surveys, budget documents, official sources, commentary, reproducible analysis, and source-grounded data work.
+## STANDARD_AGENTIC_TASK_FILES
+This section defines the standard files for major AI-assisted subtasks under `agentic/`.
 
-## Core Operating Principle
+Every major task folder under `agentic/` should contain:
 
-Reproducibility is king.
+- `how_to_reproduce.md`
+  Recipe for how the output was created and how another agent or person can reproduce and verify it.
 
-Every meaningful output should be traceable, reviewable, and reproducible from source materials. Raw source files are evidence and should be treated as read-only unless the user explicitly instructs otherwise.
+- `adv_review_prompt.md`
+  Prompt or instructions for a fresh-context adversarial reviewer agent.
 
-## Agent Behavior
+- `adv_review_results.md`
+  The reviewer agent's findings and results.
 
-- Do not rush into mass processing.
-- Do not overbuild or create unnecessary infrastructure.
-- Do not invent facts, sources, counts, or interpretations.
-- Do not silently modify raw data.
-- Prefer small, scoped, reviewable subtasks.
-- Clarify scope before acting when the task is ambiguous.
-- Keep responses concise, practical, and tied to the requested work.
-- Preserve provenance, filenames, paths, and source layout unless explicitly told to normalize them.
+- One clear task-specific output file or folder.
+  Examples:
+  - `pes_folder_tree.json`
+  - `converted_md/`
+  - `sample_claims.json`
+  - `schema.json`
 
-## Agentic Workflow Norm
+Optional files only when needed:
 
-For important or reusable tasks, create a task folder under `agentic/`.
+- `script.py` or a clearly named script file if code was used.
+- `conversion_quality.md` if the task is a conversion or QA task.
+- `notes.md` only for brief human decisions, not long chat history.
 
-Task folders should keep derived outputs and, where relevant:
+Naming rules:
 
-- `manifest.md`
-- `review_report.md`
-- prompts or other review artifacts needed for reproducibility
+- Do not use vague names like `manifest.md` or `review_report.md` going forward.
+- Use self-explanatory names.
+- Do not create these files for tiny one-off actions.
+- Create them for major task milestones only.
+- Future agents should follow this naming standard unless Ali explicitly changes it.
 
-`manifest.md` should explain what was produced, which inputs were used, how to reproduce the output, how to validate it, known limitations, and what was out of scope.
+## LIVE_CONTEXT_OVERWRITE_ON_MAJOR_TASK
+This section is changeable. Overwrite it only after major task milestones, not after every minor action.
 
-Use headless Claude or any cross-agent review only when explicitly approved by the user. Cross-agent review should test outputs against source data where allowed, not only check whether a JSON or report is internally consistent.
+Current live state:
 
-## Current Project State
+- Active area: `agentic/02_pdf_to_md/`
+- Current major task: test whether selected PES PDFs convert into Markdown clean enough for commentary extraction.
+- Completed baseline: `agentic/01_pes_folder_map/`
+- Folder map output: `pes_folder_tree.json`
+- Folder map result: PASS / High confidence; 10 year folders, 287 PDFs, no filesystem count/path/size mismatches.
+- Current PDF-to-MD test: PyMuPDF4LLM output appears usable for prose/commentary extraction but weak for direct table/numeric extraction.
+- Raw PDFs were not modified.
+- No final commentary extraction or mass processing has started.
 
-- `agentic/corpus_inventory/` exists.
-- `agentic/corpus_inventory/pes_inventory.json` exists.
-- `agentic/corpus_inventory/manifest.md` exists.
-- Claude headless filesystem review passed.
-- `agentic/corpus_inventory/review_report.md` reports `PASS` with `High` confidence.
-- Duplicate-looking PES supplements and filename irregularities were flagged.
-- Raw `Master Data` files were not modified.
+Update policy: overwrite this LIVE section only after a major task milestone. Keep only current status, key outputs, blockers, and next immediate task. Move old detail into the relevant task folder, not this file.
 
-## Permanent Constraints
+## PERMANENT_CONSTRAINTS
 
-- Do not modify `Master Data` unless explicitly told.
-- Do not inspect PDF contents unless the task says to inspect PDF contents.
-- Do not start family mapping unless explicitly assigned.
-- Do not start extraction unless explicitly assigned.
-- Do not start database imports unless explicitly assigned.
-- Do not create automation or large processing flows unless explicitly assigned.
-- Keep derived work under `agentic/` unless told otherwise.
+- Do not modify `Master Data` unless Ali explicitly says so.
+- Do not start mass processing unless Ali explicitly asks.
+- Do not start family mapping unless assigned.
+- Do not start database imports unless assigned.
+- Do not treat converted Markdown as source truth; original PDFs remain source truth.
+- Do not trust table values from Markdown without separate table QA.
+- Keep derived work under `agentic/`.
+- Keep context concise and token-efficient.
+
+Reference renames already applied:
+
+- `corpus_inventory` -> `01_pes_folder_map`
+- `pes_inventory.json` -> `pes_folder_tree.json`
+- `manifest.md` -> `how_to_reproduce.md`
+- `review_prompt.md` -> `adv_review_prompt.md`
+- `review_report.md` -> `adv_review_results.md`
+- `pdf_conversion_pilot` -> `02_pdf_to_md`

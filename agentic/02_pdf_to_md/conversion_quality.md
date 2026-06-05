@@ -4,8 +4,8 @@
 
 This report assesses only these generated Markdown files:
 
-- `agentic/pdf_conversion_pilot/education_2019_20.md`
-- `agentic/pdf_conversion_pilot/transport_2021_22.md`
+- `agentic/02_pdf_to_md/education_2019_20.md`
+- `agentic/02_pdf_to_md/transport_2021_22.md`
 
 No other PDFs were processed or inspected.
 

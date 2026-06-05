@@ -1,6 +1,6 @@
 # Task Name
 
-pdf_conversion_pilot
+02_pdf_to_md
 
 ## Purpose
 
@@ -15,11 +15,11 @@ This is a scoped pilot only. It does not perform commentary extraction, family m
 
 ## Exact Output Files
 
-- `agentic/pdf_conversion_pilot/education_2019_20.md`
-- `agentic/pdf_conversion_pilot/transport_2021_22.md`
-- `agentic/pdf_conversion_pilot/quality_report.md`
-- `agentic/pdf_conversion_pilot/manifest.md`
-- `agentic/pdf_conversion_pilot/convert_pdfs.py`
+- `agentic/02_pdf_to_md/education_2019_20.md`
+- `agentic/02_pdf_to_md/transport_2021_22.md`
+- `agentic/02_pdf_to_md/conversion_quality.md`
+- `agentic/02_pdf_to_md/how_to_reproduce.md`
+- `agentic/02_pdf_to_md/convert_pdfs.py`
 
 ## Environment
 
@@ -46,7 +46,7 @@ Installation command used because the packages were initially missing:
 
 The conversion was performed with `pymupdf4llm.to_markdown(..., page_chunks=True)` in:
 
-- `agentic/pdf_conversion_pilot/convert_pdfs.py`
+- `agentic/02_pdf_to_md/convert_pdfs.py`
 
 The script processes only the two input PDFs listed above. For each page chunk, it writes:
 
@@ -81,14 +81,14 @@ Output files are written as UTF-8 Markdown.
 6. Run the conversion script:
 
 ```powershell
-& 'C:\Users\Ali\AppData\Local\Python\bin\python.exe' 'agentic\pdf_conversion_pilot\convert_pdfs.py'
+& 'C:\Users\Ali\AppData\Local\Python\bin\python.exe' 'agentic\02_pdf_to_md\convert_pdfs.py'
 ```
 
 7. Review:
 
-- `agentic/pdf_conversion_pilot/education_2019_20.md`
-- `agentic/pdf_conversion_pilot/transport_2021_22.md`
-- `agentic/pdf_conversion_pilot/quality_report.md`
+- `agentic/02_pdf_to_md/education_2019_20.md`
+- `agentic/02_pdf_to_md/transport_2021_22.md`
+- `agentic/02_pdf_to_md/conversion_quality.md`
 
 ## Validation Performed
 

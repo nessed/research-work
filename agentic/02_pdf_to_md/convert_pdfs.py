@@ -13,7 +13,7 @@ INPUTS = [
         / "pakistan_economic_survey"
         / "2019-20"
         / "Education.pdf",
-        ROOT / "agentic" / "pdf_conversion_pilot" / "education_2019_20.md",
+        ROOT / "agentic" / "02_pdf_to_md" / "education_2019_20.md",
     ),
     (
         ROOT
@@ -22,7 +22,7 @@ INPUTS = [
         / "pakistan_economic_survey"
         / "2021-22"
         / "Pes13_Transport.pdf",
-        ROOT / "agentic" / "pdf_conversion_pilot" / "transport_2021_22.md",
+        ROOT / "agentic" / "02_pdf_to_md" / "transport_2021_22.md",
     ),
 ]
 

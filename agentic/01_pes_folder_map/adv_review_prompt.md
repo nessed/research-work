@@ -2,9 +2,9 @@
 
 You are reviewing the reproducibility of the PES corpus inventory task.
 
-Read `agentic/corpus_inventory/manifest.md` first.
+Read `agentic/01_pes_folder_map/how_to_reproduce.md` first.
 
-Your job is to independently verify `agentic/corpus_inventory/pes_inventory.json` against the source folders under:
+Your job is to independently verify `agentic/01_pes_folder_map/pes_folder_tree.json` against the source folders under:
 
 `datalab_master/Master Data/pakistan_economic_survey`
 
@@ -26,7 +26,7 @@ Check the following:
 
 Write findings to:
 
-`agentic/corpus_inventory/review_report.md`
+`agentic/01_pes_folder_map/adv_review_results.md`
 
 The report should be concise and evidence-based. If the inventory passes a check, say so briefly. If a check fails, include the exact year, filename, path, or count involved.
 
