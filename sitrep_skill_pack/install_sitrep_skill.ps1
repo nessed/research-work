@@ -46,7 +46,5 @@ New-Item -ItemType Directory -Force -Path $reviewsDir | Out-Null
 Write-Host "  created  $reviewsDir"
 
 Write-Host ""
-Write-Host "Done. Open Claude Code from the project root and run the test command:" -ForegroundColor Green
-Write-Host ""
-Write-Host "    /sitrep" -ForegroundColor Yellow
+Write-Host "Installed. Open Claude Code from the project root and run /sitrep." -ForegroundColor Green
 Write-Host ""

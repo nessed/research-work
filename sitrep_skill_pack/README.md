@@ -1,9 +1,16 @@
 # /sitrep Skill Pack
 
 A shareable Claude Code skill that produces a concise, **evidence-backed** project
-situation report (sitrep): git status, recently modified files, `agentic/` task folders,
-reviews, completed work, current state, blockers, the next 3 actions, and a
-WhatsApp-ready update for the team. The full report is saved to `agentic/sitreps/`.
+situation report (sitrep) and acts as **running project memory**: each run compares
+current evidence against the **latest previous sitrep** in `agentic/sitreps/` and reports
+what changed. It checks recently modified files, `agentic/` task folders, reviews,
+completed work, current state, blockers, the next 3 actions, and writes a WhatsApp-ready
+update for the team. The full report is saved to `agentic/sitreps/`.
+
+**Git is helpful but optional.** If the folder is a git repo, the skill uses `git status`.
+If Git is unavailable or the folder is not a git repo, it does **not** fail — it switches
+to **filesystem-only mode** and relies on recently modified files, task folders, review
+files, and the latest previous sitrep instead. The report states which mode was used.
 
 The skill is **read-only** except for writing one sitrep file. It never modifies raw
 PDFs or raw data, and it never claims work is "validated" unless a real review/check
@@ -39,17 +46,21 @@ The installer creates `.claude/skills/sitrep/`, copies the skill in, and creates
 
 ## Use
 
-Open Claude Code **from the project root**, then run:
+**Open Claude Code from the project root**, then run:
 
 ```
 /sitrep
 ```
 
-For a recurring loop run (e.g. every 12 hours):
+For a recurring loop run (every 12 hours):
 
 ```
 /loop 12h /sitrep
 ```
+
+Because each sitrep compares against the most recent previous one, running it on a loop
+gives you a running, evidence-backed project memory over time. The first run (no prior
+sitrep) prints `No prior sitrep found; this is the baseline.`
 
 ## What's in this pack
 
