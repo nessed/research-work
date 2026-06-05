@@ -1,25 +1,67 @@
-# Task Name
-
-02_pdf_to_md
+# 02_pdf_to_md Reproduction Notes
 
 ## Purpose
 
-Test whether `pymupdf4llm` can convert selected Pakistan Economic Survey PDFs into Markdown that is good enough for later LLM-based commentary extraction.
+Run a reproducible 6-PDF cross-year pilot to test whether `pymupdf4llm` produces Markdown suitable for later commentary-focused extraction from Pakistan Economic Survey Education and Transport chapters.
 
-This is a scoped pilot only. It does not perform commentary extraction, family mapping, database import, or quantitative data extraction.
+This run does not perform commentary extraction, table/numeric extraction, database import, or any modification of raw source PDFs.
 
-## Exact Input PDFs
+## Source Inputs
 
-- `C:\Users\Ali\Desktop\datalab_ali\datalab_master\Master Data\pakistan_economic_survey\2019-20\Education.pdf`
-- `C:\Users\Ali\Desktop\datalab_ali\datalab_master\Master Data\pakistan_economic_survey\2021-22\Pes13_Transport.pdf`
+Project root:
 
-## Exact Output Files
+- `C:\Users\Ali\Desktop\datalab_ali`
 
-- `agentic/02_pdf_to_md/education_2019_20.md`
-- `agentic/02_pdf_to_md/transport_2021_22.md`
-- `agentic/02_pdf_to_md/conversion_quality.md`
-- `agentic/02_pdf_to_md/how_to_reproduce.md`
-- `agentic/02_pdf_to_md/convert_pdfs.py`
+Raw PDF source root:
+
+- `datalab_master/Master Data/pakistan_economic_survey/`
+
+Folder map used for selection:
+
+- `agentic/01_pes_folder_map/pes_folder_tree.json`
+
+Selection was made from the JSON map first, then every chosen source PDF was verified to exist under the raw source root.
+
+## Run Folder
+
+Run folder:
+
+- `agentic/02_pdf_to_md/runs/2026-06-05_6pdf_cross_year_pilot/`
+
+Batch manifest:
+
+- `agentic/02_pdf_to_md/runs/2026-06-05_6pdf_cross_year_pilot/selected_pdf_map.json`
+
+Batch outputs:
+
+- `agentic/02_pdf_to_md/runs/2026-06-05_6pdf_cross_year_pilot/converted_md/<year>/<sector>.md`
+
+If the base run folder already exists, `convert_pdfs.py` creates the next available suffix such as `_v2` instead of overwriting it.
+
+## Random Seed
+
+Seed:
+
+- `20260605`
+
+Selection rule implemented:
+
+- choose 3 Education PDFs from 3 random years;
+- choose 3 Transport PDFs from 3 random years;
+- enforce distinct years across all 6 selected PDFs;
+- use candidates discovered in `pes_folder_tree.json`;
+- verify selected source PDFs exist under the raw PES source root.
+
+## Selected PDFs and Outputs
+
+| Sector | Year | Source PDF | Output Markdown |
+|---|---|---|---|
+| Education | 2017-18 | `datalab_master/Master Data/pakistan_economic_survey/2017-18/Education.pdf` | `agentic/02_pdf_to_md/runs/2026-06-05_6pdf_cross_year_pilot/converted_md/2017-18/education.md` |
+| Education | 2019-20 | `datalab_master/Master Data/pakistan_economic_survey/2019-20/Education.pdf` | `agentic/02_pdf_to_md/runs/2026-06-05_6pdf_cross_year_pilot/converted_md/2019-20/education.md` |
+| Education | 2023-24 | `datalab_master/Master Data/pakistan_economic_survey/2023-24/Education.pdf` | `agentic/02_pdf_to_md/runs/2026-06-05_6pdf_cross_year_pilot/converted_md/2023-24/education.md` |
+| Transport | 2015-16 | `datalab_master/Master Data/pakistan_economic_survey/2015-16/Transport.pdf` | `agentic/02_pdf_to_md/runs/2026-06-05_6pdf_cross_year_pilot/converted_md/2015-16/transport.md` |
+| Transport | 2016-17 | `datalab_master/Master Data/pakistan_economic_survey/2016-17/Transport_And_Communications.pdf` | `agentic/02_pdf_to_md/runs/2026-06-05_6pdf_cross_year_pilot/converted_md/2016-17/transport.md` |
+| Transport | 2024-25 | `datalab_master/Master Data/pakistan_economic_survey/2024-25/Transport_And_Communication.pdf` | `agentic/02_pdf_to_md/runs/2026-06-05_6pdf_cross_year_pilot/converted_md/2024-25/transport.md` |
 
 ## Environment
 
@@ -36,76 +78,46 @@ Package versions:
 - `pymupdf==1.27.2.3`
 - `pymupdf4llm==1.27.2.3`
 
-Installation command used because the packages were initially missing:
-
-```powershell
-& 'C:\Users\Ali\AppData\Local\Python\bin\pip.exe' install pymupdf pymupdf4llm
-```
-
-## Conversion Method
-
-The conversion was performed with `pymupdf4llm.to_markdown(..., page_chunks=True)` in:
-
-- `agentic/02_pdf_to_md/convert_pdfs.py`
-
-The script processes only the two input PDFs listed above. For each page chunk, it writes:
-
-- an HTML comment marker: `<!-- source_pdf_page: N -->`
-- a Markdown page heading: `## PDF page N`
-- the Markdown text returned by `pymupdf4llm`
-
-Output files are written as UTF-8 Markdown.
-
-## Reproduction Steps
-
-1. Use repository root: `C:\Users\Ali\Desktop\datalab_ali`.
-2. Confirm the two input PDFs exist at the exact paths listed above.
-3. Confirm Python:
-
-```powershell
-& 'C:\Users\Ali\AppData\Local\Python\bin\python.exe' --version
-```
-
-4. Confirm packages:
+Version check command:
 
 ```powershell
 & 'C:\Users\Ali\AppData\Local\Python\bin\python.exe' -c "import importlib.metadata as m; import fitz; import pymupdf4llm; print(m.version('pymupdf')); print(m.version('pymupdf4llm'))"
 ```
 
-5. If missing, install only the required packages:
+## Conversion Command
 
-```powershell
-& 'C:\Users\Ali\AppData\Local\Python\bin\pip.exe' install pymupdf pymupdf4llm
-```
-
-6. Run the conversion script:
+Run from project root:
 
 ```powershell
 & 'C:\Users\Ali\AppData\Local\Python\bin\python.exe' 'agentic\02_pdf_to_md\convert_pdfs.py'
 ```
 
-7. Review:
+The script writes:
 
-- `agentic/02_pdf_to_md/education_2019_20.md`
-- `agentic/02_pdf_to_md/transport_2021_22.md`
-- `agentic/02_pdf_to_md/conversion_quality.md`
+- `selected_pdf_map.json`
+- six Markdown files under `converted_md/<year>/<sector>.md`
 
-## Validation Performed
+## Conversion Method
 
-- Confirmed both requested source PDFs exist.
-- Confirmed both Markdown outputs were generated.
-- Confirmed each Markdown output has 17 inserted PDF page markers.
-- Spot-checked the beginning and middle of each Markdown output for headings, paragraphs, tables, page markers, and obvious extraction artifacts.
-- Confirmed no other PDFs were intentionally processed.
+The conversion uses:
+
+- `pymupdf4llm.to_markdown(str(input_pdf), page_chunks=True)`
+
+For each returned page chunk, the wrapper writes:
+
+- `<!-- source_pdf_page: N -->`
+- `## PDF page N`
+- the Markdown text returned by `pymupdf4llm`
+
+This preserves PDF page boundaries for later source-grounded commentary extraction.
 
 ## Limitations
 
-- Quality review is based on the generated Markdown, not a full visual reconciliation against the source PDFs.
-- Inserted page markers are PDF page indices from `pymupdf4llm` page chunks; they may differ from printed Economic Survey page numbers.
-- Tables are not reliable enough for direct publication-grade numeric extraction.
-- Some punctuation appears as mojibake, for example `â€™`.
-- Some image text is omitted or represented as placeholders.
+- PDF page markers are PDF page indices from the conversion chunks, not necessarily printed Economic Survey page numbers.
+- Tables and charts are not trusted for numeric extraction from Markdown.
+- Some layout-derived tables are noisy or missing as Markdown tables.
+- Some image-only or infographic content appears as omitted-picture placeholders.
+- Some punctuation has encoding artifacts such as `â€™`.
 - No OCR fallback was attempted.
-- No commentary extraction was performed.
-- No family mapping was performed.
-- No raw PDF was modified.
+- No visual page-by-page reconciliation against the original PDFs was performed.
+- The original PDFs remain source truth.
