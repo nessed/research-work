@@ -1,0 +1,10 @@
+datalab_master/
+codex.exe
+install.ps1
+agentic/pdf_conversion_pilot/education_pdf_check_pages/
+
+# Common OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
