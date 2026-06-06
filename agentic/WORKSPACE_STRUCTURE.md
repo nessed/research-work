@@ -25,11 +25,18 @@ This file defines the canonical folder layout for `datalab_ali`.
 - `01_pes_folder_map/`
   - Source filesystem inventory and review evidence.
 - `02_pdf_to_md/`
-  - PDF-to-Markdown runs and archived conversion attempts.
+  - Canonical PDF-to-Markdown stage instructions, run folders, and archived
+    conversion attempts.
 - `03_section_splitting/`
   - Markdown-to-section specs, future runs, QA, and review evidence.
-- `04_commentary_schema_discovery/`
-  - Commentary pattern scan, schema work, stress tests, and extraction pilots.
+- `04_claims_json/`
+  - Claims JSON extraction stage. Work has not started.
+- `05_normalize/`
+  - Normalize reviewed Claims JSON. Work has not started.
+- `06_export/`
+  - Export reviewed normalized JSON. Work has not started.
+- `archive/`
+  - Archived or completed provenance, including schema discovery and hardening.
 - `reviews/`
   - Cross-cutting adversarial reviews.
 - `sitreps/`
@@ -43,6 +50,10 @@ README explaining original path, new path, reason, date, and status.
 
 Do not mix active outputs with old attempts. Do not delete old research evidence
 unless Ali explicitly asks and the deletion is recorded elsewhere.
+
+Completed design/provenance folders may remain in place when their outputs are
+still referenced by later stages. They should be labelled as provenance, not as
+active pipeline stages.
 
 ## Derived Outputs
 

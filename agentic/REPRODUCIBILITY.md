@@ -22,9 +22,13 @@ this file current when major steps are added, moved, repeated, or archived.
 - `agentic/01_pes_folder_map/`
   - Reproducible filesystem inventory of the PES corpus.
 - `agentic/02_pdf_to_md/`
-  - Hardened PDF-to-Markdown run and archived conversion attempts.
-- `agentic/04_commentary_schema_discovery/`
-  - Pattern scan, working schema, stress tests, and extraction pilots.
+  - Canonical PDF-to-Markdown stage instructions, run folders, and archived
+    conversion attempts.
+- `agentic/03_section_splitting/`
+  - Reviewed Markdown-to-sections runs with included/excluded input evidence.
+- `agentic/archive/04_commentary_schema_discovery/`
+  - Completed schema discovery/hardening and pilot evidence retained as
+    provenance for Claims JSON extraction.
 - `agentic/reviews/`
   - Cross-cutting adversarial reviews.
 - `agentic/sitreps/`
@@ -56,42 +60,20 @@ Result:
 
 ## Step 02: PDF To Markdown Conversion
 
-Active hardened run:
+Canonical stage instructions:
 
-- `agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened`
+- `agentic/02_pdf_to_md/README.md`
 
-Detailed reproduction doc:
+Run-level reproduction docs:
 
 - `agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/how_to_reproduce.md`
+- `agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/how_to_reproduce.md`
 
-Input:
+Rule:
 
-- `datalab_master/Master Data/pakistan_economic_survey/2015-16`
-
-Active converted Markdown:
-
-- `agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md`
-
-Retained scripts:
-
-- `convert_2015_16_pymupdf4llm.py`
-- `qa_2015_16_pymupdf4llm.py`
-
-Machine-readable evidence:
-
-- `repro_manifest.json`
-- `conversion_log.json`
-- `qa_results.json`
-- `qa_report.md`
-
-Run result:
-
-- PDFs found: `29`
-- Logged conversions: `29`
-- Failed conversions: `0`
-- Structural QA: `PASS`
-- Deterministic prose fidelity QA: `PASS`
-- Table/chart/numeric fidelity: `NOT_CERTIFIED`
+- The base `README.md` is the instruction source for Step 02. Run-level
+  `how_to_reproduce.md` files record only run-specific paths, commands,
+  observed environment, QA, results, and caveats.
 
 Archived conversion material:
 
@@ -104,18 +86,42 @@ Important path note:
 - `processed_pdfs/` is not an active destination.
 - Active derived PDF-to-Markdown outputs live under `agentic/02_pdf_to_md/runs/`.
 
-## Step 03: Commentary Schema Discovery
+## Step 03: Sections
+
+Detailed reproduction docs:
+
+- `agentic/03_section_splitting/runs/*/how_to_reproduce.md`
+
+Primary outputs:
+
+- `sections.jsonl`
+- `section_manifest.json`
+- `section_split_report.md`
+
+Required source-scope evidence:
+
+- Included input Markdown files.
+- Excluded input Markdown files.
+- Reason for each exclusion.
+- Source year decision used by the run.
+
+Important invariant:
+
+- Folder year is not automatically source year. Section runs must decide which
+  Markdown files are valid inputs for the intended `source_year`.
+
+## Archived Design Evidence: Commentary Schema
 
 Folder:
 
-- `agentic/04_commentary_schema_discovery`
+- `agentic/archive/04_commentary_schema_discovery`
 
 Local docs:
 
-- `agentic/04_commentary_schema_discovery/README.md`
-- `agentic/04_commentary_schema_discovery/how_to_reproduce.md`
+- `agentic/archive/04_commentary_schema_discovery/README.md`
+- `agentic/archive/04_commentary_schema_discovery/how_to_reproduce.md`
 
-Active outputs:
+Retained provenance:
 
 - `pattern_scan/commentary_pattern_scan.md`
 - `schema/commentary_schema_draft.json`
@@ -131,14 +137,27 @@ Result:
 
 - Working schema v0.1 held through random stress tests, hard-case tests, and a
   five-file extraction pilot.
-- This is still pilot work, not full extraction.
+- 2016-17 schema hardening did not require a major redesign.
+- This is completed design evidence for Claims JSON extraction, not a recurring
+  active pipeline stage and not full extraction.
+
+## Future Active Stages
+
+The remaining active workflow is:
+
+```text
+Claims JSON -> Normalize -> Export
+```
+
+Claims JSON should begin with a small reviewed pilot inside that stage, then
+scale only after pilot QA/review passes.
 
 ## Validation Commands
 
-Validate schema-discovery JSON:
+Validate retained schema/provenance JSON:
 
 ```powershell
-& "C:\Users\Ali\AppData\Local\Python\bin\python.exe" -c "import json, pathlib; [json.load(open(p, encoding='utf-8')) for p in pathlib.Path(r'agentic\04_commentary_schema_discovery').rglob('*.json')]; print('json_ok')"
+& "C:\Users\Ali\AppData\Local\Python\bin\python.exe" -c "import json, pathlib; [json.load(open(p, encoding='utf-8')) for p in pathlib.Path(r'agentic\archive\04_commentary_schema_discovery').rglob('*.json')]; print('json_ok')"
 ```
 
 Regenerate hardened conversion manifest/log from existing Markdown:
@@ -173,8 +192,11 @@ When moving files:
 3. Preserve old location notes in archive READMEs.
 4. Do not silently delete old context unless Ali explicitly asks.
 
-## Next Planned Step
+## Pipeline Shape
 
-Complete the workspace-cleanup adversarial review, then continue with controlled
-commentary extraction pilots only after Ali asks.
+The active pipeline outline is:
+
+```text
+PDF -> MD -> Sections -> Claims JSON -> Normalize -> Export
+```
 

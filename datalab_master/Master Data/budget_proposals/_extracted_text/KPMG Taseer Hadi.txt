@@ -1,0 +1,2678 @@
+
+
+===== PAGE 1 =====
+KPMG Taseer Hadi & Co.
+Chartered Accountants
+Pa k i st a n
+B a n k i n g
+P e rs p e ct i ve
+2 0 26
+April 2026 | home.kpmg/pk
+
+
+===== PAGE 2 =====
+C o nte nts
+0 4 07 1 2
+Summary Economic Financial
+Perspective Environment Performance
+Highlights
+25 39 4 4
+The Future Workforce & Talent Regulatory
+of Banking Transformation Landscape
+52 57
+In the News Numbers
+and Ratios
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+
+
+===== PAGE 3 =====
+Fo rewo r d
+Welcome to the 2026 edition of our annual Pakistan Banking Perspective. This year’s
+edition presents an overview of Pakistan’s banking sector, highlighting the evolving
+challenges and emerging opportunities shaping the industry.
+Pakistan’s economic landscape continues to navigate a period of gradual stabilization
+amid a complex global and domestic environment. While certain macroeconomic
+indicators point towards improving conditions, uncertainty persists, requiring financial
+institutions to remain prudent and forward-looking in their strategies. The banking sector,
+therefore, continues to adopt a measured and cautiously optimistic outlook towards
+growth, while balancing profitability, risk management, and customer expectations.
+Adnan Rizvi
+The industry is undergoing a significant phase of transformation, driven by rapid
+technological advancements, increasing regulatory focus, and changing stakeholder Country Managing Partner
+expectations. Strategic investments in digital capabilities, sustainability initiatives, and adnanrizvi@kpmg.com
+innovation are becoming central to long-term value creation. At the same time, evolving
+regulatory priorities are shaping a more inclusive and customer-centric financial
+ecosystem.
+In parallel, the workforce landscape is being redefined by emerging skill requirements,
+technological disruption, and increasing competition within the financial services sector.
+Institutions are placing greater emphasis on building agile, future-ready talent models to
+remain competitive in this dynamic environment.
+This publication analyzes the financial results, as of 31 December 2025, of 22 leading
+commercial banks across Pakistan, comparing their performance to prior periods. The
+list of included banks can be found in the relevant section of this document.
+We invite you to explore the insights presented in the following pages and engage with Rana Nadeem Akhtar
+us on the trends shaping the future of banking in Pakistan. We extend our gratitude to
+Partner, Head of Financial Services
+our colleagues who contributed to this publication.
+rananadeem@kpmg.com
+KPMG Taseer Hadi & Co. Chartered Accountants
+18 April 2026
+
+
+===== PAGE 4 =====
+0 4
+S u m ma r y
+Pe rs p e cti ve
+0 5
+Eco n o m i c
+O ve r v i ew
+
+
+===== PAGE 5 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Summary Perspective
+The Pakistan Banking Perspective 2026 provides a comprehensive view of the banking sector’s performance and outlook, highlighting continued resilience amid a
+transitioning economic and interest rate environment. During 2025, the sector experienced balance sheet expansion, with total assets growing by approximately 19% to
+PKR 61.5 trillion, supported largely by investment-led growth. Despite margin pressures arising from declining policy rates, profitability remained stable, supported by
+improved asset quality, reversal of provisions, and growth in non-funded income streams. Alongside financial performance, key themes shaping the sector include
+digital transformation, artificial intelligence adoption, sustainability considerations, regulatory evolution, and workforce transformation.
+The global economic outlook remains uncertain, with downside risks stemming Pakistan’s banking sector continued to exhibit strong balance sheet growth and
+from persistent geopolitical tensions, evolving trade dynamics, and policy stability. Total assets increased by approximately 19.4%, while deposits grew
+uncertainty across major economies. While inflationary pressures have begun to steadily, reflecting continued depositor confidence. Asset quality improved, with
+the non-performing loan (NPL) ratio declining to around 5.7%, accompanied by
+ease globally, growth remains moderate as central banks cautiously navigate
+a significant reduction in provisioning levels. Liquidity and capital adequacy
+the transition from tightening to easing monetary policies. Any resurgence in
+remained strong, supported by a high investment-to-deposit ratio as banks
+commodity prices, particularly oil, or escalation in regional conflicts could further
+maintained a cautious approach to private sector lending. Despite these
+impact global stability and growth prospects.
+strengths, declining policy rates have begun to compress net interest margins,
+prompting banks to increasingly focus on non-funded income streams, cost
+Pakistan’s economic environment has shown signs of stabilization during 2025, optimization, and operational efficiency to sustain profitability.
+following a period of elevated inflation and macroeconomic stress. Inflation has See more on page 12 : Financial Performance Highlights
+declined significantly, enabling the State Bank of Pakistan to initiate a monetary
+easing cycle through policy rate reductions. This is expected to support The future of banking in Pakistan is being reshaped by a convergence of digital
+economic activity, improve business sentiment, and encourage private sector innovation, sustainability imperatives, and rapid technological advancement.
+credit growth. However, the easing cycle also presents risks, including potential The expansion of the digital economy is driving transformation across payments,
+customer engagement, and service delivery, supported by advancements in
+pressure on the external account driven by rising import demand and exchange
+digital infrastructure such as real-time payment systems, digital identity
+rate sensitivities.
+frameworks, and data ecosystems. At the same time, banks are increasingly
+integrating environmental and sustainable finance considerations into their
+GDP growth is expected to recover gradually, supported by improved
+strategies, aligning with global ESG trends and regulatory expectations.
+macroeconomic indicators and policy continuity. However, the outlook remains
+contingent on maintaining fiscal discipline, ensuring external financing stability, Artificial intelligence and automation are emerging as key enablers of efficiency
+and advancing structural reforms. Key areas of focus include energy sector and innovation within the sector, with applications spanning credit risk
+sustainability, enhancing agricultural productivity, promoting export assessment, fraud detection, customer service, and operational processes. As
+diversification, and privatization of state-owned enterprises. Additionally, AI adoption accelerates, banks are transitioning from experimental use cases to
+continued emphasis on digital financial inclusion and formalization of the enterprise-wide implementation. However, this digital transformation also
+economy will play an important role in supporting long-term, sustainable growth. introduces heightened risks, particularly in the areas of cybersecurity and digital
+resilience. Strengthening cyber defenses, ensuring data protection, and building
+Close monitoring of global developments and domestic policy execution will
+resilient digital architectures have become critical priorities as banks navigate an
+remain critical to preserving economic stability.
+increasingly complex threat landscape. Collectively, these trends are redefining
+See more on page 07 : Economic Overview
+the competitive landscape and positioning technology as a central pillar of future
+growth. See more on page 25: The Future of Banking
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 05 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 6 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Summary Perspective
+Workforce and talent transformation has emerged as a defining priority for the For the reader’s convenience, this report includes a brief overview of the major
+banking sector. The combined impact of artificial intelligence adoption, the developments in the banking sector that captured attention during 2025 and the
+Islamic banking conversion mandate, and the emergence of digital banks is surrounding period. Key highlights include:
+fundamentally reshaping workforce requirements. Nearly half of financial
+institutions in Pakistan have already deployed or are exploring AI solutions,
+while global trends indicate a strong emphasis on (cid:85)(cid:72)(cid:16)(cid:86)(cid:78)(cid:76)(cid:79)(cid:79)(cid:76)(cid:81)(cid:74) to keep pace with Pakistan’s Banking Sector Profits Reach PKR 685 Billion, led by UBL,
+technological change. At the same time, competition for digital talent is
+Meezan & NBP, driven by strong margins and efficiencies, with the sector
+intensifying, with digital banks adopting technology-first operating models and
+remaining resilient despite moderating interest rates.
+competing for specialized skill sets. Addressing talent gaps, investing in
+(cid:85)(cid:72)(cid:86)(cid:78)(cid:76)(cid:79)(cid:79)(cid:76)(cid:81)(cid:74), and building agile workforce strategies will be critical for banks to
+Raast Processes PKR 18 Trillion in FY26 as Instant Payments Gain
+successfully navigate this transition.
+Nationwide Adoption
+See more on page 39: Workforce & Talent Transformation
+Sukuk Share in Government Debt Portfolio Rises to 14%
+The regulatory landscape continues to evolve, with increasing emphasis on
+strengthening financial stability and advancing financial inclusion. Initiatives
+Pakistan’s Digital Economy Poised to Reach 7% of GDP by 2030
+such as the Women Finance Framework reflect a focused effort to improve
+access to finance for (cid:88)(cid:81)(cid:71)(cid:72)(cid:85) (cid:86)(cid:72)(cid:85)(cid:89)(cid:72)(cid:71) segments, particularly women-led
+See more on page 52 : News making Headlines
+businesses, and to promote inclusive economic growth. In parallel, broader
+regulatory developments, including recovery and resolution planning
+frameworks, are reinforcing the resilience of the banking sector and enhancing
+preparedness for potential financial stress scenarios. As these frameworks
+We invite you to explore these perspectives in the following pages. We are
+mature, the key challenge for banks will be effective implementation and
+available to discuss these trends, and specific topics that interest you, to
+integration into governance structures, risk management practices, and overall
+help guide your organization on its path to sustainable success.
+business strategy. Furthermore, the introduction of the Teenager
+Accounts/Wallet framework reflects a shift toward early financial inclusion,
+enabling individuals aged 13 to 18 to access formal financial and digital banking Explore KPMG @ home.kpmg/pk Read Banking Perspective 2026
+services, and supporting long-term financial awareness and participation in the
+formal economy.
+See more on page 44: Regulatory Landscape
+In the later part of the document, a detailed compilation of financial statements
+and key ratios of 22 banks is presented, providing an industry-wide view of
+financial performance based on published, audited data. This enables
+comparative analysis across institutions and offers deeper insights into
+sector-wide trends.
+See more on page 57 : Industry Numbers & Ratios
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 06 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 7 =====
+00 75
+EEccoo nn oo mm ii cc
+OE nvveirrvoinemw e nt
+
+
+===== PAGE 8 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+The geopolitical landscape in 2026 is marked by significant developments, The banking sector must adapt to the changing economic landscape by
+notably the US-Iran conflict, which has profound implications for regional strengthening risk management frameworks and enhancing liquidity buffers.
+stability and economic dynamics. This conflict has escalated tensions in the Maintaining capital adequacy and ensuring robust credit risk management are
+Middle East, affecting global oil supply chains and leading to volatility in vital for resilience. Proactive policy measures, including fiscal consolidation,
+energy prices. Prior to the conflict, oil prices were stable at around USD 70 energy sector reforms, and investment in renewable energy, are essential to
+per barrel. However, the closure of the Strait of Hormuz driven prices up to reduce dependency on imported oil. Leveraging technology to enhance financial
+USD 100 per barrel, significantly impacting energy costs and inflationary inclusion and drive economic growth is also crucial.
+pressures globally .
+The International Monetary Fund (IMF) has revised its estimates for
+In recent development Pakistan’s leadership, has stepped up
+Pakistan, projecting an inflation rate of 8% in 2026, up from previous
+diplomatic engagement with Iran and key Gulf states amid
+projections of 6%, due to increased energy costs. GDP growth forecasts
+fast-moving regional de-escalation efforts. The Strait of Hormuz has
+have been adjusted downward to 3.2%, reflecting the impact of geopolitical
+been declared fully open by Iranian authorities, easing concerns
+tensions and disrupted trade routes. The IMF emphasizes the need for
+over energy supply disruptions, while in parallel developments a
+countries to bolster fiscal and monetary policies to mitigate adverse effects,
+temporary Lebanon ceasefire reportedly brokered through
+highlighting the importance of maintaining macroeconomic stability and
+diplomatic efforts involving Donald Trump has added to improving
+enhancing resilience through diversified energy sources and strategic
+regional sentiment. Markets have reacted positively, with global
+partnerships.
+equities firm and oil prices softening to around USD 87 per barrel.
+Despite these challenges, opportunities have emerged for Pakistan. The
+country's enhanced role in regional diplomacy has opened doors for
+increased cooperation with Gulf countries and Iran on economic and security
+fronts. This diplomatic engagement positions Pakistan as a key player in
+fostering regional stability and economic collaboration. The closure of the
+Strait of Hormuz has also enhanced the strategic importance of Pakistani
+ports as alternative options for global trade routes, offering new avenues for
+economic growth and international partnerships.
+For the banking industry, these developments present unique opportunities.
+As Pakistan's geopolitical position improves, banks can capitalize on
+increased foreign investment and trade flows. The strategic importance of
+Pakistani ports can lead to expanded financing opportunities for
+infrastructure projects and trade facilitation. Additionally, banks can play a
+pivotal role in supporting renewable energy initiatives and ESG projects,
+aligning with global sustainability trends.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 08 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 9 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Pakistan is witnessing improved macroeconomic stability, driven by fiscal consolidation, moderated inflation, and strengthened external buffers. This stability is
+underpinned by sustained engagement with multilateral partners. However, global economic conditions remain subdued, influenced by trade tensions, supply-side
+disruptions, and tightening financial conditions. The International Monetary Fund (IMF) projects a GDP growth of 3.6% for FY2026, marking a recovery from FY2025, yet
+still below the economy's long-term potential.
+The World Bank and Asian Development Bank (ADB) offer similar forecasts, highlighting climate-related disruptions, structural rigidities, and vulnerabilities to external
+shocks as key constraints. Domestically, inflation has eased significantly, supported by tight monetary policy and softening global commodity prices except for oil price
+hike due to middle east war which we believe is temporary. The external account has stabilized, bolstered by strong remittance inflows, modest export recovery, and
+disciplined import management. Fiscal indicators have improved, with the government posting primary surpluses under its commitments with the IMF.
+The banking sector remains resilient. The State Bank of Pakistan's (SBP) Mid-Year Performance Review indicates strong capital buffers, robust deposit growth, stable
+profitability, and improving asset quality metrics. Yet, challenges persist: climate shocks, low productivity in agriculture and industry, limited export diversification, tight
+external financing conditions, and the need for structural reforms—particularly in taxation, state-owned enterprise (SOE) governance, and energy pricing.
+Global Economic Environment
+Global growth continues to decelerate. The IMF projects world GDP growth at echoes a similar trajectory, projecting 3% growth in FY2026, with medium-term
+3% in 2025 and 3.3% in 2026, below historical averages, reflecting persistent improvements dependent on successful flood recovery efforts, export
+uncertainty from tariff escalations, geopolitical tensions, and financial market competitiveness, and continued fiscal discipline. The National Accounts
+volatility. The October 2025 World Economic Outlook notes that global inflation Committee (NAC) reported a growth of 3.89% during the second-quarter
+is expected to ease from 4.1% in 2025 to 3.8 in 2026 and a further reduction to FY2025-2026 citing growth leadership by industry with 7.4% growth. ADB
+3.4% in 2027, though divergence persists between advanced and emerging estimates growth at 3% for FY2026, citing climate-driven risks to agriculture and
+economies. World trade volume is forecast to grow around 2.6% in 2026 and constrained external financing as key challenges.
+increase to 3.1% in 2027, reflecting modest recovery but still far below pre-2020
+averages due to fragmentation and subdued global demand.
+Inflation and Monetary Policy
+Pakistan’s Macroeconomic Performance Inflation has moderated significantly, supported by tight monetary policy, easing
+commodity prices, and improved supply conditions. The Finance Division
+Growth Outlook reports inflation at 2.4% in January, down sharply from 24% a year earlier,
+reflecting the impact of stabilization measures. The SBP’s forward guidance
+The IMF projects Pakistan’s GDP to grow 3.6% in FY2026, up from 2.7% in suggests space for gradual monetary easing, although risks from energy
+FY2025, supported by improving confidence, steadier macroeconomic policies, adjustments and global oil price volatility remain. The projected inflation for
+and ongoing reforms under the Extended Fund Facility (EFF). The World Bank FY2026 is 5.8% in light of global geopolitical developments.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 09 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 10 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Fiscal Performance Sectoral Developments
+Fiscal consolidation remains a key policy pillar. Sustained revenue growth, Agriculture
+controlled expenditures, and reductions in subsidies have helped achieve
+primary surpluses, supported by IMF programme commitments. The Finance The agriculture sector continues to recover
+Division notes improved macroeconomic stability and strengthened fiscal buffers from severe flooding in 2025. The World Bank
+during FY2026. However, recurrent climate shocks have increased spending reports significant losses—with major crops,
+irrigation systems, and rural infrastructure
+pressures in agriculture and infrastructure, and the tax-to-GDP ratio remains
+heavily affected—suppressing short-term
+structurally low.
+growth potential. Early indicators for FY2026
+show improved input demand, increased
+External Sector fertilizer offtake, and higher agricultural credit
+disbursement (up 11.4% year-on-year).
+Pakistan’s external account remains stable. Rising remittances—up 31.7% However, looming concerns on fertilizer
+year-on-year during July–January FY2025—have supported reserves and production due to constraints posed by closure
+reduced pressure on the currency. Exports have improved marginally but of Strait of Hormuz could bring devastating
+remain vulnerable to energy shortages, high input costs, and lack of effects for the agricultural produce.
+diversification. The current account is supported by import management
+measures, and resilient service exports.
+Financial Markets
+Structural Reforms Pakistan’s equity market experienced strong
+performance throughout 2025, driven by
+Both the IMF and World Bank emphasize the urgency of accelerating structural macro stabilization and renewed foreign
+reforms, especially in tax policy and administration, SOE governance and interest. The KSE-100 recovered significantly,
+privatization, energy sector reforms, exchange rate management, and climate closing 2025 at 174,054 points—an 51%
+resilience investments. Delays in reforms could undermine recovery and limit annual increase. Fixed-income markets
+medium-term growth prospects. remained sensitive to global rate cycles and
+domestic interest-rate expectations, though
+improved fiscal indicators have supported
+Industry (LSM) sovereign yield compression.
+Large-Scale Manufacturing (LSM) has Services
+regained momentum, supported by textiles,
+apparel, petroleum refining, automotive, and The services sector has benefited from
+food processing. LSM grew 6% during improved consumer confidence, digitalization
+Jul–Nov FY2026, reaching its highest QIM trends, and stabilized financial markets. With
+index since 2016. However, the sector PSX among the top-performing global indices
+remains exposed to energy costs, import in 2024–25, market sentiment remains
+dependence, and global demand fluctuations. constructive.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 10 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 11 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Forward-Looking Outlook for 2026
+Pakistan’s economic trajectory hinges critically on sustained macroeconomic
+discipline, effective implementation of structural reforms, strengthening social
+Conclusion
+protection, diversification of exports, climate resilience investments, growth in
+digital finance and SME credit, and continued momentum toward Islamic
+Pakistan’s stabilization efforts are delivering results: inflation
+banking transformation.
+moderation, fiscal consolidation, strengthened external buffers, and a
+resilient banking sector. However, sustaining these gains requires
+If reforms remain on track and external conditions stabilize, Pakistan may
+unwavering commitment to reforms, broad-based productivity
+sustain 3.5–4% annual growth in the medium term, with the banking sector
+improvements, and enhanced climate preparedness.
+continuing its role as a key stabilizing forcegoing way ahead of leading to
+government.
+The banking industry—standing at the intersection of policy, capital,
+and innovation—will continue to be central to Pakistan’s growth model.
+Pakistan’s economic trajectory hinges critically on:
+Strategic investments in technology, customer-centric models, risk
+governance, and sustainable finance will define the sector’s role in
+shaping Pakistan’s economic future.
+Sustained macroeconomic Effective implementation Strengthened
+discipline of structural reforms social protection
+Diversification Climate resilience Growth in digital
+of exports investments finance and SME credit
+Continued momentum toward
+Islamic banking transformation
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 11 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 12 =====
+1 2
+F i na n c i a l Pe r fo r ma n ce
+H i g h l i g hts
+
+
+===== PAGE 13 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Financial Performance Highlights
+The year 2025 marked a period of disinflation, rate normalization, and Asset Growth: Pakistan’s banking sector recorded strong balance sheet
+balance-sheet expansion for Pakistan's banking sector. Exiting the 2024 expansion during CY25, with total assets growing by 19.4 percent to PKR 61.5
+peak-rate era, the sector entered 2025 with lower average policy rates, a trillion. As a result, banking sector assets increased to 54.1 percent of GDP in
+decline in asset yields, and a renewed focus on repriced deposits and FY25, compared with 49.0 percent in the preceding year. This expansion was
+investments. Profitability varied across franchises, with those demonstrating largely investment led, with banks continuing to channel surplus liquidity into
+strong current-account momentum, non-funded income growth, and tight government securities. Notwithstanding improvements in macroeconomic
+expense control maintaining better margins. Asset Quality improved in the form conditions and a decline in borrowing costs, banks remained cautious in
+of falling NPLs. Banks accelerated digitization and Islamic conversion programs, expanding private sector lending, reflecting a gradual shift away from the
+with cyber resilience becoming a central theme. The year 2025 was traditional intermediation model toward more conservative balance sheet and
+characterized by banks that effectively managed funding costs, strengthened risk management practices.
+current account franchises, and leveraged fee-based income engines to
+navigate the transition most successfully. As we look towards 2026, strategic Asset Quality: The sector's asset quality continued to improve in 2025. The ratio
+guidance points to a "pricing-down, productivity-up" playbook, emphasizing of Non-Performing Loans (NPLs) to total loans decreased to 5.7% at
+more CASA, increased fee pools, AI-led efficiency, and Shariah scale-up. end-December 2025, from 6.0% at end-December 2024.
+By December 2025, industry assets surpassed approximately Rs. 61.5 trillion, Financial Soundness Indicators relating to liquidity improved further during
+reflecting a 19% year-on-year growth. Asset growth was investment-led, 2025. The Liquidity Coverage Ratio remained strong at 235.8 percent as of end
+increasing by 33% year-on-year, while net advances declined by 5% as December 2025, well above the minimum regulatory requirement of 100
+short-tenor exposures matured and underwriting remained conservative. With percent, while the Net Stable Funding Ratio also remained at a comfortable
+the average policy rate significantly lower than in 2024, banks reported net level of 182.6 percent. This resilience is further reinforced by capital buffers,
+interest income compression, offset where possible by low-cost deposit growth with the Capital Adequacy Ratio remaining stable and significantly above the
+and a richer non-funded income mix, including fees, payments, bancassurance, regulatory minimum of 11.5 percent.
+and opportunistic gains.
+Prioritizing innovative banking through digital service channels and back-office
+Profitability was driven by factors such as stable earning assets and significant process automation is becoming essential. Additionally,banks are also tackling
+reversal in provisions against NPLs, the impact of higher taxation on the challenges such as converting toIslamic banking and managing workforce
+industry, and improved operational self-sufficiency. expectations.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 13 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 14 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Financial Performance Highlights
+Total Assets Gross Advances Investments
+19.4% -4.5% 32.6%
+Pakistan’s banking sector continued to demonstrate resilience amid evolving
+macroeconomic conditions. During the preceding year, banks operated in a
+challenging environment characterized by double-digit inflation and elevated
+Up from PKR 51.5 trillion LY Down from PKR 16.6 trillion Up from PKR 28.6 trillion LY
+policy interest rates.
+to PKR 61.5 trillion CY LY to PKR 15.9 trillion CY to PKR 37.9 trillion CY
+A significant share of the banking sector’s investments remained concentrated
+in government securities during 2025, primarily reflecting elevated sovereign
+Net Profit Deposits Gross ADR
+borrowing requirements for fiscal deficit financing. Approximately 95 percent of
+banks’ total investment portfolios consisted of government securities,
+8.3% 25.2% 40.3%
+underscoring the sector’s continued preference for low risk and highly liquid
+assets. This investment-led balance sheet structure highlights banks’ cautious
+asset allocation strategy and sustained focus on balance sheet strength and
+Up from PKR 632 billion LY Up from PKR 31.4 trillion LY Down from 52.9% LY
+earnings stability amid a gradually improving macroeconomic environment.
+to PKR 685 billion CY to PKR 39.4 trillion CY
+The 2025 global banking landscape illustrates a pronounced divergence in
+lending dynamics, risk appetite, and asset quality across major regions. Data
+Net Interest Return Return
+from the ECB Supervisory Banking Statistics (Q4 2025) indicates that European
+banks continue to operate at near-full lending capacity, reflected in an ADR of Margin on Assets on Equity
+100.49%, alongside a contained non-performing loan (NPL) ratio of 2.18%.
+4.2% 1.20 % 19.6%
+Similarly, KPMG’s China Mainland Banking Survey 2025 reports that Chinese
+banks maintain a high ADR of 96.8% with an even lower NPL ratio of 1.5%,
+underscoring robust credit risk management frameworks and deep integration
+with domestic economic activity. Down from 4.5% LY Down from 1.32% LY Down from 21.8% LY
+In contrast, Pakistan’s banking sector remains comparatively conservative. With
+an ADR of around 40%, domestic banks exhibit limited credit intermediation to
+the private sector, while the industry-wide NPL ratio stands elevated at 5.7%. Non-Performing Infection Capital
+These trends suggest that, relative to global peers, Pakistani banks continue to
+Loans Ratio Adequacy Ratio
+navigate structural challenges—most notably a weaker legal recovery
+environment, sustained demand for government borrowing, and constrained -9.2% 5.7% 18.7%
+private-sector credit absorption.
+Down from PKR 996 billion Down from 6.0% LY Up from 18.4% LY
+LY to PKR 905 billion CY
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 14 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 15 =====
+Industry Positions as at 31 December 2025
+70
+39.36
+60
+50
+40
+30
+14.87
+20 (37.90)
+10 3.54
+3.75 (14.80)
+-
+(8.82)
+(10)
+Equity Other Liab. Borrowing Deposits Investments Advances Other Assets
+Banking Profits in 2025
+snoillirT
+ni
+tnuomA
+7.0
+5.88
+6.0
+5.0
+4.0
+3.0 0.60
+2.24
+2.0 (3.64)
+(1.35)
+1.0 0.68
+(0.81)
+-
+Int. Earned Int. Expense NIM Fee Income Ops. Cost Tax Net Profit
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 15 | Pakistan Banking Perspective 2026
+snoillirT
+ni
+tnuomA
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+
+
+===== PAGE 16 =====
+Top Performing Banks
+Top 10 Banks by Total Assets
+14,000
+12,000
+10,000
+8,000
+6,000
+4,000
+2,000
+0
+UBL HBL NBP Meezan BAF MCB ABL BAH BOP Askari
+Top 10 Banks by Gross Advances Top 10 Banks by Total Deposits
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 16 | Pakistan Banking Perspective 2026
+snoilliB
+ni
+tnuomA
+snoilliB
+ni
+tnuomA
+snoilliB
+ni
+tnuomA
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+2,500
+6,000
+2,000 5,000
+4,000
+1,500
+3,000
+1,000
+2,000
+500
+1,000
+0
+HBL Meezan NBP UBL BAF BOP Faysal MCB BAH ABL 0
+HBL UBL NBP Meezan BAH MCB BAF ABL BOP Askari
+
+
+===== PAGE 17 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Top Performing Banks
+Top 10 Banks with highest growth in total assets
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+UBL HBL BOP Meezan ABL MCB Askari Soneri Albaraka Faysal
+Top 10 Banks with highest growth in gross advances Top 10 Banks with highest growth in deposits
+40% 120%
+35%
+100%
+30%
+80%
+25%
+20% 60%
+15%
+40%
+10%
+5% 20%
+0% 0%
+F a y s al Al b ar a k a S C B DI B B O P H M B M e e z a n S A M B A M C BI B J S UBL Faysal BOK MCBIB Meezan HBL Soneri HMB BOP Askari
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 17 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 18 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Asset Quality
+24.1%
+Average:
+Advances to Total Assets
+(2024: 30.1%)
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+ABL Albaraka Askari BAF BAH BOK BOP DIB Faysal HBL HMB Islami JS MCB MCBIB Meezan NBP SAMBA SCB Soneri UBL BAML
+2025 2024 2025 (Average) 2024 (Average)
+Earning Assets to Total Assets
+87.4%
+Average:
+(2024: 87.4%)
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+ABL Albaraka Askari BAF BAH BOK BOP DIB Faysal HBL HMB Islami JS MCB MCBIB Meezan NBP SAMBA SCB Soneri UBL BAML
+2025 2024 2025 (Average) 2024 (Average)
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 18 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 19 =====
+Profitability
+31,135
+Average:
+(2024:28,541)
+Profit After Tax Amount in Million
+140,000
+120,000
+100,000
+80,000
+60,000
+40,000
+20,000
+-00
+(20,000) ABL Albaraka Askari BAF BAH BOK BOP DIB Faysal HBL HMB Islami JS MCB MCBIB Meezan NBP SAMBA SCB Soneri UBL BAML
+2025 2024 Average (2025) Average (2024)
+Liquid Assets to Total Assets
+66.8%
+Average:
+(2024: 61.1%)
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+ABL Albaraka Askari BAF BAH BOK BOP DIB Faysal HBL HMB Islami JS MCB MCBIB Meezan NBP SAMBA SCB Soneri UBL BAML
+2025 2024 2025 (Average) 2024 (Average)
+snoilliM
+ni
+tnuomA
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 19 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 20 =====
+Liquidity
+Liquid Assets to Total Deposits 104.5 % Advances to Deposits Ratio 40.3%
+Average: Average:
+(2024: 100.1%) (2024: 52.9%)
+250%
+200% 100%
+150% 80%
+60%
+100%
+40%
+50%
+20%
+0% 0%
+L
+M
+A
+B
+2025 2024 2025 (Average) 2024 (Average) 2025 2024 2025 (Average) 2024 (Average)
+Net Interest Margin
+4.2%
+Average:
+(2024: 4.6%)
+12%
+10%
+8.%
+6%
+4%
+2%
+0%
+L
+M
+-2% B A
+-4%
+2025 2024 2025 (Average) 2024 (Average)
+LBA akarablA iraksA FAB HAB KOB POB BID lasyaF LBH BMH imalsI SJ BCM BIBCM nazeeM PBN ABMAS BCS irenoS LBU LMAB
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 20 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 21 =====
+Profitability
+Return on Average Asset* 1.20%
+Average:
+(2024: 1.32%)
+5%
+4%
+3%
+2%
+1%
+0%
+ABL Albaraka Askari BAF BAH BOK BOP DIB Faysal HBL HMB Islami JS MCB MCBIB Meezan NBP SAMBA SCB Soneri UBL
+2025 2024 Average (2025) Average (2024)
+*BAML has been excluded as it is an outlier
+Return on Average Equity* 19.6% Infection Ratio 5.7%
+Average: Average:
+(2024: 21.8%) (2024: 6.0%)
+50%
+80%
+40% 70%
+60%
+30%
+50%
+20%
+40%
+10% 30%
+20%
+0%
+10%
+0%
+2025 2024 Average (2025) Average (2024)
+*BAML has been excluded as it is an outlier
+LBA akarablA iraksA FAB HAB KOB POB BID lasyaF LBH BMH imalsI SJ BCM BIBCM nazeeM PBN ABMAS BCS irenoS LBU LMAB
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+2025 2024 2025 (Average) 2024 (Average)
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 21 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 22 =====
+Efficiency
+Average:
+Capital Adequacy Ratio Spread Analysis
+18.70%
+(2024: 18.35%)
+40%
+30%
+20%
+10%
+0%
+-10%
+-20%
+-30%
+-40%
+46.61%
+Average:
+(2024: 45.22%)
+LBA akarablA iraksA FAB HAB KOB POB BID lasyaF LBH BMH imalsI SJ BCM BIBCM nazeeM PBN ABMAS BCS irenoS LBU LMAB
+5.2%
+Average:
+(2024:4.5%)
+2025 - CAR 2024 - CAR Minimum Requirement
+Cost to income ratio* Growth of Deposits vis-à-vis Branches
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+LBA akarablA iraksA FAB HAB KOB POB BID lasyaF LBH BMH imalsI SJ BCM BIBCM nazeeM PBN ABMAS BCS irenoS LBU
+8%
+7.10%
+7%
+6% 5.16%
+4.74%
+4.54%
+5%
+3.89%
+4%
+3%
+2%
+1%
+0%
+2021 2022 2023 2024 2025
+40 18 20
+17
+18
+35 16
+15
+15 16
+30
+14
+25
+12
+20 39 10
+15 29 31 8
+24 6
+22
+10
+4
+5
+2
+-00 -00
+2025 2024 Average (2025) Average (2024) 2021 2022 2023 2024 2025
+*BAML has been excluded as it was an outlier
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 22 | Pakistan Banking Perspective 2026
+nT
+ni
+stisopeD
+s000
+ni
+sehcnarB
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Deposits in Tn Branches
+
+
+===== PAGE 23 =====
+Valuation
+Operating Self Sufficiency 129.62% Earning Per Share
+Average:
+(2024: 120.25%)
+250%
+200%
+150%
+100%
+50%
+0%
+LBA akarablA iraksA FAB HAB KOB POB BID lasyaF LBH BMH imalsI SJ BCM BIBCM nazeeM PBN ABMAS BCS irenoS LBU
+18.80
+Average:
+(2024:18.20)
+70
+2025 2024 2025(Average) 2024(Average)
+60
+50
+40
+30
+20
+10
+2025 2024 2025(Average) 2024(Average)
+-00
+*BAML has been excluded as it was an outlier
+(10.00)
+Market Price Per Share
+149.23
+Average:
+(2024: 85.28)
+500
+2025 2024 2025(Average) 2024(Average)
+450
+400
+350
+300
+250
+200
+150
+100
+50
+0
+ABL Askari BAF BAH BOK BOP Faysal HBL HMB Islami JS MCB Meezan NBP SAMBA SCB Soneri UBL BAML
+LBA akarablA iraksA FAB HAB KOB POB BID lasyaF LBH BMH imalsI SJ BCM BIBCM nazeeM PBN ABMAS BCS irenoS LBU LMAB
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 23 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 24 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Composition of total assets
+2025 6% 2% 62% 24% 7%
+2024 6% 2% 55% 30% 7%
+2023 7%3% 56% 27% 7%
+2022 6%3% 51% 34% 7%
+2021 9% 4% 48% 34% 6%
+0% 20% 40% 60% 80% 100%
+Cash Assets Lendings Investments Advances Other assets
+Composition of total liabilities
+2025 1% 26% 68% 5%
+2024 1% 28% 65% 6%
+2023 1% 24% 70% 6%
+2022 1% 22% 71% 6%
+2021 1% 16% 78% 5%
+0% 20% 40% 60% 80% 100%
+Bills payable Borrowings Deposits and Other liabilities
+other accounts
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 24 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 25 =====
+2 5
+T h e Fu t u re
+of B a n k i n g
+0 5
+Eco n o m i c
+O ve r v i ew
+
+
+===== PAGE 26 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+The Future of Banking
+From Connectivity to Capability: The Pillars of a Digital Ecosystem
+The future of banking is no longer defined by institutions alone, but by the Pakistan’s financial sector is undergoing a structural shift toward a digital economy .
+ecosystems in which they operate. As financial services continue to evolve, a At the heart of any digital economy is the digital ecosystem which is defined by its
+range of forces are collectively reshaping the industry. Among these, a few core dimensions such as infrastructure, platforms, regulation, and data and is
+critical themes stand out as key enablers of this transformation, forming the supported by a diverse set of stakeholders. These include governments, financial
+foundation of how banks will operate, compete, and grow in the years ahead. institutions, fintechs, technology providers, businesses, and consumers, each
+performing a distinct role in enabling functionality and trust.
+Digital Economy AI in Banking
+Digital
+Infrastructure
+The foundational
+Emerging Technologies Citizens, MSMEs, Digital ID &
+technology that
+Startups supports the digital Trust
+ecosystem.
+The users and Ensures secure
+While the future of banking will be influenced by multiple dimensions, this innovators and reliable digital
+driving the identities and
+article focuses on these three interconnected pillars that are fundamentally
+digital economy. transactions.
+redefining value creation in financial services. Together, they provide a lens
+through which the trajectory of modern banking can be better understood —
+from infrastructure and intelligence to innovation.
+Digital
+Cybersecurity Payments
+Protects digital Facilitates
+Ecosystem
+Digital Economy systems and seamless
+data from and secure
+threats. digital
+transactions.
+According to a report by the Overseas Investors Chamber of Commerce and
+Industry (OICCI) the digital economy could contribute 5-7 per cent to GDP by
+2030 if structural bottlenecks are addressed and reforms accelerated, This
+section explains the key pillars of a successful digital economy a robust digital
+Data & Analytics E-Gov & Public
+ecosystem and a comprehensive financial inclusion framework which together
+Services
+form the foundation for accessible, efficient, and innovative financial services. It Uses data to
+then examines the initiatives and strategies Pakistan has implemented to build improve Commerce & Provides efficient
+services and and accessible
+these pillars, including real-time payment systems, digital banking frameworks, decision- Logistics government
+fintech innovation, and mobile-based financial services. By comparing what an making. Streamlines digital services online.
+ideal digital economy requires with the country’s current progress, the article trade and delivery
+processes.
+provides a clear and practical view of Pakistan’s journey toward a fully modern,
+inclusive, and technology-driven financial system.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 26 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 27 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Key Value Chains
+01
+Digital Infrastructure
+Broadband, mobile (4G/5G), fiber, datacenters, cloud,
+edge, reliable power.
+02
+Digital Identity & Trust
+eID, eKYC, PKI, digital signatures, consent frameworks.
+03
+Payments & Financial Services
+Real-time rails, banks, PSPs, cards, open banking
+APIs, wallets, settlement.
+04
+E-Government & Public Services
+Digital health, Digitization of taxation, social transfers,
+licensing, education platforms.
+05
+Commerce & Logistics
+Marketplaces, merchant acceptance, POS, invoicing,
+last-mile logistics.
+06
+Data, Analytics & Interoperability
+Secure data exchange, APIs, credit scoring, policy
+analytics.
+07
+Cybersecurity & Privacy
+CERT, incident response, encryption, privacy regime
+enforcement.
+08
+Skills, Inclusion & Literacy
+Citizen training, MSME digitization, local language UX.
+09
+Innovation & Startup Ecosystem
+Incubators, sandboxes, VC, R&D.
+10
+Hardware & Supply Chain
+Devices, POS terminals, local manufacturing, secure
+firmware.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 27 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 28 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Inclusion at Scale: Designing a Financial System for All
+The second most important initiative towards building a Digital Economy is financial inclusion. Advancing a digital eco system demands a financial inclusion framework shaped
+by global practice ad focused on barriers from access to trust.
+Key Pillars of a Financial Inclusion Framework
+Enabling Policy & Foundational Digital Promoting Digital Payments Financial Literacy &
+Regulatory Environment Infrastructure & Services Consumer Protection
+National Strategy: A clear roadmap Digital Identity: Universal, Digitizing Government Flows: Financial Literacy Campaigns:
+with measurable goals and timelines verifiable IDs (e-KYC) that make Mandatory digital channels for G2P Nationwide education on using
+for digital payments and financial account opening easy and secure. (social safety nets, pensions) and digital payments securely and
+inclusion. P2G (taxes, utilities). avoiding fraud.
+Connectivity: Widespread internet
+Risk-Based Regulation: Rules and mobile network access, Merchant & MSME Acceptance: Consumer Grievance
+that allow banks, FinTechs, and especially in rural/remote regions. Incentives (POS devices, QR codes, Mechanisms: Accessible,
+PSO/PSPs to innovate while fee waivers) for small businesses to fast-response systems to resolve
+maintaining safety. Shared Payment Infrastructure: accept digital payments. complaints and fraudulent
+Low-cost, national-level payment transactions.
+Interoperability: Seamless systems open to all providers. Innovative Financial Products:
+transactions across banks, wallets, Mobile wallets, micro-credit, Transparency:
+and service providers. Agent Networks: Branchless micro-savings, and insurance Clear disclosure of fees, terms,
+banking agents who serve as tailored to low-income and and conditions to build consumer
+Data Protection & Cybersecurity: last-mile access points for underserved groups. confidence.
+Strong frameworks to safeguard deposits, withdrawals, and
+data/privacy and mitigate fraud. customer support.
+Pakistan Pillars
+Pakistan Financial Inclusion Strategy Pillars
+Digital Tailored Digital Identity Public-Private Affordable
+Infrastructure Financial & KYC Partnerships Digital
+& Connectivity Products Payment Rails
+Interoperability Agent Regulatory & Financial & Gender
+& Open APIs Networks & Consumer Protection Digital Literacy Inclusion
+Merchant Acc Frameworks
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 28 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 29 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Pakistan’s Digital Journey: From Policy to Progress
+Pakistan’s transition toward a digital economy has been supported by a series of regulatory and infrastructure initiatives led primarily by the State Bank of Pakistan and the
+Government of Pakistan.
+2015-2018
+2008 2018-2023
+PRISM NFIS I FBR e-Payment NFIS II RAAST
+SBP’s real-time system for Pakistan’s first coordinated Enabled digital payment of Advanced digital financial inclusion Pakistan’s instant retail payment
+high-value interbank funds push to expand formal financial federal taxes and duties via by prioritizing digital payments, system enabling P2P, P2M, and P2G
+and government securities, access through digital banks and online channels, women’s access, MSME finance, transactions, processing PKR 44.3
+processing PKR 1,240 trillion payments, branchless banking, advancing P2G digitization and consumer protection to trillion across 1.9 billion transactions,
+across 5.8 million SME finance, and G2P, laying and reducing cash-based accelerate cashless adoption and with government support to scale QR
+transactions in FY25. the groundwork for Raast. processes. formalize the economy. merchant adoption.
+2023 to date
+Gas & Electricity Bills QR Codes NHA M-Tag Mandate RAAST P2M QR NFIS III Restaurant Digital
+Gas & Electricity Bills QR Codes NHA M-Tag Mandate Subsidy Scheme Pakistan’s current financial Payment GST Reduction
+inclusion phase focused on
+SNGPL, SSGC, and 10 electricity RFID-based toll digitization with Government approved PKR 3.5 bn to scaling digital payments, cashless Reduced GST on card and wallet
+distribution companies now accept penalties for non-compliance, linked support SBP in scaling nationwide government transactions, fintech restaurant payments to 5% to curb
+Raast QR payments on bills, with to wallets/banks, adoption rising from adoption of Raast QR payments at innovation, and access for women cash use, improve tax documentation,
+49,300 consumers contributing PKR 55% to 65%, full rollout by 2026. merchant and retail outlets. and underserved segments. and formalize businesses.
+179.8 million so far.
+.
+CDA Digitization Zero ROW charges for NADRA QR SBP’s Go Cashless G2P & P2G
+Automating land records, enabling Telecom Infrastructure Adoption Campaign Digitization
+cashless civic payments, and Pakistan eliminates Right of Deployed across 949 SBP and industry promote QR Programs like BISP are shifting
+integrating services online to Way fees on federal land to centers and the PAK ID app adoption in retail and seasonal to bank and mobile wallet
+reduce manual processes and accelerate internet and fiber (10.7M users), boosting markets through subsidized disbursements, targeting full
+increase transparency. optic network rollout. cashless transactions from rollouts, merchant onboarding, federal and provincial
+66% to 76% by Oct 2025. and public awareness initiatives. digitization by June 2026.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 29 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 30 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Strategic Steps Taken Toward a Digital Economy
+KKeeeeppiinngg iinn vviieeww tthhee mmuullttiippllee iinniittiiaattiivveess uunnddeerrttaakkeenn iinn rreecceenntt yyeeaarrss,, tthheerree hhaass bbeeeenn aa ggrroowwiinngg ffooccuuss oonn ddeevveellooppiinngg tthhee ffoouunnddaattiioonnaall iinnffrraassttrruuccttuurree rreeqquuiirreedd ffoorr aa
+mmooddeerrnn ddiiggiittaall eeccoossyysstteemm.. PPoolliiccyymmaakkeerrss aanndd rreegguullaattoorrss hhaavvee iinnccrreeaassiinnggllyy pprriioorriittiizzeedd iinniittiiaattiivveess tthhaatt nnoott oonnllyy ssuuppppoorrtt iinnnnoovvaattiioonn bbuutt aallssoo eennhhaannccee tthhee aacccceessssiibbiilliittyy aanndd
+rreessiilliieennccee ooff PPaakkiissttaann’’ss ffiinnaanncciiaall ssyysstteemm.. TThheessee eeffffoorrttss aarree aaiimmeedd aatt ssttrreennggtthheenniinngg tthhee kkeeyy bbuuiillddiinngg bblloocckkss ooff PPaakkiissttaann’’ss ddiiggiittaall eeccoonnoommyy.. TThhiiss iinncclluuddeess tthhee
+ddeevveellooppmmeenntt ooff rreeaall--ttiimmee ppaayymmeenntt iinnffrraassttrruuccttuurree,, tthhee iinnttrroodduuccttiioonn ooff ddiiggiittaall bbaannkkiinngg ffrraammeewwoorrkkss,, mmeeaassuurreess ttoo eennccoouurraaggee ffiinntteecchh iinnnnoovvaattiioonn aanndd ccoollllaabboorraattiioonn,, aanndd tthhee
+ccoonnttiinnuueedd eexxppaannssiioonn ooff mmoobbiillee--bbaasseedd ffiinnaanncciiaall sseerrvviicceess,, aammoonngg ootthheerrss..
+RRaaaasstt:: BBuuiillddiinngg PPaakkiissttaann’’ss RReeaall--TTiimmee PPaayymmeennttss BBaacckkbboonnee RAAST is Pakistan’s first instant digital payment infrastructure, launched by the
+State Bank of Pakistan (SBP) in 2021. It was rolled out in 3 phases:
+LLaauunncchheedd iinn 22002211,, RRAAAASSTT iiss tthhee ccoouunnttrryy’’ss ffiirrsstt iinnssttaanntt ppaayymmeenntt ssyysstteemm,, ssuuppppoorrttiinngg
+tthhrreeee pprriimmaarryy uussee ccaasseess:: PPeerrssoonn ttoo GGoovveerrnnmmeenntt ((PP22GG)),, PPeerrssoonn ttoo PPeerrssoonn ((PP22PP)),,
+aanndd PPeerrssoonn ttoo MMeerrcchhaanntt ((PP22MM)).. CCuurrrreennttllyy,, RRAAAASSTT ooppeerraatteess aass aa ppaayymmeenntt ggaatteewwaayy,, Phases Volume of Transactions Value of Transactions (PKR)
+(Q1 FY 2026) (Q1 FY 2026)
+wwiitthh aann iinnddiivviidduuaall’’ss pphhoonnee nnuummbbeerr sseerrvviinngg aass tthhee RRAAAASSTT IIDD tthhaatt ffaacciilliittaatteess ffuunndd
+ttrraannssffeerr ttoo tthhee iinnddiivviidduuaall’’ss ffiinnaanncciiaall aaccccoouunntt lliinnkkeedd ttoo tthhee RRAAAASSTT IIDD.. Bulk Government 4.9 million 1,452 billion
+Payments
+Core Features Driving RAAST Adoption
+534.7 million 11,280 billion
+Person-to-Person
+Instant settlements in Raast build trust and convenience by ensuring Payments
+funds are transferred and received immediately, eliminating delays in
+transactions. Person-to-Merchant 4.3 million 17.0 billion
+Payments
+Raast’s interoperability enables seamless transactions across
+banks, wallets, and payment platforms, ensuring universal access and
+usability for all users. 2.8b 120 m PoS terminals processed
+122 million transactions
+Raast enables payments through mobile numbers and QR codes, valued at:
+620b
+simplifying transactions and making digital payments accessible Total Retail Mobile Banking
+even for first-time users. Payment Volume App Users PKR
+Raast eliminates fees on P2P transfers and significantly reduces MDR
+Share of ATM transactions: Over-the-Counter (OTC) transactions
+on P2M transactions, lowering costs for both individuals and 10% accounted for 10% of retail volume but
+merchants. 67%
+Volume & Of transaction value
+Raast ensures secure and reliable transactions through SBP’s 03% (PKR 110.4 trillion)
+Value of total
+oversight, strong authentication, and real-time settlement, building
+retail payments
+trust among users and merchants.
+QR code transactions
+Raast enhances accessibility by extending instant, low-cost digital totaled 28 million with
+92b
+payments to unbanked and rural populations, driving deeper
+penetration of financial services. PKR Value
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 30 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 31 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+From Brick to Click: The Next Frontier of Financial Services in Pakistan Key Regulatory Initiatives and Fintech Progress (2025–2026)
+In our previous publication, we briefly touched upon the five digital banks
+Initiative Latest Update / Data
+licensed by the State Bank of Pakistan, highlighting their potential to accelerate
+financial inclusion, strengthen the digital payments ecosystem, and drive Regulatory
+First cohort of 6 fintech entities shortlisted for pilot testing innovative solutions
+innovation across Pakistan’s banking sector. Sandbox in open banking, digital remittances, and merchant onboarding (Jan 2026)
+Since then, the digital banking landscape has continued to evolve as these Electronic Money
+institutions progress through various stages of regulatory approval, pilot ≈28 licensed EMIs operating in digital wallets, merchant payments,
+Institutions (EMIs)
+and prepaid cards
+operations, and operational readiness. While the sector remains in the early
+phases of implementation, several important developments have taken place
+Mobile & Branchless
+over the past year. The table below provides an update on the current status of Mobile banking app users: 22.6M; Branchless wallets:
+Banking 68.5M; e-money wallets: 5.3M
+each of the five digital banks and their progress toward operational launch.
+Digital Transactions
+Over 1.68 billion transactions worth PKR 27 trillion; 89–90% of
+Bank Name License Effective Date Key Updates (FY2024-25) retail payments now digital
+Newly licensed Shariah-compliant
+February 06, 2026
+Islamic Digital Retail Bank These developments highlight the growing role of fintech innovation and
+mobile-based financial services in Pakistan’s digital economy, enabling greater
+financial inclusion, expanding access points, and accelerating the shift away
+Licensed Digital Retail bank
+September 15, 2025 commencing operations from cash-based transactions.
+The Road Ahead for Pakistan’s Digital Economy
+Completed first year of operations;
+January 23, 2025
+reported profit of 17.04 Billion
+Looking ahead, achieving a digital economy will require a coordinated approach:
+expanding digital banking and mobile-based services, implementing a
+Driving Innovation at the Edge of Banking comprehensive financial inclusion framework, addressing key digital ecosystem
+impediments, encouraging fintech innovation through regulatory support and
+Alongside the growth of digital payments and digital banking frameworks, sandboxes, and strengthening real-time payment infrastructure. By successfully
+Pakistan has strengthened its fintech ecosystem through regulatory initiatives. integrating these elements, Pakistan can increase access to financial services
+The State Bank of Pakistan has introduced frameworks for Electronic Money for underserved populations, enhance payment efficiency, and create an
+Institutions (EMIs) and a Regulatory Sandbox to encourage innovation and environment where technology-driven financial solutions thrive laying the
+collaboration between banks, fintech startups, and payment service providers. foundation for a truly inclusive, modern, and digitally empowered economy.
+These initiatives have facilitated the development of digital wallets, payment
+platforms, and other technology-driven financial services.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 31 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 32 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+The Role of AI in Banking
+In this section, we will discuss how Artificial Intelligence (AI) is transforming smarter lending choices, personalize customer experiences, and run operations
+the banking industry from a future possibility into an everyday reality. We will more efficiently. What sets these banks apart is not just the use of technology,
+explore how leading global banks are using AI to improve efficiency, enhance but how deeply it is integrated into their overall strategy. They are investing in
+customer experience, and strengthen risk management, while also strong data systems, building skilled teams, and creating clear plans to scale AI
+understanding where Pakistan currently stands in this journey. The article will across the organization. This allows them to move faster, reduce costs, and
+further highlight the key areas where AI can create the most impact, including respond better to customer needs. At the same time, they are ensuring
+fraud detection, credit decisions, and operational efficiency. In addition, we will responsible use of AI through proper controls and governance. This shift shows
+examine how AI is reshaping the risk management lifecycle and why that AI is no longer a future idea, it is already shaping the present, and banks
+responsible AI practices are becoming increasingly important. Overall, this that do not move in this direction risk being left behind in an increasingly
+article aims to provide a clear and practical view of how banks can use AI competitive market.
+effectively to stay competitive in a rapidly evolving financial landscape.
+The Cost of Standing Still
+AI tool COiN AI fraud detection AI-based AML
+analyzes legal and integrated system with
+One of the biggest risks for banks today is not failure but doing nothing or loan documents with “Erica” Google Cloud
+moving too slowly. Banks that only focus on small or basic AI use cases may
+find it difficult to keep up with competitors who are using AI in a more serious Prevented $1.5B Saves $200M Detects 2 to 4× more
+fraud losses, 98% accuracy, annually, 0% fewer suspicious activity,
+and integrated way across their business. Over time, this delay can lead to
+60% fewer false positives false positives 60% fewer false alerts
+higher costs, slower decision-making, weaker customer experience, and missed
+opportunities for growth. While some banks may feel that waiting is a safe
+option, in reality it increases the gap between them and the leaders in the
+market. As AI continues to improve and become more important in banking,
+those who do not adapt quickly will struggle to stay relevant. In today’s
+environment, standing still is not a safe choice, it is a growing disadvantage that
+becomes harder to recover from with time. AI customer Payment Outlier
+engagement & LIFE Detection
+loan decision algorithm ML platform
+Global Leaders Setting the Pace
+3 to 10× higher Detects abnormal
+engagement, personalized payments globally
+services for 70M customers across 90 countries
+Across the world, leading banks are no longer just experimenting with AI, they
+are using it to completely change how they operate and compete. AI is now part
+of their everyday decision-making, helping them detect fraud instantly, make
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 32 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 33 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Building the Foundations of Responsible AI The Real Value of AI in Banking
+Before banks can fully benefit from AI, they need to build a strong and Fundamentally, AI is resolving some of the long-standing issues in the banking
+responsible foundation. AI is not just about technology, it requires the right sector. It is assisting the banks to lend credit to underserved domains through
+combination of data, systems, people, and controls to ensure it works effectively the analysis of alternative data. It is enhancing fraud detection by finding out
+and can be trusted. Without these foundations, AI initiatives may remain limited patterns which are not available to conventional systems. It is automating the
+in impact or create risks instead of value. To successfully scale AI and use it in a routine processes which take time and the manpower can be diverted to more
+reliable and sustainable way, banks need to focus on five key capabilities: productive processes. And most importantly, AI is redefining customer
+experience. Banking is ceasing to be reactive to the extent that it is taking a
+01 02 predictive form. Banks are now able to anticipate needs and react real time
+Data Infrastructure Technology Platforms
+instead of waiting that customers will act on the matter. While the use cases and
+Ensures AI models are built Supports the development
+value of AI in banking are becoming increasingly clear, their success depends
+on accurate, consistent, and and scaling of AI solutions,
+heavily on the right foundations being in place. Strong data infrastructure,
+well-managed data, reducing enabling secure, real-time
+advanced technology platforms, skilled talent, and effective governance are not
+errors and improving reliability. processing and smooth
+just supporting elements, they are essential to scale AI initiatives and deliver
+integration across systems.
+consistent results. Without these capabilities, even the most promising AI
+03 04 applications may fail to create real impact. By building these foundations, banks
+Talent Governance can ensure that AI-driven solutions across areas like risk, operations, and
+Ensures the right skills are in Provides clear controls and customer experience are not only effective but also sustainable and aligned with
+place to build, manage, and oversight to keep AI fair, long-term business goals.
+apply AI effectively in transparent, and compliant
+high-impact areas. with regulatory expectations.
+Banking Priority AI Application Value Delivered
+05
+Financial Alternative data credit scoring Expands SME & retail lending
+Partnerships
+Inclusion
+Helps accelerate adoption by bringing in external expertise, advanced
+tools, and innovative solutions. Risk & Fraud Real-time transaction monitoring Reduces fraud losses
+Management
+Operational Intelligent automation Lowers operating costs
+Efficiency
+Customer Chatbots & personalization Improves satisfaction
+Experience
+Regulatory Automated monitoring/reporting Reduces compliance burden
+Compliance
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 33 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 34 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+The most influential spheres are some of the following:
+UUnnddeerrssttaannddiinngg tthhee AAII MMaattuurriittyy JJoouurrnneeyy
+Smart Credit Decisions
+The extension of lending based on alternative and non-traditional data,
+helping banks reach underserved segments and make faster, more
+informed credit decisions.
+The transition to an AI-driven bank is not immediate, it evolves through
+distinct stages: Advanced Fraud Detection
+Enhancement of security through real-time monitoring and pattern
+Stage Description Typical Capabilities recognition, enabling early detection and prevention of suspicious
+activities.
+Exploration
+Initial AI experiments Chatbots, basic analytics
+Process Simplification
+Automation of repetitive and manual processes to improve efficiency,
+Adoption
+Use in selected areas Credit scoring, fraud detection reduce errors, and lower operational costs across functions.
+Integration Personalized Banking
+AI across operations Process automation, insights
+Providing tailored financial services and recommendations based on
+customer behavior, preferences, and transaction patterns.
+AI-Driven Bank
+AI-led decision making Real-time intelligence
+Risk Identification & Monitoring
+Using AI to identify emerging risks early and continuously track them,
+Currently, most Pakistani banks sit between Exploration and Early
+allowing banks to take proactive actions and reduce potential losses.
+Adoption, highlighting a significant opportunity for growth.
+Regulatory Compliance
+Pakistan: A Market Ready for Acceleration
+Automating compliance checks and improving the accuracy, speed,
+and consistency of regulatory reporting and monitoring.
+Operational Risk
+Although most of the world banks are already leading in their AI path, when it
+Detecting process inefficiencies, control gaps, and potential failures to
+comes to Pakistan, it is a different case. This is not an opportunity to develop; it
+strengthen internal controls and minimize disruptions.
+is an opportunity to jump forward. In the case of banks in Pakistan, it is not
+necessary to implement AI everywhere, but in those areas where its impact will
+Customer Due Diligence
+be most beneficial.
+Strengthening KYC and AML processes by improving customer
+onboarding, monitoring transactions, and identifying suspicious
+(Ai is being used in basic things such as chat bots, AI customer experience and
+behavior more effectively.
+not being leveraged where it should be)
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 34 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 35 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Challenges and the Need for Responsible AI
+Even though the advantages of the usage of AI in banking are numerous, there
+are also the challenges associated with the adoption of AI in banking.
+Banks must ensure:
+Transparency Explainability Data privacy
+in AI decision of models protection
+making
+Continuous Clear The Road Ahead
+monitoring accountability
+and validation frameworks
+AI will play a central role in shaping the future of banking in Pakistan, but
+Following these principles is not just about meeting regulations, but also about achieving real impact will depend on how effectively banks move beyond
+building trust in AI systems. If AI decisions are not transparent or easy to small-scale experimentation and embed AI into their core strategy and
+understand, customers and regulators may not feel comfortable relying on them. day-to-day operations. This will require a clear long-term vision, strong
+Similarly, poor data privacy or unclear accountability can lead to serious risks, leadership commitment, and consistent investment in key foundations such as
+including loss of reputation and financial penalties. data infrastructure, technology platforms, and skilled talent. Banks will need to
+focus on high-impact use cases where AI can deliver measurable value, while
+At the same time, maintaining all this is not easy. AI models can be complex gradually scaling its adoption across critical areas like risk management,
+and difficult to explain and managing large amounts of data adds further compliance, operations, and customer experience. At the same time, building
+challenges. Continuous monitoring also requires strong systems, skilled people, trust will be essential, which means ensuring transparency in AI decisions,
+and ongoing effort. This makes it important for banks to find the right balance, maintaining strong governance frameworks, and protecting customer data.
+using AI effectively while ensuring it remains safe, reliable, and trustworthy. Collaboration with fintechs and technology partners will also play an important
+role in accelerating innovation and reducing time to market. As competition
+increases and customer expectations continue to evolve, the banks that
+succeed will be those that act early, adapt quickly, and use AI not just as a
+supporting tool but as a core driver of efficiency, innovation, and long-term
+competitive advantage.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 35 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 36 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Emerging Technology
+Expands financial Personalized
+inclusion financial services
+Open Banking
+Drives Control
+Benefits of
+innovation over data
+Open Banking
+Open banking enables third-party financial service providers to securely access Promotes Progress for
+consumer financial data through APIs, driving innovation and transforming how competition small businesses
+financial services are delivered. It enhances customer experience by offering
+personalized solutions such as budgeting tools, tailored loans, and better
+financial products, while also promoting competition and collaboration between
+From Policy to Practice: Implementing Open Banking in Pakistan
+banks, fintechs, and technology firms. This, in turn, improves efficiency,
+supports faster account-to-account payments, and expands financial inclusion
+To adopt this in Pakistan, the State Bank of Pakistan must establish a clear
+by enabling better credit assessment for underserved individuals and small
+regulatory framework covering API standards, licensing, and secure data-sharing
+businesses. Additionally, open banking empowers consumers with greater
+protocols, alongside building standardized APIs and digital identity systems as
+control over their data through consent-based systems. However, alongside
+promoted by Karandaaz Pakistan. Implementation should include collaboration
+these benefits, it also introduces risks related to data privacy and security,
+through regulatory sandboxes and pilot programs, supported by strong
+including potential breaches and misuse of sensitive financial information,
+cybersecurity measures, data protection laws, and consumer awareness to ensure
+highlighting the need for strong regulatory and cybersecurity frameworks.
+trust and safe adoption.
+Open Banking in Pakistan:
+Organizations like Karandaaz Pakistan have played a key role in advancing this
+agenda through research and stakeholder engagement, while the State Bank of
+Pakistan is actively exploring implementation aligned with financial inclusion and
+digital payment goals. This transition can be enabled through the development of a
+clear regulatory framework, standardized open APIs, and secure consent-based
+data-sharing protocols, alongside the use of regulatory sandboxes to pilot innovative
+use cases. Open banking is also positioned to accelerate the shift from a
+cash-based economy to interoperable digital systems by integrating with existing
+infrastructure such as Raast, ultimately improving efficiency, expanding access to
+financial services, and fostering a more connected digital financial ecosystem.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 36 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 37 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Understanding Blockchain: A New Architecture of Trust For Pakistan, where inefficiencies, documentation gaps, and trust deficits persist
+across both legal and financial systems, this shift is significant. Blockchain
+Blockchain is a decentralized and distributed digital ledger that records transactions fundamentally changes how trust is established moving from institution-based
+in a secure, immutable, and transparent manner. Unlike traditional systems that rely verification to technology-enabled transparency, with its impact realized across
+on centralized authorities and multiple intermediaries, blockchain enables a shared multiple areas, some of which are outlined below.
+“single source of truth” across participants. Each transaction is encrypted,
+time-stamped, and permanently recorded, making it highly resistant to tampering or
+unauthorized alteration.
+Revolutionizing Banking & Transforming Legal Systems: Strengthening AML and Supporting Financial Inclusion
+Cross-Border Payments Transparency, Efficiency & Justice Regulatory Oversight Through Digital Identity
+One of blockchain’s most impactful Pakistan’s legal system faces challenges such Blockchain’s immutable nature provides a While blockchain is not a direct solution to
+applications lies in cross-border payments, a as case backlogs, property disputes, and lack significant advantage in strengthening financial inclusion, it can act as a powerful
+critical area fo Pakistan given its heavy of transparency. Blockchain can play a anti-money laundering (AML) and enabler when integrated with digital financial
+reliance on remittances. transformative role in addressing these issues: counter-terrorist financing (CFT) frameworks. infrastructure. One of the key barriers to
+Every transaction recorded on a blockchain financial inclusion in Pakistan is the lack of
+Globally, banks such as JPMorgan Chase and Case Management: Digitized, tamper-proof creates a permanent and traceable audit trail, reliable documentation for large segments of
+HSBC are leveraging blockchain to enable case records can streamline judicial processes making it easier to monitor financial flows and the population.
+near-instant international settlements, and reduce delays. detect suspicious activity.
+reducing Blockchain-enabled digital identity systems
+processing time from days to seconds. Land & Property Records: A For the State Bank of Pakistan, this creates can simplify onboarding processes by
+blockchain-based land registry can prevent an opportunity to enhance regulatory providing secure and verifiable identity
+Pakistan Relevance duplicate ownership claims and fraud. oversight through more transparent and near records. This allows banks and financial
+real-time monitoring systems. In an economy institutions to extend services to underserved
+- Remittances exceeding $25–30 billion Smart Contracts: Self-executing agreements where informal transactions still play a populations, particularly in rural areas, while
+annually can be processed faster and at reduce reliance on intermediaries and substantial role, such capabilities can help maintaining compliance standards. Over
+lower cost minimize disputes. formalize financial activity, reduce illicit flows, time, this can contribute to expanding the
+- Reduced dependency on correspondent and improve compliance across institutions. formal financial ecosystem and improving
+banking networks Countries like Estonia and the UAE have Additionally, similar blockchain-based access to banking services.
+- Improved transparency and traceability of already implemented blockchain in frameworks can be extended to government
+international flows governance and legal registries, subsidy disbursements, enabling end-to-end
+demonstrating improved efficiency and tracking of funds and ensuring that benefits
+Blockchain can also complement systems like public trust. reach intended recipients with greater
+Raast by enabling cross-border real-time transparency and efficiency.
+payment corridors, particularly with GCC
+countries.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 37 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 38 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Institutionalization of Blockchain in Pakistan’s Financial Ecosystem Global Use Cases
+Cryptocurrencies such as Bitcoin represent one of the most prominent
+applications of blockchain. What makes Pakistan’s blockchain trajectory distinct Country Application Impact
+is not just technology adoption, but the gradual institutional embedding of digital
+asset governance into formal policy and regulatory structures. Estimates Estonia Digital identity & Seamless public service delivery
+e-governance
+suggest millions of informal crypto users exist in Pakistan, despite regulatory
+ambiguity. Pakistan hence is shifting towards a coordinated policy and advisory
+UAE Blockchain in trade Reduced fraud and faster processing
+mechanisms such as the Pakistan Crypto Council, which reflects a structured
+& government
+attempt to bring together regulators, fintech stakeholders, and industry
+participants under a unified dialogue framework for digital asset governance. Singapore Interbank blockchain Real-time settlement systems
+Rather than treating crypto activity as purely informal or external, this signals a payments
+move toward institutional consultation and policy alignment around
+blockchain-based financial systems. Sweden Land registry Reduced property disputes
+digitization
+In parallel, discussions around a structured Virtual Assets regulatory framework
+China Trade finance Improved efficiency & transparency
+(often referred to in policy circles as PVARA-type architecture) indicate a
+platforms
+transition toward formal oversight of digital assets within Pakistan’s financial
+system. This reflects an approach where virtual assets are not excluded from
+the financial system but are instead being positioned for regulated integration
+These examples highlight that successful adoption depends on regulatory
+under compliance, licensing, and monitoring structures aligned with SBP and
+clarity, infrastructure readiness, and strong public-private collaboration.
+SECP oversight mechanisms. Together, these developments indicate that
+blockchain is increasingly being treated not as an experimental technology
+outside the financial system, but as a potential regulated infrastructure layer
+within Pakistan’s evolving digital finance architecture.
+The Way Forward: A Phased and Collaborative Approach
+Key Opportunity Areas for Pakistan:
+To unlock the full potential of blockchain, Pakistan must adopt a
+Trade Finance Platforms Digitizing letters of credit and documentation structured and collaborative strategy. This includes developing clear
+regulatory guidelines, investing in education and capacity building, and
+across banks and regulators
+encouraging partnerships between financial institutions, regulators,
+Remittance Corridors
+and technology providers. Pilot programs in high-impact areas can
+Blockchain-enabled transfers with GCC
+help demonstrate value and build confidence, while a phased
+Land Registry Systems countries for faster inflows
+implementation approach ensures risks are effectively managed.
+Secure and transparent property ownership
+Digital Identity (eKYC)
+records
+Regulatory Oversight Integration with national databases for
+& Government Disbursements efficient onboarding
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 38 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 39 =====
+3 9
+Wo r kfo rce &
+Ta l e nt Tra n sfo r mati o n
+
+
+===== PAGE 40 =====
+Financial Performance Workforce and
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Talent Transformation
+From Reskilling to Reinvention
+Navigating the trends in AI, Islamic Banking Conversion, and a The year-on-year rise in digital transactions is directly reshaping workforce
+New Talent Paradigm in Pakistani Banking Industry requirements: as customers migrate to digital channels, the transactional role of
+branch staff gives way to advisory, problem-solving, and relationship functions
+Pakistan’s banking sector is going through a major transition. The growing use that demand a fundamentally different skill profile. Banks have responded by
+of artificial intelligence, the push to shift fully to Islamic banking by January 2028 embedding blended learning solutions combining digital modules with regulatory
+and the emergence of digital banks and fintech that are competing with a limited and policy training across their large, distributed workforce.
+talent pool are all reshaping not only how banks operate but also who they
+employ, what skills they prize, and how they cultivate the next generation of
+bankers.
+83% Prioritizing Reskilling
+Bank CEOs globally are prioritizing workforce
+KPMG Global Finding — Strategic Workforce Planning
+reskilling to unlock AI's potential.
+Core Operations Focus
+In KPMG's 'The Future of HR: From Flux to Flow' survey, 300 HR leaders
+revealed that while most see Strategic Workforce Planning as the top
+AI moving from pilots to core operations, shaping
+workforce priority by 2025, merely 25 per cent of HR practitioners feel
+customer experience and fraud detection.
+they are currently able to effectively understand how the size, skills, and
+organisation of the workforce must evolve. In Pakistan, where the Reskilling Pipeline
+magnitude of structural change is particularly acute, the gap between
+aspiration and execution is a critical risk. The pipeline must begin well ahead of deployment,
+not after it.
+The Artificial Intelligence Imperative The challenge, however, extends beyond upskilling. AI governance is itself a new
+talent category. As central banks globally look for ways to minimize the risks
+About 83% of bank CEOs globally are prioritizing workforce reskilling to keep associated with AI adoption, SBP is taking steps in this direction by finalizing its
+pace with AI. What started as small-scale pilots is now moving into core ‘Guidelines on the Responsible Use of Artificial Intelligence in Financial Services’ to
+operations, shaping everything from customer experience to fraud detection and provide a framework for safe and responsible AI deployment.
+cyber defense. In Pakistan, the direction is similar, though adoption is still at an
+earlier stage. Hence, AI should be prioritized to streamline internal processes The SBP surveyed 55 regulated entities (REs) in Pakistan’s financial services
+like compliance monitoring, back-office automation, transaction reconciliation sector, including commercial banks, microfinance institutions, digital banks, and
+even before customer-facing applications are ready. The implication for HR is payment service operators. The survey revealed that nearly half of the REs have
+unambiguous: the reskilling pipeline must begin well ahead of the deployment already deployed AI in their operations or are in the process of development.
+curve, not after it.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 40 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 41 =====
+Financial Performance Workforce and
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Talent Transformation
+This rapid pace of adoption highlights both the scale of opportunity and the
+Constitutional Mandate
+urgency of putting governance structures in place. Banks that build AI
+governance capability ahead of the regulation will be positioned to lead; those
+that wait will find themselves scrambling. 26th Amendment enacted October 2024.
+January 2028 Deadline
+Global Benchmark—KPMG CEO Outlook 2025
+Complete elimination of Riba required.
+83% of banking CEOs globally are prioritizing workforce reskilling to
+unlock AI's potential. Banks are rethinking roles and entry-level skills to
+enable human-machine collaboration that boosts productivity without
+Workforce Transformation
+eroding the human touch. Pakistani banks must begin this rethinking
+urgently, lest the talent pipeline fall behind the technology curve.
+Comprehensive retraining at every level.
+The Islamic Banking Conversion Mandate
+Pakistan's 26th Constitutional Amendment, enacted in October 2024, mandates
+the complete elimination of Riba (interest) from the financial system by 1
+The Scale of the Challenge
+January 2028. This is arguably the single largest structural workforce challenge
+ever faced by Pakistan's banking sector.
+Pakistan has 26,000 madaris (Islamic seminaries) across the country,
+yet more than 75% of Shariah board members of Islamic banks received
+The talent gap is both acute and highly specific. With thousands of Islamic
+their education from a single Karachi-based institution. The supply of
+banking branches already operational, the industry requires skilled Islamic
+qualified Shariah scholars, those who can interpret Islamic law AND
+bankers each year just to maintain current operations, before factoring in the
+develop commercially viable banking products, is critically thin. (Source:
+large-scale conversion of conventional banking staff. Experts, including former
+Research on Islamic Finance Education in Pakistan, published in Cogent
+regulators who helped establish Islamic banking in Pakistan, emphasize that the
+Economics & Finance, 2022; Business Recorder, December 2024)
+demand for trained human resources will only grow as the economic system
+undergoes this fundamental shift.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 41 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 42 =====
+Financial Performance Workforce and
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Talent Transformation
+75% 26K
+Single Source Madaris Nationwide
+Shariah board members educated from Islamic seminaries across Pakistan
+one Karachi-based institution.
+Banks that have moved earliest are developing the institutional muscle that
+others may need to replicate at speed. Successfully converting to Islamic
+banking involves more than redesigning financial products, it also requires Data Scientists & AI Engineers Cloud Architects
+comprehensive retraining of staff at every level, from relationship managers and Recruiting aggressively for specialized Building technology-first models
+branch managers to credit officers and treasury professionals, to ensure full technical talent. without legacy systems.
+compliance with Shariah principles.
+The Digital Bank Revolution and New Talent Competition
+Pakistan's Digital Banking Framework has introduced a new category of licensed
+institutions: Digital Retail Banks (DRBs) and Digital Full Banks (DFBs) that operate
+with fundamentally different talent architectures. Built on lean, technology-first
+models, these institutions do not carry the branch network, legacy systems, or
+hierarchical workforce structures of traditional banks. They recruit aggressively for
+data scientists, AI engineers, cloud architects, UX designers, and product managers
+at compensation levels and with workplace cultures that established banks
+historically have not matched.
+UX Designers Product Managers
+Hybrid working environment is becoming the new global norm, with 76% of Designing customer-centric digital Driving innovation at competitive
+organizations expecting it to be widely adopted. Digital banks are leveraging this experiences. compensation levels.
+trend to offer workforce flexibility. In contrast, conventional banks in Pakistan
+continue to face challenges in implementing remote or hybrid work, as operational
+limitations and traditional workplace practices make such flexibility less feasible.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 42 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 43 =====
+Financial Performance Workforce and
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Talent Transformation
+This creates dual talent pressure on conventional banks. On one side, they may
+invest in building digital skills within their existing workforce. On the other, they
+Conclusion
+may compete for the same scarce pool of technology and digital banking
+professionals that competitors are targeting.
+Globally, only 25% of HR practitioners feel prepared to plan for
+workforce evolution, according to KPMG’s Future of HR research. In
+Pakistan, where the transformation timeline is constitutionally fixed
+The KPMG Global Tech Report 2026, based on a survey of 760 financial
+and commercially urgent, this gap is not merely an operational
+services technology leaders globally, identifies talent shortages as one of the
+inconvenience. It is a strategic risk that must be reported to boards.
+most significant constraints on banking sector transformation, alongside
+CHROs and banking leaders may place workforce transformation on
+technical debt and cybersecurity concerns.89% of financial services
+the same strategic footing as technology investment, capital
+organizations surveyed identify as innovators or fast followers, yet real
+management, and regulatory compliance. This means commissioning
+constraints including the inability to attract and retain digital talent are
+rigorous skills gap assessments by business line and role category.
+preventing momentum from translating into scalable outcomes. Pakistan's
+banks face this global challenge with additional local headwinds.
+The banks that will lead Pakistan's financial sector in 2030 are
+those that treat workforce transformation as their most important
+strategic investment today. The Islamic banking conversion
+The talent competition also has a gender dimension that the sector has
+clock is ticking. AI is no longer coming. It is here. The question
+insufficiently addressed. Pakistan's female workforce participation stands at
+is not whether to transform, but whether Pakistan's banks are
+approximately 22%: among the lowest in South Asia. Within banking, digital
+building the human capital to lead that transformation rather
+transformation creates a genuine opportunity to change this. Remote and hybrid
+than merely survive it.
+work arrangements, digital customer service and analytics roles, and
+compliance functions can be structured in ways that accommodate the flexibility
+many women need to participate in the formal workforce. Banks that design
+inclusive talent strategies may access a substantially larger pool.
+The competitive response to digital talent pressure also requires banks to
+rethink their employee value proposition (EVP). Compensation alone may not
+be sufficient. Effective EVPs in the current market combine competitive pay with
+real learning opportunities, defined career paths, and work that connects to
+broader sector priorities such as financial inclusion and the growth of Islamic
+finance. For a generation of graduates seeking work that makes an impact, an
+authentically communicated vision of banking transformation can serve as a
+compelling narrative to attract right talent.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 43 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 44 =====
+4 4
+Re g u l ato r y
+La n d sca p e
+
+
+===== PAGE 45 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+The Recovery and Resolution Blueprint
+“
+While major economies have been building and
+Banks have always had contingency plans. But the 2008 global
+stress-testing these frameworks since 2011, Pakistan’s 2025
+financial crisis demonstrated that many did not have viable plans
+Recovery & Resolution Planning (RRP) circulars represent a
+to recover from severe shocks, and no regulator had a credible deliberate, well-timed step. The implementation deadline of ”
+mechanism to manage failure without public funds. The SBP’s June 2026 provides a realistic runway, but credible
+issuance of BPRD Circular No. 02 of 2025 and FIRD Circular No. 01 preparation must begin now.
+of 2025 is Pakistan’s formal, structured response to that lesson.
+The SBP’s RRP Framework: A Two-Part Architecture
+Global Context: How the World Got Here The RRP framework comprises two distinct yet complementary components,
+aligned with the internationally recognized sequencing of crisis management.
+Following the 2008 crisis, the G20 endorsed the Financial Stability Board’s (FSB)
+1. Recovery Planning: Building the Institution’s Own Firewall
+Key Attributes of Effective Resolution Regimes in 2011 as the international standard
+for how jurisdictions should design their banks’ crisis management frameworks. The
+Recovery planning serves as the institution’s primary line of defense, activated
+core philosophy: “costs of bank failure must fall on shareholders and creditors not
+by management upon breach of predefined triggers. Recovery plans are
+taxpayers”. Jurisdictions across the EU, UK, US, and Asia progressively transposed
+required to be comprehensive, forward-looking, and operationally credible. The
+these standards, and recent events confirmed their relevance.
+obligation rests with the bank’s board and senior management, embedding
+accountability for crisis preparedness at the highest governance level. The
+Silicon Valley Bank (US, 2023): Failed due to unchecked interest rate risk and
+exercise of formally mapping recovery options, calibrating indicators, and
+rapid deposit outflows amplified by social media. Resolved via bridge bank in 48
+stress-testing viability against severe scenarios will require investment in
+hours but supervisory gaps triggered sweeping reform.
+analytical capabilities, governance processes, and data infrastructure. The
+principal components mandated under the circular include:
+Credit Suisse (Switzerland, 2023): Failed despite Basel III compliance, confirming
+that good regulation is necessary but never sufficient without equally robust
+supervision and pre-tested resolution plans.
+Governance Integration Critical Triggers & Testing &
+Jurisdiction Framework Key Feature / Recent Development
+Functions Indicators Updating
+Board approves the Plan is integrated
+plan and decision with strategic
+European BRRD (2014) + Single Bail-in tool, Single Resolution Board (SRB) as resolution making processes planning and risk Core business lines Early warning indicators Plan is tested and
+Union Resolution Mechanism authority; 2 formal resolution cases to date (Banco Popular management and critical functions and escalation processes updated regularly
+2017, Sberbank 2022). are identified are established
+United Banking Act 2009 + Five stabilization powers incl. bail-in; SVB UK transferred
+Kingdom Resolvability Assessment to HSBC in March 2023 — no taxpayer funds involved.
+Framework
+Documentation Scope Scenarios Recovery Communication
+United Dodd-Frank Act — Orderly FDIC as receiver; SVB & Signature Bank resolved via & Data Plan covers the Firm-specific, Options Communication
+States Liquidation Authority + bridge bank in 2023. 564 bank failures handled by FDIC entire banking market-wide, and protocols are
+Living Wills since 2001. Plan is clear, well group and critical combined scenarios Diverse and established for
+documented, and entities are developed executable recovery stakeholders
+activatable options are identified
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 45 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 46 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+The Recovery and Resolution Blueprint
+“ ” “
+Recovery planning isn't just a document; it's the foundation of Resolution planning is the regulator’s pre-commitment to
+long-term viability. managing failure in an orderly, structured way. It is the ”
+bridge between a bank’s failure and financial system
+stability, and it must be built before the crisis, not during it.
+2. Resolution Planning: The Regulator’s Contingency Instrument
+Integration with Existing Risk Management Processes
+The objective of resolution is not to rescue the institution as such, but to ensure that
+its failure is managed in a manner that preserves the continuity of critical services, It is imperative that the RRP Framework is integrated within the existing Risk
+protects depositors, minimizes fiscal costs, and maintains financial stability. The Management Framework to achieve synergy and leverage the results as inputs
+resolution planning circular establishes the SBP’s role as resolution authority and for designing or updating of the risk appetite, ICAAP, ILAAP, stress testing and
+creates the formal framework within which resolution plans for Pakistan’s licensed capital, and liquidity contingency plans.
+banks are prepared, maintained, and made operationally ready. The principal
+components mandated under the circular include: The Recovery Plan should also be embedded into the banks’ operational
+activities, such as business planning, environmental scanning, strategy setting,
+product development, and asset/liability management. This will ensure that the
+Resolvability Preferred
+business planning and strategic decision making is robust and covers all the
+Assessment Resolution Strategy
+operational aspects of the business. Ultimately, a robust Recovery Plan, tailored
+Structured evaluation Identification of to business strategy and objectives, is likely be more effective in mitigating risk
+of bank resolution optimal strategies for
+strategies bank resolution emanating from plausible severe stress scenarios.
+Loss-Absorbing Operational Final words: From Framework to Operational Readiness
+Capacity Continuity
+The RRP circulars represents a structurally important development in Pakistan’s
+Ensuring sufficient Maintaining critical
+buffers to absorb functions during banking regulatory landscape. The framework is well-conceived sequenced
+losses resolution logically between recovery and resolution, aligned with FSB Key Attributes, and
+appropriately calibrated to the SBP’s role as resolution authority.
+Funding in Creditor
+Resolution Safeguards The greater challenge observed in jurisdictions that have implemented similar
+Sequencing loss Protecting creditors' frameworks is the operationalization of these requirements. Plans must be tested,
+imposition and rights and hierarchy
+iterated, and stress-tested again. Supervisory capacity must keep pace with the
+securing financing
+analytical demands of assessing recovery and resolution plans across a diverse
+banking sector. And banks must embed the discipline of crisis preparedness into
+Information Cross-Border
+their governance culture, not merely their regulatory filing calendar.
+Requirements Considerations
+Maintaining Coordinating “
+comprehensive data international The RRP mandate is not a final destination, but the ”
+for resolution planning resolution efforts beginning of a culture where crisis preparedness is woven
+into the very fabric of banking governance.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 46 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 47 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Bridging the Financing Gap | The Women Entrepreneurs Finance Code
+(WE Finance Code)
+Launched in 2023 under the leadership of the World Bank, the WE Finance
+Women represent nearly half of the nation, and their active Code is a global framework aimed at closing the financing gap for women-led
+micro, small, and medium enterprises (WMSMEs). It reflects a coordinated effort
+participation in business and finance is essential for driving
+among 14 governments and 8 multilateral development banks, supported by
+economic growth and unlocking the full potential of the country.
+development institutions and financial ecosystem partners.
+The Code strengthens financial systems through leadership commitment,
+transparency, and accountability. A defining feature is its focus on
+According to the Pakistan Bureau of Statistics (2023 Census), Pakistan’s population
+gender-disaggregated data, which signatories must collect to:
+stands at approximately 241 million, with women representing approximately 48.5%
+i.e. 117 million of the population. Despite this significant share, lending to women
+business owners has traditionally been approached primarily as a social or Increase visibility of Inform data-driven decision-making
+developmental initiative, rather than being integrated into mainstream banking women-led businesses by financial service providers
+strategies.
+Support targeted financial solutions
+As a result, the financing gap persisted, not due to lack of effort, but largely because
+for women entrepreneurs
+cultural norms and societal perceptions limited acceptance of women in business.
+Without robust data or clear accountability, women-led enterprises remained largely
+invisible to formal financial institutions, representing both a social concern and an
+untapped economic opportunity. Globally, this approach transforms financing from fragmented efforts into a
+systematic, measurable, and sustainable pathway for women’s
+Previous development-focused programs and financial inclusion initiatives showed entrepreneurship.
+strong intent but were rarely embedded into core banking practices. To address
+these challenges, the Women Entrepreneurs Finance Code (WE Finance Code) Pakistan’s Adoption of the WE Finance Code
+was introduced as a global initiative to recognize women-led businesses as a
+distinct and measurable market segment. By emphasizing data transparency, To align with global efforts, the State Bank of Pakistan (SBP) formally adopted
+leadership commitment, and measurable actions, the Code seeks to make the WE Finance Code in 2025 by issuing a framework for financial institutions.
+women-led businesses visible to financial institutions and support gender-intelligent This positions Pakistan alongside other countries implementing structured
+banking policies. measures to close the financing gap for women-led businesses while
+addressing local challenges in financial inclusion and women’s economic
+participation.
+Overview of the WE Finance Code
+As part of the Code’s implementation, SBP mandates banks to collect
+“ gender-disaggregated data on lending and portfolio performance for
+The WE Finance Code empowers women-led businesses by
+women-owned enterprises, enhancing visibility, accountability, and enabling the
+providing structured access to finance, data-driven insights, and”
+design of targeted financial solutions.
+stronger accountability.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 47 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 48 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+SBP’s Prior Initiatives for Women’s Financial Inclusion
+Even before adopting the WE Finance Code, Pakistan had made progress under its broader financial inclusion agenda. Women’s participation in the formal financial
+system improved steadily, supported by growth in bank account ownership and representation within the banking workforce.
+Female financial Banking workforce Loan to women-led
+Gender gap narrowed Bank accounts opened
+inclusion rose representation businesses
+2025 17.6 2 9 3 4,0 0 00 . L 3 oa n B s a I m L ou L n I tin O g t N o
+2018 2025
+(52%)
+MILLION
+47% 30%
+Bank Accounts
+2018
+Opened since 2021
+(4%)
+Female workforce
+increased from
+13% 17%
+to
+To support this progress, SBP and the Government introduced targeted These measures complement broader policy initiatives, including the “Banking
+mechanisms: concessional refinance and credit guarantee schemes through on Equality” (BOE) Policy 2021, which aims to improve women’s access to
+SBP IH&SMEFD Circular No. 05 of 2017, later expanded under Circular Letter financial services, promote gender diversity, and strengthen financial literacy.
+No. 01 of 2019, designed to reduce collateral constraints and encourage lending
+to women entrepreneurs.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 48 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 49 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Governance Level Strategic Level
+Infrastructural Support for Financial Inclusion
+Financial institutions can embed gender These priorities can be translated into
+Developments in digital financial services and payment system
+inclusion within board-level priorities, measurable objectives, including
+infrastructure also form part of the enabling environment. While not
+policies, and oversight mechanisms, defined targets and performance
+a direct component of the WE Finance Code, such infrastructure
+ensuring sustained leadership indicators to drive accountability.
+may support the Code’s objectives by:
+commitment.
+Enabling remote access to financial services
+Operational Level
+Product Level
+Simplifying transactions and reducing reliance on
+physical branches
+Institutions can implement
+Banks can develop tailored
+gender-disaggregated data frameworks
+Enhancing the accessibility and convenience of financial financial solutions, including
+and integrate inclusion considerations
+services for women-led MSMEs collateral-light lending and
+into credit processes, product design,
+advisory support for
+and portfolio management.
+Implementation Strategy in Pakistan women-led businesses.
+SBP’s strategy to translate the WE Finance Code into
+actionable outcomes includes:
+Sector-wide coordination: Mobilizing banks, regulators, and
+development partners to align with the Code’s objectives
+Gender-disaggregated data reporting: Tracking lending,
+deposits, and portfolio performance for women-led businesses
+to enhance visibility, accountability, and enable targeted
+financial solutions
+Ecosystem Level
+Women-focused financial products: Encouraging banks to
+Broader enablers, such as financial literacy initiatives, entrepreneurial
+develop collateral-light lending, SME advisory programs, and
+support networks, and stakeholder engagement, can play a critical role in
+capacity-building initiatives
+strengthening participation and ensuring that women entrepreneurs can
+effectively access and utilize financial services.
+Engagement and awareness-building: Conducting
+workshops, consultative sessions, and roadshows to mobilize
+commitment and develop national action plans Commitments matter, but the true outcomes will be realized when the
+WE Finance Code translates intent into a more inclusive, women-led,
+These implementation actions can be executed through a data-informed, and resilient financial ecosystem.
+multi-layered institutional approach:
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 49 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 50 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Advancing Early Financial Inclusion – Teenager Account / Wallet
+“
+The framework positions adolescence as a critical entry The Teenager Accounts/Wallet framework addresses structural gaps in youth
+access to formal financial systems by enabling regulated financial participation
+point for financial inclusion, enabling youth to move beyond
+” at an earlier stage of financial lifecycle development. It reflects SBP’s broader
+being future participants to becoming active contributors to
+objective of building a financially inclusive, stable, and efficiently functioning
+the formal economy.
+financial ecosystem supported by responsible access and regulatory safeguards.
+Financial Inclusion Continuum and Digital Economy Linkages
+The State Bank of Pakistan (SBP) has introduced a structured
+framework for Teenager Accounts/Wallets under BPRD Circular No. The framework reflects the SBP’s ongoing efforts to expand access to formal
+01 of 2026, allowing individuals aged 13 to 18 years to access financial services through structured and regulated channels. It is consistent with
+earlier initiatives that enabled supervised access to basic banking services for
+banking and digital financial services through Banks, Microfinance
+minors under guardian oversight, forming the foundational layer of youth
+Banks, and Electronic Money Institutions.
+participation in the formal financial system.
+This represents a clear shift from traditional supervised minor
+The framework also supports Pakistan’s evolving digital and freelance economy,
+accounts toward greater operational autonomy within a controlled
+where many adolescents already earn through IT-enabled services, freelancing
+regulatory environment. The approach is aligned with broader
+platforms, and digital content creation. By enabling account ownership in their
+objectives of promoting digital adoption, financial awareness, and
+own name, it facilitates direct receipt and management of income within the
+responsible financial behavior among youth.
+formal financial system. This shift enhances financial inclusion, improves
+Given Pakistan’s demographic profile, with an estimated 26 million
+transparency of inflows, and integrates early-stage digital earners into the
+individuals aged 13 to 18, the framework creates a significant
+documented economy
+opportunity to integrate a large youth segment into the formal
+financial ecosystem at an early stage.
+Lifecycle Continuity
+Upon attainment of majority age, accounts are transitioned into full retail banking
+Regulatory and Strategic Approach of the Framework relationships, subject to fulfillment of standard requirements, ensuring continuity
+of financial access.
+The initiative is aligned with the SBP’s Strategic Plan 2023–28 and the National
+Financial Inclusion Strategy (NFIS) 2024–28, both of which emphasize
+expanding access to formal financial services, strengthening financial capability, Microeconomic Impact
+and improving usage quality across underserved segments.
+The integration of youth into the formal financial system is expected to contribute
+Within this policy framework, youth are recognized as a key segment for early to strengthening of deposit mobilization and improved documentation of financial
+financial inclusion, supporting the development of long-term financial behavior flows within the economy.
+and economic participation.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 50 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 51 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Advancing Early Financial Inclusion – Teenager Account / Wallet
+It also strengthens the formal routing of transactions and remittance inflows through It aligns with SBP’s broader objective of an inclusive and resilient financial system,
+regulated channels, contributing to improved financial transparency and system where responsible access to financial services supports long-term economic
+efficiency. Over time, this is expected to contribute to deeper financial inclusion and participation.
+help develop a more financially aware and economically engaged workforce aligned
+with Pakistan’s evolving economy.
+“
+Resolution planning is the regulator’s pre-commitment to
+Youth Banking Facilities within the Region managing failure in an orderly, structured way. It is the ”
+bridge between a bank’s failure and financial system
+Approaches to youth financial inclusion vary across jurisdictions, reflecting stability, and it must be built before the crisis, not during it.
+different balances between financial access, regulatory safeguards, and parental
+oversight:
+Country Age Key Features
+Future Product Evolution
+Minors can open accounts via
+India
+guardian; banks may allow limited
+independent operation from age 10; The framework establishes an enabling foundation for future
+10+ years debit/ATM/cheque book allowed at development of youth-oriented financial solutions within the regulated
+bank discretion; no overdraft or
+financial eco-system.
+credit facilities.
+School/student banking with guardian As financial inclusion progresses, institutions may progressively
+Bangladesh oversight; remittance inflows allowed; introduce tailored products aligned with evolving customer needs,
+transaction and balance limits apply;
+Youth/student account subject to regulatory safeguards, consumer protection standards, and
+credit/loan access only in limited,
+(bank-defined age limits) case-based arrangements with responsible finance principles. This supports gradual innovation while
+guarantees (not general entitlement). maintaining system stability and financial discipline.
+Sri Lanka Supervised youth savings accounts; Overall Perspective
+debit cards and SMS alerts available;
+13–18 years account control largely with guardian
+The Teenager Accounts/Wallet framework marks a shift toward earlier
+oversight; limited independent digital
+functionality. integration of youth into the formal financial system, supporting the
+development of financial capability from an early stage.
+E-wallets and accounts under SAMA
+Saudi Arabia EMI framework; guardian/curator
+verification required; regulated digital
+Under 18 onboarding through licensed EMIs;
+controlled access to basic digital
+financial services.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 51 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 52 =====
+5 2
+I n th e N ews
+!!
+
+
+===== PAGE 53 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+In the News
+Pakistan Meets External Debt Obligations Amid BankIslami Launches Digital Islamic Banking
+Rising Reserve Pressure Platform Aik to Drive Financial Inclusion
+Pakistan successfully met over USD 1.43 billion in external debt In 2025, BankIslami launched Aik, Pakistan’s first fully digital Islamic banking
+obligations on April 8, including a USD 1.3 billion Eurobond platform, offering end to end Shariah-compliant services through a mobile first
+repayment and USD 126.125 million in coupon payments, interface. The platform enables seamless digital onboarding, payments,
+fulfilling its scheduled commitments in full and on time through transfers, and account management, eliminating the need for physical branch
+existing foreign exchange reserves. The State Bank of interaction and significantly enhancing customer convenience.
+Pakistan’s reserves stood at USD 16.3 billion, with the country’s
+Repaid
+total foreign exchange reserves at USD 21.89 billion in the first Building on this, BankIslami has integrated Raast-enabled QR payments,
+$1.43
+week of April 2026. This development comes as Pakistan allowing real-time, account-to-account transactions and merchant acceptance
+prepares to repay an additional USD 3.5 billion in debt to the without reliance on cards. The initiative positions the bank at the forefront of
+Billion
+United Arab Emirates within April. digital Islamic finance, supporting financial inclusion by expanding access to
+Shariah-compliant banking services across underserved and digitally evolving
+segments.
+Banks Structure PKR1.2 Trillion Financing Facility Pakistan Banking Sector Profits Reach PKR 685 Billion,
+to Address Power Sector Circular Debt Led by UBL, Meezan & NBP
+TheGovernmentofPakistan,incollaborationwithaconsortium
+ofleadingcommercial banksincludingHabibBankLimited,
+MeezanBank,andUnitedBankLimited,finalizedaPKR1.225
+trillionfinancingfacilitytopartiallyretirecirculardebtinthe
+powersector.Thefacilityisstructuredtorefinanceexistinghigh-costli Pakistan’s banking sector recorded cumulative profits of PKR 685 billion in
+abilitiesintomoresustainable,lower-costfunding CY2025, reflecting an 11% year-on-year increase, even as interest rates began
+arrangements,easingfiscalpressurewithoutdirectlyincreasing PKR 1.2 to moderate. UBL led profitability with PKR 130 billion, followed by Meezan
+consumer tariffs. Bank (PKR 90.7 billion) and National Bank of Pakistan (PKR 85 billion). The
+Trillion
+Thistransactionrepresentsoneofthelargestcoordinated growth was primarily driven by strong net interest margins accumulated during
+bankingdealsin Pakistan’shistoryand highlightsthe sector’s Financing the high-rate cycle, improved cost efficiencies, and lower provisioning
+criticalroleinsupportingsovereignfinancialstability.Beyond Facility pressures. Despite expected margin compression going forward, the sector
+immediateliquidityrelief,thefacilityisexpectedtoimprovecash remains well-capitalized and resilient, supported by a large deposit base and
+flowacrosstheenergyvaluechain,enhanceoperational continued exposure to government securities.
+sustainabilityof powersector entities,and createa more stable
+foundationforfuturesectorreforms.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 53 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 54 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Pakistani FintechsGo Global: Pakistan. With FINCA’s presence across 100+ cities and its branchless banking
+HABAL Raises $52M as Saudi Expansion infrastructure, the deal enables ABHI to scale its digital lending model, including
+earned wage access and AI-based credit scoring, into a full-service banking
+platform. The transaction signals a structural shift where fintech's are no longer
+Pakistan’s fintech ecosystem is rapidly globalizing, with ABHI and HABAL
+partners to banks but emerging as owner operators.
+expanding into Saudi Arabia through strategic partnerships and digital finance
+platforms. This expansion is complemented by HABAL’s $52 million funding
+round, including $5 million equity investment from Zayn VC and $47 million in
+Banks’ Investment in Government Securities
+financing backed by Meezan Bank. The funding is aimed at scaling supply chain
+finance and SME digitization solutions, positioning Pakistani fintechsas credible Surpasses PKR 27 Trillion Amid High Interest Rates
+players in regional markets. This marks a significant shift from a
+Pakistan’s banking sector has increased its exposure to
+domestic-focused ecosystem to one that is exporting financial innovation across
+government securities to over PKR 27 trillion, reflecting
+the Middle East.
+continued reliance on risk-free investments amid elevated
+interest rates and fiscal borrowing pressures. While this
+Raast Processes PKR 18 Trillion in FY26 as strategy has supported profitability and capital preservation, it
+PKR 27
+has also led to a crowding-out effect, limiting credit availability
+Instant Payments Gain Nationwide Adoption
+to the private sector, particularly SMEs and corporates. The
+Trillion
+trend highlights a structural imbalance in the financial system,
+Pakistan’s Raast instant payment system processed over PKR 18 trillion in FY26, High Interest
+with implications for long-term economic growth.
+reflecting rapid adoption across individuals, businesses, and government entities.
+Rates
+Initially driven by peer-to-peer transfers, the system is now expanding into
+Person-to-Merchant (P2M) payments, enabling QR-based transactions for small
+retailers and businesses. Major banks including HBL, UBL, and Bank Alfalah are
+UBL Completes Silkbank Acquisition While Delivering
+actively onboarding merchants, while government agencies are leveraging Raast
+73% Profit Growth and Strong Deposit Expansion
+for disbursements and collections. The platform is emerging as a critical
+backbone for Pakistan’s digital payments ecosystem, significantly reducing
+United Bank Limited (UBL) finalized the acquisition of
+transaction costs and reliance on cash.
+Silkbank in 2025, adding over PKR 300 billion in assets
+and strengthening its presence in consumer and SME
+ABHI’s Acquisition of FINCA banking. Concurrently, UBL delivered a 73% year-on-year
+increase in profitability and nearly doubled its deposit base
+Redefines Fintech-Bank Convergence
+73%
+to over PKR 5.1 trillion, reflecting aggressive deposit
+mobilization and balance sheet expansion. The integration
+In a shift for the financial services ecosystem, ABHI in partnership with TPL of Silkbank is expected to further enhance cross-selling Profit
+Corp. acquired controlling stake in FINCA Microfinance Bank in early 2025 one
+opportunities, improve scale efficiencies, and strengthen Growth
+of the first instances of a fintech acquiring a regulated microfinance bank in
+UBL’s retail franchise.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 54 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 55 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+HBL Strengthens Market Leadership with Meezan Bank Crosses PKR 3 Trillion in Assets
+PKR 5.5 Trillion Deposits and Expands ESG as Islamic Banking Gains Market Share
+& Digital Capabilities
+Meezan Bank surpassed PKR 3 trillion in total assets, reinforcing its position as
+Pakistan’s leading Islamic bank. The bank continues to expand across
+Habib Bank Limited (HBL) retained its position as Pakistan’s largest bank, with
+corporate, retail, and trade finance segments, supported by strong demand for
+deposits exceeding PKR 5.5 trillion, providing a strong low-cost funding base.
+Shariah-compliant products and increased issuance of government Sukuk.
+Alongside its scale advantage, HBL has invested in digital transformation and
+Islamic banking’s share in the overall banking sector continues to rise,
+sustainability initiatives, including the deployment of an AI-based ESG
+highlighting a structural shift in customer preferences toward faith-based
+monitoring platform in partnership with Ahya Technologies. The bank continues
+financial solutions.
+to expand its digital payments ecosystem, enhance mobile banking adoption,
+and integrate sustainability into its core strategy, reinforcing its leadership in
+Easypaisa and JazzCash Drive Financial
+both scale and innovation.
+Inclusion with Over 100 Million Accounts
+Bank Alfalah Scales AlfaMall and BNPL Branchless banking platforms Easypaisa and JazzCash have collectively
+Offering to Drive Digital Commerce Growth surpassed 100 million registered accounts, significantly expanding access to
+financial services across Pakistan. Both platforms are scaling digital payments,
+Bank Alfalah has expanded its AlfaMall platform into a comprehensive digital merchant onboarding, and micro-lending offerings, particularly targeting
+commerce ecosystem by integrating it with WhatsApp, enabling seamless underserved and rural populations. Their rapid growth underscores the critical
+product discovery, purchasing, and financing within a single interface. The role of fintech in complementing traditional banking channels and driving
+platform’s Buy Now Pay Later (BNPL) feature is driving higher card utilization financial inclusion.
+and fee-based income, while deepening customer engagement. This initiative
+reflects a broader industry shift toward embedded finance, where banking
+services are integrated directly into consumer digital journeys. Pakistan’s Digital Economy Poised to Reach
+7% of GDP by 2030: OICCI Report
+MCB Launches Digital Supply Chain Finance
+The Overseas Investors Chamber of Commerce & Industry (OICCI) estimates
+Platform to Expand SME Lending
+that Pakistan’s digital economy could contribute 5–7% to GDP by 2030,
+provided key structural reforms are implemented. Current indicators show strong
+MCB Bank introduced a digital supply chain finance platform in collaboration with
+momentum, with IT exports at $3.8 billion, freelance earnings at $779 million,
+fintech partners, enabling SMEs to access real-time invoice financing and working
+and over 150 million broadband users. However, regulatory bottlenecks, taxation
+capital solutions. By digitizing credit assessment and disbursement processes, the
+issues, and infrastructure gaps continue to constrain growth potential.
+platform reduces turnaround times and improves transparency. This initiative
+addresses long-standing financing gaps in the SME sector while allowing MCB to
+diversify its lending portfolio into higher-yield, structured credit products.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 55 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 56 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Only 18% of Telecom Towers Fiberized,
+Highlighting Infrastructure Gaps
+Pakistan’s digital infrastructure remains underdeveloped,
+with only 18% of telecom towers connected via fiber,
+18%
+significantly below the global benchmark of approximately
+40%. This limitation affects network capacity, service quality,
+Telecom
+and the rollout of next-generation technologies such as 5G.
+Addressing these infrastructure gaps will be critical to Towers
+supporting the growth of digital banking, fintech, and the
+Fiberized
+broader digital economy.
+Sukuk Share in Government Debt Portfolio
+Rises to 14%
+Pakistan’s share of Shariah-compliant Sukuk within its
+government debt portfolio increased to 14% in the first half
+of FY26, reflecting a continued shift toward Islamic financing
+instruments. The growth was driven by increased issuance
+of Government Ijarah Sukuk, which recorded the highest
+expansion among domestic debt components during the 14%
+period.
+Rise
+According to official data, total public debt reached
+Sukuk
+approximately PKR 81.4 trillion, with domestic debt
+comprising the majority share. The rising proportion of Share
+Sukuk indicates a gradual rebalancing of the government’s
+borrowing mix toward Shariah-compliant and relatively
+lower-cost instruments, supported by sustained issuance
+and investor demand.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 56 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 57 =====
+5 7
+N u m b e rs
+a n d Rati os
+
+
+===== PAGE 58 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+List of Banks Included
+ABL Allied Bank Limited
+Albaraka Al-Baraka Bank (Pakistan) Limited
+Askari Askari Bank Limited
+BAF Bank Al-Falah Limited
+BAH Bank Al-Habib Limited
+BAML Bank Makramah Limited
+BOK The Bank of Khyber
+BOP The Bank of Punjab
+DIB Dubai Islamic Bank Pakistan Limited
+Faysal Faysal Bank Limited
+HBL Habib Bank Limited
+HMBL Habib Metropolitan Bank Limited
+Islami Bank Islami Pakistan Limited
+JS JS Bank Limited
+MCB MCB Limited
+MCBIB MCB Islamic Bank Limited
+Meezan Meezan Bank Limited
+NBP National Bank of Pakistan
+Samba Samba Bank Limited
+SCB Standard Chartered Bank (Pakistan) Limited
+Soneri Soneri Bank Limited
+UBL United Bank Limited
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 58 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 59 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Consolidated statement of financial position as at 31 December 2025 For 22 Banks (Rupees in Million) 2025 2024
+Assets
+Cash and balances with treasury banks 3,480,071 2,906,193
+Balances with other banks 333,167 308,965
+Lendings to financial institutions 942,355 774,240
+Investments 37,901,709 28,576,762
+Advances / Islamic financing 14,800,056 15,520,187
+Fixed assets (Including Right of use assets) 1,291,297 1,090,757
+Intangible assets 162,894 96,308
+Deferred tax assets 44,656 52,412
+Other assets 2,575,469 2,192,650
+Total assets 61,531,674 51,518,474
+Liabilities
+Bills payable 561,777 708,053
+Borrowings 14,874,392 13,516,845
+Deposits and other accounts 39,364,790 31,434,234
+Liabilities against ROUA 317,802 249,145
+Subordinated debt 163,378 173,395
+Deferred tax liabilities 352,234 182,928
+Other liabilities 2,145,705 2,083,729
+Total liabilities 57,780,078 48,348,329
+Net assets 3,751,596 3,170,145
+Represented by
+Share capital / head office capital account / Islamic Banking Fund 343,878 343,541
+Share Deposit Money 5,000 -
+Reserves 895,453 805,873
+Surplus / (deficit) on revaluation of assets 723,224 533,380
+Unappropriated profit / (Loss) / unremitted profit 1,757,532 1,462,985
+Total equity attributable to the equity holders of the Bank 3,725,087 3,145,779
+Non controlling interest 26,509 24,366
+3,751,596 3,170,145
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 59 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 60 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Consolidated statement of profit and loss account for the year ended 31 December 2025 For 22 Banks (Rs in Million) 2025 2024
+5,878,062 7,363,627
+Mark-up / return / Profit /interest earned
+Mark-up / return / Profit /interest expensed (3,640,879) (5,335,558)
+Net markup / interest income 2,237,183 2,028,069
+Non-markup / interest income
+Fee, commission and brokerage income 309,822 279,029
+Dividend income 26,018 22,142
+Share of profit of associates and joint ventures 18,268 16,968
+Foreign exchange income/(loss) 126,406 97,187
+Gain / (Loss) from derivatives 3,597 9,420
+Gain / (loss) on securities - net (Realized gain + Unrealized gain on HFT Inv) 92,490 136,081
+Other income 19,776 27,296
+Gain on disposal of associates - -
+Total non-markup interest income 596,377 588,123
+Total Income 2,833,560 2,616,192
+Non-mark-up / Interest expense
+Operating expenses 1,325,949 1,191,512
+Worker's welfare fund 26,185 25,294
+Other charges 3,147 3,015
+Total non-mark-up / interest expenses 1,355,281 1,219,821
+Profit before Provisions and Taxation 1,478,279 1,396,371
+(Reversal) / Provisions and write offs – net (14,186) 71,939
+Extraordinary / Unusual items - 354
+Profit before taxation 1,492,465 1,324,078
+Taxation (807,502) (692,653)
+Profit after taxation 684,963 631,425
+(Loss) / Gain from Discontinued operations (76) 938
+PAT from Cont. and Discontinued. Operations 684,887 632,363
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 60 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 61 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Capital Adequacy Ratio Current Deposit Mix Return on Avg. Asset Return on Avg. Equity Net Interest Margin
+2025 2024 2025 2024 2025 2024 2025 2024 2025 2024
+ABL 28.2% 27.0% 37.6% 36.4% 1.17% 1.72% 14.33% 20.38% 3.63% 4.80%
+Albaraka 17.6% 20.3% 27.8% 25.0% 0.64% 1.53% 8.56% 20.23% 4.66% 6.93%
+Askari 21.9% 21.5% 30.8% 28.5% 0.85% 0.92% 16.74% 19.31% 3.36% 2.88%
+BAF 15.7% 17.8% 38.2% 38.2% 0.74% 1.13% 14.61% 24.84% 4.17% 3.99%
+BAH 17.4% 18.3% 49.1% 45.1% 0.98% 1.38% 19.58% 29.31% 4.65% 5.47%
+BAML 11.6% (28.0%) 23.3% 22.4% 3.45% (1.77%) 55.24% 222.74% (0.68%) (2.04%)
+BOK 20.2% 17.8% 18.8% 19.8% 1.25% 0.84% 25.52% 17.13% 4.67% 3.82%
+BOP 14.2% 17.9% 23.2% 20.7% 0.58% 0.58% 15.89% 15.38% 3.07% 2.11%
+DIB 20.0% 22.2% 26.2% 28.0% 0.91% 1.51% 8.78% 16.25% 5.70% 7.80%
+Faysal 14.3% 16.7% 36.7% 38.0% 1.34% 1.63% 19.74% 23.79% 4.67% 6.20%
+HBL 18.3% 17.7% 35.9% 35.8% 0.97% 1.00% 14.85% 14.88% 4.26% 4.88%
+HMB 16.6% 18.9% 36.9% 43.7% 1.44% 1.66% 18.17% 23.52% 4.73% 5.57%
+Islami 16.7% 24.1% 42.2% 37.1% 0.80% 1.70% 12.41% 27.98% 5.68% 7.19%
+JS 14.6% 18.1% 39.7% 35.2% 0.54% 1.03% 9.55% 19.57% 5.46% 6.45%
+MCB 18.7% 18.7% 49.4% 45.3% 1.78% 2.23% 18.83% 23.99% 5.47% 6.74%
+MCBIB 17.5% 20.5% 30.5% 28.7% 0.71% 1.48% 8.49% 17.67% 5.11% 6.71%
+Meezan 19.4% 20.6% 47.5% 46.7% 2.11% 2.99% 34.02% 46.76% 5.97% 8.42%
+NBP 26.5% 28.1% 48.8% 50.3% 1.24% 0.40% 17.14% 6.15% 4.01% 2.88%
+Samba 24.4% 23.8% 23.3% 19.8% 0.37% 0.39% 4.04% 4.16% 3.15% 4.74%
+SCB 21.9% 23.5% 58.7% 47.8% 2.98% 4.47% 25.23% 43.06% 8.75% 10.48%
+Soneri 14.9% 17.7% 27.2% 27.4% 0.57% 0.84% 13.49% 19.86% 3.76% 3.94%
+UBL 21.0% 20.6% 50.7% 57.8% 1.26% 1.07% 31.48% 24.67% 3.18% 2.36%
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 61 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 62 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+`
+Operating Self Liquid assets Liquid assets Gross advances
+Cost Income Ratio Spread
+Sufficiency to total assets to total deposits to deposits
+2025 2024 2025 2024 2025 2024 2025 2024 2025 2024 2025 2024
+ABL 48.8% 39.4% 3.1% 4.6% 129.9% 128.2% 67.8% 53.3% 97.6% 74.6% 34.2% 52.9%
+Albaraka 76.1% 52.6% 5.4% 7.5% 115.2% 124.5% 46.6% 52.9% 56.0% 64.7% 57.1% 51.5%
+Askari 47.2% 45.2% 4.2% 4.8% 120.2% 112.0% 74.0% 65.9% 131.5% 120.9% 38.3% 53.8%
+BAF 63.6% 49.3% 5.8% 4.3% 118.1% 118.2% 59.6% 59.2% 91.7% 103.1% 46.2% 54.1%
+BAH 58.7% 44.0% 5.1% 3.1% 122.6% 120.7% 67.0% 64.8% 85.4% 94.5% 32.3% 42.1%
+BAML 121.3% (1835.0%) 1.3% 2.8% 357.8% 85.5% 54.3% 68.5% 68.7% 109.9% 23.7% 26.3%
+BOK 50.7% 57.7% 2.7% (1.6%) 127.9% 113.8% 67.6% 64.9% 81.0% 111.6% 37.2% 58.2%
+BOP 59.1% 70.6% 4.4% 0.6% 114.1% 107.1% 63.5% 60.0% 91.4% 83.5% 45.2% 48.5%
+DIB 69.3% 46.3% 7.9% 11.0% 122.8% 124.8% 33.5% 43.4% 44.8% 56.7% 76.4% 64.7%
+Faysal 56.6% 49.9% 5.9% 6.2% 132.1% 126.7% 41.1% 49.4% 51.1% 74.1% 63.6% 64.7%
+HBL 55.6% 56.3% 5.5% 3.7% 123.9% 115.2% 61.6% 46.9% 85.6% 65.0% 39.8% 58.9%
+HMB 42.6% 36.3% 5.5% 4.4% 136.1% 125.9% 58.5% 58.4% 88.5% 96.3% 52.2% 57.6%
+Islami 69.6% 43.5% 5.6% 5.7% 120.0% 127.8% 53.1% 52.9% 62.1% 69.8% 48.9% 58.5%
+JS 73.6% 56.9% 5.1% 5.2% 112.8% 114.8% 49.9% 51.4% 58.9% 64.6% 49.8% 53.1%
+MCB 40.1% 34.3% 4.7% 4.4% 150.7% 140.2% 63.9% 48.5% 90.5% 68.5% 34.4% 57.4%
+MCBIB 70.2% 50.5% 6.2% 5.3% 116.1% 123.5% 55.1% 54.3% 69.2% 79.9% 47.9% 58.6%
+Meezan 29.0% 25.3% 5.7% 9.0% 176.5% 174.6% 60.7% 55.3% 88.6% 83.7% 51.1% 60.2%
+NBP 40.6% 74.5% 6.6% 4.4% 126.8% 105.2% 73.3% 71.1% 117.1% 124.3% 36.5% 43.3%
+Samba 71.1% 58.8% 4.7% 4.5% 106.9% 121.7% 61.7% 59.7% 107.2% 101.7% 60.0% 61.7%
+SCB 28.1% 17.2% 10.8% 13.6% 218.4% 221.0% 67.5% 77.2% 90.6% 97.7% 35.7% 22.8%
+Soneri 67.2% 60.6% 3.2% 3.7% 114.3% 111.7% 66.7% 59.7% 82.5% 81.3% 32.2% 46.0%
+UBL 31.3% 37.6% 4.1% 2.1% 130.4% 114.2% 80.3% 75.8% 196.3% 231.7% 28.9% 59.3%
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 62 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 63 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Market Capitalization
+Infection Ratio Advances to total assets Earning per share Market Price
+(in million)
+2025 2024 2025 2024 2025 2024 2025 2024 2025 2024
+ABL 1.4% 1.2% 23.4% 37.3% 31.73 38.77 182.8 137.9 209,285 157,871
+Albaraka 7.9% 11.5% 43.6% 37.1% 1.36 2.94 - - - -
+Askari 5.3% 4.7% 20.2% 27.8% 15.77 14.58 100.6 38.3 145,742 55,465
+BAF 4.1% 3.7% 28.8% 29.8% 17.62 25.27 109.1 83.3 171,990 131,425
+BAH 4.3% 3.7% 23.9% 27.4% 29.19 37.70 186.6 131.4 207,436 146,075
+BAML 41.6% 70.0% 12.2% 5.2% 8.83 (1.00) 5.8 2.7 5,820 2,650
+BOK 8.9% 8.2% 28.0% 30.8% 5.02 3.12 34.9 14.8 40,389 17,103
+BOP 4.8% 6.5% 29.9% 32.7% 4.71 4.00 38.6 10.8 126,152 35,366
+DIB 7.6% 9.3% 53.1% 45.0% 3.51 5.73 - - - -
+Faysal 2.3% 3.6% 49.1% 40.5% 14.80 15.74 92.8 48.5 140,797 73,578
+HBL 4.6% 4.3% 26.9% 40.2% 45.48 39.85 323.4 174.5 474,395 255,907
+HMB 4.8% 4.8% 32.6% 32.9% 2 1.63 23.80 111.3 87.0 116,613 91,161
+Islami 6.8% 7.4% 37.9% 40.1% 5.42 10.67 33.0 23.0 36,554 25,467
+JS 7.6% 7.9% 38.3% 38.4% 2.84 5.03 16.9 9.1 34,595 18,579
+MCB 6.0% 4.6% 23.0% 38.7% 49.29 53.35 379.4 281.3 449,588 333,357
+MCBIB 1.9% 2.1% 37.2% 38.8% 1.47 2.73 - - - -
+Meezan 1.8% 1.6% 34.0% 38.7% 50.47 57.28 444.4 242.0 800,130 434,273
+NBP 13.8% 16.1% 18.9% 20.8% 39.97 12.21 242.2 66.9 515,241 142,373
+Samba 15.1(cid:8) 15.0% 29.4% 30.7% 0.72 0.69 14.2 9.3 14,357 9,326
+SCB 6.9% 8.8% 24.5% 16.2% 7.43 11.90 68.4 53.0 264,739 205,194
+Soneri 3.4% 3.2% 25.1% 32.7% 4.13 5.35 26.7 17.7 29,392 19,536
+UBL 7.5% 7.4% 10.8% 17.9% 52.13 30.7 424.6 189.1 1,063,279 463,022
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 63 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 64 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Indicative Financial Position
+(Assets as at 31 December 2025)
+Lendings to Loans and advances – Operating fixed assets
+Rupees in Mn Cash & Bank Investments Other assets Total Assets
+Financial Institutions Net of provision and Intangible assets
+ABL 185,064 2,140,315 - 789,950 152,768 107,517 3,375,614
+Albaraka 27,340 103,674 15,996 135,966 8,123 20,824 311,923
+Askari 123,977 2,028,241 14,128 586,122 43,741 101,281 2,897,490
+BAF 251,693 2,178,172 19,674 1,104,924 99,489 181,134 3,835,086
+BAH 197,616 2,031,294 24,454 791,491 99,747 164,907 3,309,509
+BAML 15,680 86,309 14,200 26,033 10,635 60,826 213,683
+BOK 28,615 274,957 3,439 126,706 6,802 12,781 453,300
+BOP 117,598 1,548,043 221,422 882,764 45,945 134,968 2,950,740
+DIB 29,541 106,409 35,206 237,283 15,503 23,167 447,109
+Faysal 110,732 636,088 - 872,024 71,340 86,827 1,777,011
+HBL 618,729 4,186,246 247,785 2,076,777 205,452 373,155 7,708,144
+HMB 102,647 859,675 45,951 551,696 27,354 104,358 1,691,681
+Islami 72,891 321,687 19,000 291,751 35,806 28,951 770,086
+JS 119,368 581,459 38,839 542,342 60,677 72,939 1,415,624
+MCB 253,050 2,099,046 99,042 821,712 117,579 188,313 3,578,742
+MCBIB 23,116 155,824 8,741 125,390 10,869 13,358 337,298
+Meezan 346,249 2,608,334 12,325 1,640,935 76,495 135,597 4,819,935
+NBP 409,471 4,924,847 46,000 1,337,739 77,341 282,999 7,078,397
+SAMBA 10,451 117,362 1,500 60,610 5,897 10,621 206,441
+SCB 100,576 478,413 12,480 214,151 38,586 28,665 872,871
+Soneri 62,846 479,247 30,598 214,324 27,611 37,850 852,476
+UBL 605,988 9,956,067 31,575 1,369,366 216,431 449,087 12,628,514
+Total 2025 3,813,238 37,901,709 942,355 14,800,056 1,454,191 2,620,125 61,531,674
+Total 2024 3,215,158 28,576,762 774,240 15,520,187 1,187,065 2,245,062 51,518,474
+Change 18.6% 32.6% 21.7% (4.6-%) 22.5% 16.7% 19.4%
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 64 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 65 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Indicative Financial Position
+(Liabilities and Equity as at 31 December 2025)
+Rupees in Mn Bills payable Borrowings Deposits Sub-ordinated loans Other liabilities Equity Total
+ABL 13,861 643,733 2,344,862 - 104,285 268,873 3,375,614
+Albaraka 8,547 4,378 259,643 3,124 14,178 22,053 311,923
+Askari 23,259 994,567 1,630,040 6,000 90,916 152,708 2,897,490
+BAF 56,958 832,128 2,495,389 14,000 236,400 200,211 3,835,086
+BAH 59,749 290,299 2,597,997 25,984 159,128 176,352 3,309,509
+BAML 2,750 7,405 168,856 1,496 9,460 23,717 213,684
+BOK 3,212 35,698 378,123 - 12,589 23,677 453,299
+BOP 9,139 624,808 2,050,948 30,813 131,711 103,321 2,950,740
+DIB 8,027 15,943 334,681 7,120 33,161 48,178 447,110
+Faysal 33,288 121,637 1,426,836 - 77,488 117,761 1,777,010
+HBL 59,423 1,216,020 5,546,000 20,374 377,713 488,615 7,708,145
+HMB 29,736 298,635 1,118,287 - 110,950 134,074 1,691,682
+Islami 9,895 14,613 658,990 3,000 35,066 48,521 770,085
+JS 17,735 40,741 1,199,432 11,491 65,102 81,124 1,415,625
+MCB 31,133 476,169 2,529,503 - 204,758 337,179 3,578,742
+MCBIB 5,515 22,370 268,934 - 12,710 27,768 337,297
+Meezan 73,768 887,048 3,302,337 16,990 251,594 288,198 4,819,935
+NBP 20,817 1,689,657 4,427,668 - 402,329 537,926 7,078,397
+SAMBA 2,411 52,207 118,927 4,991 9,105 18,800 206,441
+SCB 16,839 14,677 650,141 - 80,752 110,462 872,871
+Soneri 17,083 61,644 689,106 7,995 39,860 36,786 852,474
+UBL 58,632 6,530,015 5,168,090 10,000 356,486 505,292 12,628,515
+Total 2025 561,777 14,874,392 39,364,790 163,378 2,815,741 3,751,596 61,531,674
+Total 2024 708,053 13,516,845 31,434,234 173,395 2,515,802 3,170,145 51,518,474
+Change (20.7%) 10.0% 25.2% (5.8%) 11.9% 18.3% 19.4%
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 65 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 66 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Indicative Income Statement
+(for the year ended 31 December 2025)
+Net Markup / Non-Markup / Operating Profit before Net Provision / Profit / (Loss) Profit / (Loss) from Profit / (Loss)
+Rupees in Mn Taxation
+Interest Income Interest Income expenses provisions (Reversal) before tax discontinuing operations after tax
+ABL 105,105 31,743 66,823 68,151 (7,641) 75,792 39,463 0 36,329
+Albaraka 11,958 2,568 11,049 3,376 (726) 4,102 2,233 0 1,869
+Askari 87,704 18,658 50,248 55,471 1,819 53,652 30,628 0 23,024
+BAF 135,883 47,387 116,521 65,273 3,310 61,963 34,087 (76) 27,800
+BAH 130,970 31,959 95,632 65,813 (2,389) 68,202 35,735 0 32,467
+BAML (858) 7,958 8,614 (1,897) (21,030) 19,133 10,302 0 8,831
+BOK 19,001 4,125 11,725 11,401 (881) 12,282 6,466 0 5,816
+BOP 81,136 19,996 59,726 40,374 4,980 35,394 19,864 0 15,530
+DIB 21,580 4,349 17,961 7,626 (1,818) 9,444 5,354 0 4,090
+Faysal 69,695 32,646 57,909 43,390 (4,879) 48,269 25,800 0 22,469
+HBL 275,501 85,606 200,700 157,214 9,123 148,091 81,327 0 66,764
+HMB 68,109 24,735 39,524 52,004 1,996 50,008 26,847 0 23,161
+Islami 35,684 9,515 31,457 13,335 (632) 13,967 7,962 0 6,005
+JS 63,056 24,032 64,072 22,211 2,910 19,301 11,762 0 7,539
+MCB 161,203 44,230 82,414 120,052 (5,067) 125,119 66,344 0 58,775
+MCBIB 14,731 2,636 12,197 5,039 132 4,907 2,628 0 2,279
+Meezan 252,455 41,580 85,405 204,183 3,886 200,297 108,120 0 92,177
+NBP 248,620 69,633 129,235 188,979 9,196 179,783 93,905 0 85,878
+SAMBA 5,593 2,128 5,491 2,199 644 1,555 829 0 726
+SCB 61,463 19,090 22,664 56,681 (1,811) 58,492 29,712 0 28,780
+Soneri 27,042 8,133 23,622 10,951 (654) 11,605 7,048 0 4,557
+UBL 361,552 63,670 132,960 286,453 (4,654) 291,107 161,086 0 130,021
+Total 2025 2,237,183 596,377 1,325,949 1,478,279 (14,186) 1,492,465 807,502 (76) 684,887
+Total 2024 2,028,069 588,123 1,191,512 1,396,371 71,939 1,324,078 692,653 938 632,363
+Change 10.3% 1.4% 11.3% 5.9% (119.7%) 12.7% 16.6% (108.1%) 8.3%
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 66 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 67 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Definitions
+Average Advances The average of opening and closing gross advances at two-year ends.
+Average Assets The average of opening and closing total assets at two-year ends.
+Average Deposits The average of opening and closing deposits at two-year ends.
+Average Equity The average of opening and closing equity at two-year ends.
+Annual Increase The percentage change compared to the previous year.
+Annualised Increase The percentage change over the last two years on annualised basis.
+CASA Current and saving deposits to total deposits.
+Equity Equity includes share capital / head office capital account, reserves, unappropriated profit / accumulated losses,
+non-controlling interest and surplus / deficit on revaluation of assets.
+Gross Advances Loans, cash credits, overdrafts, ijarah, etc. and local & foreign bills discounted & purchased before provisions.
+Impairment Cover Number of times impairment charge on advances and investments is covered by net profits before charging impairment.
+Interest Bearing Assets Interest bearing assets means cash and balances with treasury banks, balances with other banks, lending to financial
+institutions, fixed income investments and advances (excluding non-performing assets).
+Interest Bearing Liabilities Interest bearing liabilities means borrowings, deposits and other accounts, sub-ordinated loans and liabilities against
+assets subject to finance lease.
+Market Capitalization Product of total outstanding number of ordinary shares and market price per share as at year end.
+Non-funded Income Fee, commission & brokerage, rent, income from dealing in foreign currencies, profit on sale of fixed & other
+assets and other non-fund receipts.
+Non-mark-up / Non-Interest Fee, commission and brokerage income, dividend income, income from dealing in foreign currencies / derivatives,
+Income / Other Income gain on sale of securities, unrealised profit on revaluation of investments classified as held for trading, share of profit
+from joint venture and associate and other income.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 67 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 68 =====
+Financial Performance Workforce and Talent
+Summary Perspective Economic Environment The Future of Banking Regulatory Landscape In the News Numbers and Ratios
+Highlights Transformation
+Definitions
+Net Interest Margin Mark-up / return / interest earned (before provisions) as a percentage of interest-bearing assets less mark-up / return /
+interest expensed as a percentage of interest-bearing liabilities.
+Non-Performing Advances Classified advances that fulfil the criteria of non-performing advances as specified in the Prudential Regulations
+issued by the State Bank of Pakistan.
+Net Provisions Charge & reversal of provision against non-performing advances, against off balance sheet obligations,
+for diminution in value of investments, bad debts directly written-off and recoveries of previously written-off debts.
+Other Comprehensive Income Includes effect of translation of net investment in foreign branches, gains and losses on re-measurement
+of actuarial liability, surplus / (deficit) on revaluation of fixed assets and investments, surplus / (deficit) arising
+on revaluation of assets of associated undertaking.
+Operating Cost All expenses charged to arrive at profit before tax excluding cost of funds and provisions.
+Other Liabilities Other liabilities include deferred tax liabilities and liabilities against assets subject to finance lease.
+Return on Average Assets Profit after tax as a percentage of average total assets.
+Return on Average Equity Profit after tax as a percentage of average equity.
+Right-of-Use Assets An asset that represents a lessee’s right to use an underlying asset for the lease term.
+Spread Difference between mark-up / return / interest earned on advances as a percentage of average advances
+(net of provision), at two-year ends, and mark-up / return / interest expense of deposits as a percentage of
+average deposits, at two-year ends.
+Taxation Charge for current (including prior) and deferred taxation in the profit and loss account.
+Total Income Sum of net mark-up income and non-mark-up income.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization of
+independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 68 | Pakistan Banking Perspective 2026
+
+
+===== PAGE 69 =====
+KPMG Taseer Hadi & Co.
+Chartered Accountants
+Karachi Office Explore KPMG @ home.kpmg/pk Read Banking Perspective 2026
+Sheikh Sultan Trust Building No. 2 Beaumont Road, Karachi 75300
+Phone +92 (21) 3713 1900
+Fax +92 (21) 3568 5095
+E-Mail pk-fmkpmgpakistan@kpmg.com
+Lahore Office
+351-Shadman-1 Main Jail Road, Lahore
+Phone +92 (42) 111-KPMGTH (576484)
+Fax +92 (42) 3742 9907
+E-Mail pk-fmkpmgpakistan@kpmg.com
+Project Team
+Islamabad Office
+Sixth Floor, State Life Building Blue Area, Islamabad
+Phone +92 (51) 282 3558
+Fax +92 (51) 282 2671
+E-Mail pk-fmkpmgpakistan@kpmg.com
+Aamir Abdul Malik Muhammad Atif
+home.kpmg/pk Kubra Batool Ayesha Hussain
+Muhammad Nazar Malik Haider Iqbal
+The information contained herein is of a general nature and is not intended
+to address the circumstances of any particular individual or entity. Although Shakti Kumar Danial Hemani
+we endeavour to provide accurate and timely information, there can be no
+Hadia Khan Kumail Haider
+guarantee that such information is accurate as of the date it is received or
+that it will continue to be accurate in the future. No one should act on such Muhammad Hunain Mahnoor Hamid
+information without appropriate professional advice after a thorough
+examination of the particular situation.
+© 2026 KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan
+and a member firm of the KPMG global organization of independent
+member firms affiliated with KPMG International Limited, a private English
+company limited by guarantee. All rights reserved.
+The KPMG name and logo are registered trademarks or trademarks of
+KPMG International.

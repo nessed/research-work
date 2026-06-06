@@ -1,8 +1,17 @@
-datalab_master/
+# Local assistant state
+.claude/settings.local.json
+
+# Local tool installs
 codex.exe
 install.ps1
-local_tools/codex/codex.exe
-local_tools/codex/install.ps1
+local_tools/codex/
+
+# Raw source corpus: keep bulky originals local, but let manifests/docs be tracked.
+datalab_master/Master Data/**/*.pdf
+datalab_master/Master Data/**/*.docx
+datalab_master/Master Data/**/*.zip
+
+# Generated check artifacts
 agentic/02_pdf_to_md/education_pdf_check_pages/
 
 # Common OS/editor noise

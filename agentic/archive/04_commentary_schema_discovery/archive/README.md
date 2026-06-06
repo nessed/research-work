@@ -15,5 +15,8 @@ cleanup does not erase provenance.
 Status:
 
 - Archived evidence only.
-- Active schema-discovery outputs live in `schema/`, `pattern_scan/`,
-  `stress_tests/`, and `extraction_pilots/`.
+- Completed schema-discovery and hardening evidence is retained in the parent
+  folder's `schema/`, `pattern_scan/`, `stress_tests/`, and
+  `extraction_pilots/` directories.
+- The active pipeline now uses this evidence as the schema reference for
+  `Claims JSON`; schema hardening is not a separate recurring stage.

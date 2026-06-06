@@ -61,15 +61,16 @@ This section is changeable. Overwrite it only after major task milestones, not a
 
 Current live state:
 
-- Active area: `agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/`
-- Current major task: maintain a hardened, reproducible 2015-16 PES Markdown working corpus for commentary extraction pilots.
+- Active pipeline outline: PDF -> MD -> Sections -> Claims JSON -> Normalize -> Export.
+- Current major task: continue from reviewed section outputs into controlled Claims JSON extraction when Ali asks.
 - Completed baseline: `agentic/01_pes_folder_map/`
 - Folder map output: `pes_folder_tree.json`
 - Folder map result: PASS / High confidence; 10 year folders, 287 PDFs, no filesystem count/path/size mismatches.
-- Current PDF-to-MD run: hardened PyMuPDF4LLM 2015-16 run with retained conversion/QA scripts, manifest/log evidence, and PASS headless QA for structure and deterministic prose fidelity.
-- Current schema work: `agentic/03_commentary_schema_discovery/` has a frozen working schema v0.1 plus stress tests and extraction pilot outputs.
+- PDF-to-MD runs: retained under `agentic/02_pdf_to_md/runs/` with conversion/QA scripts, manifest/log evidence, and QA reports.
+- Section runs: retained under `agentic/03_section_splitting/runs/`; section manifests must record included and excluded inputs because folder year is not automatically source year.
+- Schema discovery/hardening work: `agentic/04_commentary_schema_discovery/` is completed provenance for Claims JSON extraction, not an active recurring pipeline stage.
 - Raw PDFs were not modified.
-- No final commentary extraction, mass processing, family mapping, or database import has started.
+- No production Claims JSON normalization, export, family mapping, or database import has started.
 
 Update policy: overwrite this LIVE section only after a major task milestone. Keep only current status, key outputs, blockers, and next immediate task. Move old detail into the relevant task folder, not this file.
 
