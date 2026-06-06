@@ -14,9 +14,11 @@ source-PDF QA.
 
 Note on paths: active schema-discovery outputs now live under
 `agentic/03_commentary_schema_discovery`. The 29 Markdown source files reviewed
-were present under `agentic/02_pdf_to_md/2015-16_pymupdf4llm`. Earlier copies
-that were briefly written under `processed_pdfs/2015-16_pymupdf4llm` have been
-archived under `archive/initial_processed_pdfs_location`.
+are now under
+`agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md`.
+Earlier copies that were briefly written under
+`processed_pdfs/2015-16_pymupdf4llm` have been archived under
+`archive/initial_processed_pdfs_location`.
 
 ## Corpus Reviewed
 

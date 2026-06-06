@@ -1,0 +1,382 @@
+{
+  "generated_at_utc": "2026-06-06T16:20:50+00:00",
+  "overall_status": "PASS",
+  "structural_checks": {
+    "status": "PASS",
+    "issues": [],
+    "pdfs_found": 29,
+    "manifest_entries": 29,
+    "conversion_log_entries": 29,
+    "failed_conversions": 0,
+    "missing_outputs": [],
+    "zero_byte_outputs": [],
+    "hash_mismatches": [],
+    "page_marker_mismatches": []
+  },
+  "prose_fidelity_checks": {
+    "status": "PASS",
+    "seed": 20260606,
+    "sample_count": 29,
+    "status_counts": {
+      "PASS": 29
+    },
+    "samples": [
+      {
+        "source_file_name": "Agriculture.pdf",
+        "page": 41,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 2.15 LIVESTOCK PRODUCTS (000 Tonnes) Fiscal Milk* Beef Mutton Poultry Wool Hair Bones Fats Blood Eggs Hides Skins Year Meat (Mln.Nos.)(Mln.Nos.)(Mln.Nos.) 2000-01 26,284 1,010 666 339 39.2 18.6 331.4 123.5 41.8 7,505 7.8 38.2 2001-02 ",
+        "markdown_snippet": "## **TABLE 2.15** ## **LIVESTOCK PRODUCTS** ||||||||||||**(000**|**Tonnes)**| |---|---|---|---|---|---|---|---|---|---|---|---|---| |**Fiscal**|**Milk***|**Beef**|**Mutton **|**Poultry**|**Wool**|**Hair**|**Bones**|**Fats**|**Blood**|**Eggs"
+      },
+      {
+        "source_file_name": "Annexure_I_Contingent.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9885,
+        "source_snippet": "ANNEXURE-I Contingent Liabilities Contingent Liabilities Introduction Contingent liabilities are conditional obligations that arise from past events that may require an outflow of resources embodying economic benefits based on the occurrenc",
+        "markdown_snippet": "**ANNEXURE-I** **==> picture [73 x 73] intentionally omitted <==** ## **Contingent Liabilities** ## **Contingent Liabilities** ## **Introduction** Contingent liabilities are conditional obligations that arise from past events that may requi"
+      },
+      {
+        "source_file_name": "Annexure_Ii_Tax_Expenditure.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9418,
+        "source_snippet": "ANNEXURE-II Tax Expenditure Tax expenditure for fiscal year 2015-16 has been estimated at Rs.394.593 billion. Detailed estimates are highlighted below: Income Tax Tax expenditure in respect of direct taxes during 2015-16 has been reflected ",
+        "markdown_snippet": "**ANNEXURE-II** **==> picture [73 x 73] intentionally omitted <==** ## **Tax Expenditure** Tax expenditure for fiscal year 2015-16 has been estimated at Rs.394.593 billion. Detailed estimates are highlighted below: ## **Income Tax** Tax exp"
+      },
+      {
+        "source_file_name": "Annexure_Iii_Poverty.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.9955,
+        "source_snippet": "Pakistan Economic Survey 2015-16 286 Table-2: Headcount MPI Incidence (%) 2004-05 2006-07 2008-09 2010-11 2012-13 2014-15 National Rural 70.3 69.5 65.2 62.3 56.0 54.6 Urban 24.0 19.4 17.3 13.9 10.1 9.3 Overall 55.2 52.5 49.3 46.5 40.8 38.8 ",
+        "markdown_snippet": "**Pakistan Economic Survey 2015-16** |**Table-2: Headcount MPI Incidence (%)**|**Table-2: Headcount MPI Incidence (%)**|**Table-2: Headcount MPI Incidence (%)**|||||| |---|---|---|---|---|---|---|---| |||**2004-05**|**2006-07**|**2008-09**|"
+      },
+      {
+        "source_file_name": "Annexure_Iv_War_On_Terror.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "ANNEXURE-IV Impact of War in Afghanistan and Ensuing Terrorism on Pakistan’s Economy The conflict and instability in Afghanistan in the aftermath of 9/11 terrorist attacks and their regional implications had immense negative consequences fo",
+        "markdown_snippet": "**ANNEXURE-IV** **==> picture [73 x 73] intentionally omitted <==** ## **Impact of War in Afghanistan and Ensuing Terrorism on Pakistan’s Economy** The conflict and instability in Afghanistan in the aftermath of 9/11 terrorist attacks and t"
+      },
+      {
+        "source_file_name": "Capital_Markets.pdf",
+        "page": 6,
+        "status": "PASS",
+        "token_overlap": 0.9306,
+        "source_snippet": "Pakistan Economic Survey 201 102 Table 6.3: Price Earning Ratio of Oil & Gas Dev.Co Pak Tobacco Ltd. Nestle Pakistan Ltd. Pak Petroleum Ltd. Habib Bank Ltd MCB Bank Limited United Bank Ltd. Lucky Cement Limited Engro Corporation Limited Fau",
+        "markdown_snippet": "## **Pakistan Economic Survey 2015-16** |**Table 6.3: Price Earning Ratio of**<br>**Top Fifteen Companies**|**Table 6.3: Price Earning Ratio of**<br>**Top Fifteen Companies**|**Table 6.3: Price Earning Ratio of**<br>**Top Fifteen Companies*"
+      },
+      {
+        "source_file_name": "Economic_Indicators.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "SOCIAL INDICATORS 2005-06 2006-07 2007-08 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 Jul-Mar (P) 13.8 4.5 18.0 -6.4 2.9 28.9 -2.6 0.4 1.1 -3.9 -9.1 31.4 8.0 31.6 -10.3 -1.7 14.9 12.8 -0.6 3.8 -0.9 -5.2 10.4 19.4 17.4 21",
+        "markdown_snippet": "## **SOCIAL INDICATORS** ## **2005-06 2006-07 2007-08 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16** Jul-Mar (P) |**13.8**|**4.5**|**18.0**|**-6.4**|**2.9**|**28.9**|**-2.6**|**0.4**|**1.1**|**-3.9**|**-9.1**| |---|---|--"
+      },
+      {
+        "source_file_name": "Education.pdf",
+        "page": 3,
+        "status": "PASS",
+        "token_overlap": 0.8917,
+        "source_snippet": "B. Net Enrolment Rates: Net Enrolment Rates (NER) at refers to the number of stud primary schools of age 5 to 9 ye number of children in the same level of education. In Pakis primary NER is the number of c 9 years attending primary level th",
+        "markdown_snippet": "## **Education** **==> picture [348 x 168] intentionally omitted <==** **----- Start of picture text -----**<br> Fig-10.2: Gross Enrollment Rate Male Female<br>120<br>101 102<br>97<br>100 92<br>87 87<br>81<br>77<br>80 70<br>60 51<br>40<br>2"
+      },
+      {
+        "source_file_name": "Energy.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.99,
+        "source_snippet": "Pakistan Economic Survey 2015-16 240 Figure 2: Comparison of Quantity and Value of Petroleum Crude Imported July to April FY 2016 and FY 2015 Source: Pakistan Bearue of Statistics Contrary to neighboring countries response to decline in oil",
+        "markdown_snippet": "## **Pakistan Economic Survey 2015-16** **==> picture [468 x 184] intentionally omitted <==** **----- Start of picture text -----**<br> Figure 2: Comparison of Quantity and Value of Petroleum Crude Imported July to April FY 2016 and FY 2015"
+      },
+      {
+        "source_file_name": "Environment.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 0.9956,
+        "source_snippet": "Environment 271 The National Water Quality Monitoring Programme (NWQMP). The outcome of all five phases of NWQMP has led to the realization that the federal, Provincial and local governments need to take immediate initiatives for the provis",
+        "markdown_snippet": "**Environment** The National Water Quality Monitoring Programme (NWQMP). The outcome of all five phases of NWQMP has led to the realization that the federal, Provincial and local governments need to take immediate initiatives for the provis"
+      },
+      {
+        "source_file_name": "Fiscal_Development.pdf",
+        "page": 11,
+        "status": "PASS",
+        "token_overlap": 0.9303,
+        "source_snippet": "Table 4.7: Transfers to Provinces Total Transfer to Province Interest Payment Loan Repayment Transfer to Province(Net) Source: Various issue of Budget in B During FY2015, provinces pos Rs.87.3 billion against Rs.196.9 on account of lower gr",
+        "markdown_snippet": "## **Fiscal Development** |**Table 4.7: Transfers to Provinces**<br>**(NET)**<br>**(Rs. Billion)**|**Table 4.7: Transfers to Provinces**<br>**(NET)**<br>**(Rs. Billion)**|**Table 4.7: Transfers to Provinces**<br>**(NET)**<br>**(Rs. Billion)"
+      },
+      {
+        "source_file_name": "Growth_And_Investment.pdf",
+        "page": 25,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 1.3 (%) Sector 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 F R P A. Agriculture 3.50 0.23 1.96 3.62 2.68 2.50 2.53 -0.19 1. Crops 5.16 -4.16 0.99 3.22 1.53 2.64 1.04 -6.25 Important Crops 8.42 -3.74 1.50 7.87 0.17 ",
+        "markdown_snippet": "## **TABLE 1.3** **Growth Rates (%)** ||||||||||**(%)**| |---|---|---|---|---|---|---|---|---|---| |**Sector**||**2008-09**|**2009-10**|**2010-11**|**2011-12**|**2012-13**|**2013-14**|**2014-15**|**2015-16**| ||||||||**F**|**R**|**P**| |**A"
+      },
+      {
+        "source_file_name": "Health.pdf",
+        "page": 9,
+        "status": "PASS",
+        "token_overlap": 0.9954,
+        "source_snippet": "Health and Nutrition 197 guidance notes & inter-sectoral nutrition strategies in order to provide strategic direction to reduce malnutrition in the country. \u0001 National Secretariat for Scaling UP Nutrition (SUN) Movement has been established",
+        "markdown_snippet": "**Health and Nutrition** guidance notes & inter-sectoral nutrition strategies in order to provide strategic direction to reduce malnutrition in the country. � National Secretariat for Scaling UP Nutrition (SUN) Movement has been established"
+      },
+      {
+        "source_file_name": "Highlights_2015_16.pdf",
+        "page": 11,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "9 percent of GDP in 15 years, starting from 2018-19 and to limit statutorily the federal fiscal deficit to 4 percent through introduction of an amendment bill in the Parliament for necessary changes in the Fiscal Responsibility and Debt Lim",
+        "markdown_snippet": "**==> picture [11 x 15] intentionally omitted <==** **==> picture [4 x 15] intentionally omitted <==** **==> picture [12 x 16] intentionally omitted <==** **==> picture [11 x 15] intentionally omitted <==** **==> picture [9 x 15] intentiona"
+      },
+      {
+        "source_file_name": "Inflation.pdf",
+        "page": 7,
+        "status": "PASS",
+        "token_overlap": 0.9908,
+        "source_snippet": "Inflation 121 Table 7.9: (%) Change in prices of non-food major items of WPI Items Weight % change July-Apr (2015-16) Impact Natural Gas Liquefied 5.74 2.04 0.12 Footwear 0.16 1.82 0.00 Soaps & Detergent 0.82 1.76 0.01 Cotton Fabrics 0.63 1",
+        "markdown_snippet": "## **Inflation** |**Table 7.9: (%) Change in prices of non-food major items of WPI**|**Table 7.9: (%) Change in prices of non-food major items of WPI**|**Table 7.9: (%) Change in prices of non-food major items of WPI**|**Table 7.9: (%) Chan"
+      },
+      {
+        "source_file_name": "Manufacturing.pdf",
+        "page": 29,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 3.6 PERCENT GROWTH OF SELECTED INDUSTRIAL ITEMS (in %) Cotton Cotton Jute Veg.Ghee Cigarettes Fertilizers Cement Soda Ash Caustic Sugar Yarn Cloth Goods Soda 2000-01 3.10 12.10 4.60 19.60 24.02 11.10 3.80 (11.30) 3.00 21.70 2001-02 5.",
+        "markdown_snippet": "## **TABLE 3.6** **PERCENT GROWTH OF SELECTED INDUSTRIAL ITEMS** |||||||||||**(in %)**| |---|---|---|---|---|---|---|---|---|---|---| ||**Cotton**|**Cotton**|**Jute**|**Veg.Ghee**|**Cigarettes**|**Fertilizers**|**Cement**|**Soda Ash**|**Cau"
+      },
+      {
+        "source_file_name": "Money_And_Credit.pdf",
+        "page": 14,
+        "status": "PASS",
+        "token_overlap": 0.9955,
+        "source_snippet": "Pakistan Economic Survey 2015-16 92 Rs.1.61 trillion compared to Rs.1.3 trillion in 2014, hence registered a growth of 27.87 percent. Whereas, deposits of the (IBI) reached to Rs.1.4 trillion in 2015 as compared to Rs.1.1 trillion during 20",
+        "markdown_snippet": "## **Pakistan Economic Survey 2015-16** Rs.1.61 trillion compared to Rs.1.3 trillion in 2014, hence registered a growth of 27.87 percent. Whereas, deposits of the (IBI) reached to Rs.1.4 trillion in 2015 as compared to Rs.1.1 trillion durin"
+      },
+      {
+        "source_file_name": "Overview_Of_The_Economy.pdf",
+        "page": 14,
+        "status": "PASS",
+        "token_overlap": 0.9904,
+        "source_snippet": "Pakistan Economic Survey 2015-16 xiv gas for power generation. All these efforts will improve the energy mix whereby, reducing dependence on oil for power generation, and ensure reasonable tariffs for consumers, ultimately leading to financ",
+        "markdown_snippet": "**Pakistan Economic Survey 2015-16** gas for power generation. All these efforts will improve the energy mix whereby, reducing dependence on oil for power generation, and ensure reasonable tariffs for consumers, ultimately leading to financ"
+      },
+      {
+        "source_file_name": "Population.pdf",
+        "page": 17,
+        "status": "PASS",
+        "token_overlap": 0.9936,
+        "source_snippet": "TABLE 12.1 POPULATION Year Popu- Labour Civilian Employed Crude Crude Infant Growth lation Force Labour Total Birth Death Mortality Rate (mln) Participation Force (mln) Rate Rate Rate Rate(%) (mln) 2000 139.55 28.97 40.38 37.22 - - - 2.60 2",
+        "markdown_snippet": "## **TABLE 12.1** ## **POPULATION** |**POPULATION**|| |---|---| |**Year**<br>**Popu-**<br>**Labour**<br>**Civilian**<br>**Employed**<br>**lation**<br>**Force**<br>**Labour**<br>**Total**<br>**(mln)**<br>**Participation**<br>**Force**<br>**("
+      },
+      {
+        "source_file_name": "Public_Debt.pdf",
+        "page": 27,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 9.4 DEBT SERVICE PAYMENTS OF FOREIGN LOANS (Paid in Foreign Exchange) US$ Million Kind 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 (July-Mar ) Fiscal Year III. Principal 511.695 626.773 714.870 737.087 728.130 721.223 542.",
+        "markdown_snippet": "**TABLE 9.4** **DEBT SERVICE PAYMENTS OF FOREIGN LOANS (Paid in Foreign Exchange)** |**TABLE 9.4**<br>**DEBT SERVICE PAYMENTS OF FOREIGN LOANS (Paid in Foreign Exchange)**|**TABLE 9.4**<br>**DEBT SERVICE PAYMENTS OF FOREIGN LOANS (Paid in F"
+      },
+      {
+        "source_file_name": "Research_Team.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TEAM LEADER S. Ejaz Wasti Economic Adviser Dr. Imtiaz Ahmad  Joint Economic Adviser M. Shamim Wazir  Joint Economic Adviser Absar Hasan Siddiqui  Deputy Economic Adviser Zaila Husnain  Deputy Economic Adviser (Current Charge) Ahmad Khan",
+        "markdown_snippet": "## **RESEARCH TEAM** ## TEAM LEADER ## **S. Ejaz Wasti** Economic Adviser **==> picture [435 x 422] intentionally omitted <==** **----- Start of picture text -----**<br> Financial Sector Social Sector<br>Dr. Imtiaz Ahmad M. Shamim Wazir<br>"
+      },
+      {
+        "source_file_name": "Social_Safety.pdf",
+        "page": 6,
+        "status": "PASS",
+        "token_overlap": 0.9959,
+        "source_snippet": "Pakistan Economic Survey 2015-16 258 Box-I: Donor’s Support to BISP Benazir Income Support Programme (BISP) has achieved international recognition due to its stringent targeting mechanism, innovative design and transparent systems. The UN S",
+        "markdown_snippet": "## **Pakistan Economic Survey 2015-16** ## **Box-I: Donor’s Support to BISP** Benazir Income Support Programme (BISP) has achieved international recognition due to its stringent targeting mechanism, innovative design and transparent systems"
+      },
+      {
+        "source_file_name": "Supplement_2017_18.pdf",
+        "page": 124,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 8.9 Year Quantity U.V. Quantity U.V. Quantity U.V. 000 mt Rs/mt 000 kg Rs/kg 000 kg Rs/kg 2000-01 80 10,922 111,867 107.54 1,143,538 16.65 2001-02 267 11,437 99,396 96.69 1,196,807 19.42 2002-03 148 11,486 108,147 93.35 1,293,539 26.5",
+        "markdown_snippet": "**TABLE 8.9** ## **QUANTITY & UNIT VALUE OF SELECTED IMPORTS** **==> picture [417 x 275] intentionally omitted <==** **----- Start of picture text -----**<br> Wheat unmilled Tea Edible Oil<br>Year Quantity U.V. Quantity U.V. Quantity U.V.<b"
+      },
+      {
+        "source_file_name": "Supplement_2018_19.pdf",
+        "page": 162,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "POPULATION, LABOUR FORCE & EMPLOYMENT HIGHLIGHTS Units 2018 Area Sq. Kms. 796,096 Population Million 212.82 Density Person per Km. 267 Population Dynamics Growth Rate Percent 2.40 Crude Birth Rate Per thousand 25.20 Crude Death Rate Per tho",
+        "markdown_snippet": "## **POPULATION, LABOUR FORCE & EMPLOYMENT** **==> picture [453 x 388] intentionally omitted <==** **----- Start of picture text -----**<br> HIGHLIGHTS Units 2018<br>Area Sq. Kms. 796,096<br>Population Million 212.82<br>Density Person per K"
+      },
+      {
+        "source_file_name": "Supplement_2019_20.pdf",
+        "page": 138,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 8.13 US $ million COUNTRY 2000-01 2001-02 2002-03 2003-04 2004-05 2005-06 2006-07 2007-08 2008-09 2009-10 I. Cash Flow 1,021.59 2,340.79 4,190.73 3,826.16 4,152.29 4,588.03 5,490.97 6,448.84 7,810.95 8,904.88 Bahrain 23.87 39.58 71.46",
+        "markdown_snippet": "## **TABLE 8.13** ## **WORKERS' REMITTANCES** ||||||||||**US**|**$ million**| |---|---|---|---|---|---|---|---|---|---|---| |**COUNTRY**|**2000-01**|**2001-02**|**2002-03**|**2003-04**|**2004-05**|**2005-06**|**2006-07**|**2007-08**|**2008-"
+      },
+      {
+        "source_file_name": "Supplement_2020_21.pdf",
+        "page": 90,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 6.2 LOANS DISBURSED BY DFIs & OTHER FINANCIAL INSTITUTIONS Rs. billion 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 1. - - - - - - - - - - 2. - - - - - - - - - - 3. - - - - - - - - - - 4. - - - - - -",
+        "markdown_snippet": "## **TABLE 6.2** **LOANS DISBURSED BY DFIs & OTHER FINANCIAL INSTITUTIONS** **Rs. billion** ||**Name of Institution**|**2011-12**|**2012-13**|**2013-14**|**2014-15**|**2015-16**|**2016-17**|**2017-18**|**2018-19**|**2019-20**|**2020-21**| |"
+      },
+      {
+        "source_file_name": "Supplement_2021_22.pdf",
+        "page": 176,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 12.9 LABOUR FORCE AND EMPLOYMENT In Million Mid Year 2009-10 2010-11 2011-12* 2012-13 2013-14 2014-15 2017-18 2018-19 2020-21 Population 172.57 176.20 180.71 183.57 186.19 189.19 206.62 214.49 222.44 Rural 105.70 107.00 120.10 121.66 ",
+        "markdown_snippet": "## **TABLE 12.9** ## **LABOUR FORCE AND EMPLOYMENT** **In Million** |**Mid Year**|**2009-10**|**2010-11**|**2011-12***|**2012-13**|**2013-14**|**2014-15**|**2017-18**|**2018-19**|**2020-21**| |---|---|---|---|---|---|---|---|---|---| |**Pop"
+      },
+      {
+        "source_file_name": "Trade.pdf",
+        "page": 25,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 8.4 UNIT VALUE INDICES AND TERMS OF TRADE (T.O.T) (1990-91 = 100) 2014-15 2015-16 P All Groups Exports 350.40 450.40 478.07 593.19 679.44 715.45 752.86 759.21 761.67 705.73 Imports 632.30 790.82 839.60 1,013.10 1,233.49 1,329.56 1,387",
+        "markdown_snippet": "## **TABLE 8.4** ## **UNIT VALUE INDICES AND TERMS OF TRADE (T.O.T) (1990-91 = 100)** |**Groups**<br>**2009-10**<br>**2013-14**<br>**2012-13**<br>**2008-09**<br>**2010-11**<br>**2011-12**<br>**2007-08**<br>**2014-15**|**July-March**|**July-"
+      },
+      {
+        "source_file_name": "Transport.pdf",
+        "page": 20,
+        "status": "PASS",
+        "token_overlap": 0.9678,
+        "source_snippet": "Pakistan Economic Survey 2015-16 234 The same is implemented at all 83 GPOs automated GPOs throughout Pakistan. Over 46.5 million money orders have been issued upto 31st March, 2016 and an amount of around Rs. 124.430 billion has been disbu",
+        "markdown_snippet": "## **Pakistan Economic Survey 2015-16** The same is implemented at all 83 GPOs automated GPOs throughout Pakistan. Over 46.5 million money orders have been issued upto 31[st] March, 2016 and an amount of around Rs. 124.430 billion has been "
+      }
+    ]
+  },
+  "placeholder_checks": {
+    "status": "INFO",
+    "total_omitted_picture_placeholders": 1205,
+    "files": [
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Agriculture.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Annexure_I_Contingent.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Annexure_Ii_Tax_Expenditure.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Annexure_Iii_Poverty.md",
+        "count": 3
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Annexure_Iv_War_On_Terror.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Capital_Markets.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Education.md",
+        "count": 9
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Energy.md",
+        "count": 11
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Environment.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Fiscal_Development.md",
+        "count": 8
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Growth_And_Investment.md",
+        "count": 13
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Health.md",
+        "count": 2
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Highlights_2015_16.md",
+        "count": 615
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Inflation.md",
+        "count": 11
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Manufacturing.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Money_And_Credit.md",
+        "count": 11
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Overview_Of_The_Economy.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Population.md",
+        "count": 8
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Public_Debt.md",
+        "count": 15
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Research_Team.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Social_Safety.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Supplement_2017_18.md",
+        "count": 211
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Supplement_2018_19.md",
+        "count": 205
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Supplement_2019_20.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Supplement_2020_21.md",
+        "count": 11
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Supplement_2021_22.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Trade.md",
+        "count": 14
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Transport.md",
+        "count": 10
+      }
+    ],
+    "research_use_note": "Charts/images are not certified from Markdown and require separate PDF review before use in research claims."
+  },
+  "table_numeric_policy": {
+    "status": "NOT_CERTIFIED",
+    "policy": "Markdown is not certified for table, chart, numeric, row/column, total, ranking, or footnote fidelity.",
+    "required_follow_up": "Any numeric or table-derived claim must be verified against the source PDF and, where needed, rendered page evidence."
+  }
+}
