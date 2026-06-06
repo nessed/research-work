@@ -1,4 +1,4 @@
-# Commentary Pattern Scan - PES 2015-16
+﻿# Commentary Pattern Scan - PES 2015-16
 
 ## Purpose
 
@@ -13,7 +13,7 @@ work only, and any table values, chart values, or exact figures need separate
 source-PDF QA.
 
 Note on paths: active schema-discovery outputs now live under
-`agentic/03_commentary_schema_discovery`. The 29 Markdown source files reviewed
+`agentic/04_commentary_schema_discovery`. The 29 Markdown source files reviewed
 are now under
 `agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md`.
 Earlier copies that were briefly written under
@@ -342,3 +342,4 @@ Recommended core fields:
 Do not make every pattern a top-level field. Most should be controlled values
 in `claim_type` or `topic_tags`. Use separate tables later only for repeated
 entities such as programmes/projects, actors/institutions, or geography.
+

@@ -1,0 +1,390 @@
+{
+  "generated_at_utc": "2026-06-06T20:49:05+00:00",
+  "overall_status": "PASS",
+  "structural_checks": {
+    "status": "PASS",
+    "issues": [],
+    "pdfs_found": 30,
+    "manifest_entries": 30,
+    "conversion_log_entries": 30,
+    "failed_conversions": 0,
+    "missing_outputs": [],
+    "zero_byte_outputs": [],
+    "hash_mismatches": [],
+    "page_marker_mismatches": []
+  },
+  "prose_fidelity_checks": {
+    "status": "PASS",
+    "seed": 20260606,
+    "sample_count": 30,
+    "status_counts": {
+      "PASS": 30
+    },
+    "samples": [
+      {
+        "source_file_name": "Agriculture.pdf",
+        "page": 20,
+        "status": "PASS",
+        "token_overlap": 0.9827,
+        "source_snippet": "Pakistan Economic Survey 2016-17 38 Eggs2 Million Nos. 11,307 12,077 12,900 Meat 000 Tonnes 960.65 1,054.46 1,157.51 Total Poultry Day Old Chicks Million Nos. 862 945 1,037 Poultry Birds Million Nos. 932 1,016 1,108 Eggs Million Nos. 15,346",
+        "markdown_snippet": "## **Pakistan Economic Survey 2016-17** |Eggs~~2~~|Million Nos.|11,307|12,077|12,900| |---|---|---|---|---| |Meat|000 Tonnes|960.65|1,054.46|1,157.51| |**Total Poultry**||||| |DayOld Chicks|Million Nos.|862|945|1,037| |PoultryBirds|Million "
+      },
+      {
+        "source_file_name": "Annex_I_Nfis.pdf",
+        "page": 3,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "National Financial Inclusion Strategy 269 from more than hundred actions which were proposed by various NFIS Technical Committees and Working Groups on the basis of their impact, viability and significance towards achieving NFIS objectives ",
+        "markdown_snippet": "## **National Financial Inclusion Strategy** from more than hundred actions which were proposed by various NFIS Technical Committees and Working Groups on the basis of their impact, viability and significance towards achieving NFIS objectiv"
+      },
+      {
+        "source_file_name": "Annex_Ii_Eco.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9975,
+        "source_snippet": "Economic Cooperation Organization (ECO) was established in 1985 by Iran, Turkey and Pakistan. It succeeded Regional Cooperation for Development (RCD), which was founded in 1964 to promote cooperation among the three Member States. In 1992, ",
+        "markdown_snippet": "**==> picture [78 x 32] intentionally omitted <==** **----- Start of picture text -----**<br> Annex-II<br>**----- End of picture text -----**<br> **Economic Cooperation Organization Summit** (Connectivity for Regional Prosperity) Economic C"
+      },
+      {
+        "source_file_name": "Annex_Iii_Cpec.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan and China enjoy friendly relations which continue to strengthen with time. China – Pakistan’s ties are reaching new heights as the two sides work together to implement the China Pakistan Economic Corridor (CPEC). Regional Connectiv",
+        "markdown_snippet": "**==> picture [78 x 32] intentionally omitted <==** **----- Start of picture text -----**<br> Annex-III<br>**----- End of picture text -----**<br> ## **China-Pak Economic Corridor (CPEC)** Pakistan and China enjoy friendly relations which c"
+      },
+      {
+        "source_file_name": "Annex_Iv_War.pdf",
+        "page": 2,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2016-17 280 Table-1: Summary of Losses Due to Terrorist Attacks (US$ million) S.No Organization Years Total 2015-16 2016-17* 1. Exports 0.503 - 0.503 2. Compensation to Affectees 13.82 8.06 21.88 3. Physical Infrast",
+        "markdown_snippet": "## **Pakistan Economic Survey 2016-17** |**Table-1: Summary of Losses Due to Terrorist Attacks**<br>(US$million)|**Table-1: Summary of Losses Due to Terrorist Attacks**<br>(US$million)|**Table-1: Summary of Losses Due to Terrorist Attacks**"
+      },
+      {
+        "source_file_name": "Annex_V_Contingent.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9947,
+        "source_snippet": "Introduction Contingent liabilities are conditional obligations that arise from past events that may require an outflow of resources embodying economic benefits based on the occurrence or non-occurrence of one or more uncertain future event",
+        "markdown_snippet": "**==> picture [78 x 32] intentionally omitted <==** **----- Start of picture text -----**<br> Annex-V<br>**----- End of picture text -----**<br> ## **Contingent Liabilities** ## **Introduction** Contingent liabilities are conditional obliga"
+      },
+      {
+        "source_file_name": "Annex_Vi_Tax_Expenditure.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.8704,
+        "source_snippet": "Tax expenditure for FY2017 has been estimated at Rs.415.751 billion. Detailed estimates are highlighted below: A. Income Tax Tax expenditure in respect of direct taxes during FY2017 has been reflected in Table-1: Table-1: Tax Expenditure of",
+        "markdown_snippet": "**==> picture [78 x 32] intentionally omitted <==** **----- Start of picture text -----**<br> Annex-VI<br>**----- End of picture text -----**<br> ## **Tax Expenditure** Tax expenditure for FY2017 has been estimated at Rs.415.751 billion. De"
+      },
+      {
+        "source_file_name": "Captial_Markets.pdf",
+        "page": 13,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Capital Markets 111 was introduced through the Finance Act, 2016. The Shariah-compliance criteria for this tax rebate has been notified by FBR. This tax rebate for qualifying listed manufacturing companies, along with tax neutrality for suk",
+        "markdown_snippet": "**Capital Markets** was introduced through the Finance Act, 2016. The Shariah-compliance criteria for this tax rebate has been notified by FBR. This tax rebate for qualifying listed manufacturing companies, along with tax neutrality for suk"
+      },
+      {
+        "source_file_name": "Climate_Change.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.9926,
+        "source_snippet": "Pakistan Economic Survey 2016-17 262 United Nations Conference of Parties on Climate Change (COP-22) Conference of Parties (COP22) was a United Nation’s (UN) Conference on Climate Change in Marrakech, Morocco held in November, 2016 to put e",
+        "markdown_snippet": "## **Pakistan Economic Survey 2016-17** ## **United Nations Conference of Parties on Climate Change (COP-22)** Conference of Parties (COP22) was a United Nation’s (UN) Conference on Climate Change in Marrakech, Morocco held in November, 201"
+      },
+      {
+        "source_file_name": "Economic_Indicators.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "ECONOMIC AND Base Year 1999-2000 1960s 1970s 1980s 1990s 2000s 2003-04 2004-05 FINANCIAL SECTOR: GROWTH RATE (at constant fc) % GDP 6.8 4.8 6.5 4.6 4.7 7.5 9.0 Agriculture 5.1 2.4 5.4 4.4 3.2 2.4 6.5 Manufacturing 9.9 5.5 8.2 4.8 7.1 14.0 1",
+        "markdown_snippet": "## **ECONOMIC AND** |||**Base Year 1999-2000**| |---|---|---| |**INDICATORS**|**1960s**<br>**1970s**<br>**1980s**<br>**1990s**<br>**2000s 2003-04 2004-05**<br>**Average (Annual)**|| |**FINANCIAL SECTOR:**<br>**GROWTH RATE**(at constant fc) "
+      },
+      {
+        "source_file_name": "Education.pdf",
+        "page": 2,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2016-17 170 registering an increase of 1.6 percent, whereas the total number of teachers at high school level stood at 529,520 in 2015-16 as compared to 514,158 over 2014-15 an increase of 3.0 percent. Secondary sch",
+        "markdown_snippet": "## **Pakistan Economic Survey 2016-17** registering an increase of 1.6 percent, whereas the total number of teachers at high school level stood at 529,520 in 2015-16 as compared to 514,158 over 2014-15 an increase of 3.0 percent. Secondary "
+      },
+      {
+        "source_file_name": "Energy.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Energy 239 regulating electric power services and safeguarding the interests of investor and consumers. The main functions of NEPRA are: • It grants licenses for generation, transmission and distribution of electric power • It determines ta",
+        "markdown_snippet": "**Energy** regulating electric power services and safeguarding the interests of investor and consumers. The main functions of NEPRA are: - It grants licenses for generation, transmission and distribution of electric power - It determines ta"
+      },
+      {
+        "source_file_name": "Fiscal.pdf",
+        "page": 11,
+        "status": "PASS",
+        "token_overlap": 0.9954,
+        "source_snippet": "Fiscal Development 71 Defence expenditures increased to Rs.535.7 billion during the first nine months of FY2017 from Rs.482.9 billion in the comparable period of FY2016 growing by 10.9 percent. However, as percentage of GDP it stood at the ",
+        "markdown_snippet": "**Fiscal Development** Defence expenditures increased to Rs.535.7 billion during the first nine months of FY2017 from Rs.482.9 billion in the comparable period of FY2016 growing by 10.9 percent. However, as percentage of GDP it stood at the"
+      },
+      {
+        "source_file_name": "Growth.pdf",
+        "page": 12,
+        "status": "PASS",
+        "token_overlap": 0.9948,
+        "source_snippet": "Pakistan Economic Survey 2016-17 12 Islamabad on 26th December, 2016. The representatives of the ECO countries (Afghanistan, Iran, Turkey and Azerbaijan) presented their country statements with regard to Investment policy, business environm",
+        "markdown_snippet": "## **Pakistan Economic Survey 2016-17** Islamabad on 26th December, 2016. The representatives of the ECO countries (Afghanistan, Iran, Turkey and Azerbaijan) presented their country statements with regard to Investment policy, business envi"
+      },
+      {
+        "source_file_name": "Health.pdf",
+        "page": 9,
+        "status": "PASS",
+        "token_overlap": 0.8644,
+        "source_snippet": "Table 11.7: Physical Target/Ach Sub Sector Nurses Paramedics TBAs Training of LHWs C. Preventive Programme Immunization (Million) Oral Rehydration Salt (ORS (Million Packet) Source: Ministry of Planning, De Food & Nutrition Nutrition is a m",
+        "markdown_snippet": "## **Health and Nutrition** |**Table 11.7: Physical Target/Ach**<br>**ieve**|**Table 11.7: Physical Target/Ach**<br>**ieve**|**ment 2015-16 and 2016-17**|**ment 2015-16 and 2016-17**||||**(Nos.)**|**(Nos.)**| |---|---|---|---|---|---|---|--"
+      },
+      {
+        "source_file_name": "Inflation.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Inflation 117 4.88 percent, Furnishing & Household Equipment 3.10 percent, Health 9.87 percent, Transport (-) 1.69 percent and Recreation & Culture 1.27 percent during July-April FY 2017 compared to 4.83 percent, 5.07 percent, 4.07 percent,",
+        "markdown_snippet": "## **Inflation** 4.88 percent, Furnishing & Household Equipment 3.10 percent, Health 9.87 percent, Transport (-) 1.69 percent and Recreation & Culture 1.27 percent during July-April FY 2017 compared to 4.83 percent, 5.07 percent, 4.07 perce"
+      },
+      {
+        "source_file_name": "Manufacturing.pdf",
+        "page": 7,
+        "status": "PASS",
+        "token_overlap": 0.9892,
+        "source_snippet": "Manufacturing and Mining 47 Table 3.4: Production and export of Clothing Sector Production July-March 2016-17 July-March 2015-16 % Change Mill Sector (M. Sq. Mtrs.) 783.250 780.233 0.39 Non Mill Sector (M. Sq. Mtrs.) 6098.220 6091.972 0.10 ",
+        "markdown_snippet": "## **Manufacturing and Mining** **Table 3.4: Production and export of Clothing Sector** |**Production**|**July-March**<br>**2016-17**|**July-March**<br>**2015-16**|**% Change**| |---|---|---|---| |Mill Sector(M. Sq. Mtrs.)|783.250|780.233|0"
+      },
+      {
+        "source_file_name": "Money_And_Credit.pdf",
+        "page": 14,
+        "status": "PASS",
+        "token_overlap": 0.9963,
+        "source_snippet": "Pakistan Economic Survey 2016-17 92 Financial depth can be measured by different proxies, but M2-to-GDP ratio is considered as most comprehensive and commonly used for capturing the overall size of the financial sector. Increasing M2/GDP ra",
+        "markdown_snippet": "## **Pakistan Economic Survey 2016-17** Financial depth can be measured by different proxies, but M2-to-GDP ratio is considered as most comprehensive and commonly used for capturing the overall size of the financial sector. Increasing M2/GD"
+      },
+      {
+        "source_file_name": "Overview_2016_17.pdf",
+        "page": 16,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2016-17 xvi investors’ names with unique features of both the profits paid biannually and the prize money through quarterly draws. An improvement was observed in most of the public debt risks indicators during last ",
+        "markdown_snippet": "## **Pakistan Economic Survey 2016-17** investors’ names with unique features of both the profits paid biannually and the prize money through quarterly draws. An improvement was observed in most of the public debt risks indicators during la"
+      },
+      {
+        "source_file_name": "Pakistan_Es_2016_17_Pdf.pdf",
+        "page": 420,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 11.4 DOCTOR CONSULTING FEE IN VARIOUS CITIES (In rupees) Period* Faisal- Gujran- Hyder- Islam- Karachi Lahore Pesha- Quetta Rawal- Sukkur Average abad wala abad abad war pindi 2000 40.00 40.00 33.75 33.13 32.40 38.93 30.00 107.50 32.9",
+        "markdown_snippet": "## **TABLE 11.4** **DOCTOR CONSULTING FEE IN VARIOUS CITIES** ||||||||||||**(In rupees)**| |---|---|---|---|---|---|---|---|---|---|---|---| |**Period***|**Faisal-**|**Gujran-**|**Hyder-**|**Islam-**|**Karachi**|**Lahore**|**Pesha-**|**Quet"
+      },
+      {
+        "source_file_name": "Population.pdf",
+        "page": 6,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2016-17 202 • The Waseela-e-Sehat (Life & Health Insurance) programs subsidizes healthcare for beneficiaries and life insurance provided to one million women, the premium is paid by the program. • Waseela-Taleem (Pr",
+        "markdown_snippet": "## **Pakistan Economic Survey 2016-17** - The Waseela-e-Sehat (Life & Health Insurance) programs subsidizes healthcare for beneficiaries and life insurance provided to one million women, the premium is paid by the program. - Waseela-Taleem "
+      },
+      {
+        "source_file_name": "Public_Debt.pdf",
+        "page": 11,
+        "status": "PASS",
+        "token_overlap": 0.9961,
+        "source_snippet": "Public Debt 157 As depicted in the graph above, against the target of Rs.650 billion, government received participation of Rs.1,556 billion against which government accepted Rs.779 billion during first nine months of current fiscal year. Th",
+        "markdown_snippet": "## **Public Debt** **==> picture [422 x 450] intentionally omitted <==** **----- Start of picture text -----**<br> Fig-9.8: PIBs Auction Ratios 2016-17 (July - March)<br>450%<br>400%<br>350%<br>300%<br>250%<br>200%<br>150%<br>100%<br>50%<br"
+      },
+      {
+        "source_file_name": "Social_Safety_Nets.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 0.9723,
+        "source_snippet": "Pakistan Economic Survey 2016-17 252 Table 15.3: Major Achievements by Operating Units of PPAF S.No Outreach Numbers 1 Institutional Development and Social Mobilization • Community organizations formed • Community and PO staff trainees (32%",
+        "markdown_snippet": "## **Pakistan Economic Survey 2016-17** |**Table 15.3: Major Achievements by Operating Units of PPAF**|**Table 15.3: Major Achievements by Operating Units of PPAF**|**Table 15.3: Major Achievements by Operating Units of PPAF**| |---|---|---"
+      },
+      {
+        "source_file_name": "Supplement_2017_18.pdf",
+        "page": 165,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 12.2 (Population in Million) Year All Areas Male Female Rural areas Urban areas 2000 139.96 72.65 67.11 93.63 46.13 2001 142.86 74.23 68.63 95.36 47.50 2002 146.02 75.69 70.33 97.76 48.26 2003 149.32 77.38 71.93 99.74 49.57 2004 152.6",
+        "markdown_snippet": "## **TABLE 12.2** ## **POPULATION IN RURAL / URBAN AREAS** **==> picture [435 x 279] intentionally omitted <==** **----- Start of picture text -----**<br> (Population in Million)<br>Year All Areas Male Female Rural areas Urban areas<br>2000"
+      },
+      {
+        "source_file_name": "Supplement_2018_19.pdf",
+        "page": 136,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 8.13 WORKERS' REMITTANCES US $ million COUNTRY 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 I. Cash Flow 11,200.9 13,186.6 13,921.6 15,837.7 18,719.8 19,916.8 19,351.4 19,913.6 21,838.6 Bahrain 167.3 211.0 2",
+        "markdown_snippet": "**TABLE 8.13** ## **WORKERS' REMITTANCES** **==> picture [465 x 237] intentionally omitted <==** **----- Start of picture text -----**<br> US $ million<br>COUNTRY 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19<br>I."
+      },
+      {
+        "source_file_name": "Supplement_2019_20.pdf",
+        "page": 91,
+        "status": "PASS",
+        "token_overlap": 0.9875,
+        "source_snippet": "TABLE 6.3 S.No. Schemes Coupon/Profit Rate Maturity Period Tax Status 1. Pakistan Banao Certificate (USD) Coupon Rate a) 3 year maturity 6.25% b) 5 year maturity 6.75% 2. Pakistan Investment Bonds (PIBs) Fixed-rate PIBs 3-Year Maturity 9.00",
+        "markdown_snippet": "## **TABLE 6.3** ## **MARK UP RATE/PROFIT RATE ON DEBT INSTRUMENTS CURRENTLY AVAILABLE IN THE MARKET** |**S.N**|**o.**|**Schemes**|**Coupon/Profit Rate**<br>**Maturity Period**<br>**Tax Status**| |---|---|---|---| |**1. **<br>**2. **<br>**3"
+      },
+      {
+        "source_file_name": "Supplement_2020_21.pdf",
+        "page": 176,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 12.7 LAND AREA, POPULATION AND PERCENTAGE DISTRIBUTION Population in Thousand Area Sq. Kms 796,096 33,740 84,254 132,352 188,019 191,708 198,785 202,934 207,067 211,177 215,254 100 100 100 100 100 100 100 100 100 100 100 205,345 20,54",
+        "markdown_snippet": "## **TABLE 12.7** ## **LAND AREA, POPULATION AND PERCENTAGE DISTRIBUTION** |||||||||||**Population in**|**Population in**|**Thousand**| |---|---|---|---|---|---|---|---|---|---|---|---|---| |**Region / Years**||**Area Sq.**<br>**Kms**|**195"
+      },
+      {
+        "source_file_name": "Supplement_2021_22.pdf",
+        "page": 97,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 7.7 Income Group/ All Income Upto Rs 3001 to Rs 5001 to Above Fiscal Year Groups Rs 3000 5000 12000 Rs 12,000 2000-01 100.00 100.00 100.00 100.00 100.00 2001-02 103.54 102.97 104.88 103.44 103.64 2002-03 106.75 105.95 106.70 106.68 10",
+        "markdown_snippet": "## **TABLE 7.7** ## **PRICE INDICES BY CONSUMER INCOME GROUPS** |**PRICE INDICES BY CONSUMER INCOME GROUPS**|**PRICE INDICES BY CONSUMER INCOME GROUPS**| |---|---| |**Income Group/**<br>**All Income**<br>**Upto**<br>**Rs 3001 to**<br>**Rs 5"
+      },
+      {
+        "source_file_name": "Trade.pdf",
+        "page": 9,
+        "status": "PASS",
+        "token_overlap": 0.9983,
+        "source_snippet": "Trade and Payments 135 Box-2: Evaluation of Pakistan’s exports to European Union (EU) under the GSP Plus regime Impact of GSP Plus on Pakistan’s exports to EU Pakistan duty free access granted by EU under its GSP+ Scheme, Pakistan’s exports",
+        "markdown_snippet": "**Trade and Payments** ## **Box-2: Evaluation of Pakistan’s exports to European Union (EU) under the GSP Plus regime Impact of GSP Plus on Pakistan’s exports to EU** Pakistan duty free access granted by EU under its GSP+ Scheme, Pakistan’s "
+      },
+      {
+        "source_file_name": "Transport_And_Communications.pdf",
+        "page": 26,
+        "status": "PASS",
+        "token_overlap": 0.9757,
+        "source_snippet": "Pakistan Economic Survey 2016-17 234 10. Issuance of Commemorative Postage Stamp on National Stamps Exhibitions ‘Pakistan 2016, Karachi. 30-1-2016 Rs. 8/- each design 11. Issuance of Commemorative Postage Stamp on International Year of Sust",
+        "markdown_snippet": "## **Pakistan Economic Survey 2016-17** |**istan Economic Survey 2016-17**||| |---|---|---| |Issuance of Commemorative Postage Stamp on National Stamps<br>Exhibitions ‘Pakistan 2016, Karachi.|30-1-2016|Rs. 8/- each design| |Issuance of Comm"
+      }
+    ]
+  },
+  "placeholder_checks": {
+    "status": "INFO",
+    "total_omitted_picture_placeholders": 706,
+    "files": [
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Agriculture.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Annex_I_Nfis.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Annex_Ii_Eco.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Annex_Iii_Cpec.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Annex_Iv_War.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Annex_V_Contingent.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Annex_Vi_Tax_Expenditure.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Captial_Markets.md",
+        "count": 3
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Climate_Change.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Education.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Energy.md",
+        "count": 7
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Fiscal.md",
+        "count": 10
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Growth.md",
+        "count": 8
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Health.md",
+        "count": 5
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Inflation.md",
+        "count": 13
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Manufacturing.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Money_And_Credit.md",
+        "count": 10
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Pakistan_Es_2016_17_Pdf.md",
+        "count": 134
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Population.md",
+        "count": 3
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Public_Debt.md",
+        "count": 19
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Social_Safety_Nets.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Supplement_2017_18.md",
+        "count": 211
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Supplement_2018_19.md",
+        "count": 205
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Supplement_2019_20.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Supplement_2020_21.md",
+        "count": 11
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Supplement_2021_22.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Trade.md",
+        "count": 14
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Transport_And_Communications.md",
+        "count": 4
+      }
+    ],
+    "research_use_note": "Charts/images are not certified from Markdown and require separate PDF review before use in research claims."
+  },
+  "table_numeric_policy": {
+    "status": "NOT_CERTIFIED",
+    "policy": "Markdown is not certified for table, chart, numeric, row/column, total, ranking, or footnote fidelity.",
+    "required_follow_up": "Any numeric or table-derived claim must be verified against the source PDF and, where needed, rendered page evidence."
+  }
+}

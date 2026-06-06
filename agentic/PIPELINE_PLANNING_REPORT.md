@@ -1,4 +1,4 @@
-# Pipeline Planning Report
+﻿# Pipeline Planning Report
 
 ## 1. Current Repo State
 
@@ -15,7 +15,10 @@ Active derived work is under `agentic/`:
   QA script, manifest, logs, and QA reports. Headless QA passed for structure
   and prose fidelity only. Tables, charts, images, and numeric claims are not
   certified. Fresh-context adversarial review is still pending.
-- `03_commentary_schema_discovery/`: active schema and pattern discovery area.
+- `03_section_splitting/`: section-splitting spec only. It defines Markdown to
+  source-tagged sections, schema fields, split rules, and future review prompt.
+  No section run or output data has been created yet.
+- `04_commentary_schema_discovery/`: active schema and pattern discovery area.
   It has pattern scan, schema v0.1, stress tests, hard-case tests, and a
   five-file extraction pilot. This is pilot evidence, not full extraction.
   Fresh-context adversarial review is still pending.
@@ -52,22 +55,24 @@ Active vs archived paths are documented, but this state is not yet git-stable.
 1. Freeze the current cleanup target for review: document expected active
    folders, archive folders, pending reviews, and known uncommitted path
    changes.
-2. Run fresh-context adversarial review of current workspace organization, the
-   2015-16 hardened PDF-to-MD run, and schema-discovery outputs.
+2. Run fresh-context adversarial review of current workspace organization and
+   the 2015-16 hardened PDF-to-MD run.
 3. If review passes or issues are corrected, make the active/archive layout
    git-stable.
-4. Create the next active step as `04_md_split_units`, focused only on
-   reproducible Markdown split units.
-5. Define split-unit acceptance criteria before any pilot: stable `unit_id`,
+4. Use `03_section_splitting` next, focused only on reproducible Markdown
+   sections.
+5. Define section acceptance criteria before any pilot: stable `section_id`,
    source Markdown path, original PDF path, source year/file, page span, unit
    type, heading/subsection labels, unit text, markdown quality flags, and
    numeric/table/figure sensitivity flags.
-6. Run a small 2015-16 split-unit pilot only after approval. The split layer
-   must produce units only: no claims, summaries, interpretations, or
+6. Run a small split pilot only after approval. The split layer must produce
+   sections only: no claims, summaries, interpretations, or
    database-ready facts.
-7. Adversarially review the split spec and pilot before any extraction consumes
-   it.
-8. Later, with separate approval, run extraction pilots, full extraction, JSON
+7. Adversarially review the split run before schema insight or extraction
+   consumes it.
+8. Then use a small, diverse section sample to harden
+   `04_commentary_schema_discovery` before any extraction pilot.
+9. Later, with separate approval, run extraction pilots, full extraction, JSON
    normalization, and database export design.
 
 ## 4. Folder Plan
@@ -76,16 +81,15 @@ Keep current active folders:
 
 - `agentic/01_pes_folder_map/`
 - `agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/`
-- `agentic/03_commentary_schema_discovery/`
+- `agentic/03_section_splitting/`
+- `agentic/04_commentary_schema_discovery/`
 
 Use archive folders only for superseded evidence, each with a README explaining
 original path, new path, reason, date, and status.
 
-Add next only when approved:
+Add section run folders only when approved:
 
-- `agentic/04_md_split_units/`
-  - `runs/2015-16_split_units_pilot/`
-  - `archive/`
+- `agentic/03_section_splitting/runs/<year>_section_split_<run_label>/`
 
 Future roadmap folders should remain planned, not created yet:
 
@@ -122,10 +126,10 @@ Step-specific outputs:
 - `02_pdf_to_md`: `converted_md/`, `repro_manifest.json`,
   `conversion_log.json`, `qa_results.json`, `qa_report.md`,
   `conversion_quality.md`
-- `03_commentary_schema_discovery`: `pattern_scan/`, `schema/`,
-  `stress_tests/`, `extraction_pilots/`
-- `04_md_split_units`: `split_unit_schema.json` or field guide,
+- `03_section_splitting`: `section_schema.json` and field guide,
   `split_unit_manifest.json`, `split_qa_results.json`, `split_qa_report.md`
+- `04_commentary_schema_discovery`: `pattern_scan/`, `schema/`,
+  `stress_tests/`, `extraction_pilots/`
 
 ## 6. Review Gates
 
@@ -133,14 +137,14 @@ Fresh-context adversarial/headless review is required after:
 
 - workspace cleanup/folder-state freeze
 - any hardened PDF-to-MD run before research use
-- schema freeze before extraction
 - split-unit spec and pilot before extraction consumes split units
+- schema freeze before extraction
 - extraction pilot before full extraction
 - any full extraction batch before analysis
 - JSON normalization before database export
 - database export before downstream use
 
-Pending reviews for `02_pdf_to_md` and `03_commentary_schema_discovery` are
+Pending reviews for `02_pdf_to_md` and `04_commentary_schema_discovery` are
 blockers, not bookkeeping.
 
 Reviewers must be read-only and must check reproducibility, active/archive
@@ -154,9 +158,9 @@ numeric/table/chart risk.
 | Workspace cleanup / active-archive freeze | Before new pipeline work and before committing cleanup | Verify active folders, archived folders, pending reviews, and git status match the documented canonical structure | `PROJECT_CONTEXT.md`, `CURRENT_PROGRESS.md`, `agentic/WORKSPACE_STRUCTURE.md`, `agentic/REPRODUCIBILITY.md`, archive READMEs, `git status --short` | `agentic/reviews/workspace_cleanup_review_YYYYMMDD.md` | PASS if active/archive state is clear, raw data untouched, old paths not treated as active, and pending gates are explicit. FAIL if active outputs are ambiguous or undocumented. |
 | `01_pes_folder_map` | Already completed; rerun only if raw PES folder changes | Independently recount year folders, PDFs, non-PDFs, paths, and sizes against `pes_folder_tree.json` | `pes_folder_tree.json`, `how_to_reproduce.md`, raw PES folder metadata only | `agentic/01_pes_folder_map/adv_review_results.md` | PASS if counts, paths, sizes, and classifications match filesystem. FAIL on any unexplained mismatch. |
 | `02_pdf_to_md` hardened run | After each conversion run and before Markdown is used for research | Reproduce or verify manifest/log/QA; confirm page markers, file counts, hashes, prose-fidelity QA, and limits on tables/charts/numerics | `how_to_reproduce.md`, conversion script, QA script, `repro_manifest.json`, `conversion_log.json`, `qa_results.json`, `qa_report.md`, small MD/PDF samples | `agentic/02_pdf_to_md/runs/<run_name>/adv_review_results.md` | PASS if selected PDFs, outputs, page markers, logs, hashes, and QA claims match. FAIL if missing outputs, page mismatch, unlogged failures, source mutation, or numeric/table overclaiming. |
-| `03_commentary_schema_discovery` | Before schema v0.1 is used for any new extraction pilot | Verify schema was derived from documented pattern scan/stress tests and that pilot records follow schema without becoming final data | `README.md`, `how_to_reproduce.md`, `pattern_scan/`, `schema/commentary_schema_v0.1.json`, `stress_tests/`, `extraction_pilots/` | `agentic/03_commentary_schema_discovery/adv_review_results.md` | PASS if schema fields are justified, pilot/stress records are valid, limits are clear, and no full extraction is implied. FAIL if schema is unsupported, inconsistent, or pilot claims are treated as final. |
-| `04_md_split_units` spec | Before running split pilot | Verify split-unit schema/field guide is deterministic and preserves source grounding | `README.md`, `how_to_reproduce.md`, split-unit schema/field guide, planned input manifest | `agentic/04_md_split_units/adv_review_results.md` or run-local review file | PASS if unit IDs, page spans, headings, source paths, PDF links, and quality/numeric flags are fully specified. FAIL if reviewer must guess segmentation rules. |
-| `04_md_split_units` pilot | After split pilot and before extraction consumes units | Reproduce/verify split manifest from source Markdown; confirm no claims/summaries were extracted | source Markdown sample, `input_manifest.json`, `split_unit_manifest.json`, `split_qa_results.json`, `split_qa_report.md`, script if used | `agentic/04_md_split_units/runs/<run_name>/adv_review_results.md` | PASS if units are deterministic, source-grounded, page-linked, and claim-free. FAIL if units lose page provenance, merge unrelated sections, invent headings, or extract interpretation. |
+| `03_section_splitting` spec | Before running split pilot | Verify section schema/field guide is deterministic and preserves source grounding | `README.md`, `how_to_reproduce.md`, section schema/field guide, planned input manifest | `agentic/03_section_splitting/adv_review_results.md` or run-local review file | PASS if section IDs, page spans, headings, source paths, PDF links, and quality/numeric flags are fully specified. FAIL if reviewer must guess segmentation rules. |
+| `03_section_splitting` pilot | After split pilot and before extraction consumes sections | Reproduce/verify split manifest from source Markdown; confirm no claims/summaries were extracted | source Markdown sample, `input_manifest.json`, `section_manifest.json`, `section_split_report.md`, script if used | `agentic/03_section_splitting/runs/<run_name>/adv_review_results.md` | PASS if sections are deterministic, source-grounded, page-linked, and claim-free. FAIL if sections lose page provenance, merge unrelated sections, invent headings, or extract interpretation. |
+| `04_commentary_schema_discovery` | Before schema v0.1 is used for any new extraction pilot | Verify schema was derived from documented pattern scan/stress tests and that pilot records follow schema without becoming final data | `README.md`, `how_to_reproduce.md`, `pattern_scan/`, `schema/commentary_schema_v0.1.json`, `stress_tests/`, `extraction_pilots/` | `agentic/04_commentary_schema_discovery/adv_review_results.md` | PASS if schema fields are justified, pilot/stress records are valid, limits are clear, and no full extraction is implied. FAIL if schema is unsupported, inconsistent, or pilot claims are treated as final. |
 | `05_extraction_pilots` | After controlled extraction pilot, before full extraction | Verify pilot inputs, prompts/rules, schema conformance, source quotes, page references, and numeric QA flags | split-unit manifest, schema v0.1, extraction rules/prompt, `pilot_input_manifest.json`, `pilot_claims.json`, pilot QA/review files | `agentic/05_extraction_pilots/runs/<run_name>/adv_review_results.md` | PASS if records are schema-valid, quote-grounded, page-cited, and correctly flagged. FAIL if claims are unsupported, over-inferred, numerics are trusted from Markdown, or prompts are unreproducible. |
 | `06_structured_claim_extraction` | After any approved full/batch extraction, before analysis | Verify batch completeness, schema validity, source grounding, duplicate handling, logs, and human-review flags | extraction manifest, raw claims JSON/JSONL, extraction logs, QA report, source split units, schema | `agentic/06_structured_claim_extraction/runs/<run_name>/adv_review_results.md` | PASS if every claim links to a valid source unit/page/quote and batch counts/logs reconcile. FAIL on unsupported claims, missing provenance, silent errors, or unflagged numeric dependence. |
 | `07_json_normalization` | After normalization and before export | Reproduce validation; verify normalized records preserve raw claim IDs, source references, flags, and do not alter evidence meaning | raw claims, normalized claims, validation schema, normalization log, validation report | `agentic/07_json_normalization/runs/<run_name>/adv_review_results.md` | PASS if normalized JSON validates and preserves traceability. FAIL if IDs break, evidence changes meaning, records disappear without log, or flags are lost. |
@@ -185,10 +189,10 @@ Do not:
 
 1. Approve a read-only workspace cleanup review target: current active folders,
    archive folders, pending reviews, and uncommitted cleanup state.
-2. Run/save fresh-context adversarial reviews for the cleanup state,
-   `02_pdf_to_md` hardened run, and `03_commentary_schema_discovery`.
-3. After review issues are resolved, approve a small `04_md_split_units`
-   spec/pilot plan for 2015-16 Markdown units only.
+2. Run/save fresh-context adversarial reviews for the cleanup state and
+   `02_pdf_to_md` hardened run.
+3. After review issues are resolved, approve a `03_section_splitting` run plan
+   for the next reviewed Markdown batch.
 
 ## 10. Fresh Review Findings
 
@@ -208,4 +212,5 @@ incorporated here:
 
 Approve only the next gate: a read-only adversarial review of the current
 cleanup and active artifacts. After that passes, stabilize the folder layout,
-then plan `04_md_split_units` as the next real pipeline stage.
+then run/review `03_section_splitting` as the next real pipeline stage.
+

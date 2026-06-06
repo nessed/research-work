@@ -1,4 +1,4 @@
-# How To Reproduce
+﻿# How To Reproduce
 
 This folder records commentary schema discovery for Pakistan Economic Survey
 commentary extraction.
@@ -45,7 +45,7 @@ commentary extraction.
 Validate JSON files from repo root:
 
 ```powershell
-& "C:\Users\Ali\AppData\Local\Python\bin\python.exe" -c "import json, pathlib; [json.load(open(p, encoding='utf-8')) for p in pathlib.Path(r'agentic\03_commentary_schema_discovery').rglob('*.json')]; print('json_ok')"
+& "C:\Users\Ali\AppData\Local\Python\bin\python.exe" -c "import json, pathlib; [json.load(open(p, encoding='utf-8')) for p in pathlib.Path(r'agentic\04_commentary_schema_discovery').rglob('*.json')]; print('json_ok')"
 ```
 
 Expected five-file pilot count:
@@ -53,3 +53,4 @@ Expected five-file pilot count:
 ```text
 25 records
 ```
+

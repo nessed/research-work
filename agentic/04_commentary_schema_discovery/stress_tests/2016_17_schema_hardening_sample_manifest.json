@@ -1,0 +1,60 @@
+{
+  "task": "2016-17_schema_hardening_sample_selection",
+  "status": "sample_manifest_only_not_extraction",
+  "source_year": "2016-17",
+  "source_section_run": "agentic/03_section_splitting/runs/2016-17_section_split_pymupdf4llm_hardened",
+  "source_pdf_to_md_run": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened",
+  "selection_policy": "Four diverse reviewed section groups selected to stress-test the qualitative commentary schema only. No full claim extraction, production JSON normalization, database export, or final research dataset was created.",
+  "source_truth_note": "Original PDFs remain source truth. Markdown sections are working text only. Tables/charts/numeric values require separate PDF QA before research use.",
+  "samples": [
+    {
+      "sample_id": "2016_17_sample_01_agriculture_finance_policy",
+      "coverage_type": "prose-heavy sector narrative plus policy/programme material",
+      "source_sections": [
+        "pes_2016_17__agriculture__0049__p016",
+        "pes_2016_17__agriculture__0050__p017"
+      ],
+      "source_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Agriculture.md",
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2016-17/Agriculture.pdf",
+      "pages": [16, 17],
+      "why_selected": "Contains agriculture-sector narrative, named policy/regulatory initiatives, multiple schemes, actors, constraints, and cause/effect-style wording. Good stress test for actor, programme, policy_action, reform, constraint, and numeric sensitivity fields."
+    },
+    {
+      "sample_id": "2016_17_sample_02_economic_indicators_dense_tables",
+      "coverage_type": "table/numeric-heavy section",
+      "source_sections": [
+        "pes_2016_17__economic_indicators__0001__p001",
+        "pes_2016_17__economic_indicators__0002__p002"
+      ],
+      "source_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Economic_Indicators.md",
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2016-17/Economic_Indicators.pdf",
+      "pages": [1, 2],
+      "why_selected": "Almost entirely dense indicator tables with footnote/status markers and noisy Markdown table structure. Good stress test for evidence_type, source_table_or_figure, indicator_or_subject, data_status_flags, numeric_or_table_sensitive, and requires_pdf_numeric_qa."
+    },
+    {
+      "sample_id": "2016_17_sample_03_transport_digital_policy_programmes",
+      "coverage_type": "policy/programme-heavy section",
+      "source_sections": [
+        "pes_2016_17__transport_and_communications__0053__p014",
+        "pes_2016_17__transport_and_communications__0054__p014",
+        "pes_2016_17__transport_and_communications__0119__p024"
+      ],
+      "source_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Transport_And_Communications.md",
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2016-17/Transport_And_Communications.pdf",
+      "pages": [14, 24],
+      "why_selected": "Includes Digital Pakistan Policy, e-commerce regulatory framework, and BISP disbursement material with named institutions, implementation status, planned approvals, and beneficiary/payment references. Good stress test for policy_or_programmes arrays, actors, commitment_or_plan, programme_or_project, and numeric QA flags."
+    },
+    {
+      "sample_id": "2016_17_sample_04_transport_weak_markdown_infrastructure_tables",
+      "coverage_type": "weak/OCR/formatting/problematic Markdown section",
+      "source_sections": [
+        "pes_2016_17__transport_and_communications__0013__p005",
+        "pes_2016_17__transport_and_communications__0053__p014"
+      ],
+      "source_md_path": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/converted_md/Transport_And_Communications.md",
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2016-17/Transport_And_Communications.pdf",
+      "pages": [5, 14],
+      "why_selected": "Combines broken table layout, broken words, and explicit encoding artifacts from the Markdown layer. Good stress test for markdown_quality_flags and extraction guidance around low-confidence text without treating table/numeric values as source truth."
+    }
+  ]
+}

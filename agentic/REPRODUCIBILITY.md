@@ -1,4 +1,4 @@
-# Agentic Reproducibility Log
+﻿# Agentic Reproducibility Log
 
 This is the top-level reproducibility index for the `agentic/` workflow. Keep
 this file current when major steps are added, moved, repeated, or archived.
@@ -23,7 +23,7 @@ this file current when major steps are added, moved, repeated, or archived.
   - Reproducible filesystem inventory of the PES corpus.
 - `agentic/02_pdf_to_md/`
   - Hardened PDF-to-Markdown run and archived conversion attempts.
-- `agentic/03_commentary_schema_discovery/`
+- `agentic/04_commentary_schema_discovery/`
   - Pattern scan, working schema, stress tests, and extraction pilots.
 - `agentic/reviews/`
   - Cross-cutting adversarial reviews.
@@ -108,12 +108,12 @@ Important path note:
 
 Folder:
 
-- `agentic/03_commentary_schema_discovery`
+- `agentic/04_commentary_schema_discovery`
 
 Local docs:
 
-- `agentic/03_commentary_schema_discovery/README.md`
-- `agentic/03_commentary_schema_discovery/how_to_reproduce.md`
+- `agentic/04_commentary_schema_discovery/README.md`
+- `agentic/04_commentary_schema_discovery/how_to_reproduce.md`
 
 Active outputs:
 
@@ -138,7 +138,7 @@ Result:
 Validate schema-discovery JSON:
 
 ```powershell
-& "C:\Users\Ali\AppData\Local\Python\bin\python.exe" -c "import json, pathlib; [json.load(open(p, encoding='utf-8')) for p in pathlib.Path(r'agentic\03_commentary_schema_discovery').rglob('*.json')]; print('json_ok')"
+& "C:\Users\Ali\AppData\Local\Python\bin\python.exe" -c "import json, pathlib; [json.load(open(p, encoding='utf-8')) for p in pathlib.Path(r'agentic\04_commentary_schema_discovery').rglob('*.json')]; print('json_ok')"
 ```
 
 Regenerate hardened conversion manifest/log from existing Markdown:
@@ -177,3 +177,4 @@ When moving files:
 
 Complete the workspace-cleanup adversarial review, then continue with controlled
 commentary extraction pilots only after Ali asks.
+
