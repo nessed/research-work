@@ -1,6 +1,8 @@
 datalab_master/
 codex.exe
 install.ps1
+local_tools/codex/codex.exe
+local_tools/codex/install.ps1
 agentic/02_pdf_to_md/education_pdf_check_pages/
 
 # Common OS/editor noise

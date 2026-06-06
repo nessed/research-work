@@ -5,7 +5,7 @@
 - Source year: 2015-16
 - Run date: 2026-06-06
 - Random seed: `20260607`
-- Corpus: 29 converted PES Markdown files in `agentic/02_pdf_to_md/2015-16_pymupdf4llm`
+- Corpus: 29 converted PES Markdown files in `agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md`
 - Schema used: `schema/commentary_schema_v0.1.json`
 - Sample size: 5 Markdown files, 5 records per file, 25 records total
 
