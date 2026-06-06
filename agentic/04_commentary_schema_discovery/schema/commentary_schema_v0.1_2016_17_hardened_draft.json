@@ -1,0 +1,20 @@
+{
+  "schema_status": "draft_v0.1_with_2016_17_hardening_note_not_final",
+  "base_schema": "agentic/04_commentary_schema_discovery/schema/commentary_schema_v0.1.json",
+  "source_year": "2016-17",
+  "scope": "Limited schema-hardening draft from four reviewed 2016-17 section groups. Not a full extraction schema freeze.",
+  "source_truth_note": "Original PDFs remain source truth. Converted Markdown and sections are working text layers. Table/chart/numeric values require separate PDF QA.",
+  "change_summary": [
+    {
+      "field": "markdown_quality_flags",
+      "change": "Add controlled vocabulary value `encoding_artifact`.",
+      "justification": "Observed in reviewed 2016-17 section output, especially Transport and Communications Digital Pakistan Policy text. Needed to record mojibake/replacement-character artifacts separately from broken words or table layout noise."
+    }
+  ],
+  "proposed_controlled_vocab_delta": {
+    "markdown_quality_flags_add": [
+      "encoding_artifact"
+    ]
+  },
+  "recommendation": "Adopt this vocabulary addition in the next schema revision. No broader schema change is justified from the four-sample stress test."
+}

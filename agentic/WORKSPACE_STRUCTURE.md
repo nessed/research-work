@@ -1,4 +1,4 @@
-# Workspace Structure
+﻿# Workspace Structure
 
 This file defines the canonical folder layout for `datalab_ali`.
 
@@ -26,7 +26,9 @@ This file defines the canonical folder layout for `datalab_ali`.
   - Source filesystem inventory and review evidence.
 - `02_pdf_to_md/`
   - PDF-to-Markdown runs and archived conversion attempts.
-- `03_commentary_schema_discovery/`
+- `03_section_splitting/`
+  - Markdown-to-section specs, future runs, QA, and review evidence.
+- `04_commentary_schema_discovery/`
   - Commentary pattern scan, schema work, stress tests, and extraction pilots.
 - `reviews/`
   - Cross-cutting adversarial reviews.
@@ -52,3 +54,4 @@ folders such as `processed_pdfs/` are not active destinations.
 Original PDFs remain source truth. Markdown is a working text layer for
 page-cited prose/commentary extraction. Tables, chart values, exact numbers,
 rankings, totals, and footnotes require separate source-PDF QA.
+

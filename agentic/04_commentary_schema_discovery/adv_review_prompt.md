@@ -1,4 +1,4 @@
-# Adversarial Review Prompt
+﻿# Adversarial Review Prompt
 
 You are a fresh-context adversarial reviewer for PES commentary schema
 discovery.
@@ -6,7 +6,7 @@ discovery.
 ## Review Inputs
 
 - Schema discovery folder:
-  `agentic/03_commentary_schema_discovery`
+  `agentic/04_commentary_schema_discovery`
 - Hardened Markdown corpus:
   `agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md`
 - Source PDFs:
@@ -25,3 +25,4 @@ discovery.
 
 Write findings ordered by severity with PASS/FAIL summary, evidence checked,
 residual risks, and recommended next controlled pilot size.
+

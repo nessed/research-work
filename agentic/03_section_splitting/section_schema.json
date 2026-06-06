@@ -1,0 +1,75 @@
+{
+  "schema_name": "section_splitting_schema",
+  "schema_version": "0.1",
+  "status": "spec_only_no_outputs_created",
+  "description": "Output schema for source-tagged Markdown sections created after PDF-to-Markdown conversion and before claim extraction.",
+  "required_fields": [
+    "section_id",
+    "source_year",
+    "source_md_path",
+    "source_pdf_path",
+    "sector",
+    "heading_text",
+    "start_page",
+    "end_page",
+    "section_type",
+    "text",
+    "numeric_or_table_sensitive",
+    "markdown_quality_flags"
+  ],
+  "fields": {
+    "section_id": {
+      "type": "string",
+      "description": "Stable unique identifier for the section within a run."
+    },
+    "source_year": {
+      "type": "string",
+      "description": "Pakistan Economic Survey year folder, for example 2015-16."
+    },
+    "source_md_path": {
+      "type": "string",
+      "description": "Repository-relative path to the converted Markdown file used as input."
+    },
+    "source_pdf_path": {
+      "type": "string",
+      "description": "Repository-relative path to the original source PDF. Raw PDF must not be modified."
+    },
+    "sector": {
+      "type": "string",
+      "description": "Sector or chapter label derived from the source Markdown/PDF filename or manifest."
+    },
+    "heading_text": {
+      "type": "string",
+      "description": "Nearest Markdown heading or inferred local heading text for the section."
+    },
+    "start_page": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "First source PDF page marker covered by the section."
+    },
+    "end_page": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Last source PDF page marker covered by the section."
+    },
+    "section_type": {
+      "type": "string",
+      "description": "Simple section category such as heading_section, paragraph_block, table_or_figure_adjacent, annex_note, supplement_note, or other."
+    },
+    "text": {
+      "type": "string",
+      "description": "Verbatim or near-verbatim Markdown text for the section. No summaries or interpretations."
+    },
+    "numeric_or_table_sensitive": {
+      "type": "boolean",
+      "description": "True when the section contains or depends on tables, charts, exact numbers, rankings, totals, percentages, or figure/table text."
+    },
+    "markdown_quality_flags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Quality flags such as table_layout_noise, figure_text, broken_words, page_order_noise, omitted_picture_placeholder, or none."
+    }
+  }
+}
