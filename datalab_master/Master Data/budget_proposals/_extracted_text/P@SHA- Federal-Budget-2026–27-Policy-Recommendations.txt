@@ -1,0 +1,1038 @@
+
+
+===== PAGE 1 =====
+
+
+
+===== PAGE 2 =====
+Policy Recommendations for FY 2026-27
+DOCUMENT CONTROL
+Document Title Federal Budget 2026–27: Policy Recommendations for Pakistan’s Digital Economy
+Issuing Body Pakistan Software Houses Association (PASHA)
+Version 3.0
+Status Final Approved Manuscript
+Date April 2026
+Classification Public
+Approved by Chairman P@SHA, Sajjad Mustafa Syed
+Pg. 1
+
+
+===== PAGE 3 =====
+Policy Recommendations for FY 2026-27
+TABLE OF CONTENTS
+Executive Summary.........................................................................................................................3
+Recommendation 1 Extension of 0.25% Final Tax Regime.........................................................6
+The Issue.....................................................................................................................................................................................6
+The Recommendation...................................................................................................................................................... 6
+Recommendation 2 Tax Classification of IT Freelancers vs Remote Workers...................... 7
+The Issue..................................................................................................................................................................................... 7
+The Recommendation...................................................................................................................................................... 8
+Recommendation 3 Made in Pakistan — Public Sector IT Procurement Mandates............. 9
+The Issue.....................................................................................................................................................................................9
+The Recommendation...................................................................................................................................................... 9
+Recommendation 4 Capital Gains & Repatriation Relaxation for Venture Capital............ 11
+The Issue.....................................................................................................................................................................................11
+The Recommendation......................................................................................................................................................11
+Recommendation 5 National Skills Programs — Budget Allocation..................................... 12
+The Issue....................................................................................................................................................................................12
+The Recommendation.....................................................................................................................................................12
+Recommendation 6 Harmonization of Provincial Sales Tax on Domestic IT Services....... 13
+The Issue....................................................................................................................................................................................13
+The Recommendation.....................................................................................................................................................13
+Summary of Recommendations..................................................................................................14
+Annexure A....................................................................................................................................... 16
+Annexure B.......................................................................................................................................23
+Annexure C...................................................................................................................................... 28
+Annexure D...................................................................................................................................... 29
+Annexure E.......................................................................................................................................30
+Annexure F....................................................................................................................................... 32
+Pg. 2
+
+
+===== PAGE 4 =====
+Policy Recommendations for FY 2026-27
+EXECUTIVE SUMMARY
+Pakistan’s IT and IT-enabled services (ITeS) sector represents the country’s most scalable
+pathway to foreign exchange generation, employment creation, and integration into the
+global digital economy. IT services exports reached a record USD 3.8 billion in FY2024–25,
+an 18% increase over the previous year. The freelance and remote work segment
+contributed an additional USD 779 million, surging 90% year-on-year.1 Over 350,000
+professionals were trained through government and industry programmes during the
+year.2
+Yet this growth is fragile. Pakistan’s IT sector operates in an intensely competitive global
+landscape. India’s technology industry revenue reached an estimated USD 283 billion in
+FY2024–25, with exports of USD 224 billion and a workforce of over 5.4 million.3 Pakistan’s
+share of global IT services trade remains well below 1%, though the International Labour
+Organisation ranks Pakistan as the second-largest provider of digital labour globally.4 Tax
+policy is the single largest lever available to the Federal Government to either accelerate
+or arrest the sector’s trajectory.
+PASHA’s Budget 2026–27 recommendations are organized around six policy interventions
+that collectively address the sector’s most critical structural constraints. These are not
+wish-list items; each addresses a specific, quantifiable distortion or gap in the current
+policy environment, benchmarked against global best practices.
+1Dawn, “IT exports hit record $3.8bn in 2024–25,” July 19, 2025 ($3.8B total, 18% growth, freelance segment $779M at 90%
+YoY).
+2Express Tribune, “IT exports hit record at $3.8b,” July 19, 2025 (citing IT Minister Shaza Fatima Khawaja).
+3NASSCOM Strategic Review 2025; India Brand Equity Foundation (IBEF), “Information Technology Sector in India,” 2025.
+Revenue and export figures are NASSCOM estimates for FY25.
+4Pakistan Economic Survey 2024–25; ILO Digital Labour Platform rankings.
+Pg. 3
+
+
+===== PAGE 5 =====
+Policy Recommendations for FY 2026-27
+PAKISTAN’S DIGITAL ECONOMY
+THE STRATEGIC IMPERATIVE
+Pakistan’s IT sector has demonstrated resilient growth despite macroeconomic
+headwinds. IT services exports grew from approximately USD 3.2 billion in FY2023–24 to a
+record USD 3.8 billion in FY2024–25 — an 18% increase.5 The freelance and remote work
+segment surged 90% year-on-year to USD 779 million, and the country was recognized as
+“Tech Destination of the Year” at GITEX Global 2024.6
+However, India’s technology services sector alone generated USD 224 billion in exports in
+FY2024–25 with a workforce of over 5.4 million.7 Pakistan’s total IT ecosystem output,
+including freelancing, represents roughly 2% of India’s exports — suggesting enormous
+untapped potential but also the risk of structural marginalization if policy constraints are
+not addressed.
+THE POLICY GAP
+PASHA’s analysis identifies three structural gaps:
+● Policy uncertainty: The 0.25% FTR is scheduled to expire in June 2026. P@SHA
+Chairman Sajjad Syed has noted that “every serious investor asks the same two
+questions: What will my tax exposure be, and will the rules change after I invest?”8
+● Structural distortions: Tax arbitrage between freelancers and remote workers, the
+contradictory Super Tax, and fragmented provincial sales tax regimes create
+perverse incentives that drain talent from organized(registered, tax compliant) IT
+companies.
+● Ecosystem underdevelopment: Venture capital investment in Pakistani startups
+collapsed from a peak of USD 366 million in 2021 to approximately USD 22.5 million
+in disclosed equity funding in 2024 — the lowest since 2018.9
+5Dawn, “IT exports hit record $3.8bn in 2024–25,” July 19, 2025 (18% growth confirmed); Profit by Pakistan Today, “Pakistan’s
+IT exports up by 24% to $3.2bn in FY24,” July 2024.
+6Dawn, ibid. ($779M freelance figure); PSEB Annual Report 2024 (GITEX award).
+7NASSCOM Strategic Review 2025. NASSCOM reported 5.43 million employees in FY24, with 126,000 added in FY25.
+8Dawn, “IT exports hit record $3.8bn,” July 19, 2025 (quoting P@SHA Chairman).
+9Dawn, “2022 — a dismal year for Pakistani startups,” December 26, 2022 (2021 peak figure); Data Darbar / Startup Naama,
+“Pakistan’s Tech & VC Landscape 2024,” May 2025 (2024 figure).
+Pg. 4
+
+
+===== PAGE 6 =====
+
+
+
+===== PAGE 7 =====
+RECOMMENDATION 1
+EXTENSION OF 0.25% FINAL TAX REGIME
+THE ISSUE
+The 0.25% Final Tax Rate on IT export receipts under Section 154A of the Income Tax
+Ordinance, 2001, is authorized through Tax Year 2026 (ending June 2026). This rate,
+applicable to PSEB-registered exporters, has been the single most impactful fiscal
+incentive for the sector’s growth.10 The annual uncertainty around renewal undermines
+investment planning and client commitments.
+THE RECOMMENDATION
+Extend the 0.25% FTR under Section 154A for a minimum of 5 years (Tax Years
+2027–2031), with PASHA’s strong preference for a 10-year extension through Tax Year
+2036.
+RATIONALE
+● Investment horizon: IT companies making decisions about delivery centers, hiring,
+or bidding on multi-year contracts require a minimum 3–5 year policy visibility
+window. India’s SEZ benefits span 10–15 years; Vietnam’s IT incentives extend up to
+15 years.
+● Revenue impact is net positive: IT export receipts — and the associated 0.25%
+collections — have increased year-on-year. FY2023–24 exports were USD 3.2 billion;
+FY2024–25 reached USD 3.8 billion. The alternative is not taxation at higher rates; it
+is reduced export activity and foreign exchange inflows.
+● Industry alignment: P@SHA itself has formally called for a 10-year FTR continuation
+as a core policy priority.11
+See Annexure A for detailed global competitive benchmarking of IT export tax
+incentives.
+10Income Tax Ordinance, 2001, Section 154A; Division IVA of Part III of the First Schedule; Finance Act, 2022.
+11Dawn, “IT exports hit record $3.8bn in 2024–25,” July 19, 2025 (citing P@SHA’s formal recommendations).
+Pg. 6
+
+
+===== PAGE 8 =====
+RECOMMENDATION 2
+TAX CLASSIFICATION OF IT FREELANCERS VS
+REMOTE WORKERS
+THE ISSUE
+Remote workers employed full-time by foreign companies are claiming the 0.25% rate
+under Section 154A for what is functionally employment income. Based on current income
+tax rates for salaried individuals under Section 149, this creates a graduated tax arbitrage
+of 18 to 31 percentage points, resulting in 22–44% more take-home pay for identical work
+— with the gap widening at senior salary levels. The consequence is a systematic drain of
+senior talent from Pakistan’s organized IT companies.
+The following table illustrates the arbitrage at various salary levels using current
+FY2025–26 income tax rates:
+Section 154A
+Gross Monthly Income Tax Arbitrage
+Take-Home Tax Take-Home
+(PKR) (Section 149) (Col5 - Col3)/Col3
+(0.25%)
+400,000 71,750 328,250 1,000 399,000 +21.5%
+500,000 106,750 393,250 1,250 498,750 +26.8%
+600,000 141,750 458,250 1,500 598,500 +30.6%
+700,000 176,750 523,250 1,750 698,250 +33.4%
+800,000 211,750 588,250 2,000 798,000 +35.6%
+900,000 268,958 631,042 2,250 897,750 +42.3%
+1,000,000 307,108 692,892 2,500 997,500 +44.0%
+At a gross salary of PKR 500,000/month, a remote worker claiming the 0.25% rate takes
+home PKR 498,750 versus PKR 393,250 for an identically compensated domestic IT
+company employee — a difference of PKR 105,500/month (26.8%). At PKR 1,000,000/month,
+the gap widens to PKR 304,608/month (44%). No domestic employer can compete with
+this implicit subsidy to foreign companies.12
+12Income tax rates per FY2025–26 salaried individual tax slabs under Section 149 of the Income Tax Ordinance,
+2001.
+Pg. 7
+
+
+===== PAGE 9 =====
+THE RECOMMENDATION
+Amend Section 154A to introduce two sub-categories: Category A (Independent IT
+Service Exporters, retaining 0.25%) and Category B (Remote Employees of Foreign
+Entities, subject to graduated rates of 5–20%). This closes a tax arbitrage that
+currently gives remote workers 22–44% more take-home pay than identically
+compensated domestic employees. Implement through a five-factor classification
+test, self-declaration with risk-based audit, and banking channel integration.
+GLOBAL LEARNINGS
+Every major economy has enacted specific legislation addressing this distinction. The
+Netherlands’ DBA Act, enforced from January 2025 after a nine-year moratorium,
+addresses an estimated 13% false self-employment rate among 1.7 million registered
+freelancers, with IT among the most affected sectors.13 The UK’s IR35 rules, the US W-2 vs
+1099 classification with the ABC Test, and Germany’s Scheinselbständigkeit rules all
+address the same structural problem.
+See Annexure B for full classification framework, proposed graduated rates, global
+comparative analysis, and implementation roadmap.
+13IAmExpat Netherlands, “Dutch tax authorities to crack down on exploitation of freelancers from 2025,” September 2024; 3C
+Global Group, “Netherlands Freelancer Crackdown,” November 2024; Dutch Chamber of Commerce (KvK) data.
+Pg. 8
+
+
+===== PAGE 10 =====
+RECOMMENDATION 3
+MADE IN PAKISTAN — PUBLIC SECTOR IT
+PROCUREMENT MANDATES
+THE ISSUE
+Pakistan’s federal and provincial governments spend billions annually on enterprise
+software licenses, IT infrastructure, and digital transformation. The overwhelming majority
+flows to multinational vendors, with minimal allocation to locally developed software or
+locally manufactured hardware — even where competitive Pakistani alternatives exist.
+THE RECOMMENDATION
+Mandate minimum allocation thresholds for locally developed software and locally
+produced hardware in all federal and provincial public sector IT procurement, with
+phased implementation.
+Category Year 1–2 Year 3–5
+Software — Not Locally Mandatory procurement Foreign software spend
+Produced (OS, middleware, through routed through registered
+cloud tools, antivirus, PSEB/PASHA-registered local firms; captures
+development tools, channel partners margin, builds service
+databases, email systems, capability, enables local
+etc.) support and training
+Software — Locally Produced Phased adoption roadmap: Competitive local
+(such as ERP systems, 20% allocation (Year 1) products evaluation
+banking systems, fintech, 40% (Year 2) mandatory before foreign
+e-government platforms, procurement; Pakistani
+training platforms, portals alternative must be
+and websites, etc.) assessed fairly and
+rejection formally justified
+Hardware — Not Locally Mandatory procurement Local integration,
+Produced (servers, storage, through warranty, and support
+networking equipment, etc) PSEB/PASHA-registered requirements; builds
+channel partners domestic systems
+integration capability
+Pg. 9
+
+
+===== PAGE 11 =====
+Hardware — Locally Phased adoption: Pakistan ICT Products
+Produced (PCs, laptops, 20% (Year 1) Registry certification;
+tablets, smartphones, 40% (Year 2) preference for locally
+end-user devices) assembled/manufacture
+d devices; mandatory
+60% local devices
+Cloud & Hosting Services Mandatory local hosting Mandatory local hosting
+where data sovereignty for all government
+applies procurement regardless
+of data sovereignty
+applicability
+See Annexure C for global procurement mandate precedents, proposed Pakistan ICT
+Products Registry framework, and implementation mechanism.
+Pg. 10
+
+
+===== PAGE 12 =====
+RECOMMENDATION 4
+CAPITAL GAINS & REPATRIATION RELAXATION
+FOR VENTURE CAPITAL
+THE ISSUE
+Total disclosed equity VC investment in Pakistani startups collapsed from a peak of USD
+366 million in 2021 to USD 347–355 million in 2022, then to USD 75.8 million in 2023, and just
+USD 22.5 million in disclosed equity in 2024 — a 70% year-on-year decline and the lowest
+level since 2018.14 Q1 2024 recorded zero disclosed deals — the first blank quarter since
+tracking began in 2015.15
+THE RECOMMENDATION
+Principally treat VC Investors / Risk Takers’ entities as pass through when their
+distribution structure (80/20 split of Capital Gains) is in line with global norms.
+Introduce a targeted capital gains tax exemption and streamlined repatriation
+framework for VC/PE investments in PSEB-registered IT/ITeS companies.
+● Capital gains tax exemption: Full exemption for equity investments held 3+ years in
+PSEB-registered companies. 50% exemption for 1–3 year holds.
+● Repatriation guarantee: Amend SBP regulations to authorize VC-backed tech
+companies to open Specialized Foreign Currency Accounts to hold foreign currency
+equity investments from licensed registered Fund Management Companies in their
+original denomination. Guarantee repatriation of investment capital for growth and
+expansion internationally with SBP approvals.
+● Fund registration: Fast-track SECP registration for VC/PE funds investing primarily in
+PSEB-registered companies.
+See Annexure D for detailed framework, global comparisons, and proposed legislative
+amendments.
+14Dawn, “2022 — a dismal year for Pakistani startups,” December 2022 (2021 peak at $366M); Invest2Innovate Q4 2022
+Report ($355M for 2022); Data Darbar / Startup Naama, “Pakistan’s Tech & VC Landscape 2024,” May 2025 ($22.5M for 2024,
+70% decline).
+15Invest2Innovate, “Q1 2024 Deal Flow Update: Historic Low in Startup Fundraising,” 2024.
+Pg. 11
+
+
+===== PAGE 13 =====
+RECOMMENDATION 5
+NATIONAL SKILLS PROGRAMS — BUDGET
+ALLOCATION
+THE ISSUE
+Pakistan produces approximately 25,000 IT graduates annually, yet industry estimates
+suggest that a big percentage of this number are not “job-ready” for the roles the sector
+needs. Existing government programmes (DigiSkills, e-Rozgaar) have achieved breadth —
+over 350,000 professionals trained in FY2024–2516 — but lack the depth, industry
+alignment, and outcome accountability required to move Pakistan up the global value
+chain.
+THE RECOMMENDATION
+Allocate a dedicated annual federal budget of PKR 5 billion for National Skills
+Programs, governed jointly by MoIT, PSEB, and PASHA, with disbursements tied to
+measurable employment and certification outcomes.
+PROGRAM DESIGN PRINCIPLES
+● Industry co-governance: PASHA and member companies participate directly in
+curriculum design, trainer selection, and outcome assessment.
+● Outcome-based funding: Training providers compensated based on verified
+placement rates (minimum 60% within 6 months).
+● Tiered structure: Foundational (digital literacy), intermediate (job-ready technical
+skills), and advanced (specialized certifications in AI/ML, cloud, cybersecurity).
+See Annexure E for program descriptions, capacity targets, curriculum outlines, and
+budget estimates across 8 priority programs.
+16Express Tribune, “IT exports hit record at $3.8b,” July 19, 2025 (citing IT Minister).
+Pg. 12
+
+
+===== PAGE 14 =====
+RECOMMENDATION 6
+HARMONIZATION OF PROVINCIAL SALES TAX ON
+DOMESTIC IT SERVICES
+THE ISSUE
+IT exports are zero-rated for sales tax purposes and are not affected by this
+recommendation. However, for domestic IT service delivery — where Pakistani IT
+companies serve local clients including government, banking, telecom, and enterprise
+customers — the provincial sales tax landscape is fragmented and burdensome.
+Following the 18th Constitutional Amendment, provinces maintain separate sales tax on
+services regimes with different rates, exemptions, registration thresholds, and compliance
+procedures. For IT companies operating nationally, this creates operational complexity,
+additional compliance costs, discourages inter-provincial service delivery, and possible
+double taxation conflicts where both the provider’s and the client’s province claim taxing
+jurisdiction.
+THE RECOMMENDATION
+Pursue a federal–provincial coordination mechanism (through the Council of
+Common Interests or National Tax Council) to harmonize the sales tax treatment of
+domestic IT services across all provinces and ICT, with a unified rate, shared
+registration, and single-portal filing system.
+P@SHA has formally recommended “harmonising provincial sales tax through the
+National Tax Council under a single, creditable return system.”17
+● Unified rate: A single, nationally consistent reduced rate of 5% on domestic IT and
+ITeS (below the standard services rate in all provinces), replacing the current
+patchwork of 5%–15% across jurisdictions.
+● Single registration: IT companies register once at the federal level with reciprocal
+recognition across all provinces.
+● Single-portal filing: Unified electronic filing portal with backend revenue sharing to
+provinces based on an agreed formula.
+● Clear jurisdiction rules: Unambiguous origin/destination rules for inter-provincial
+domestic IT service delivery, eliminating double taxation.
+See Annexure F for scope clarification, provincial rate comparison, proposed
+harmonization framework, and precedent analysis.
+17Dawn, July 19, 2025 (citing P@SHA’s formal policy recommendations).
+Pg. 13
+
+
+===== PAGE 15 =====
+SUMMARY OF RECOMMENDATIONS
+# Subject Summary
+1 Extension of 0.25% Extend the current 0.25% FTR under Section 154A for a
+Final Tax Regime minimum of 5 years (preferably 10) beyond June 2026 to
+(FTR) for IT Exports provide policy certainty.
+2 Tax Classification: IT Introduce a legislative distinction between genuine
+Freelancers vs freelancers (retain 0.25%) and remote employees
+Remote Workers (graduated 5–20%), closing a tax arbitrage of 18–31
+percentage points that gives remote workers 22–44%
+more take-home pay.
+3 Made in Pakistan: Mandate minimum allocation thresholds for locally
+Public Sector IT developed software and locally manufactured hardware
+Procurement in public sector procurement.
+Mandates
+4 Capital Gains & Reinstating capital gains tax exemptions and streamlined
+Repatriation repatriation for VC/PE investments in PSEB-registered IT
+Relaxation for companies.
+Venture Capital
+5 National Digital Skills Allocate a dedicated federal budget for digital skills
+Program: Budget programs targeting AI/ML, cloud, cybersecurity, and
+Allocation emerging technologies.
+6 Harmonization of Pursue federal–provincial coordination to harmonize the
+Provincial Sales Tax fragmented sales tax treatment of IT services and
+on Domestic IT software across all provinces and ICT. IT exports are
+Services already zero-rated and unaffected.
+These recommendations are mutually reinforcing - the FTR extension provides the core
+incentive; freelancer–remote worker classification safeguards it; procurement mandates
+drive demand; VC relaxation enables growth capital; skills programs strengthen supply;
+and sales tax harmonization reduces domestic friction. Each is supported by detailed
+annexures. PASHA stands ready to provide sector expertise, industry data, and technical
+support throughout the consultation, drafting, and implementation process.
+Pg. 14
+
+
+===== PAGE 16 =====
+Pg. 15
+
+
+===== PAGE 17 =====
+ANNEXURE A
+FTR EXTENSION
+GLOBAL COMPETITIVE BENCHMARKING
+A.1 REGIONAL BENCHMARKING
+Every comparable peer economy in the region offers broad-based, non-zone-restricted
+tax incentives to its IT sector. The following examples demonstrate that sector-wide
+preferential regimes are the regional norm.
+This annexure provides a comparative analysis of IT export tax incentives across
+competing jurisdictions, demonstrating that Pakistan’s 0.25% FTR is competitive but
+requires long-term certainty to remain effective.
+A.2 COMPARATIVE IT EXPORT INCENTIVE REGIMES
+Jurisdiction Incentive Effective Rate Duration
+Pakistan 0.25% FTR on export 0.25% Renewed annually;
+(current) receipts under Section current authorization
+154A through June 2026
+India Presumptive taxation 6–8% effective for SEZ benefits: 10–15
+under Section 44ADA; digital businesses years
+SEZ benefits
+Vietnam Corporate Income Tax 0% for 4 years, then Up to 15 years total
+exemption + reduction 50% reduction for 9
+for IT years
+Philippines CREATE Act income tax 0% during holiday; 4–7 year holiday
+holiday 5% SCIT after
+Bangladesh Full income tax 0% Extended through
+exemption for IT/ITES June 2027
+exports
+Malaysia MSC Malaysia status 0% Pioneer Status or 10 years
+tax incentive 100% ITA
+Bangladesh — 100% Tax Exemption (Non-Zone, Industry-Wide)
+Bangladesh is the most directly comparable case and the strongest benchmark in our
+favour. The Bangladesh government, through Finance Act 2024, confirmed that income
+derived from software development and IT-enabled services is 100% exempt from
+Pg. 16
+
+
+===== PAGE 18 =====
+corporate income tax for the period July 2024 to June 2027, available to any resident or
+non-resident Bangladeshi IT company on the condition that a tax return is filed with no
+requirement to operate inside any special zone.18 The covered activities include 19
+tech-based sectors such as software development and customization, web development,
+AI-based solution development, digital data analytics and data science, and
+cybersecurity services.This 100% exemption framework has been in place in various forms
+since July 2005 nearly two decades of uninterrupted sector-wide tax relief that has
+directly contributed to Bangladesh's progress in its software sector and attracted both
+resident and foreign investment19.
+Bangladesh, which competes directly with Pakistan for the same global IT outsourcing
+contracts, offers a 100 percent corporate income tax exemption across its IT sector.
+India — Zero-Rated IT Exports
+The Indian IT industry serves as the definitive global case study20 for how aggressive fiscal
+policy can catalyze a nascent sector into a world leader. Central to this transformation
+were the Section 10A and 10B tax holidays, which provided a 0% corporate tax rate on all
+profits derived from software exports. These incentives had a "substantial" positive impact,
+with industry leaders rating them 4.0 out of 5.0 in importance for growth. This fiscal regime
+allowed firms to bypass "cumbersome" banking procedures and high collateral
+requirements by enabling them to finance expansion entirely through tax-free retained
+earnings. The magnitude of this advantage is evidenced by industry giants like Wipro;
+while the Indian national tax average was 38.5%, Wipro’s IT services units operated under a
+0% tax shield, bringing the entire corporation's effective rate down to just 14%. By retaining
+nearly 100% of their export margins—which averaged 20% of revenues—Indian firms
+secured the "financial freedom" and "critical scale" necessary to underprice global
+incumbents and achieve a dominant international market share.
+The export of software services is classified as a zero-rated supply under India's GST
+framework, meaning no tax is charged on services when exported and exporters can
+claim full Input Tax Credit refunds. This zero-rating applies to all registered IT exporters
+with no requirement to operate inside a special economic zone.
+It has been observed that India's IT sector has reached hyper-maturity and is
+oversaturated, reducing its growth agility. This context is relevant as India's preferential
+regime helped it build a $200 billion plus IT export industry over three decades. Pakistan is
+at the early-growth stage where India was in the early 2000s. The policy lesson from India
+18
+PwC. (2024). Bangladesh Finance Act 2024.
+https://www.pwc.com/jp/en/services/globalization/news/assets/pdf/bangladesh-finance-act-2024.pdf
+19
+Reanda International News | Bangladesh: Tax exemption for software and IT-enabled service (Section 44 of IT
+Ordinance 1998). (n.d.).
+https://www.reanda-international.com/news/bangladesh-tax-exemption-for-software-and-it-enabled-service
+-section-44-of-it-ordinance-1998
+20
+Gregory, N., Nollen, S., & Tenev, S. (2009). New Industries from New Places: The Emergence of the Software and
+Hardware Industries in China and India. Washington, D.C.: The World Bank; Stanford, California: Stanford
+University Press
+Pg. 17
+
+
+===== PAGE 19 =====
+is applicable precisely at Pakistan's current stage of IT sector development before
+saturation, when incentives generate the highest incremental export growth.
+Vietnam — 0% CIT Holiday + 10% Preferential Rate
+The Vietnamese tax framework, as established in Circular No. 78/2014/TT-BTC, provides a
+highly aggressive "double-layered" incentive structure designed to position the software
+sector as a top-tier "prioritized" industry. Under Article 19, new investment projects in
+software production are granted a preferential corporate income tax (CIT) rate of 10% for
+fifteen years, a significant reduction from the standard 20% national rate. This is further
+amplified by Article 20, which provides a total tax holiday (0% tax) for the first four years of
+taxable profit, followed by a 50% reduction (effectively a 5% tax rate) for the subsequent
+nine years. This 13-year runway of near-zero taxation provides software exporters with
+immense "cash-flow liquidity," allowing them to reinvest gross margins into global
+marketing and talent acquisition, thereby mirroring the fiscal agility that originally fueled
+the Indian IT boom.21
+Thailand — 8-Year CIT Exemption via BOI
+Under the 2025 Investment Promotion Guidelines, Thailand’s fiscal treatment of the IT
+sector is categorized primarily under Activity 8.1.1 (Software Development and Digital
+Platforms) and Activity 8.2.2 (Cloud Services).22 The most favorable treatment grants a
+Corporate Income Tax (CIT) exemption for up to 8 years, with a strategic emphasis on
+expenditure-based caps. Unlike traditional models, the CIT exemption limit for software
+projects is linked to 100% of the annual salary expenses of Thai IT personnel, effectively
+subsidizing the industry's largest operational cost—human capital. For ultra-high-impact
+technology, the National Competitiveness Enhancement Act (2017) offers a premium tier
+of incentives, including a CIT exemption for up to 15 years. By decoupling these benefits
+from specific geographical zones and linking them to technical expertise and salary
+spend, Thailand ensures its IT industry remains regionally competitive through direct and
+significant bottom-line relief.
+Philippines — 5% Special CIT Post Tax Holiday
+Under the National Internal Revenue Code of 1997, recently modernized by Republic Act
+No. 12066 (2024), the Philippines provides a hyper-competitive fiscal framework
+specifically engineered to scale export enterprises, including the IT-BPM sector. The
+regime’s most favorable treatment offers a strategic choice between an Income Tax
+21
+Ministry of Finance (Vietnam), Circular No. 78/2014/TT-BTC: Guiding the implementation of the Government’s
+Decree No. 218/2013/ND-CP detailing and guiding the implementation of the Law on Enterprise Income Tax. See
+Article 19 (Preferential Tax Rates for software production projects) and Article 20 (Tax Exemption and Reduction
+periods). Hanoi, June 18, 2014.
+22
+Office of the Board of Investment (Thailand), Investment Promotion Guide 2025. See Section 03: Group of
+Industries and General List of Activities, specifically Category 8: Digital, Creative Industries and High Value Service
+(Activities 8.1.1 – 8.2.2). Also see the National Competitiveness Enhancement for Targeted Industries Act, B.E. 2560
+(2017), Section 24 (CIT Exemption for Targeted S-Curve Industries).
+Pg. 18
+
+
+===== PAGE 20 =====
+Holiday (ITH) or a Special Corporate Income Tax (SCIT) rate of 5% on Gross Income Earned,
+which serves as a "plug-and-play" tax solution in lieu of all other national and local taxes.
+To further sharpen export competitiveness, the law introduces an Enhanced Deductions
+Regime, notably allowing a 100% additional deduction on power expenses and significant
+offsets for trade exhibitions and reinvestment. By combining these with VAT zero-rating on
+local purchases and duty-free importation of capital equipment, the Philippines
+aggressively lowers the "cost of doing business," ensuring that IT service exporters can
+maintain the high liquidity and lean margins required to dominate the global outsourcing
+market.23
+China — 15% Preferential CIT for High-Tech Enterprises
+China’s fiscal strategy for the IT sector is a sophisticated, performance-linked model that
+transitions from total tax immunity to long-term preferential rates. Under the prevailing
+Corporate Income Tax (CIT) framework, while the standard national rate is 25%, the most
+favorable treatment is reserved for Encouraged Designated Key Software Enterprises,
+which benefit from a full five-year CIT exemption followed by a deeply discounted 10%
+preferential rate. High-growth firms that qualify as New/High-Tech Enterprises (NHTE) or
+Technology-Advanced Service Enterprises (TASE) are also eligible for a permanent
+reduction to 15%.
+China's preferential tax policy for technology and R&D dates back to the 1990s, with the
+State Council issuing its landmark Decision on Accelerating Science and Technology
+Progress following the National Science Conference of 1995, signalling a long-term
+commitment to building an enterprise-led innovation system before results were visible.
+The real milestone came in 2000. The policy recognized by the industry as
+transformational is "Document No. 18" Several Policies to Encourage the Development of
+the Software Industry and IC Industry promulgated in 2000, marking a new stage in
+China's use of fiscal policy to support the industry.24 Under this framework, tech enterprises
+received full income tax exemption for two years starting from their first profit-making
+year, followed by a 50% reduction for the next three years, a generous runway explicitly
+designed for companies not yet generating substantial taxable income.25 Key software
+companies recognized by the central government were further entitled to a reduced rate
+of just 10%, well below even today's 15% HNTE rate, reflecting how aggressively China
+supported its nascent sector before it could stand on its own.
+23
+National Internal Revenue Code of 1997, as amended by Republic Act No. 12066 (The CREATE MORE Act),
+November 08, 2024. See Section 294 (Incentives for Registered Business Enterprises) and Section 295 (Conditions
+for Availment).
+24
+Tian, B., Yu, B., Chen, S., & Ye, J. (2020). Tax incentive, R&D investment and firm innovation: Evidence from China.
+Journal of Asian Economics, 71, 101245. https://doi.org/10.1016/j.asieco.2020.10124
+25
+Stewart, T. P. (2007). China’s industrial subsidies study: High technology (Vol. 1). Trade Lawyers Advisory Group
+for the U.S.-China Economic and Security Review Commission.
+https://www.uscc.gov/sites/default/files/Research/China%27s%20Industrial%20Subsidies%20High%20Technology
+.pdf
+Pg. 19
+
+
+===== PAGE 21 =====
+Two decades later, when China identified semiconductors as a new strategic frontier,
+again in an early, vulnerable stage, it went even further. Document No. 8 (2020) exempted
+qualified IC enterprises from corporate income tax for ten consecutive years, covering
+companies across all growth stages from early-stage entrepreneurship to listing.26
+China calibrated the depth and duration of its tax incentives to the maturity of its industry.
+The more nascent the sector, the longer and more generous the relief. Pakistan's IT sector
+today is precisely where China's was in 2000 — early-stage, structurally capital-light, and
+competing for global outsourcing mandates against entrenched rivals. Withdrawing or
+capping the Fixed Tax Regime (FTR) at this juncture would be analogous to China pulling
+Document No. 18 in 2003, before a single cohort of companies had reached maturity.
+UAE — 0% Corporate Tax for Qualifying Tech Entities
+Free Zone entities meeting Qualifying Free Zone Person status are eligible for a 0% UAE
+Corporate Tax rate on qualifying income.27The UAE's model is oriented toward attracting
+regional headquarters and large capital-intensive entities, not the SME-dominated,
+export-oriented IT sector that Pakistan seeks to develop. The UAE comparison therefore
+should be used cautiously: it illustrates a jurisdiction that offers 0% tax but only through
+zone mechanism, and whose IT sector growth in terms of exports and workforce remains
+limited relative to Vietnam, Philippines, or Bangladesh which all have broader, more
+accessible frameworks. The UAE example actually supports the PASHA’s argument:
+zone-restricted regimes are less effective at growing a broad-based IT export economy
+than sector-wide preferential regimes.
+Sri Lanka, A Case Study: What Happens When You Remove IT Tax Exemptions
+Sri Lanka provides a powerful counter-example that strengthens Pakistan's case for
+retention. Sri Lanka previously granted full corporate income tax exemptions to IT and BPO
+service exporters. From April 1, 2025, this exemption was removed and replaced with a 15%
+concessionary rate. The immediate industry reaction was instructive: tax change
+increases the cost burden on IT and BPO exporters, and industry groups warned it would
+erode the country's competitiveness in the global services market.2829 Pakistan, which is
+pursuing IT export growth as a strategic foreign exchange priority, should draw the
+opposite lesson: protect and extend IT tax incentives while you have the fiscal space to do
+so.
+26
+Song, L., & Wen, Y. (2023). Financial subsidies, tax incentives and technological innovation in China’s integrated
+circuit industry. Journal of Innovation & Knowledge, 8(3), 100406. https://doi.org/10.1016/j.jik.2023.100406
+27
+United Arab Emirates - Corporate - Tax credits and incentives. (n.d.).
+https://taxsummaries.pwc.com/united-arab-emirates/corporate/tax-credits-and-incentives
+28
+Liberty Publishers. (2024, July 9). It, BPM industry pushes back against tax exemptions removal. Latest in the
+News Sphere | The Morning. https://www.themorning.lk/articles/rXT0fJyeDof3vjQJLJ4K
+29
+Business Tomorrow - Sri Lanka’s IT sector at a crossroads. (n.d.).
+https://www.business-tomorrow.com/magazine/sri-lankas-it-sector-at-a-crossroads
+Pg. 20
+
+
+===== PAGE 22 =====
+Summary Benchmarking Table (FY 25)
+Country IT/Software Tax Benefit Duration Exports (USD)
+Pakistan (current) 0.25% FTR on exports Until June 2026 3.8B
+Bangladesh 100% CIT exemption July 2024 – June 2027 0.72B
+India 0% GST on IT exports Indefinite 224B
+(zero-rated)
+Vietnam 0% CIT holiday + 10% Up to 19 years total 2.63 (this figure specifically
+preferential tracks IT service exports,
+distinct from Vietnam's
+$140B broader ICT sector
+which remains
+predominantly hardware
+and product-based)
+Thailand 8-year CIT exemption 8 years 0.5B
+China 15% CIT (HNTE/ATSE) Renewable 3-yr cert 65B
+Philippines 5% SCIT post-ITH 10+ years post-ITH 8.0B
+UAE 0% CT (qualifying FZ) Ongoing —
+Sri Lanka 15% (was 0%, rolled back 2025) IMF-forced reversal 1.6B
+A.3 EXPORT GROWTH UNDER THE FTR
+Pakistan’s IT exports have grown consistently since the introduction of the simplified 0.25%
+regime: from approximately USD 2.6 billion in FY2022–23 to USD 3.2 billion in FY2023–24
+(+24%), and to USD 3.8 billion in FY2024–25 (+18%).30 The government’s own target of USD
+15 billion by 2030 requires sustained annual growth rates of 25–30%, which is achievable
+only with policy certainty.31
+30Dawn, “IT exports hit record $3.8bn in 2024–25,” July 19, 2025 (FY25 figure); Profit by Pakistan Today, July 2024
+(FY24 figure of $3.2B).
+31Dawn, July 19, 2025 (citing IT Minister Shaza Fatima: “Pakistan was well on its way to achieve $15bn in IT exports
+by 2030”); PSEB CEO Abu Bakar’s statement on $15B target.
+Pg. 21
+
+
+===== PAGE 23 =====
+A.4 THE CASE FOR 10-YEAR EXTENSION
+A 5-year extension provides minimum viable policy certainty. A 10-year extension would:
+(a) align Pakistan with the incentive horizons offered by India, Vietnam, and Malaysia; (b)
+enable large-scale infrastructure investments (delivery centers, data centers) with 7–10
+year payback periods; (c) support Pakistan’s candidacy for Global Capability Center
+(GCC) establishment by multinationals who require decade-long policy stability; and (d)
+reduce the annual lobbying and uncertainty cycle that consumes government and
+industry resources.
+Pg. 22
+
+
+===== PAGE 24 =====
+ANNEXURE B
+FREELANCER VS REMOTE WORKER
+DETAILED CLASSIFICATION FRAMEWORK
+B.1 BACKGROUND & LEGAL CONTEXT
+Section 154A of the Income Tax Ordinance, 2001 provides for a 0.25% final tax on gross
+export receipts for PSEB-registered IT/ITeS exporters.32 This regime does not currently
+distinguish between independent service exporters and remote employees of foreign
+entities receiving income through identical banking channels.
+B.2 HOW THE ARBITRAGE OPERATES
+Channel 1 — Direct Exploitation: Workers take full-time positions with foreign companies,
+receive fixed monthly salaries under employer direction, but register with PSEB as
+“freelancers” and claim the 0.25% rate.
+Channel 2 — Company-Facilitated Arbitrage: Pakistani IT companies route employee
+salaries through offshore entities (typically Dubai or US subsidiaries) as “remittances,”
+inflating freelancer statistics while eroding the domestic tax base.
+B.3 DETAILED CLASSIFICATION CRITERIA
+Category A: Independent IT Service Exporters (Retain 0.25%)
+Qualifying criteria (must meet at least 3 of 5):
+● Multiple clients: Income from 3+ unrelated clients; no single client >70% of total
+IT/ITeS export income.
+● No exclusivity: Not bound by exclusivity agreements or non-compete clauses.
+● Project-based engagement: Defined projects with specified scope and
+completion criteria.
+● Autonomous work: Controls working hours, tools, and method of delivery.
+● Business identity: Maintains registered business, issues commercial invoices,
+bears financial risk.
+Category B: Remote Employees of Foreign Entities (Graduated Rate)
+Classification triggers (2 or more indicates remote employment):
+● Single-client dependency: ≥80% of foreign exchange income from one entity.
+● Fixed compensation: Fixed monthly payment regardless of deliverables.
+32Income Tax Ordinance, 2001, Section 154A; Division IVA of Part III of the First Schedule.
+Pg. 23
+
+
+===== PAGE 25 =====
+● Directed work: Regular supervision, fixed hours, mandatory use of client systems.
+● Ongoing engagement: Continuous engagement >12 months with no defined
+project endpoint.
+● Employment-type benefits: Paid leave, health insurance, equipment allowances
+from engaging entity.
+B.4 PROPOSED GRADUATED TAX RATES
+Annual Income (FX) Rate Rationale
+Up to PKR 6M (~$20K) 5% Entry-level; incentivize formalization over
+evasion
+PKR 6M–15M 10% Mid-level; competitive with regional alternatives
+(~$20K–$50K)
+PKR 15M–30M 15% Senior; below full employment rate as retention
+(~$50K–$100K) incentive
+Above PKR 30M 20% Leadership; approaches domestic parity while
+(~$100K+) remaining competitive
+B.5 GLOBAL COMPARATIVE ANALYSIS
+Netherlands US (ABC Australia
+Dimension UK (IR35) Germany
+(DBA) Test) (ABN)
+Primary Test Control, Authority, Behavioral, Single-client Control,
+Substitution, Embedding, Financial, + Integration Delegation,
+Mutuality Entrepreneurs Relationship Tools, Risk
+hip
+Enforcement PAYE Risk-based; Up to 41.5% Retroactive 47%
+withholding Soft landing penalties taxes withholding
+if no ABN
+Amnesty No Coaching VCSP No No
+visits first program
+Sector Focus All sectors IT, media, Gig economy All sectors All sectors
+government
+B.6 IMPLEMENTATION ROADMAP
+Phase 1: Legislative Framework (Months 1–3)
+● Amend the Income Tax Ordinance to define Category A and Category B under
+Section 154A.
+Pg. 24
+
+
+===== PAGE 26 =====
+● Establish the five-factor classification test through SRO with detailed guidance and
+worked examples.
+● Specify graduated tax rates for Category B in the First Schedule.
+● Direct PSEB to update registration criteria requiring annual client diversity
+declaration.
+● Coordinate with SBP on banking reporting for single-entity remittance flagging.
+Phase 2: Amnesty & Transition (Months 4–9)
+● 6-month amnesty window (modelled on US VCSP) permitting reclassification
+without penalties or back-taxes.
+● FBR to deploy banking interface: automated flagging of 80%+ single-entity
+remittances above a monthly threshold.
+● Public awareness campaign through PASHA, PSEB, and FBR channels.
+Phase 3: Enforcement (Month 10 Onwards)
+● Risk-based auditing focused on high-value single-source remittances
+(Netherlands model).33
+● Coaching and correction visits before escalating to penalties.
+● Annual review of classification criteria and rates.
+B.7 LEGISLATIVE DRAFTING SUPPORT
+PASHA is available to assist FBR’s Law & Procedures Wing in drafting the requisite Statutory
+Regulatory Order (SRO) under Section 237 of the Income Tax Ordinance, 2001, including the
+classification test criteria, worked examples, taxpayer guidance documentation, and FAQ
+materials. PASHA’s member companies can provide real-world case studies and
+employment patterns to inform the drafting process.
+B.8 HOW PEER COUNTRIES HAVE NARROWED THE GAP
+Philippines — Tax Reform for Acceleration and Inclusion (TRAIN) Law Tax Comparison
+(2025)
+Income Level Salaried Freelancer / Remote Gap Mechanism
+(Annual) Employee Worker Rate
+Rate
+Up to 0% 0% 0 pp Both exempt
+₱250,000
+33KVK Netherlands, “The DBA Act: avoid false self-employment,” January 2026; Dutch enforcement began January
+2025 with coaching-first approach.
+Pg. 25
+
+
+===== PAGE 27 =====
+₱250K – 15% on 8% flat on gross ~7 pp Freelancer opts
+₱400K excess into 8% flat
+replacing
+income +
+business tax
+₱400K – ₱22,500 + 8% flat on gross ~12 pp Gap widens as
+₱800K 20% on salary bracket
+excess rises
+₱800K – ₱2M ₱102,500 + 8% flat on gross ~17 pp Largest
+25% on practical gap
+excess for IT
+professionals
+Above ₱3M Up to 35% Graduated rate Converges 8% flat option
+applies (8% option lapses above
+unavailable above ₱3M gross
+₱3M)
+Reform direction: Philippines is actively compressing this gap via mandatory BIR
+registration for freelancers — making the lower rate conditional on formal compliance, not
+an escape from it. The 8% flat is a formalisation incentive, not a permanent wedge.
+Malaysia — Structural Parity (2025)
+Income Level Salaried Freelancer / Gap Mechanism
+(Annual, MYR) Employee Self-Employed
+Rate Rate
+Up to RM5,000 0% 0% 0 pp Identical
+threshold
+RM5,001 – 1% 1% 0 pp Same schedule
+RM20,000
+RM20,001 – 3% 3% 0 pp Same schedule
+RM35,000
+RM35,001 – 8–19% 8–19% 0 pp Same schedule
+RM100,000
+Pg. 26
+
+
+===== PAGE 28 =====
+Above Up to 30% Up to 30% 0 pp Same schedule;
+RM100,000 identical reliefs
+available to
+both
+India — Reducing the Top Slab for Employed Professionals
+India — New Tax Regime Comparison (FY 2025-26)
+Income Salaried Freelancer via Gap Mechanism
+Level Employee Section 44ADA
+(Annual, Effective Rate Effective Rate
+INR)
+Up to ₹12.75L 0% (rebate + 0% (rebate 0 pp Both effectively zero
+std. deduction) applies on 50% of below threshold
+gross)
+₹15L gross ~8.5% ~3.5% on gross ~5 pp 44ADA deems 50% of
+(tax on 50% of gross as profit; tax
+receipts) applies only to that half
+₹20L gross ~12% ~5.5% on gross ~6.5 pp Gap maintained but
+moderate
+₹30L gross ~17% ~9% on gross ~8 pp Surcharge (capped at
+25% under new regime)
+begins applying
+Above ₹2 Cr Up to ~39% incl. ~19% on gross via ~20 pp Maximum structural
+surcharge 44ADA gap at top income;
+surcharge capped at
+25% under new regime
+vs 37% under old
+Pg. 27
+
+
+===== PAGE 29 =====
+ANNEXURE C
+MADE IN PAKISTAN
+PROCUREMENT FRAMEWORK DETAILS
+C.1 GLOBAL PROCUREMENT MANDATE PRECEDENTS
+● India — Government e-Marketplace (GeM): Mandates preference for “Make in
+India” products across all government procurement. IT products with domestic
+alternatives require justification for foreign procurement.
+● Brazil — Marco Civil da Internet: Government data must be stored domestically.
+Procurement preference for local technology solutions in public sector.
+● EU — Digital Sovereignty initiatives: GAIA-X cloud framework, European Chips Act,
+and public procurement directives increasingly favor European solutions.
+● China: Multi-Level Protection Scheme (MLPS 2.0) mandates domestic technology
+for government systems, with escalating requirements by security classification.
+C.2 PAKISTAN ICT PRODUCTS REGISTRY
+PASHA recommends establishing a registry under PSEB certifying locally developed
+software and locally manufactured hardware meeting defined quality, security, and
+interoperability standards. Certification criteria would include: PSEB registration,
+demonstrated deployment track record, security audit compliance, and interoperability
+with existing government systems.
+C.3 IMPLEMENTATION MECHANISM
+PPRA rules (federal) and provincial equivalents would be amended to require procuring
+entities to demonstrate compliance with allocation thresholds. A “comply or explain”
+mechanism would allow justified exceptions where no domestic alternative exists or
+where the domestic product does not meet minimum technical requirements, subject to
+PSEB review.
+Pg. 28
+
+
+===== PAGE 30 =====
+ANNEXURE D
+VENTURE CAPITAL
+PROPOSED FRAMEWORK DETAILS
+D.1 PAKISTAN VC FUNDING TRAJECTORY
+The collapse in venture funding is documented in detail: 2021 saw record inflows of USD
+366 million across 73 deals.34 2022 remained strong at USD 347–355 million (57 deals)
+despite global contraction.35 The decline accelerated in 2023 to USD 75.8 million, and 2024
+saw just USD 22.5 million in disclosed equity.36 Q1 2024 recorded zero disclosed deals for
+the first time since tracking began.37
+D.2 GLOBAL CAPITAL GAINS FRAMEWORKS FOR VC
+● India — Section 54EEC: Capital gains deferral/exemption for investments in
+specified technology funds. Angel Tax abolished in 2024 Budget.
+● Singapore — Section 13H: Exempts specified fund vehicles from tax on gains from
+qualifying investments.
+● UK — SEIS/EIS: 30–50% income tax relief for qualifying investments in early-stage
+companies. CGT exemption for SEIS investments held for 3+ years.
+● US: Qualified Small Business Stock (QSBS) exclusion provides up to 100% exclusion
+of capital gains on qualifying investments held 5+ years.
+● Global fund structure norm: Across the US, UK, Singapore, and India, VC funds
+operate on an 80/20 distribution structure — 80% of capital gains flow through to
+limited partners, with 20% retained as carried interest by the general partner.
+Pass-through tax treatment of the fund vehicle is the common mechanism
+ensuring this distribution is not subject to double taxation at both fund and investor
+levels.
+D.3 PROPOSED AMENDMENTS
+● Treat licensed VC/PE firms as pass-through entities for tax purposes, consistent
+with global norms where funds distribute 80% of capital gains to investors and
+34Dawn, “2022 — a dismal year for Pakistani startups,” December 26, 2022 (states “record investment of $366
+million in Pakistan” for 2021).
+35Arab News Pakistan, January 2023 (Data Darbar: $347.44M; Invest2Innovate: $355M across 57 deals).
+36Data Darbar, “Tech & VC Landscape 2024” report, via Startup Naama, May 2025 ($22.5M in 2024, down 70.4%
+from $75.8M in 2023; lowest since 2018).
+37Invest2Innovate Q1 2024 Deal Flow Update.
+Pg. 29
+
+
+===== PAGE 31 =====
+retain 20% as carried interest. Tax liability should rest at the investor level, not
+duplicate at the fund vehicle level.
+● Insert new clause in the Second Schedule, treating licensed VC firms as full pass
+through entities - full capital gains exemption for investments in PSEB-registered
+companies held 3+ years, 50% exemption for 1–3 year holds, no tax on
+“Management fees” which are typically included in what is returned to investors
+before calculating gains.
+● Amend SBP regulations to authorize VC-backed tech companies to open
+Specialized Foreign Currency Accounts to hold foreign currency equity investments
+from licensed registered Fund Management Companies in their original
+denomination. Guarantee repatriation of investment capital for growth and
+expansion internationally with SBP approvals.
+● SECP to establish fast-track fund registration for VC/PE vehicles with >60% IT/ITeS
+portfolio concentration.
+Pg. 30
+
+
+===== PAGE 32 =====
+ANNEXURE E
+DIGITAL SKILLS PROGRAMS — DETAILED
+DESCRIPTIONS
+AI & MACHINE LEARNING ENGINEERING
+Target Cohort CS/SE graduates; mid-career professionals transitioning into AI
+Duration 6 months (480 contact hours + 120 hours project work)
+Annual Capacity 2,000 per year across 10 training centers
+Core Curriculum Python for ML, TensorFlow/PyTorch, supervised/unsupervised
+learning, deep learning, NLP, computer vision, MLOps, responsible AI
+Certification Target Google TensorFlow Developer Certificate, AWS ML Specialty
+Estimated Annual PKR 800M (PKR 400K per participant)
+Budget
+CLOUD-NATIVE DEVELOPMENT (AWS / AZURE / GCP)
+Target Cohort IT graduates, working developers seeking cloud specialization
+Duration 4 months (320 contact hours)
+Annual Capacity 5,000 per year
+Core Curriculum Cloud fundamentals (multi-cloud), Docker/Kubernetes, serverless,
+CI/CD, Terraform, cloud security, cost optimization
+Certification Target AWS Solutions Architect Associate, Azure Administrator, or GCP
+Professional Cloud Architect
+Estimated Annual PKR 1B (PKR 200K per participant)
+Budget
+CYBERSECURITY OPERATIONS & COMPLIANCE
+Target Cohort IT professionals, career changers with technical aptitude
+Duration 6 months (480 contact hours + lab work)
+Annual Capacity 1,500 per year
+Pg. 31
+
+
+===== PAGE 33 =====
+Core Curriculum SOC operations, threat detection, incident response, penetration
+testing, ISO 27001, SOC 2, PCI-DSS, cloud security, digital forensics
+Certification Target CompTIA Security+, CEH, or CISSP (senior track)
+Estimated Annual PKR 600M (PKR 400K per participant)
+Budget
+FULL-STACK DEVELOPMENT BOOTCAMP
+Target Cohort Non-IT graduates, career changers, self-taught developers
+Duration 6 months intensive (600 contact hours)
+Annual Capacity 10,000 per year (highest demand category)
+Core Curriculum HTML/CSS/JS, React/Next.js, Node.js/Python, SQL + NoSQL, REST APIs,
+Git, agile, deployment, portfolio
+Certification Target PASHA-certified Full-Stack Developer (industry credential)
+Estimated Annual PKR 1.5B (PKR 150K per participant)
+Budget
+Additional programs in Data Engineering & Analytics, QA & Test Automation, DevOps &
+SRE, and Digital Marketing & IT Sales follow similar formats. Full descriptions available
+from PASHA Secretariat.
+Pg. 32
+
+
+===== PAGE 34 =====
+ANNEXURE F
+HARMONIZATION OF PROVINCIAL SALES TAX ON IT
+SERVICES
+F.1 SCOPE
+This recommendation pertains exclusively to the sales tax treatment of domestic IT
+service delivery — where Pakistani IT companies provide services to local clients
+(government, BFSI, telecom, enterprise). IT exports are zero-rated for sales tax purposes
+under existing federal and provincial frameworks and are not affected by this
+recommendation.
+F.2 CURRENT PROVINCIAL LANDSCAPE
+Following the 18th Constitutional Amendment, each province maintains its own sales tax
+on services regime for domestic transactions. The IT sector faces varying rates (typically
+3–16%), different exemption criteria, separate registration portals, and divergent
+interpretations of what constitutes a “taxable IT service.” IT companies serving domestic
+clients across multiple provinces must register, file, and comply separately in each
+jurisdiction — a compliance burden that often exceeds the tax liability itself, particularly for
+SMEs and startups.
+F.3 THE DOUBLE TAXATION PROBLEM
+Inter-provincial domestic IT service delivery creates jurisdictional ambiguity. When a
+company based in Punjab provides services to a client in Sindh, both provinces may claim
+taxing jurisdiction — Punjab as the province of supply, Sindh as the province of
+consumption. This results in either double taxation or complex credit mechanisms that
+often fail in practice. This problem does not affect IT exports, which are zero-rated, but
+materially impacts the growing domestic IT market.
+F.4 PRECEDENT: INDIA’S GST
+India’s implementation of the Goods and Services Tax in 2017 consolidated 17 different
+state and central levies into a single framework for domestic transactions. Despite its
+complexity, GST eliminated cascading taxes and inter-state barriers. Pakistan’s challenge
+is more limited in scope and could be addressed through inter-provincial agreement
+focused specifically on domestic IT services as a pilot.
+F.5 PROPOSED FRAMEWORK
+● Unified rate: A harmonized reduced rate of 5% on domestic IT and ITeS (below the
+standard services rate in all provinces), replacing the current patchwork of 3–16%
+Pg. 33
+
+
+===== PAGE 35 =====
+across jurisdictions. IT exports remain zero-rated under existing provisions and are
+outside the scope of this framework.
+● Single registration: IT companies register once at the federal level or through a
+designated lead province, with automatic reciprocal recognition for domestic
+service delivery.
+● Single-portal filing: Unified electronic filing portal managed by FBR or a
+designated provincial authority, with backend revenue allocation to provinces
+based on an agreed formula (e.g., workforce location, client location, or a hybrid).
+● Jurisdiction clarity: Destination-based principle for inter-provincial domestic
+services; origin-based for intra-provincial. Clear safe harbors for common
+scenarios.
+F.6 IMPLEMENTATION PATH
+PASHA recommends that domestic IT services serve as a pilot for broader sales tax
+harmonization. A federal–provincial working group under the Council of Common
+Interests or National Tax Council would develop the framework, with implementation
+within 12–18 months. The IT sector’s small contribution to total provincial sales tax revenue
+makes it a low-risk pilot with high demonstration value.
+Pg. 34
+
+
+===== PAGE 36 =====
+Pg. 35

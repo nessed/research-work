@@ -1,0 +1,1373 @@
+
+
+===== PAGE 1 =====
+
+
+
+===== PAGE 2 =====
+
+
+
+===== PAGE 3 =====
+PREAMBLE:
+Dear All,
+Asalam-o-alaikum. We expect you are in the best of health and spirits.
+Pakistan’s economy, after navigating a highly precarious phase in the outgoing Fiscal Year, has
+begun to show signs of modest recovery in Fiscal Year 2025–26. The year has witnessed relatively
+improved macroeconomic conditions; however, significant structural challenges and opportunities
+continue to persist, particularly in the post-Gulf war environment. We hope that a shift in the
+regional trade will immensely benefit Pakistan.
+At the same time, Pakistan has played a constructive and commendable role in efforts to de-
+escalate tensions and support peace initiatives during the conflict, enhancing its diplomatic
+standing and reinforcing its position as a responsible regional stakeholder.
+This document has been developed with the objective of proposing a forward-looking budget
+model, offering comprehensive budgetary suggestions, and compiling policy recommendations
+that can pave the way for sustainable tax reforms. Rather than offering temporary fixes for
+immediate concerns, our focus remains on long-term and impactful solutions aimed at
+strengthening Pakistan’s economic foundation.
+Kind Regards,
+Ashfaq Tola – FCA
+Chairman
+Tola Associates
+ashfaq.tola@tolaassociates.com
+You can also contact the following contributors to this publication:
+M. Amayed Ashfaq Tola
+Adv. LLM International Tax Laws
+President
+Tola Associates
+m.amayed@tolaassociates.com
+Sardar M. Ahsan Ahmed
+Head – Economic Advisory
+Tola Associates
+ahsan@tolaassociates.com
+Syed Affan Akhter
+Tax Associate
+Tola Associates
+syedaffan@tolaassociates.com
+Page | 1
+
+
+===== PAGE 4 =====
+THIS PAGE IS LEFT BLANK INTENTIONALLY
+
+
+===== PAGE 5 =====
+CONTENTS
+PREAMBLE:................................................................................................................................. 1
+BUDGET 2026–27: PATHWAY TO ECONOMIC SOVEREIGNTY AND IMF EXIT ....... 3
+ECONOMIC MEASURES .......................................................................................................... 6
+A. Reviving the Agriculture: Transforming the sector for a Sustainable Future ........... 6
+B. Industrial Sector Policies Steady Growth to Sustainability ....................................... 12
+C. Service Sector ................................................................................................................. 15
+TAX REFORMS MEASURES .................................................................................................. 20
+A. Fiscal Measures (Pending reform from last year) ........................................................... 20
+B. New Tax Reforms ............................................................................................................... 30
+C. Ease of Doing Business Related Measures (Indian Budget) ........................................... 34
+Page | 2
+
+
+===== PAGE 6 =====
+BUDGET 2026–27: PATHWAY TO ECONOMIC SOVEREIGNTY AND
+IMF EXIT
+Pakistan's fiscal outlook for Fiscal Year 2026-27 (“FY27”) faces various macroeconomic challenges,
+including post-Gulf war issues, weaker tax collection, and ongoing talks with the International Monetary
+Fund (“IMF”) under its stabilization program. While the Government is committed to keeping fiscal
+discipline and aiming for a sizable primary surplus, ongoing structural issues in revenue collection- coupled
+with ambitious IMF targets- continue to present risks to fiscal stability.
+So far, under the $7 billion IMF program, Pakistan has received $3 billion, with the next $1 billion tranche
+expected in early May. Additionally, in late March 2026, an agreement was reached with the IMF for an
+extra $1.2 billion.
+According to the article cited by the media1, this agreement involved adding 11 new conditions, bringing
+the total to 75 over the past two years. These conditions cover a wide range of areas, including economic
+decision-making, governance, and private sector growth.
+The Government has also assured the IMF that Parliament will approve the FY27 budget in line with the
+program's targets, just as it did with the previous budget. This is the second time under the current
+programme that such a commitment has been made, as the previous budget was also approved in accordance
+with IMF requirements.
+The initial Federal Board of Revenue (“FBR”)’s tax target for FY26 was set at Rs. 14.13 trillion, later
+revised downward to Rs.13.98 trillion during the second review, yet it remains largely unattainable. The
+FBR is now seeking a further reduction to approximately Rs.13.5 trillion, reflecting persistent revenue
+shortfalls. This underperformance is evident from the failure to meet two key indicative targets during July–
+December FY26, including the Rs.6.5 trillion overall tax collection target and the Rs.366 billion retail sector
+target.
+Looking ahead, the IMF has set an ambitious tax goal of Rs. 15.6 trillion for FY27 and has suggested
+measures like removing sales tax exemptions on fuel and new housing2. However, tax authorities believe
+even reaching Rs.15 trillion will be challenging, primarily depending on this year's actual collections. The
+IMF also recommends raising the tax-to-GDP ratio to 11.3%, an increase of about 0.3% (roughly Rs.400
+1 IMF adds 11 new conditions, Express Tribune (2026), retrieved from https://tribune.com.pk/story/2603884/imf-
+adds-11-new-conditions
+2 IMF seeks Rs15.6tr tax target, Express Tribune (2026), retrieved from https://tribune.com.pk/story/2600207/imf-
+seeks-rs156tr-tax-target
+Page | 3
+
+
+===== PAGE 7 =====
+billion), while domestic authorities remain cautious, estimating collections closer to 10.7% of GDP. This
+difference highlights the uncertainty and the need for careful planning moving forward.
+In pursuing these loan tranches, Pakistan reached an agreement with the IMF on three policy actions:
+currency devaluation, liberalization of the currency regime, and an increase in interest rates.
+Endorsing such policies would be disastrous for the economy. The estimated fair value of the Pakistani
+rupee is Rs. 253/USD; however, the State Bank of Pakistan (“SBP”) exchange rate has risen to Rs.
+279/USD. In fact, the currency should have appreciated rather than depreciated. Moreover, there has been
+no significant increase in exports for many years. Pakistan’s export sector has faced structural challenges
+over the past decade, remaining within a narrow range and failing to achieve sustained growth. While
+exports peaked at $32.5 billion in FY22 (Rs. 177/USD), they stood at $32.4 billion in 2024 (Rs. 274/USD),
+indicating that devaluation has not enhanced export performance.
+The currency was devalued by Rs.25 as part of an agreement with the IMF, contributing approximately 5%
+to inflation (based on the estimate that a Rs.10 devaluation increases inflation by 2%). This devaluation has
+pushed the exchange rate well above its estimated fair value and is a significant factor behind the already
+high inflation.
+Devaluation also prompts an increase in interest rates. A 10% currency depreciation can lead to a 6% rise
+in inflation, necessitating an equivalent 6% increase in interest rates to stabilize prices. This scenario would
+entail roughly Rs.2 trillion in additional debt servicing costs (net of SBP profits), thereby slowing economic
+growth and expanding the fiscal deficit.
+Tax reform itself faces systemic resistance. Efforts to broaden the tax base, such as taxing sectors of the
+undocumented economy like wholesalers and retailers, are frequently obstructed by political and elite
+interests.
+Additionally, the economy recorded a growth rate of 3.89%3 during the second quarter (October-December)
+of the ongoing FY26, according to the Pakistan Bureau of Statistics. Compared with the previous quarter,
+growth in the agriculture and industrial sectors has decelerated, while the services sector has increased.
+Fundamentally, this underscores that although macroeconomic indicators, such as GDP growth, may appear
+favorable, such growth is neither inclusive nor sustainable. It fails to generate employment or reduce
+poverty. The increase in poverty to 29%4 and unemployment to 7.1% reinforces the notion that the observed
+3 Quarterly GDP (2026), National Accounts, Pakistan Bureau of Statistics.
+4 Poverty rate hits 29%, highest in over a decade, Express Tribune (2026), retrieved from
+https://tribune.com.pk/story/2593766/poverty-rate-hits-29-highest-in-over-a-decade
+Page | 4
+
+
+===== PAGE 8 =====
+growth is largely “jobless growth", benefiting only select sectors or segments of the economy without
+elevating overall living standards.
+It is noteworthy that, despite an agreed mechanism, the International Monetary Fund has not pressed for
+the implementation of agricultural taxation on landlords possessing more than the economic threshold of
+12 acres; this measure has not been implemented at all, and the IMF has not raised any concerns. Similarly,
+the previously agreed tax on retailers has never been fully implemented. Taxes on exporters have also not
+been levied accordingly, yet again without any response from the IMF.
+In an era when the IMF’s stringent policies are exerting considerable pressure on Pakistan and the IMF-
+imposed revenue objectives are proving arduous to meet, the nation must recalibrate its policies to foster
+economic advancement while aligning with sustainability goals. Pakistan ought to formulate a pragmatic
+strategy to accomplish fiscal and monetary objectives, whilst delineating a definitive pathway for
+disengagement from the IMF program, thereby ensuring enduring economic stability without impeding
+growth.
+The Agricultural sector in the 2026-27 budget should emphasizes modernizing Pakistan’s agriculture
+through diversification into high-value crops, the implementation of digital platforms, and the promotion
+of cooperative farming, aimed at augmenting productivity, reducing costs, and elevating smallholder
+incomes. Reforms in market operations and formal credit facilities help reduce middleman exploitation.
+Additionally, initiatives such as climate-resilient crops, seed banks, and adaptive irrigation systems are
+introduced to safeguard yields. The commercialization of livestock, the development of Halal export zones,
+and breeding programs are anticipated to enhance productivity and export potential. Furthermore, reforms
+within the fisheries and forestry sectors, including the establishment of aquaculture clusters and
+agroforestry initiatives, are integral to this developmental framework.
+Page | 5
+
+
+===== PAGE 9 =====
+ECONOMIC MEASURES
+A. Reviving the Agriculture: Transforming the sector for a Sustainable Future
+1. Crop Sector – From Stagnation to High-Value, Technology-Driven Agriculture
+Pakistan’s agricultural sector is approaching a state of decline, as the primary crop industry has experienced
+a double-digit contraction in recent years. Notably, the sector recorded a substantial decline of
+approximately 13.5%, indicating a period of significant underperformance. According to the latest Labor
+Force Survey (“LFS”), the employment rate within this sector also decreased from 37.1% in 2020-21 to
+35.1% in 2024-25. Approximately 27.98 million individuals are employed in this sector.
+A comparative analysis of crop yields against the global average reveals a persistent yield gap:
+Pakistan India China World's Avg.
+Wheat 3.13 3.60 5.94 3.84
+Rice 2.49 4.39 7.21 4.69
+Maize 5.69 3.55 6.70 6.14
+Barley 1.10 3.63 4.11 3.48
+Rapeseeds 1.23 1.39 2.13 2.18
+(Source: US Agricultural Dept and Ministry of Finance, Pakistan)
+This discrepancy underscores inefficiencies in technology adoption, irrigation, and input utilization.
+Bridging this gap could markedly enhance agricultural output, thereby increasing export surpluses, reducing
+reliance on imports, and ultimately improving Pakistan’s overall trade balance.
+Pakistan’s principal export crop is rice. If the country improves its yields to at least match those of
+neighboring nations, total output could reach approximately 17.11 million metric tons (“MMT”), resulting
+in an estimated exportable surplus of 12.58 MMT valued at around $6.6 billion. Similarly, achieving the
+global average wheat yield could add 2.61 MMT to production, with potential export earnings of up to $700
+million. Furthermore, attaining the world average rapeseed yield could generate an export surplus of
+roughly $242 million. Likewise, achieving the global average maize yield could yield an export surplus of
+approximately $129 million. Collectively, these enhancements could generate a combined export surplus
+of about $7.0 billion.
+Surplus Production Price per MT Potential Export Value
+(MMT) (USD) (USD in Million)
+Rice 12.58 524 6,594
+Wheat 2.61 268 699
+Corn 0.71 180 129
+Rapeseeds 0.41 598 242
+Barley 0.10 22.54 2
+Sum of all Export Surplus 7,667
+Page | 6
+
+
+===== PAGE 10 =====
+1.1. SIFC land utilization
+Pakistan must fundamentally reconsider the utilization of the SIFC from an agricultural perspective. The
+Land Information Management System (“LIMS”) should be effectively implemented, and the Real Estate
+Investment Trust (“REIT”) concept should be promoted actively. Incentives should be provided to foreign
+investors to introduce advanced technologies and to utilize Government land for development and
+investment purposes, while employing Pakistani labor. REITs should be established and listed on the
+Pakistan Stock Exchange (“PSX”). Such measures would facilitate the sector's growth, increase exports,
+strengthen the Agro-based economy, and diminish dependence on the IMF.
+The anticipated result would be an increased contribution of the agriculture sector to the GDP and a
+corresponding rise in employment opportunities. Additionally, if an extra 3 million hectares of land are
+cultivated this year expanding the current cultivated area of 22.27 million hectares as per the latest Pakistan
+Bureau of Statistics data the sector’s contribution to GDP could increase to approximately 27%. It is
+projected that such expansion would positively impact agricultural GDP growth by about 4-5%, alongside
+generating substantial employment opportunities, estimated to increase by 17%.
+Per Hectare
+Share of Output Employment
+Cultivate Contribution New Agricultural
+Agriculture New Share employment Generation
+d Area to Output Growth
+(%) elasticity5 (%)
+Agri. GDP
+A B C=A/B D= (A+3)/C E= (3/B)*100 F G= E*F
+22.27 24.00 0.93 27.23 13.47 1.28 17.24
+Given that current employment in the agriculture sector amounts to 27.97 million, it follows that 17% of
+seasonal employment generation would yield approximately 4.76 million jobs.
+1.2 Revitalizing Cooperative Farming Models
+Pakistan’s agriculture sector is highly fragmented, with 97% of farmers operating on small landholdings
+(less than 12.5 acres), which significantly constrain economies of scale, limit access to formal finance, and
+hinder the adoption of modern technologies6. According to the latest agricultural census, the distribution of
+farm sizes is as follows:
+Size of Farm (Acre) Total Percentage (%)
+UNDER 1.0 2,822,177 25.42
+1.0 TO UNDER 2.5 3,731,232 33.60
+2.5 TO UNDER 5.0 2,143,351 19.30
+5.0 TO UNDER 7.5 1,128,183 10.16
+7.5 TO UNDER 12.5 773,094 6.96
+12.5 TO UNDER 25.0 357,088 3.22
+5 Relationship between Employment and GDP in Pakistan: Sector Wise Estimation of Output Elasticities, (2021),
+retrieved from https://ojs.umt.edu.pk/index.php/eer/article/download/876/236
+6 https://tribune.com.pk/story/2560083/97-farmers-own-less-than-125-acres-of-land
+Page | 7
+
+
+===== PAGE 11 =====
+25.0 TO UNDER 50.0 98,680 0.89
+50.0 TO UNDER 100.0 32,934 0.30
+100.0 AND ABOVE 16,958 0.15
+Total 11,103,697 100
+(Source: Agriculture Census 2025)
+26% of farmers own less than 1 acre of land, a proportion that increased from 15% in 2010. Approximately
+35% of farmers own less than 2.5 acres. In summary, 61% of farmers own less than 2.5 acres, which is
+insufficient to ensure adequate income, due to outdated farming techniques and low yields. The average
+farm size has decreased from 6.4 to merely 5.1 acres, which presents a matter of concern.
+Pakistan’s Agriculture sector must shift from fragmented, low-productivity farming to a more commercial,
+investment-driven model by integrating corporate farming, Agro-based real estate development, and formal
+land transactions. This policy aims to attract both domestic and foreign investments while ensuring food
+security and fostering rural economic development. Such policies have the potential to reduce input costs
+by 15–25%, increase profits by 20–30%7, and improve yields through technological adoption and shared
+machinery by up to 25%. Furthermore, they could enhance financial inclusion for smallholder farmers.
+Additionally, pilot programs initiated by the SBP for farmers have already resulted in earnings increases of
+up to 80%. Therefore, these policies are highly effective and warrant further expansion and reinforcement
+to sustain and increase gains in agricultural productivity and rural livelihoods.
+1.3. Eliminating Intermediaries (Arhtis) through Direct Bank Financing
+All farms exceeding 100 acres should be restructured into shareholding companies through land conversion.
+Financial institutions should provide direct credit to these entities, eliminating intermediary involvement.
+Moreover, the SBP has previously introduced an initiative to facilitate direct credit transfer from banks to
+farmers, thereby reducing reliance on intermediaries (arhti). This model should be expanded and
+implemented on a larger scale to maximize its benefits.
+Despite overcoming production challenges, farmers remain entangled with arhtis. Approximately 90% of
+smallholders are affected, with 48% relying on intermediaries for inputs8. Farmers often take loans for seeds
+and fertilizers at inflated prices and inferior quality and are compelled to sell their crops at low prices. This
+perpetuates a cycle of debt in which middlemen profit twice—once from overpriced inputs and again from
+underpriced outputs. Market reform requires dismantling the dominance of intermediaries through the
+7 Empowering Rural Development with Agricultural Cooperatives, The Agricultural Economist, (2025), retrieved
+from https://www.agrieconomist.com/empowering-rural-development-with-agricultural-cooperatives
+8Seven lean years? Pakistan’s agricultural crisis revealed, DAWN (2025), retrieved from,
+https://www.dawn.com/news/1953104#:~:text=The%20shrinking%20farm:%20A%20crisis,rentals%20or%20ineffic
+ient%20manual%20labour.
+Page | 8
+
+
+===== PAGE 12 =====
+development of digital platforms for real-time price transparency, expansion of public storage facilities to
+prevent distress sales at harvest, and, most critically, ensuring farmers’ access to formal banking credit.
+1.4. High-Value Crop Diversification Strategy
+Pakistan must transition from low-productivity staples such as wheat and sugarcane toward high-value
+crops, including oilseeds, pulses, horticulture, and nuts. Our neighboring country explicitly prioritizes crops
+such as coconut, cocoa, cashew, and nuts to enhance farmer incomes and export potential.
+Other crops include, jowar, barley, tobacco, oilseeds, pulses, vegetables, orchards, and miscellaneous crops.
+Introduce minimum support prices (“MSP”) for oilseeds and pulses; establish export-oriented crop zones
+(e.g., mango, rice, vegetables); and provide input subsidies linked to productivity rather than acreage. This
+strategy will reduce the import bill particularly for edible oils such as palm oil and soya bean oil, which
+account for 6% of total imports and increase exports and farmer incomes.
+1.5 Climate-Resilient Agriculture
+Concurrently, promote crop diversification and mixed cropping to diminish reliance on climate-sensitive
+staples such as wheat. Introduce and subsidize climate-smart seed varieties that are heat-resistant, drought-
+tolerant, and flood-resilient. Establish localized seed banks to ensure timely access to adaptive crops in
+vulnerable regions, notably the Barani and Sailabi areas. Invest in climate-adaptive irrigation systems,
+including small reservoirs and water-harvesting techniques, for flood- and drought-prone areas.
+Page | 9
+
+
+===== PAGE 13 =====
+2. Livestock Sector – Engine of Growth and Rural Income
+Despite its significance, the sector remains predominantly informal, low in productivity, and under-
+commercialized. Transforming livestock into a modern, export-oriented industry can substantially augment
+rural incomes, generate employment, and improve Pakistan’s external balance.
+A comparative statistical analysis of livestock populations including cattle, buffalo, sheep, and goats—
+relative to neighboring countries, underscores the growth potential,
+(In Million numbers)
+Livestock Cattle Buffalo Goat Sheep
+Pakistan 60 48 89 33
+India 193 109 149 74
+(Source: Ministry of Pakistan and Ministry of India)
+2.1 Livestock Commercialization and Export Strategy
+Pakistan possesses one of the largest livestock populations globally; however, its export performance in
+meat, dairy, and value-added products remains below potential. Over the past three years, Pakistan’s meat
+exports have stagnated at approximately 100-123 thousand metric tons, hindered by sector fragmentation,
+poor breed quality, inadequate cold chain infrastructure, and limited access to international markets. Last
+year, beef exports contracted, with growth over the past five years totaling only 1.75%. According to the
+official Indian Ministry of Finance, India exported meat worth approximately $4.15 billion in FY25,
+whereas Pakistan’s exports were significantly lower at around $495 million.
+2.1.1 Establish Corporate Dairy and Meat Farms
+Initiate cluster-based livestock zones that integrate small farmers into value chains alongside larger farmers
+who import superior-quality breed semen. Promote indigenous breeds and invest in their marketing.
+2.1.2. Create Halal Meat Export Zones (CPEC-Linked)
+Pakistan has a strong comparative advantage in Halal meat exports, particularly to the Middle East, Central
+Asia, and China.
+Develop designated Halal meat processing and export zones near ports such as Karachi and Gwadar, and
+along CPEC routes; ensure compliance with international sanitary and phytosanitary (SPS) standards; and
+establish modern slaughterhouses, meat processing facilities, and certification systems.
+Page | 10
+
+
+===== PAGE 14 =====
+2.1.3. Develop Integrated Cold Chain Infrastructure
+Currently, Pakistan loses 15–20% of its milk production due to the lack of cold chain systems.
+Consequently, Pakistan produces only 58.2 million tons of milk, compared to India’s 248 million tons.
+● Invest in cold storage, refrigerated transportation, and milk chilling centers.
+● Introduce milk collection networks in rural areas.
+● Encourage private sector investment through subsidies and concessional financing.
+2.1.4. Credit-Linked Subsidy and Breeding Programs
+A primary constraint in Pakistan’s livestock sector is limited access to affordable financing and poor genetic
+quality of animals. India’s model of credit-linked subsidies and breeding programs offers a robust
+framework that Pakistan can adapt to improve productivity and rural incomes. Implement low-interest loans
+(3–5%) through commercial banks and microfinance institutions, and link subsidies to performance
+indicators such as milk yield, herd size, and overall productivity.
+3. Fisheries Sector – Blue Economy Transformation
+Similar to the beef export scenario, fish meat exports have remained stagnant, with Pakistan exporting no
+more than 200,000 metric tons of fish over the past five years. One of the primary issues is the loss of 15-
+20% of fish stock due to inadequate cold chain infrastructure and inefficient handling processes9. Globally,
+fish and fish products are among the most traded food commodities, reaching approximately 230 countries,
+with a total value of US$195 billion in 2022. The average per capita consumption was 20.7 kilograms and
+is expected to increase further10.
+According to the ‘Blue Economy under URAAN Pakistan 2026’ initiative, the major challenges include
+insufficient icing facilities, unhygienic conditions at landing sites, and the use of contaminated water for
+ice production.
+The National Aquaculture Mission (Pakistan) seeks to develop inland fisheries, reservoirs, and aquaculture
+clusters, drawing inspiration from India’s plan to develop 500 reservoirs. Additionally, efforts to develop
+the fisheries value chain focus on investments in cold chain infrastructure, processing capabilities, and
+9 Independent News Pakistan, retrieved from https://www.inp.net.pk/article-detail/inp-wealthpk/weak-cold-chain-
+and-poor-handling-cause-up-to-20-losses-in-pakistans-fisheries-sector
+10 Fisheries reforms key to boosting seafood exports, Express Tribune (2026), retrieved from
+https://tribune.com.pk/story/2585221/fisheries-reforms-key-to-boosting-seafood-exports
+Page | 11
+
+
+===== PAGE 15 =====
+export branding. Furthermore, programs aimed at women and small and medium enterprises in fisheries are
+designed to promote community-based fisheries enterprises.
+4. Forestry Sector – Climate and Revenue Dual Strategy
+Pakistan is experiencing a severe rate of deforestation, with an estimated loss of 11,000 to 27,000 hectares
+of forest each year. Currently, less than 5% of the country’s total land area is covered by forests, and around
+1.5% of this already limited forest cover is being lost annually11. This ongoing deforestation poses serious
+threats to biodiversity, environmental sustainability, and agricultural productivity.
+The Commercial Forestry and Agroforestry Policy aim to incentivize private sector plantations, including
+timber, bamboo, and sandalwood, inspired by India’s sandalwood promotion strategy. Additionally, the
+development of a carbon credit market seeks to monetize forest resources through carbon trading
+mechanisms. The agroforestry approach emphasizes integrating trees, crops, and livestock to promote
+income diversification. Moreover, the strategy to substitute imports of timber aims to reduce reliance on
+foreign supplies by expanding domestic forestry resources.
+B. Industrial Sector Policies Steady Growth to Sustainability
+1. Large Scale manufacturing (“LSM”) Sector
+The latest data from the LSM Index indicates that Pakistan's industrial sector experienced a 5.89% growth
+during July to February 2025–26, reflecting a recovery trend, albeit one that remains fragile and uneven.
+Export-oriented industries are exhibiting weak performance, with textiles (accounting for 62.53% of
+exports) growing by only 1.61%, while chemical industries declined by 3.06%, indicating stagnation among
+key export sectors. Conversely, import-dependent sectors are expanding rapidly, with automobile
+manufacturing increasing by 61.66% and petroleum imports rising by 11.98%. This trend raises concerns,
+as economic growth appears increasingly driven by imports rather than exports, thereby exerting additional
+pressure on the trade deficit.
+The following outlines the sectors and their respective shares in export figures:
+Export/Import
+Category Sector Growth (%)
+Share (%)
+Textile 62.53 1.61
+Exports Food 15.90 5.26
+Base Petroleum 1.82 11.98
+Chemical and Pharma 3.82 (3.06)
+Imports Automobiles/Transport 5.24 61.66
+Base Petroleum 23.00 11.98
+11Sustainable Forest Management, Ministry of Climate Change and Environmental Coordination,
+https://mocc.gov.pk/Detail/M2NlMTE5YzgtNTVlOC00YjgwLTliMDAtZThlMzk3MTZmOTA1#:~:text=Less%20than
+%205%20percent%20of,Pakistan's%20biodiversity%2C%20environment%20and%20agriculture.
+Page | 12
+
+
+===== PAGE 16 =====
+The manufacturing sector contributes 13.15% to Pakistan' s GDP, marginally surpassing India' s 12.61%,
+yet considerably lagging behind regional competitors such as China at 24.87% and Vietnam at 24.43%.
+Bangladesh at 21. 89% and Srilanka at 17.59% also exhibit stronger manufacturing shares, indicative of
+more resilient industrial bases. This comparison underscores that Pakistan' s manufacturing sector remains
+underdeveloped relative to its peers, thereby emphasizing significant opportunities for industrial expansion
+and policy- driven growth.
+Manufacturing Sector Share (%)
+Pakistan 13.15
+India 12.61
+China 24.87
+Bangladesh 21.89
+Srilanka 17.59
+Vietnam 24.43
+(Source: WDI)
+Few generalized Policies
+Tariff Rationalization Policy: Reduce cascading tariffs on raw materials (align with National Tariff Policy).
+Industrial Energy Tariff: Regionally competitive electricity and gas pricing.
+Export-linked Incentives: Localize inventive should provide to them without devaluing the currency.
+Cluster Development: Karachi, Faisalabad, Lahore industrial clusters with shared logistics.
+Interest Rate Rationalization for Industry: The current policy rate of 11.5% remains a major deterrent to
+industrial borrowing and investment. The Government must accelerate monetary easing by reducing the
+real interest rate to lower single digit in order to stimulate industrial expansion, especially for capital-
+intensive manufacturing units.
+Promoting Import Substitution: Pakistan must reduce its reliance on imported machinery and components
+by building a domestic engineering base. Supporting local manufacturers of industrial equipment can
+enhance self-sufficiency and create jobs.
+Results-Based Industrial Subsidies: Government subsidies for exports and industrial growth should be tied
+to quantifiable performance metrics. Regular third-party audits can ensure efficient allocation and
+discourage misuse.
+2. Small and Medium Manufacturing (SMEs/SSM) Formalization and Scaling
+This segment is predominantly part of the informal economy, facing limited access to finance and
+technology. Policies should be tailored accordingly to facilitate formalization, inter-alia, (a) Expansion of
+Page | 13
+
+
+===== PAGE 17 =====
+SME Credit Guarantee Scheme via the SBP; (b) Implementation of a simplified taxation regime based on
+turnover; (c) Digital onboarding through FBR and banking integrations; (d) Incentives for women- led
+SMEs, including tax rebates and grants; (e) Vendor development programs linked with LSM sectors such
+as automotive and textiles.
+3. Mining and Minerals – Untapped Growth Engine
+Currently, the industry contributes just 0.15% to global mineral output and 2–3% to the domestic GDP. Of
+the 92 documented minerals in the country, nearly 90% remain unexplored12.
+Pakistan is endowed with substantial mineral resources, with an estimated potential ranging between USD
+6 trillion and USD 8 trillion13. A significant proportion of these reserves are located in Baluchistan, which
+hosts some of the nation's most promising mining sites. Notably, substantial gold and copper deposits have
+been identified in Dasht-e-Kuhn and Nokundi in the Chagai district, both of which are regarded as high-
+potential regions for large-scale mineral extraction and downstream processing.
+The Government ought to implement an Integrated Land Utilization and Investment Policy, whereby land
+designated for mining, especially in Baluchistan, Thar, and Chagai regions, will be concurrently developed
+for mineral extraction, corporate agriculture, and structured real estate development. Such a policy would
+guarantee the continuity of economic activity beyond mining cycles, thereby preventing “ghost economies”
+and fostering sustainable regional development.
+Mining-Linked Special Economic and Agro Zones
+Expedite high-impact projects such as the Reko Diq Project and Siah Diq deposits; expand Thar coal mining
+operations for energy and industrial applications; and prioritize exploration in the Chagai region to unlock
+future revenues.
+Strategic Mega Projects Acceleration Policy
+Fast-track high-impact projects such as the Reko Diq Project and Siah Diq deposits; Expand Thar coal
+mining operations for energy and industrial use; Prioritize Chagai region exploration to unlock future
+revenues.
+Investment Promotion and Global Integration Policy
+Enhance platforms like the Pakistan Minerals Investment Forum 2026 to attract foreign and domestic
+investment; build on the momentum generated by 5,000 delegates from over 50 countries and the signing
+of 14 Memoranda of Understanding (MOUs) (PMIF25); and encourage joint ventures and technology
+transfer agreements, such as the US-based Strategic Metals partnership.
+12 Pakistan’s mining sector seen as key driver of $8bn, Mettis Global (2025), retrieved from
+https://mettisglobal.news/Pakistans-mining-sector-seen-as-key-driver-of-10bn-55299
+13 Unlocking Pakistan's Mineral Wealth For Sustainable Economic Growth, ISSI (2025), retrieved from
+https://issi.org.pk/wp-content/uploads/2025/05/IB_Khetran_May_19_2025.pdf
+Page | 14
+
+
+===== PAGE 18 =====
+C. Service Sector
+Considering the sector’s limited contribution to FBR tax revenues, targeted reforms are imperative to
+improve compliance and documentation.
+1. Wholesale and retailers
+Rationalization of Sales Tax Rates: For enterprises integrated with Point of Sale (POS) systems, a 4%
+reduction in sales tax rates may be implemented as an incentive for formalization. However, strict penalties
+of up to 50% should be imposed for non-compliance or fraudulent activity to ensure enforcement and deter
+tax evasion.
+Market Efficiency and Transparency Policy: Establish a national supply chain data platform to monitor
+prices, inventory levels, and demand patterns in real time. This initiative will enable policymakers to control
+inflation and prevent hoarding. The mandatory adoption of digital invoicing and POS integration for large
+retailers should be phased in for Small and Medium Enterprises (SMEs) to enhance economic
+documentation. Enforcement against cartelization should be intensified through data analytics to detect
+price manipulation within wholesale markets. Digitization of supply chains and inventory management
+should be promoted by introducing ERP-lite systems and inventory-tracking tools for SMEs, alongside
+fostering stronger integration between wholesalers and retailers to enhance efficiency and reduce
+information asymmetries.
+Digital Payments and E-Invoicing Integration: Digital payments generate an audit trail, thereby reducing
+tax evasion and increasing compliance. POS systems should be mandated to integrate with tax authorities
+(FBR), with incentives for digital transactions such as QR codes and mobile wallets, and real-time e-
+invoicing systems should be implemented to diminish under-reporting14 15.
+Furthermore, strengthening competition and anti-profiteering regulations is essential through the
+establishment of price-monitoring units and real-time digital dashboards, coupled with rigorous
+enforcement of anti-cartel laws in wholesale markets to ensure equitable pricing and transparency in the
+marketplace. Data integration across various Government agencies should be prioritized by linking the
+FBR, NADRA, banking institutions, and utility databases. This will facilitate AI-based risk profiling to
+enable more effective, targeted audits, thereby enhancing compliance and curbing tax evasion.
+14Pakistan Economic Policy for Export Competitiveness (2020), retrieved from
+https://openknowledge.worldbank.org/server/api/core/bitstreams/bf8f94f7-25ad-5bcc-a203-194c5719bfa0/content
+15 Technology Tools to Tackle Tax Evasion and Tax Fraud, OECD (2017), retrieved from,
+https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/03/technology-tools-to-tackle-tax-evasion-
+and-tax-fraud_g1g77afa/g2g77afa-en.pdf
+Page | 15
+
+
+===== PAGE 19 =====
+2. Transport, Storage, and Communication
+This sector employs 6.6% of the national workforce, with the highest average hours worked per week
+observed in the Transportation and Storage sector (54.2 hours) reported in Labor Force Survey 2024-25.
+Several recommendations are proposed to harness the sector's untapped potential.
+Expansion of Modern Transit Systems to Underserved Areas: The successful implementation of
+projects such as the Karachi Green Line, Lahore Orange Line, and Peshawar BRT should be emulated
+across underdeveloped rural regions and unrecognized urban zones in Karachi. Accelerated development
+of similar mass transit systems is crucial to ensure inclusive mobility and to alleviate urban congestion.
+Railway Modernization and Freight Expansion Policy: Pakistan Railways should be modernized into a
+high-efficiency freight and passenger transport system by upgrading existing track infrastructure,
+expanding double-lane corridors on high-density routes, and prioritizing electrification of major railway
+lines to reduce fuel dependency and improve operational efficiency. A dedicated freight expansion strategy
+should be introduced to shift bulk cargo and container movement from road to rail, particularly between
+ports, industrial zones, and inland logistics hubs, thereby reducing transport costs and easing road
+congestion.
+Unlocking Tourism Potential of Northern Pakistan and Coastal Baluchistan: These regions possess
+untapped potential to become prominent global tourist destinations. The development of safe, modern, and
+reliable transportation infrastructure is essential to foster tourism, a multi-billion-dollar industry.
+Data-Led Destination Development Policy: Pakistan should establish a tourism data observatory to
+monitor visitor flows, spending patterns, and regional demand. Resources should be allocated toward high-
+potential destinations based on data insights, with enhancements in infrastructure, safety measures, and
+digital booking systems. Public-private partnerships should be encouraged for hotel development and eco-
+tourism initiatives. Visa facilitation and digital marketing campaigns should be targeted at attracting high-
+value international tourists.
+3. Information and Communication Technology (“ICT”)
+The freelancing and information technology services sector requires precise valuation. While Pakistan is
+recognized as one of the world’s leading freelancing hubs, the officially reported IT export figure of $3.6
+billion significantly understates the actual economic activity. A considerable portion of freelance work is
+routed through foreign intermediaries, where contracts worth, for example, $100 are executed in Pakistan
+for only $20, with the remaining $80 retained abroad. This structural leakage partly explains the large gap
+between Pakistan and regional peers such as India and China, underscoring the urgent need to formally
+Page | 16
+
+
+===== PAGE 20 =====
+measure, document, and repatriate the full value of digital exports to reflect the sector’s contribution
+accurately.
+Key facts regarding IT exports and regional comparisons:
+(USD in Billions)
+Country IT Exports
+Pakistan 3.6
+India 177.8
+China 65.3
+World Bank Development Indicators (“WDI”)
+Many unregulated digital foreign exchange banks operate via mobile applications and social media
+platforms in Pakistan, where substantial deposits are maintained without tax reporting. The State Bank of
+Pakistan should regulate these platforms and collaborate with international partners to obtain information
+regarding investments held by Pakistanis.
+Establish a Digital Services Valuation & Reporting Framework Mandate declaration of full contract
+value (not just the amount received locally) for IT and freelancing exports above a threshold. Require
+registered freelancers and firms to report: (a) Total client payment; (b) Platform/intermediary commissions;
+(c) Final amount received. Integrate reporting with FBR and SBP systems.
+Promote International Financial Information Sharing: Expand participation in global frameworks like:
+Inter-alia, (i) Automatic Exchange of Financial Account Information (“AEOI”); (ii) Negotiate bilateral
+agreements with countries hosting major freelance platforms; (iii) Require disclosure of foreign-held digital
+accounts by Pakistani residents.
+Formalization of Freelancers and Digital Firms: Introduce a Digital Exporter Registration System,
+featuring simplified registration processes for freelancers and minimal compliance requirements for small
+earners. Facilitate access to subsidized internet, co-working spaces, export financing, and insurance. Link
+registration with tax incentives to encourage compliance.
+Strengthen Foreign Exchange Retention Policies: Permit freelancers to retain a portion of their foreign
+currency earnings in regulated foreign currency accounts within Pakistan. Offer favorable exchange rates
+or incentives for repatriation through formal banking channels. Reduce friction (fees and delays) in official
+remittance systems to make them more competitive with informal channels.
+4. Housing Services (Real Estate)
+Over the years, Pakistan Government had come up with several policies to tackle shortages of housing,
+however, factors such as high cost, strict loan conditions, absence of financial arrangements, and mortgages
+has made all strategies difficult to work. Despite the fact that there has been leverage on the accessibility
+Page | 17
+
+
+===== PAGE 21 =====
+of mortgage loans, the poorer class still don’t get any reward because very few loans are available for the
+purchasing of land. In Pakistan, most of the properties are developed as mean of profit maximizing formula.
+In contrast, Government needs to increase housing supply by establishing more supporting policies.
+The Government should focus on having a direct role in the housing sector to make sure transparent and
+clear housing transactions. Apart from that, Government needs to reform the taxation system and rental
+control. In order to curb underutilization of land, Government needs to impose strict penalties. Furthermore,
+in regularization of housing sector, there is a need for capacity building for the regulators. However, it is
+difficult to find reliable data for prices. Pricing, being the grey area, is most easily manipulated. In our
+country, real estate sector is the haven of unrecorded economies, and a person can easily indulge in tax
+evasion through incorrect price recordings in documents.
+5. Education Sector – Human Capital Acceleration Policy
+Based on Labour Force Status by Education Level, 2024–25, Pakistan’s labour market shows a very high
+concentration of employment and labour force participation among low-educated groups, while higher
+education is underutilized in absolute terms but relatively more engaged in unemployment (signaling
+mismatch issues).
+Education Level Employed Unemployed Labor Force
+Total 100.0 100.0 100.0
+Illiterate 35.2 22.5 34.3
+Literate 64.8 77.5 65.7
+No formal Education 1.2 1.0 1.2
+Below Matric 31.5 27.6 31.2
+Matric but below Intermediate 14.9 18.4 15.1
+Intermediate but below Degree 8.3 15.7 8.8
+Degree and above 8.9 14.8 9.4
+(Source: Labor Force Survey 2024-25)
+It is noteworthy that illiterate workers constitute approximately 35.2% of the labor force. Nearly 37.5% of
+the working-age population outside the labor force is illiterate. The category "Below Matric” alone accounts
+for 31.5% of the total labor force. Higher education (degree and above) accounts for only 8.9% of
+employment in the labor force but contributes 14.8% to unemployment. This indicates a skills mismatch
+and a low absorptive capacity of the highly skilled labor market.
+Pakistan should adopt a data-driven education reform strategy by utilizing real-time learning assessments,
+such as standardized national testing, to monitor student performance and allocate resources effectively.
+Page | 18
+
+
+===== PAGE 22 =====
+Public expenditure on education should be gradually increased from 2% of GDP to at least 4–5%, focusing
+on targeted investments in teacher training, STEM education, and digital learning platforms.
+Initiatives such as the launch of a National Literacy-to-Skill Conversion Program aimed at nationwide adult
+literacy, integrating basic education with vocational and digital skills training, should be prioritized. Special
+attention should be given to illiterate and out-of-labor-force adults to swiftly convert them into semi-skilled
+workers. Delivery of these programs should be through community centers and short, modular certifications
+linked to employability.
+The restructuring of Technical & Vocational Education programs is essential to align closely with industry
+demand across the manufacturing, construction, agriculture, and IT sectors. Mandatory paid
+apprenticeships, in collaboration with private-sector firms, should be introduced. Certification should be
+competency-based and directly linked to job placement.
+A national labor market information system should be established to align educational outputs with
+employment market needs. Universities and colleges should be evaluated based on graduate employability
+and industry relevance, with a shift in higher education focus toward market-relevant disciplines such as
+technology, finance, and applied sciences.
+6. Health Sector – Universal Health and Data Integration Policy
+Regarding the health sector, there is a pressing need for a unified, data-driven framework that integrates
+hospital records, insurance schemes, and disease surveillance systems. Health expenditure should be
+increased from 1% of GDP to at least 3%, with an emphasis on primary healthcare and preventive services.
+A centralized health data system must be established to monitor patient histories, track outbreaks, and
+optimize resource allocation through AI-based analytics. Expansion of health insurance programs, such as
+the Sehat initiatives, should be linked with performance-based funding for hospitals. Furthermore,
+telemedicine and digital health platforms should be scaled to enhance access in rural areas.
+Page | 19
+
+
+===== PAGE 23 =====
+TAX REFORMS MEASURES
+A. Fiscal Measures (Pending reform from last year)
+In light of the Budget 2026-2027, we have compiled a list of Fiscal Measures that are imperative to be
+included in the budget to strengthen the four parameters of tax reforms: Revenue Measures, broadening the
+Tax Base, Simplification of Laws, and Rationalization of FBR's Authority. It is important to note that these
+recommendations have been sourced from The Reforms & Revenue Mobilization Commission (‘‘RRMC’’)
+Interim Report, submitted by Ashfaq Tola, Former Minister of State & Chairman RRMC, to Senator
+Mohammad Ishaq Dar, the then Federal Minister for Finance & Revenue, on 17 April 2023, and they align
+with the same suggestions made in that report.
+1. Revenue Measures – Income Tax
+1.1 Introduce a Minimum Asset Tax (MAT) by extending CVT to domestic and worldwide
+assets of resident individuals exceeding Rs. 50 million. Tax will be applied on the fair
+market value and is adjustable against the income tax liability. The tax rate shall be 1% of
+the amount exceeding Rs. 50 million.
+Example:
+Total Domestic Assets: Rs. 1,000 million
+Exempt Threshold: Rs. 50 million
+Taxable Amount: Rs. 950 million
+MAT (1% of 950 million): Rs. 9.5 million
+Income Tax (IT) Final MAT
+Scenario MAT (calculated)
+Liability Payable
+Scenario A: Lower
+Rs. 8 million Rs. 9.5 million Rs. 1.5 million
+IT
+Scenario B: Higher
+Rs. 10 million Rs. 9.5 million Rs. 0
+IT
+Page | 20
+
+
+===== PAGE 24 =====
+1.2 Amend Section 111 to allow taxation of undeclared benami (hidden) assets in the year they
+are discovered, not in the year they were acquired. Further, the limitation period should
+start from the year of discovery, not acquisition.
+Example:
+● Mr. A bought an undeclared benami property in 2012. This property was discovered by
+tax authorities in 2025. Under current law, the tax officer may not be able to tax it, due
+to the limitation period expiring. Under the proposed amendment, the assets would be
+taxed in 2025 (year of discovery), and the limitation clock would start in 2025, not 2012.
+1.3 Abolish Tajir Dost Scheme. Tax rate should be 1% across the board up to Rs.30 million.
+Minimum tax should be applicable on the amount over and above to be charged on the
+Reverse Charge Mechanism under Section 236G and 236H.
+1.4 Rationalize minimum tax regime for commercial importers by increasing rates from 5.5%
+to 7%, and from 3.5% to 5.0% for other importers. However, taxpayers should be allowed
+to adjust any excess minimum tax paid under this section and the carry forward of excess
+minimum tax shall be for the next five years.
+1.5 If MAT is not enacted, withdraw Section 7E, and levy a nominal WHT of 0.5% of FBR
+value to be imposed by provinces. New 0.5% WHT may be adjusted (not refundable) for
+the taxpayer. This will increase the reach to non-filers. If 7E is not withdrawn, then a tax
+credit of 7E may be allowed against CGT arising from the disposal of the immovable
+property.
+1.6 Mandate advance tax payments under Sections 7E and CVT in two instalments based on
+the prior year's tax liability, with an option to submit a justified estimate if the current
+year’s liability is lower, ensuring at least 90% of the actual tax is paid in advance.
+1.7 Increase the advance tax on prize bond winnings from 15% to 20%.
+1.8 Introduce a limit for claiming interest expenses on foreign debt extended to other expenses
+by amending Section 106A to prescribe a limit for claiming interest expenses on foreign
+debt. It is recommended to include other expenses claimed by multinationals being remitted
+to their affiliates, except for reimbursements of actual costs incurred by those affiliates to
+third parties. This will discourage the remittance of exorbitant expenses by multinational
+companies outside Pakistan.
+1.9 In Pakistan, the definition of a "resident individual" for tax purposes is outlined under
+Section 82 of the Income Tax Ordinance, 2001. An individual is considered a resident for
+Page | 21
+
+
+===== PAGE 25 =====
+a particular tax year if they are present in Pakistan for 183 days or more during that year.
+However, this definition is outdated and lacks alignment with more nuanced residency
+rules in other jurisdictions.
+Pakistan is recommended to modernize its residency criteria to reflect actual economic
+presence and intent. A more appropriate definition will treat an individual as a Resident if
+they stay in Pakistan for 182 days or more in a financial year. For those who have stayed
+between 120 and 181 days, the status depends on their citizenship and income. For instance,
+a Pakistani citizen as defined under the Pakistan Citizenship Act, 1951 or a person
+possessing a Pakistan Origin Card (POC) with income exceeding a prescribed threshold
+(excluding foreign-sourced income) and has no tax liability in any other country should be
+treated as a Resident but Not Ordinarily Resident (RNOR). Those who do not meet these
+conditions should be classified as non-residents. Individuals who spend less than 120 days
+in Pakistan during the financial year should be treated as non-residents, regardless of
+income or nationality.
+1.10 It is proposed that tax reforms be introduced for salaried individuals such that, for those
+earning up to Rs.2,400,000 annually (i.e., Rs.200,000 per month), a nominal tax of Rs.100
+per month (Rs.1,200 per annum) be levied. For income above this threshold, the tax slab
+should be capped at a maximum of 30%.
+1.11 It is proposed that the threshold for employer contributions to a recognized provident fund,
+as specified under Part I of the Sixth Schedule, be revised. Currently, employer
+contributions exceeding one-tenth of the employee’s salary or Rs. 150,000, whichever is
+lower. are treated as income received by the employee. It is recommended that this
+threshold be enhanced from Rs. 150,000 to Rs. 1,500,000, while retaining the existing limit
+of 10% salary. The last revision to this contribution limit was made through the Finance
+Act, 2016, and it has remained unchanged since then. An upward revision is therefore
+necessary to align with current economic conditions and to encourage long-term retirement
+savings.
+2. Revenue Measures – Sales Tax
+2.1 Allow Federation to levy and collect FED on digital services under Reverse Charge
+Mechanism (RCM) to resolve jurisdictional disputes with provinces.
+Page | 22
+
+
+===== PAGE 26 =====
+3. Broadening of Tax Base / Documentation
+3.1 Require detailed trade data publication (prices, values, volumes) for import/export to
+enhance transparency.
+3.2 Mandate every shipment to carry certificate of port of origin and original invoices to reduce
+misdeclaration and under-invoicing.
+3.3 Install GPS tracking on high-value cargo from dry ports to curb pilferage and under-
+reporting.
+3.4 Income tax should be introduced on frequent foreign travelers instead of FED, whereby
+income tax be collected on all foreign air tickets at 5% for ATL individuals and 20% for
+non-ATL, including economy class, and that hotel and other travel expenses be subject to
+similar withholding through travel agents, operators, or card payments. An exemption may
+apply for Hajj once every five years.
+3.5 Under the existing regime of the Federal Excise Act, 2005, Federal Excise Duty (“FED”)
+on first, business, and club class international air travel has reached significantly high fixed
+levels, particularly on long-haul routes. It is proposed that the FED on such premium
+classes be rationalized downward or restructured into a more moderate or percentage-based
+framework. The present high rates tend to suppress demand, resulting in underutilized
+premium cabins and, in many cases, flights operating with empty seats, ultimately leading
+to inefficient revenue outcomes for both airlines and the exchequer.
+3.6 Unique Taxpayer Identification for Utility Connections: It is recommended to link all
+commercial and industrial utility connections to taxpayers via CNIC/NTN, enforce higher
+advance tax rates for non-filers under Section 235.
+3.7 Non-filers with high commercial, industrial, or residential utility usage are not reporting
+income. It is recommended to collect and analyze utility and tax data to identify non-
+compliant users, crossmatch it with tax records, and there shall be no time limit to raise tax
+demands on such individuals.
+3.8 Make NTN and filing of return mandatory for opening bank accounts, buying/selling
+vehicles and property, foreign travel, and obtaining club memberships.
+3.9 Cashless transactions on petrol stations. To curb tax evasion and undocumented sales, it is
+proposed that petrol stations in Pakistan stop accepting cash payments and shift entirely to
+digital transactions.
+Page | 23
+
+
+===== PAGE 27 =====
+3.10 To enhance transparency and curb tax evasion, it is proposed to restrict cash transactions
+beyond Rs.5,000–10,000 at retail and food outlets, mandating the use of electronic payment
+methods.
+3.11 Virtual Digital Assets (“VDA”) are not formally recognized under Pakistani income tax
+law. It is suggested that Pakistan consider entering into Mutual Exchange of Information
+(MEI) agreements with countries that have established regulatory frameworks for digital
+assets, such as Switzerland, Singapore, and the UAE. These jurisdictions host major
+regulated crypto exchanges and digital banks, which are increasingly used by Pakistani
+nationals to hold wealth or send remittances home through digital channels. In particular,
+Pakistan should explore signing MEI agreements with institutions like Sygnum Bank, a
+prominent digital asset bank reportedly holding a significant number of Pakistani-owned
+accounts. By establishing these information-sharing arrangements, Pakistan can enhance
+financial transparency, track undeclared offshore digital holdings, and strengthen tax
+compliance. Pakistan may also consider bringing in cryptocurrency held by Pakistani tax
+Residents by allowing them to declare already held / owned cryptocurrency without any
+civil or criminal liability unless they have not been purchased from or are not themselves
+proceeds of crime.
+4. Legal Reforms / Simplification
+4.1 Amendment of assessment including further amendment of assessment, monitoring and
+Audit proceedings shall be completed within three years (excluding Section 122(5)), on the
+basis of return of income from the end of the financial year in which the Commissioner has
+issued or is treated as having issued original assessment order to the taxpayer.
+4.2 It is recommended to enforce strict timelines for issuing appeal and rectification orders,
+allow taxpayers to file appeal effect positions on IRIS that become final after 60 days, and
+provide compensation from the date of payment on deleted demands.
+4.3 Deemed disposal of assets for capital gains tax when individuals change tax residency
+status.
+4.4 Reform the appellate systems. Improve assessment quality, reduce aggressive orders, and
+enhance transparency to prevent undue recovery actions and litigation.
+4.5 Revamp CIR(A) Appeal Process:
+● Simplify Section 127(1) for appeals against any order passed by a Commissioner or
+Officer of Inland Revenue.
+Page | 24
+
+
+===== PAGE 28 =====
+● Remove Section 127(2), which requires payment of tax before filing an appeal.
+● Introduce “Electronic Hearings” for appeals via platforms like Zoom and MS Teams.
+● Create a digital or web-based appeal form with basic case and representative
+information.
+● Serve notices via email and mobile and provide an electronic cause list on the FBR
+website.
+● Allow CIR(A) to admit evidence that was not presented before the Commissioner due
+to sufficient cause.
+● Introduce a tab in IRIS for submitting written arguments in appeals.
+● Allow attachments in various formats (Word, Excel) with increased file size limits up
+to 25MB.
+4.6 Strengthen ATIR Appeal Framework :
+● Update the ATIR website with details of pending appeals (appeal numbers, filing
+dates, revenue, etc.).
+● Bifurcate pending appeals based on tax office jurisdiction (e.g., CTO, LTO).
+● Form larger benches to handle appeals involving similar issues across industries or
+legal provisions.
+● Allocate specific benches for cases based on tax office jurisdiction.
+● Ensure stays continue until the final decision unless the taxpayer seeks repeated
+adjournments.
+● Publish all Tribunal judgments with detailed information on the ATIR website.
+● Revise Sub-section (2) of Section 132 to allow dismissal in default only after ensuring
+taxpayer is heard.
+● Add a Case Management System on the ATIR website to streamline the appeal
+process.
+● Replace the exercise of stay extension with an ad interim stay until the next date of
+hearing or a stay until the decision of the appeal. This will reduce the unnecessary
+burden of filing stay extension application.
+4.7 It is proposed that if a refund order under Section 170(4) is not issued within 90 days, it
+should be deemed approved, allowing taxpayers to claim or adjust the refund. To
+streamline the process, taxpayers may upload a draft refund order on IRIS, which should
+auto-finalize if not acted upon within 60 days.
+4.8 Extend tax exemption for transfer of assets to REITs till June 2027; include Special
+Purpose Vehicles (SPVs) and replace "immovable property" with "real estate".
+Page | 25
+
+
+===== PAGE 29 =====
+4.9 Remove mandatory appeal withdrawal for ADRC access under Section 134A; let taxpayers
+retain appeal rights if ADRC decision is not accepted. For State Owned Enterprises
+(“SOE”), it should be optional to pursue ADRC, as they have minority shareholders from
+the general public.
+4.10 The current Minimum Tax Regime (MTR) under various sections complicates tax
+compliance and results in unfair tax burdens on certain taxpayers, especially service
+providers and contractors. It is proposed to gradually rationalize MTR by introducing a
+uniform 6% withholding tax rate, allowing carry-forward of excess tax, and promoting
+digital integration and audits for transparency.
+4.11 Extend carryforward period for excess minimum tax from 3 to 5 years to support startups
+and loss-making companies.
+4.12 It is recommended to allow exemption certificates under Section 148 for importers who
+discharge their advance tax liability through self-estimation under Section 147. This will
+prevent unnecessary tax deductions at import stage, reduce refund claims, and ease cash
+flow burdens on manufacturers.
+4.13 The requirement of filing a Group's consolidated tax return under Section 59AA creates
+procedural complications without any revenue benefit. It is recommended to remove this
+condition for claiming inter-corporate dividend exemption between wholly owned
+subsidiaries.
+4.14 It is proposed to waive the wealth statement filing requirement for new taxpayers during
+their first two years and to simplify the existing format for current filers. This would ease
+compliance and encourage broader tax return filing.
+4.15 FBR should prescribe a proper format for withholding reconciliation under section 165(8)
+to streamline compliance and monitoring.
+4.16 Section 161 is being misused through generic notices; detailed notices and procedural
+safeguards should be introduced.
+4.17 IRIS system must auto-issue exemption / reduced rate certificates under section 153 if not
+processed within 15 days, as per law.
+4.18 Filing of quarterly withholding statements should be abolished to eliminate duplication, as
+data is already provided via PSIDs.
+4.19 Condonation powers under section 214A should be limited to the Board/Chief
+Commissioner and automated on IRIS.
+4.20 Penalties for non-filing or late filing of withholding statements should be rationalized and
+capped to reduce taxpayer hardship.
+Page | 26
+
+
+===== PAGE 30 =====
+4.21 Section 156 should be amended to tax only prizes offered to end consumers, excluding
+dealers and distributors.
+4.22 Remove redundant Clause 47A of Second Schedule since Section 153(5)(a) already covers
+same-condition imports exemption.
+4.23 Pakistan has numerous fragmented sections for different types of Tax Deducted at Source
+(TDS) /Tax Collected at Source (TCS), with overlapping and complex applicability. It is
+suggested that Pakistan may streamline the TDS and TCS provisions by consolidating them
+under a single, unified section of the Income Tax Ordinance. This consolidation would help
+simplify compliance procedures, eliminate duplication, and promote clarity in the
+application of withholding and collection rules across different transactions and sectors.
+4.24 A recurring issue in tax litigation is the repetition of appeals across multiple tax years on
+the same question of law. Often, a legal question that arises in a current assessment year
+(“relevant case”) is identical to one already under consideration in an earlier year (“other
+case”), which is pending before the High Court or Supreme Court. This results in
+duplicative litigation, administrative burden, and unnecessary delays in final tax resolution.
+To address this, Pakistan should formally adopt a mechanism whereby the assessee may
+submit a declaration requesting that the outcome of the pending legal issue in the 'other
+case' be applied to the current year’s assessment. In return, the assessee commits not to
+pursue further appeals on that same question of law.
+5. Investment Incentives
+5.1 Zero-rate export of services across all provinces subject to provincial registration, return
+filing, and foreign exchange realization via authorized dealers.
+5.2 Harmonize sales tax withholding provisions across federal/provincial laws; remove
+withholding on transactions between active taxpayers.
+5.3 Standardize input tax admissibility rules across all jurisdictions; allow staggered input tax
+adjustment on capital goods (e.g., 5–10 years).
+5.4 Synchronize disallowance provisions across income and sales tax laws for transactions
+with unregistered/non-active persons; incentivize banking channel use.
+5.5 Taxpayers should be given the option to elect the standard rate instead of the reduced rate
+on specified services at the start of the year, with input tax adjustment allowed accordingly.
+This would reduce VAT-related distortions.
+Page | 27
+
+
+===== PAGE 31 =====
+5.6 Exempt provincial service providers from “Further Tax” under STA if registered with
+provincial authorities; integrate FBR and provincial systems.
+5.7 Introduce simplified sales tax return forms tailored for manufacturers, importers, and
+retailers; auto-enable relevant fields based on taxpayer profile.
+5.8 Repeal Section 8B of STA (90% input tax restriction) or restore exemption for listed
+companies to ease working capital strain amid rising input costs.
+5.9 Clarify input tax treatment on immovable property used for manufacturing; allow
+adjustment where construction directly supports taxable production.
+6. Administrative / Enforcement Reforms– Income Tax
+6.1 Implement faceless, paperless e-assessment system using AI for income tax and customs,
+including remote hearings and automated scrutiny.
+6.2 Investigate returns with nil tax liability; increase reporting on income and property;
+mandate bank transaction reporting over a threshold; strengthen audits and data analytics
+to identify underreporting.
+7. Administrative / Enforcement Measures – Sales Tax
+7.1 Enforce sales tax collection via electricity bills for non-Tier-1 retailers; link billing with
+actual tenants using DISCO customer numbers to improve collection accuracy.
+7.2 Mandate written reasons to require records under Section 25; ensure proper audit process
+before assessments under Sections 11 and 38; restrict Section 11(3) to cases with definite
+information.
+8. Administrative / Enforcement Measures – Customs
+8.1 Require Certificate of Origin and port documents with every shipment; explore bilateral
+portal integration and use of platforms like TradeLens.
+8.2 Ban Switch Bill of Lading; validate loading port with Certificate of Origin; consult
+Customs and shipping agencies on enforcement.
+8.3 Mandate freight charges in Bill of Lading for CFR/CNF invoices to avoid undervaluation;
+initiate consultation with Customs and shipping agencies.
+Page | 28
+
+
+===== PAGE 32 =====
+8.4 Improve valuation of machinery and parts; consult Valuation Department and study
+international practices to address misclassification and underpricing.
+8.5 Address cases where finished goods are valued below raw material costs; introduce value
+addition benchmarks (e.g., 30%) for high-duty items.
+8.6 Establish online system for verifying declared values; expand export data exchange MoUs
+beyond China and Iran to curb misdeclaration.
+8.7 Introduce remote clearance tech at dry ports and pilot remote processing for high-risk items
+like garments, plastics, appliances, and steel scrap.
+8.8 Extend product history review period from 90 to 180 days for better valuation accuracy;
+use more comprehensive trade data analytics.
+8.9 Review the role of Principal Appraiser; consider abolishing the post to reduce delays and
+streamline customs processing.
+8.10 Develop mechanisms for timely disposal and utilization of confiscated goods, including
+fuel, by enforcement agencies.
+8.11 Establish high-tech scanning and RFID-based tracking at Chaman border; create faceless
+customs operations with randomized clearance through urban command centers.
+8.12 Implement nationwide fuel marking system to curb smuggling and undocumented fuel
+trade.
+Page | 29
+
+
+===== PAGE 33 =====
+B. New Tax Reforms
+A. Reforms Pakistan Needs That India's Budget Does Not Address
+Not everything Pakistan needs can be borrowed from Delhi. There are several structural gaps in Pakistan's
+fiscal framework that India either does not share, has already resolved years ago, or has chosen not to
+address in this cycle. These require Pakistan to lead its own reform effort.
+S. No. Issue / Pain Point Suggested Reform
+1. Property Valuation | A Three-Tier
+Misalignment That Fuels the
+Undocumented Economy.
+Eliminate DC rates entirely and move to a
+The fundamental misalignment between DC
+single FBR-notified benchmark, updated
+rates, FBR notified values, and actual
+semi-annually using real transaction data
+transaction prices in real estate is not merely
+from property registrars. Mandate
+an administrative anomaly. It is the primary
+independent registered valuers for
+channel through which undeclared wealth
+transactions above a prescribed threshold.
+circulates through the formal economy, and it
+Introduce a right of first refusal allowing FBR
+renders the entire immovable property tax
+to acquire property at the declared value plus
+regime structurally unreliable.
+a reasonable premium, acting as a powerful
+deterrent against undervaluation without
+requiring mass enforcement. Amendments
+required in Sections 68, 75, and 111 of the
+ITO, along with consequential changes to the
+Stamp Act to align registration values with
+FBR benchmarks.
+2. Agricultural Income
+Agricultural income remains constitutionally A minimum turnover-based levy on
+exempt from federal income tax, and commercial farming operations above a
+provincial agricultural income taxes are, in meaningful annual threshold, structured as a
+practice, almost entirely unenforced. Pakistan federal-provincial revenue sharing
+cannot credibly ask salaried workers and arrangement to incentivize provincial
+small businesses to bear the full weight of enforcement. Corporate farming income
+Page | 30
+
+
+===== PAGE 34 =====
+direct taxation while the country's largest should be brought explicitly within the
+landholdings escape entirely. standard corporate tax framework without
+constitutional impediment, as the
+constitutional restriction applies to
+agricultural income of individuals, not
+companies. No amendment to the ITO is
+required for the corporate farming element as
+Section 4 read with Section 2(29) already
+captures corporate income, but a clarificatory
+provision and FBR circular would be
+necessary to end the ambiguity that currently
+allows corporate farming entities to claim
+agricultural income exemption.
+3. Advance Rulings | Certainty Is Available
+Only to Non-Residents.
+Expand Section 206A to cover resident
+Pakistan's existing advance ruling mechanism taxpayers or insert a new Section 206B
+under Section 206A of the ITO is confined to providing a separate advance ruling
+applications from non-resident persons. mechanism for residents. The ruling should
+Resident taxpayers, including large domestic be binding on FBR, issued within a defined
+corporates and investors in SEZ and CPEC- statutory time limit, and published in
+linked projects, have no equivalent anonymized form to build a body of publicly
+mechanism to obtain a binding FBR view accessible FBR positions. This would be
+before committing to a transaction. The ADR transformative for investment decisions
+framework under Section 134A addresses where the tax treatment of a complex
+existing disputes, not prospective certainty, structure is often the critical variable,
+and is therefore no substitute. particularly for CPEC-related arrangements,
+SEZ investors, and inbound FDI where treaty
+benefit eligibility is disputed.
+4. Tax Expenditure | Decades of Concessions
+with No Accountability.
+Introduce a statutory requirement that every
+Pakistan's Second Schedule to the ITO and new exemption inserted in the Second
+Sixth Schedule to the STA are repositories of Schedule carries an automatic expiry date of
+Page | 31
+
+
+===== PAGE 35 =====
+exemptions and concessions, many of which no more than five years, requiring affirmative
+have outlived their original purpose and exist renewal after independent review. Mandate a
+primarily because no administration has found periodic Tax Expenditure Report, tabled in
+it politically convenient to remove them. The parliament, quantifying the revenue cost of
+aggregate revenue cost is enormous and each concession with an evidence-based
+almost entirely invisible to parliament and the assessment of its continued justification.
+public. Establish an independent Tax Policy Unit,
+separate from FBR, to conduct these
+evaluations without the institutional conflict
+of interest that FBR faces when asked to
+assess its own administrative priorities.
+5. Taxpayer Rights
+The relationship between the Pakistani Publish and encode a statutory Taxpayer
+taxpayer and FBR is frequently adversarial Rights Charter, either as a standalone
+and structurally unequal. Taxpayers are instrument or through insertion of a new
+subject to detailed procedural obligations section in the ITO, perhaps after Section 227,
+enforced with penalties and prosecution, setting out enforceable procedural rights: the
+while the reciprocal obligations of FBR to right to be heard before any adverse order, the
+respond within defined timeframes, to issue right to a decision within a defined period
+notices only through authorized channels, and with deemed acceptance on lapse, the right to
+to limit audit frequency for compliant filers access one's own tax record digitally at any
+exist nowhere in enforceable statutory form. time, and a restriction on audit selection for
+taxpayers with a clean compliance history in
+the preceding three years. The Charter should
+be enforceable before the Federal Tax
+Ombudsman, giving it practical teeth rather
+than leaving it as a statement of aspiration.
+6. Outsourced HR Monitoring of FBR
+Officials.
+Engage an independent, outsourced HR
+Many of the reforms in this note will deliver monitoring firm, appointed through
+nothing if the officials responsible for transparent public procurement, to maintain
+implementing them are not present, not biometric-linked attendance records, conduct
+Page | 32
+
+
+===== PAGE 36 =====
+punctual, and not moving cases forward. FBR unannounced presence checks at field
+demands rigorous documentation, timeliness, formations and regional tax offices, and track
+and accountability from every taxpayer it all pending cases against the statutory time
+regulates, yet applies no equivalent standard limits prescribed across the ITO, including
+to its own workforce in any independently the 60-day assessment period under
+verified way. Internal HR functions within Section 122, the 120-day appeal disposal
+FBR are subject to the same political pressures period under Section 129, and applicable
+and institutional inertia that they are refund timelines. Where deadlines are
+nominally supposed to discipline. breached, the system should generate
+automatic escalation flags up the chain of
+command. Commissioner-level performance
+reviews should cover assessment completion
+times, rates of orders set aside on appeal, and
+refund processing timelines, all reported
+quarterly to the Federal Tax Ombudsman and
+a relevant parliamentary committee in a
+format accessible to the public. The
+monitoring firm's reporting lines must run to
+the Ministry of Finance and the Federal Tax
+Ombudsman simultaneously, not through
+FBR's own administration, and consequences
+for persistent non-compliance must be
+defined in advance. The argument for
+retaining purely internal accountability in a
+department whose internal accountability has
+demonstrably failed is not principled, it is
+self-interested.
+Page | 33
+
+
+===== PAGE 37 =====
+C. Ease of Doing Business Related Measures (Indian Budget)
+What India's Budget Tells Pakistan About Its Own Tax Reform Agenda
+A comparative policy note drawing on the Finance Bill 2026-27 (India)
+India's Union Budget 2026-27 is not just a statement of fiscal intent for a neighboring economy; it is a
+mirror. Many of the reforms tabled in the Finance Bill are responses to problems that Pakistan's tax system
+either shares or has left unaddressed for longer. Reading it carefully, two things become apparent: some of
+India's new measures would transplant to Pakistan's legal framework with relatively modest drafting effort,
+and others point toward structural reforms that Pakistan needs to originate on its own terms.
+Reforms from India's Budget with Direct Applicability to Pakistan
+The reforms below are either entirely absent from Pakistan's Income Tax Ordinance, 2001 and Sales Tax
+Act, 1990, or exist in a form too weak to be meaningful. In each case, what India has introduced offers a
+workable model that Pakistan's policymakers could adapt without reinventing the wheel.
+S. No. India | What the Finance Bill 2026-27 Pakistan | What Needs to Change
+Introduces
+1. Return Updating mechanism
+India has formalized the concept of a Pakistan's ITO permits revised returns under
+taxpayer voluntarily correcting their returns Section 114(6), but the process requires prior
+long after the original filing, now up to 48 Commissioner approval, which in practice
+months, in exchange for a self-assessed becomes a source of delay and discretion.
+additional tax. The logic is straightforward: it What Pakistan needs is an automatic, rules-
+is better for the state to receive most of what based updated return mechanism, one where a
+it is owed, without litigation, than to chase taxpayer pays a graduated surcharge, like
+100% of it through enforcement machinery additional tax of 25% of the incremental tax
+that is already overstretched. within two years, rising to 50% beyond that,
+filed electronically without seeking anyone's
+permission. This single change, properly
+administered, could unlock significant
+dormant compliance from taxpayers who
+made errors or underreported but are deterred
+by the uncertainty of approaching the tax
+Page | 34
+
+
+===== PAGE 38 =====
+authority voluntarily. A new sub-section may
+be inserted in Section 114 to give this
+statutory footing.
+2. Proportionate Prosecution
+India has moved away from blunt mandatory Pakistan's prosecution provisions under
+imprisonment provisions and toward a tiered Sections 192 to 196 of the ITO are
+system where the severity of prosecution is comparatively harsh and poorly calibrated.
+calibrated to the actual amount of tax evaded. The problem this creates is counterintuitive
+Below a certain threshold, the matter is but real: when the potential criminal
+resolved with a fine. Above it, simple consequence of being caught is
+imprisonment applies, and only at the highest disproportionate, it actually discourages
+levels does the full weight of the criminal law settlement and voluntary disclosure.
+come into play. Taxpayers who might otherwise regularize
+their affairs calculate that approaching the
+authority is riskier than staying quiet.
+Introducing quantum-based prosecution
+thresholds, with a clear safe harbour for
+taxpayers who pay up before prosecution is
+launched, would make Pakistan's enforcement
+framework both fairer and more effective.
+Section 192 in particular warrants amendment
+to introduce evasion-linked sentencing bands.
+3. Centralized Withholding Exemption
+Declarations
+In Pakistan, every withholding agent
+India now allows investors to file a single processes exemption claims independently
+declaration of non-taxability through a under the withholding provisions of Division
+depository, which then distributes it to all III of Part V of the First Schedule and
+relevant payers, rather than the investor Section 159 of the ITO. For an investor
+having to submit the same declaration to holding securities across multiple banks or
+every bank, company, or mutual fund asset management companies, this is a
+separately. genuine administrative burden that
+discourages formal investment. A centralized
+Page | 35
+
+
+===== PAGE 39 =====
+mechanism, perhaps operated through the
+NCCPL or integrated into IRIS, would not
+only reduce friction for investors but also
+create a single, auditable record for FBR. The
+mechanism may further allow any
+withholding agent to search for the taxpayer's
+exemption status on IRIS in real time,
+removing any need for paper declarations
+altogether. Section 159 may be amended to
+enable centralized electronic filing of
+exemption declarations.
+4. Electronic Lower Withholding
+Certificates
+Pakistan's equivalent process under Section
+In India, taxpayers seeking lower or nil 159 of the ITO, requiring a specific
+withholding can now apply electronically to Commissioner's approval, remains largely
+a prescribed authority, which issues the manual and is frequently used as a pressure
+certificate based on defined criteria rather point. Automating this through IRIS, with
+than individual officer discretion. eligibility determined by prior-year
+compliance history, approved refund orders,
+advance taxes already paid, and declared
+income levels, would remove a layer of
+unnecessary friction for compliant businesses
+while reducing the scope for informal
+negotiations. The amendment would require
+FBR to prescribe objective eligibility criteria
+by rule, stripping out the element of individual
+discretion that currently makes the process
+unpredictable.
+5. Reducing the Tax Rate on Unexplained
+Income
+Pakistan's treatment of unexplained income
+India has reduced the tax rate on unexplained under Section 111 of the ITO similarly
+credits, investments, and expenditures from carries a punitive loading. A flatter, more
+Page | 36
+
+
+===== PAGE 40 =====
+60% to 30%, acknowledging that the punitive predictable rate, with a clear immunity
+rate was producing the opposite of its pathway for voluntary disclosure, would
+intended effect. When total effective tax likely generate more revenue than the current
+liability can exceed 90% of the amount in approach, as it removes the calculus that
+question, the rational response for many makes hiding preferable to coming clean. The
+taxpayers is concealment rather than amendment to Section 111 should reduce the
+disclosure. applicable rate and simultaneously introduce a
+structured immunity window, perhaps timed
+to coincide with a broader asset declaration
+scheme, to encourage one-time regularization
+of accumulated undisclosed wealth.
+6. Mandatory Digital Identifiers for All Tax
+Notices and Orders
+Pakistan's FBR nominally assigns reference
+India has codified that every assessment numbers through IRIS, but enforcement of
+order must carry a computer-generated digital-first assessment is inconsistent.
+Document Identification Number, and that Providing that any notice issued outside the
+minor procedural errors in that identifier do designated digital system is void, perhaps
+not invalidate an otherwise lawful order. going further by mandating QR codes on all
+notices to allow instant authenticity
+verification and replacing the current barcode
+system, would simultaneously protect
+taxpayers from informal or fabricated
+demands and create a complete audit trail
+within the assessment machinery. A new
+provision may be inserted in Section 176 of
+the ITO requiring all notices and orders to
+carry a system-generated identifier as a
+condition of validity.
+7. Post-Supply Discounts and the Sales Tax
+Credit Note Regime
+Pakistan's Sales Tax Act has credit note
+India has removed the requirement that post- provisions, but the audit scrutiny applied to
+supply trade discounts must be pre-agreed in year-end volume rebates, particularly in
+Page | 37
+
+
+===== PAGE 41 =====
+writing and linked to specific invoices in FMCG and pharmaceutical distribution,
+order to be excluded from GST value. The generates significant disputes. FBR has
+new position is cleaner: issue a credit note, frequently recharacterized legitimate trade
+ensure the recipient reverses the discounts as cash discounts, denying the value
+corresponding input tax credit, and the value adjustment entirely. Aligning with the Indian
+reduction is recognized. simplification; credit note issued, input tax
+reversed by recipient, and value reduction
+allowed, would reduce litigation in sectors
+where post-supply discount arrangements are
+commercially standard and economically
+legitimate. The amendment is required in
+section 2(46)(b) and section 9 of the Sales
+Tax Act, 1990.
+8. Provisional Sales Tax Refund for Inverted
+Duty Structures
+Pakistan's sales tax refund system is already
+India has extended the 90% provisional under strain, and there is no provisional refund
+refund entitlement to accumulated input tax mechanism for this type of accumulation.
+credit arising from inverted duty structures, Introducing a time-bound provisional release
+situations where a manufacturer pays a higher of 80–90% of the claimed refund amount in
+rate of tax on inputs than the rate that applies line with zero rated sector, subject to post-
+to their finished goods. audit verification, would provide meaningful
+liquidity relief for manufacturers and reduce
+the incentive to seek informal resolutions.
+This reform would require amendment in
+section 10 or a new section 10A of the Sales
+Tax Act, 1990, but the indirect benefit i.e.,
+reduced pressure on FBR from manufacturers
+seeking urgent relief, would also ease the
+administrative burden on field formations.
+9. NPO and Charitable Trust Registration Pakistan's approval and renewal process for
+non-profits under Sections 2(36), 100C, and
+India has exempted Government-funded
+the Second Schedule to the ITO is
+educational and medical institutions, and
+Page | 38
+
+
+===== PAGE 42 =====
+small charitable organizations below a increasingly burdensome, and small
+receipts threshold, from the full registration community organizations operating
+requirement for income tax exemption. transparently find themselves trapped in
+administrative cycles designed for larger
+entities. Automatic approval for the
+Government-affiliated institutions and a
+simplified, lighter-touch registration for
+organizations below a meaningful annual
+receipts threshold would free up both FBR's
+administrative capacity and the goodwill of
+Pakistan's civil society sector, which plays a
+significant role in service delivery that the
+state itself is unable to provide.
+10. Transfer Pricing |Modified Returns for As Pakistan deepens its transfer pricing
+AEs Linked to APAs enforcement under Section 108 of the ITO
+and the Transfer Pricing Rules, 2006, the
+India has extended the right to file a modified
+absence of a formal APA mechanism and a
+return to associated enterprises (AEs) whose
+corresponding modified return right will
+income is correspondingly adjusted as a
+create increasing uncertainty for multinational
+result of an Advance Pricing Agreement
+groups. Developing a bilateral APA
+(APA) entered into by a related party, even if
+programme with Pakistan's key treaty partners
+the AE was not directly a party to that APA.
+like, the UAE, China, the Netherlands, the
+UK, and coupling it with a modified return
+right for affected group entities, would
+support investment certainty and reduce post-
+assessment disputes that currently consume
+significant resources on both sides. A new
+sub-section should be inserted in Section 108
+to provide this right expressly along with a
+corresponding amendment in section 114.
+Page | 39
+
+
+===== PAGE 43 =====
+
+
+
+===== PAGE 44 =====

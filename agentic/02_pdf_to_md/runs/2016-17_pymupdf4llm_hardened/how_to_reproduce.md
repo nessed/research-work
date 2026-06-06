@@ -1,7 +1,9 @@
 # How To Reproduce
 
-This folder is the hardened PyMuPDF4LLM run for Pakistan Economic Survey
-`2016-17` PDF-to-Markdown conversion.
+This is the run-level reproducibility file for the `2016-17` PyMuPDF4LLM
+PDF-to-Markdown conversion. The canonical stage rules live in
+`agentic/02_pdf_to_md/README.md`; this file only records this run's scope,
+commands, environment, QA, and result.
 
 ## Scope
 
@@ -78,7 +80,6 @@ fidelity sampling fails.
 
 ## Research Use Policy
 
-Markdown is a working text layer for page-cited prose/commentary extraction.
-Original PDFs remain source truth. Tables, chart values, exact numbers,
-rankings, totals, and footnotes require separate source-PDF QA before use in
-research claims.
+Follow `agentic/02_pdf_to_md/README.md`. Markdown is working text only; original
+PDFs remain source truth, and table/chart/numeric claims require separate PDF
+QA.
