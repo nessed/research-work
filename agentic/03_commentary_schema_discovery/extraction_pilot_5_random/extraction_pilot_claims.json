@@ -1,0 +1,1133 @@
+{
+  "extraction_pilot": {
+    "source_year": "2015-16",
+    "test_date": "2026-06-06",
+    "selection_method": "deterministic random sample of 5 Markdown files from the 29-file PyMuPDF4LLM corpus",
+    "random_seed": 20260607,
+    "sampled_files": [
+      "Health.md",
+      "Trade.md",
+      "Annexure_Iv_War_On_Terror.md",
+      "Capital_Markets.md",
+      "Education.md"
+    ],
+    "claims_per_file_target": 5,
+    "actual_records": 25,
+    "schema_used": "schema/commentary_schema_v0.1.json",
+    "source_truth_note": "Original PDFs remain source truth. Markdown table/chart/numeric content is not final data and needs separate QA."
+  },
+  "records": [
+    {
+      "source_year": "2015-16",
+      "source_file": "Health.md",
+      "sector": "Health",
+      "subsection": "Chapter opening",
+      "source_page": "1",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "Investment in health has a long term beneficial effect.",
+      "claim_type": "cause_effect",
+      "claim": "The chapter frames health investment as producing long-term benefits for health outcomes, poverty reduction, and economic growth.",
+      "indicator_or_subject": "health investment",
+      "topic_tags": [
+        "health",
+        "social_sector",
+        "economic_growth"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "general",
+      "actor": "",
+      "actors": [],
+      "policy_or_programme": "",
+      "policy_or_programmes": [],
+      "constraint_or_risk": "",
+      "cause": "Investment in health",
+      "effect": "Improved health outcomes, reduced poverty, and promoted economic growth",
+      "comparison": {
+        "dimension": "",
+        "baseline": "",
+        "comparator": "",
+        "direction": ""
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Health.md",
+      "sector": "Health",
+      "subsection": "Health and SDGs",
+      "source_page": "1",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "The federal government recently initiated several programmes to meet the needs of health care.",
+      "claim_type": "policy_action",
+      "claim": "The federal government reports initiating health-care programmes including health insurance, drug pricing policy, and polio eradication focus.",
+      "indicator_or_subject": "health care programmes",
+      "topic_tags": [
+        "health",
+        "policy",
+        "sdgs"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "current",
+      "actor": "Federal government",
+      "actors": [
+        "Federal government"
+      ],
+      "policy_or_programme": "National health insurance scheme",
+      "policy_or_programmes": [
+        "National health insurance scheme",
+        "Drug Pricing Policy 2015",
+        "Polio eradication"
+      ],
+      "constraint_or_risk": "",
+      "cause": "",
+      "effect": "Meet health-care needs and keep people healthy",
+      "comparison": {
+        "dimension": "",
+        "baseline": "",
+        "comparator": "",
+        "direction": ""
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Health.md",
+      "sector": "Health",
+      "subsection": "Health and SDGs",
+      "source_page": "1",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "The passage of 18[th] Amendment has made the provinces financially more autonomous.",
+      "claim_type": "reform",
+      "claim": "The 18th Amendment is presented as increasing provincial fiscal and policy autonomy over health systems.",
+      "indicator_or_subject": "health devolution",
+      "topic_tags": [
+        "health",
+        "provincial",
+        "governance"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "past_or_current",
+      "actor": "Provincial governments",
+      "actors": [
+        "Federal government",
+        "Provincial governments"
+      ],
+      "policy_or_programme": "18th Amendment",
+      "policy_or_programmes": [
+        "18th Amendment",
+        "Provincial health sector strategies"
+      ],
+      "constraint_or_risk": "",
+      "cause": "Passage of the 18th Amendment",
+      "effect": "Provinces became more autonomous in health policy and systems",
+      "comparison": {
+        "dimension": "governance",
+        "baseline": "pre-18th Amendment",
+        "comparator": "post-18th Amendment",
+        "direction": "shift"
+      },
+      "geography": "Punjab, Sindh, KPK",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Health.md",
+      "sector": "Health",
+      "subsection": "Polio Eradication",
+      "source_page": "6",
+      "source_table_or_figure": "Table 11.5",
+      "evidence_type": "mixed",
+      "source_quote": "Polio eradication is the foremost priority of the Government of Pakistan.",
+      "claim_type": "commitment_or_plan",
+      "claim": "The government identifies polio eradication as a top priority and reports progress in reducing cases.",
+      "indicator_or_subject": "polio eradication",
+      "topic_tags": [
+        "health",
+        "programme",
+        "disease_control"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "ongoing",
+      "actor": "Government of Pakistan",
+      "actors": [
+        "Government of Pakistan"
+      ],
+      "policy_or_programme": "Polio eradication initiatives",
+      "policy_or_programmes": [
+        "Polio eradication initiatives"
+      ],
+      "constraint_or_risk": "continued polio cases",
+      "cause": "Polio eradication initiatives and campaigns",
+      "effect": "Reported decline in polio cases",
+      "comparison": {
+        "dimension": "time",
+        "baseline": "earlier polio cases",
+        "comparator": "2015 and 2016 reported cases",
+        "direction": "decrease"
+      },
+      "geography": "Pakistan; KPK; Sindh; Balochistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": true,
+      "requires_pdf_numeric_qa": true,
+      "markdown_quality_flags": [
+        "table_layout_noise"
+      ],
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Health.md",
+      "sector": "Health",
+      "subsection": "Conclusion and Areas of Reforms",
+      "source_page": "10",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "some critical weakness like shortage of equipments and staff continues to affect health system.",
+      "claim_type": "constraint",
+      "claim": "The health system is constrained by equipment and staff shortages, creating a need to expand service delivery and human resources.",
+      "indicator_or_subject": "health system capacity",
+      "topic_tags": [
+        "health",
+        "constraint",
+        "service_delivery"
+      ],
+      "sentiment_signal": "negative",
+      "time_orientation": "current",
+      "actor": "",
+      "actors": [],
+      "policy_or_programme": "",
+      "policy_or_programmes": [],
+      "constraint_or_risk": "shortage of equipment and staff",
+      "cause": "Equipment and staff shortages",
+      "effect": "Continued weakness in health system and need to expand services",
+      "comparison": {
+        "dimension": "",
+        "baseline": "",
+        "comparator": "",
+        "direction": ""
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Trade.md",
+      "sector": "Trade",
+      "subsection": "Chapter opening",
+      "source_page": "1",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "The global economy continued to grow at a slow pace during 2015.",
+      "claim_type": "risk_or_shock",
+      "claim": "The chapter links weaker world trade and export demand to slow global growth, sluggish demand, commodity prices, and financial instability.",
+      "indicator_or_subject": "global trade environment",
+      "topic_tags": [
+        "trade",
+        "external_shock",
+        "global_economy"
+      ],
+      "sentiment_signal": "negative",
+      "time_orientation": "past_or_current",
+      "actor": "",
+      "actors": [],
+      "policy_or_programme": "",
+      "policy_or_programmes": [],
+      "constraint_or_risk": "slow global growth and weak aggregate demand",
+      "cause": "Sluggish aggregate demand, declining commodity prices, and financial market instability",
+      "effect": "World trade decelerated and export demand weakened",
+      "comparison": {
+        "dimension": "",
+        "baseline": "",
+        "comparator": "",
+        "direction": ""
+      },
+      "geography": "Global; Europe; United States; Japan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Trade.md",
+      "sector": "Trade",
+      "subsection": "Exports",
+      "source_page": "2",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "Lower trend in exports are the results of both supply and demand side factors.",
+      "claim_type": "cause_effect",
+      "claim": "Pakistan's declining exports are attributed to both domestic supply-side impediments and external demand-side weakness.",
+      "indicator_or_subject": "exports",
+      "topic_tags": [
+        "trade",
+        "exports",
+        "constraint"
+      ],
+      "sentiment_signal": "negative",
+      "time_orientation": "current",
+      "actor": "",
+      "actors": [],
+      "policy_or_programme": "",
+      "policy_or_programmes": [],
+      "constraint_or_risk": "structural impediments, higher production costs, low skill, weak competitiveness, and external demand weakness",
+      "cause": "Supply and demand side factors",
+      "effect": "Lower export trend",
+      "comparison": {
+        "dimension": "time",
+        "baseline": "previous years",
+        "comparator": "current export trend",
+        "direction": "decrease"
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Trade.md",
+      "sector": "Trade",
+      "subsection": "Exports",
+      "source_page": "3",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "The government also announced STPF 2015-18 for the exports enhancement.",
+      "claim_type": "policy_action",
+      "claim": "The government presents the Strategic Trade Policy Framework 2015-18 as a policy response to export weakness.",
+      "indicator_or_subject": "export policy",
+      "topic_tags": [
+        "trade",
+        "exports",
+        "policy"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "current",
+      "actor": "Government of Pakistan",
+      "actors": [
+        "Government of Pakistan",
+        "Ministry of Commerce"
+      ],
+      "policy_or_programme": "Strategic Trade Policy Framework 2015-18",
+      "policy_or_programmes": [
+        "Strategic Trade Policy Framework 2015-18",
+        "Cabinet sub-Committee on Production and Exports"
+      ],
+      "constraint_or_risk": "falling exports",
+      "cause": "Export weakness",
+      "effect": "Announcement of export-enhancement policy framework",
+      "comparison": {
+        "dimension": "",
+        "baseline": "",
+        "comparator": "",
+        "direction": ""
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Trade.md",
+      "sector": "Trade",
+      "subsection": "Box-II: Strategic Trade Policy Framework 2015-18",
+      "source_page": "3",
+      "source_table_or_figure": "Box-II",
+      "evidence_type": "prose",
+      "source_quote": "Its successful implementation would enable Pakistani firms to produce and export more sophisticated and diversified range of products.",
+      "claim_type": "outlook",
+      "claim": "The STPF is expected to help firms diversify exports, reach more markets, and support employment and poverty reduction.",
+      "indicator_or_subject": "export diversification",
+      "topic_tags": [
+        "trade",
+        "exports",
+        "outlook",
+        "employment"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "future",
+      "actor": "Ministry of Commerce",
+      "actors": [
+        "Ministry of Commerce",
+        "Pakistani firms"
+      ],
+      "policy_or_programme": "Strategic Trade Policy Framework 2015-18",
+      "policy_or_programmes": [
+        "Strategic Trade Policy Framework 2015-18"
+      ],
+      "constraint_or_risk": "",
+      "cause": "Successful STPF implementation",
+      "effect": "More sophisticated and diversified exports to more markets",
+      "comparison": {
+        "dimension": "",
+        "baseline": "",
+        "comparator": "",
+        "direction": ""
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Trade.md",
+      "sector": "Trade",
+      "subsection": "Exports",
+      "source_page": "8",
+      "source_table_or_figure": "Table 8.3",
+      "evidence_type": "mixed",
+      "source_quote": "Pakistan's exports are highly concentrated in few items.",
+      "claim_type": "constraint",
+      "claim": "Pakistan's export basket is described as highly concentrated in a few product categories, which contributes to lower export earnings.",
+      "indicator_or_subject": "export concentration",
+      "topic_tags": [
+        "trade",
+        "exports",
+        "constraint"
+      ],
+      "sentiment_signal": "negative",
+      "time_orientation": "current",
+      "actor": "",
+      "actors": [],
+      "policy_or_programme": "",
+      "policy_or_programmes": [],
+      "constraint_or_risk": "high product concentration in exports",
+      "cause": "Concentration in cotton, leather, rice, and related products",
+      "effect": "Lower export earnings",
+      "comparison": {
+        "dimension": "product composition",
+        "baseline": "diversified export basket",
+        "comparator": "few dominant categories",
+        "direction": "unclear"
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": true,
+      "requires_pdf_numeric_qa": true,
+      "markdown_quality_flags": [
+        "table_layout_noise"
+      ],
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Annexure_Iv_War_On_Terror.md",
+      "sector": "War on Terror Annexure",
+      "subsection": "Annexure-IV",
+      "source_page": "1",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "Pakistan continues to be a serious victim of terrorism.",
+      "claim_type": "risk_or_shock",
+      "claim": "The annex frames terrorism as a continuing national shock that diverts resources and causes human and economic losses.",
+      "indicator_or_subject": "terrorism impact",
+      "topic_tags": [
+        "security",
+        "external_shock",
+        "fiscal"
+      ],
+      "sentiment_signal": "negative",
+      "time_orientation": "ongoing",
+      "actor": "",
+      "actors": [],
+      "policy_or_programme": "",
+      "policy_or_programmes": [],
+      "constraint_or_risk": "terrorism and security challenges",
+      "cause": "Terrorism and security challenges",
+      "effect": "Resource diversion, infrastructure repair costs, and human suffering",
+      "comparison": {
+        "dimension": "",
+        "baseline": "",
+        "comparator": "",
+        "direction": ""
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Annexure_Iv_War_On_Terror.md",
+      "sector": "War on Terror Annexure",
+      "subsection": "Annexure-IV",
+      "source_page": "1",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "Pakistan has crafted a 20-point National Action Plan.",
+      "claim_type": "policy_action",
+      "claim": "Pakistan identifies the National Action Plan as a policy response to terrorism and violent extremism.",
+      "indicator_or_subject": "counter-terrorism policy",
+      "topic_tags": [
+        "security",
+        "policy",
+        "governance"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "current",
+      "actor": "Government of Pakistan",
+      "actors": [
+        "Government of Pakistan",
+        "law enforcement"
+      ],
+      "policy_or_programme": "National Action Plan",
+      "policy_or_programmes": [
+        "National Action Plan",
+        "Zarb-e-Azb"
+      ],
+      "constraint_or_risk": "terrorism and violent extremism",
+      "cause": "Need to address terrorism and violent extremism",
+      "effect": "Adoption of kinetic and preventive measures",
+      "comparison": {
+        "dimension": "",
+        "baseline": "",
+        "comparator": "",
+        "direction": ""
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Annexure_Iv_War_On_Terror.md",
+      "sector": "War on Terror Annexure",
+      "subsection": "Annexure-IV",
+      "source_page": "1",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "Zarb-e-Azb has started paying dividend in terms of overall improved security situation.",
+      "claim_type": "cause_effect",
+      "claim": "The annex claims counter-terrorism operations improved the security situation and created a more enabling environment for business and investment.",
+      "indicator_or_subject": "security improvement",
+      "topic_tags": [
+        "security",
+        "investment",
+        "business_environment"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "current",
+      "actor": "Government of Pakistan",
+      "actors": [
+        "Government of Pakistan",
+        "law enforcement"
+      ],
+      "policy_or_programme": "Zarb-e-Azb",
+      "policy_or_programmes": [
+        "Zarb-e-Azb",
+        "National Action Plan"
+      ],
+      "constraint_or_risk": "terrorism",
+      "cause": "Counter-terrorism operation Zarb-e-Azb",
+      "effect": "Improved security and enabling business/investment environment",
+      "comparison": {
+        "dimension": "security situation",
+        "baseline": "before operation effects",
+        "comparator": "after reported operation effects",
+        "direction": "improvement"
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Annexure_Iv_War_On_Terror.md",
+      "sector": "War on Terror Annexure",
+      "subsection": "Table-1",
+      "source_page": "1",
+      "source_table_or_figure": "Table-1",
+      "evidence_type": "table_or_indicator",
+      "source_quote": "Summary of year wise losses is presented in Table -1.",
+      "claim_type": "security_cost",
+      "claim": "The annex organizes terrorism-related economic losses into recurring categories such as exports, investment, infrastructure, tax collection, and uncertainty.",
+      "indicator_or_subject": "terrorism loss categories",
+      "topic_tags": [
+        "security",
+        "data_quality",
+        "fiscal",
+        "investment"
+      ],
+      "sentiment_signal": "negative",
+      "time_orientation": "multi_period",
+      "actor": "",
+      "actors": [],
+      "policy_or_programme": "",
+      "policy_or_programmes": [],
+      "constraint_or_risk": "economic losses from terrorism",
+      "cause": "Incidents of terrorism",
+      "effect": "Reported losses across exports, infrastructure, investment, tax collection, and other categories",
+      "comparison": {
+        "dimension": "time",
+        "baseline": "2014-15",
+        "comparator": "2015-16",
+        "direction": "unclear"
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [
+        "estimated",
+        "source_note"
+      ],
+      "numeric_or_table_sensitive": true,
+      "requires_pdf_numeric_qa": true,
+      "markdown_quality_flags": [
+        "table_layout_noise"
+      ],
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Annexure_Iv_War_On_Terror.md",
+      "sector": "War on Terror Annexure",
+      "subsection": "Table-2",
+      "source_page": "2",
+      "source_table_or_figure": "Table-2",
+      "evidence_type": "table_or_indicator",
+      "source_quote": "During the last 14 years, the direct and indirect cost incurred by Pakistan due to incidents of terrorism amounted to US$ 118.31billion.",
+      "claim_type": "security_cost",
+      "claim": "The annex reports cumulative direct and indirect economic costs of terrorism over a 14-year period.",
+      "indicator_or_subject": "direct and indirect terrorism costs",
+      "topic_tags": [
+        "security",
+        "fiscal",
+        "data_quality"
+      ],
+      "sentiment_signal": "negative",
+      "time_orientation": "multi_period",
+      "actor": "",
+      "actors": [],
+      "policy_or_programme": "",
+      "policy_or_programmes": [],
+      "constraint_or_risk": "terrorism-related economic costs",
+      "cause": "Incidents of terrorism",
+      "effect": "Cumulative direct and indirect costs to Pakistan",
+      "comparison": {
+        "dimension": "time",
+        "baseline": "last 14 years",
+        "comparator": "cumulative estimate",
+        "direction": "increase"
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [
+        "estimated"
+      ],
+      "numeric_or_table_sensitive": true,
+      "requires_pdf_numeric_qa": true,
+      "markdown_quality_flags": [
+        "table_layout_noise"
+      ],
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Capital_Markets.md",
+      "sector": "Capital Markets",
+      "subsection": "Chapter opening",
+      "source_page": "1",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "The capital markets in Pakistan have witnessed several developments during the period.",
+      "claim_type": "reform",
+      "claim": "The chapter presents the Securities Act 2015, exchange demutualization, and PSX integration as major capital-market reforms.",
+      "indicator_or_subject": "capital market reforms",
+      "topic_tags": [
+        "capital_markets",
+        "regulation",
+        "reform"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "current",
+      "actor": "SECP",
+      "actors": [
+        "SECP",
+        "Pakistan Stock Exchange"
+      ],
+      "policy_or_programme": "Securities Act 2015",
+      "policy_or_programmes": [
+        "Securities Act 2015",
+        "Stock exchange demutualization",
+        "Pakistan Stock Exchange integration"
+      ],
+      "constraint_or_risk": "market abuse and manipulation practices",
+      "cause": "New securities law and market integration reforms",
+      "effect": "Improved regulation, investor protection, disclosure, and market confidence",
+      "comparison": {
+        "dimension": "legal framework",
+        "baseline": "Securities and Exchange Ordinance 1969",
+        "comparator": "Securities Act 2015",
+        "direction": "shift"
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Capital_Markets.md",
+      "sector": "Capital Markets",
+      "subsection": "PSX as a single national stock exchange",
+      "source_page": "2",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "Pakistan has entered a new era of equity trading after merger of all the three stock exchanges.",
+      "claim_type": "reform",
+      "claim": "The merger of Karachi, Islamabad, and Lahore stock exchanges into PSX is framed as reducing fragmentation and improving market structure.",
+      "indicator_or_subject": "PSX integration",
+      "topic_tags": [
+        "capital_markets",
+        "reform",
+        "market_integration"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "current",
+      "actor": "SECP",
+      "actors": [
+        "SECP",
+        "KSE",
+        "ISE",
+        "LSE",
+        "PSX"
+      ],
+      "policy_or_programme": "Stock Exchanges Demutualization and Integration Act 2012",
+      "policy_or_programmes": [
+        "Stock Exchanges Demutualization and Integration Act 2012",
+        "Pakistan Stock Exchange integration"
+      ],
+      "constraint_or_risk": "market fragmentation",
+      "cause": "Merger of three stock exchanges into PSX",
+      "effect": "Reduced fragmentation and a single trading platform",
+      "comparison": {
+        "dimension": "market structure",
+        "baseline": "three separate exchanges",
+        "comparator": "single national stock exchange",
+        "direction": "shift"
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Capital_Markets.md",
+      "sector": "Capital Markets",
+      "subsection": "Stock market performance",
+      "source_page": "3",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "The first nine months of current financial year, 2015-16 could be termed as a turbulent period.",
+      "claim_type": "sector_performance",
+      "claim": "The stock market is described as turbulent in the first nine months of FY2016, with declines linked to oil prices and stricter regulatory enforcement.",
+      "indicator_or_subject": "PSX-100 performance",
+      "topic_tags": [
+        "capital_markets",
+        "sector_performance",
+        "external_shock"
+      ],
+      "sentiment_signal": "mixed",
+      "time_orientation": "current",
+      "actor": "",
+      "actors": [
+        "foreign portfolio investors",
+        "capital market regulators"
+      ],
+      "policy_or_programme": "",
+      "policy_or_programmes": [],
+      "constraint_or_risk": "oil price recession, regulatory enforcement, foreign selling",
+      "cause": "International oil price decline and stringent enforcement policy",
+      "effect": "Stock market turbulence and index decline during part of FY2016",
+      "comparison": {
+        "dimension": "time",
+        "baseline": "July 2015",
+        "comparator": "March 2016",
+        "direction": "decrease"
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": true,
+      "requires_pdf_numeric_qa": true,
+      "markdown_quality_flags": [],
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Capital_Markets.md",
+      "sector": "Capital Markets",
+      "subsection": "Stock market performance",
+      "source_page": "4",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "the recent bullish trend in stock prices is a result of Pakistan's possible reclassification.",
+      "claim_type": "outlook",
+      "claim": "A bullish stock-market trend is attributed to expectations of MSCI reclassification from frontier to emerging market status.",
+      "indicator_or_subject": "MSCI reclassification",
+      "topic_tags": [
+        "capital_markets",
+        "outlook",
+        "investment"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "future",
+      "actor": "MSCI",
+      "actors": [
+        "MSCI",
+        "global institutional investors"
+      ],
+      "policy_or_programme": "MSCI Emerging Markets reclassification",
+      "policy_or_programmes": [
+        "MSCI Emerging Markets reclassification"
+      ],
+      "constraint_or_risk": "foreign portfolio volatility",
+      "cause": "Expected MSCI reclassification",
+      "effect": "Bullish trend and potential global fund inflows",
+      "comparison": {
+        "dimension": "market classification",
+        "baseline": "frontier market",
+        "comparator": "emerging market",
+        "direction": "improvement"
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Capital_Markets.md",
+      "sector": "Capital Markets",
+      "subsection": "Future Roadmap",
+      "source_page": "10",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "The SECP's future roadmap envisages introduction of key structural, regulatory and developmental reforms.",
+      "claim_type": "commitment_or_plan",
+      "claim": "SECP sets out future structural and regulatory reforms focused on governance, risk management, transparency, investor protection, and market development.",
+      "indicator_or_subject": "capital market roadmap",
+      "topic_tags": [
+        "capital_markets",
+        "regulation",
+        "future_plan"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "future",
+      "actor": "SECP",
+      "actors": [
+        "SECP",
+        "NCCPL",
+        "PSX"
+      ],
+      "policy_or_programme": "Capital Market Development Plan 2016-18",
+      "policy_or_programmes": [
+        "Capital Market Development Plan 2016-18",
+        "Settlement Guarantee Fund",
+        "Revised Brokers' Regime"
+      ],
+      "constraint_or_risk": "governance, risk management, transparency, and investor protection gaps",
+      "cause": "Need for market development and stronger regulation",
+      "effect": "Planned reforms for capital market operations",
+      "comparison": {
+        "dimension": "",
+        "baseline": "",
+        "comparator": "",
+        "direction": ""
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Education.md",
+      "sector": "Education",
+      "subsection": "Chapter opening",
+      "source_page": "1",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "Pakistan is committed to promote education, increase literacy rate, capacity building of teachers.",
+      "claim_type": "commitment_or_plan",
+      "claim": "Pakistan states a commitment to education promotion, literacy, teacher capacity, facilities, free education up to matric, and private-sector participation.",
+      "indicator_or_subject": "education commitment",
+      "topic_tags": [
+        "education",
+        "commitment",
+        "social_sector"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "current",
+      "actor": "Federal and provincial governments",
+      "actors": [
+        "Federal government",
+        "Provincial governments",
+        "Private sector"
+      ],
+      "policy_or_programme": "",
+      "policy_or_programmes": [],
+      "constraint_or_risk": "",
+      "cause": "",
+      "effect": "Promote education and increase literacy",
+      "comparison": {
+        "dimension": "",
+        "baseline": "",
+        "comparator": "",
+        "direction": ""
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Education.md",
+      "sector": "Education",
+      "subsection": "Chapter opening",
+      "source_page": "1",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "Pakistan Vision 2025 aims at substantial expansion as well improvements in the quality of education.",
+      "claim_type": "commitment_or_plan",
+      "claim": "Vision 2025 sets education expansion, quality improvement, higher public expenditure, and system reforms as planned priorities.",
+      "indicator_or_subject": "education reform targets",
+      "topic_tags": [
+        "education",
+        "future_plan",
+        "reform"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "future",
+      "actor": "Government of Pakistan",
+      "actors": [
+        "Government of Pakistan"
+      ],
+      "policy_or_programme": "Pakistan Vision 2025",
+      "policy_or_programmes": [
+        "Pakistan Vision 2025",
+        "11th Five Year Development Plan 2013-18"
+      ],
+      "constraint_or_risk": "education quality and governance gaps",
+      "cause": "Need to improve education system quality and management",
+      "effect": "Planned reforms in curriculum, pedagogy, technology, governance, and assessment",
+      "comparison": {
+        "dimension": "",
+        "baseline": "",
+        "comparator": "",
+        "direction": ""
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": true,
+      "requires_pdf_numeric_qa": true,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Education.md",
+      "sector": "Education",
+      "subsection": "Box-I: Prime Minister Education Reform Program",
+      "source_page": "4",
+      "source_table_or_figure": "Box-I",
+      "evidence_type": "prose",
+      "source_quote": "Prime Minister Educational Reform Programme has been launched in Islamabad.",
+      "claim_type": "programme_or_project",
+      "claim": "The Prime Minister Education Reform Program is presented as an Islamabad-focused programme to improve quality through facilities, training, curriculum, technology, and school upgrades.",
+      "indicator_or_subject": "school quality reform",
+      "topic_tags": [
+        "education",
+        "programme",
+        "infrastructure"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "current",
+      "actor": "Prime Minister",
+      "actors": [
+        "Prime Minister",
+        "Federal government"
+      ],
+      "policy_or_programme": "Prime Minister Education Reform Program",
+      "policy_or_programmes": [
+        "Prime Minister Education Reform Program"
+      ],
+      "constraint_or_risk": "missing facilities and school quality gaps",
+      "cause": "Need to uplift standard of quality education",
+      "effect": "Provision of facilities, teacher training, curriculum reform, and school upgrades",
+      "comparison": {
+        "dimension": "",
+        "baseline": "",
+        "comparator": "",
+        "direction": ""
+      },
+      "geography": "Islamabad",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Education.md",
+      "sector": "Education",
+      "subsection": "Overall Assessment",
+      "source_page": "6",
+      "source_table_or_figure": "Table 10.4",
+      "evidence_type": "mixed",
+      "source_quote": "The overall education situation is based on key indicators.",
+      "claim_type": "sector_performance",
+      "claim": "The education situation is reported to have slightly improved across enrolment, institutions, and teacher indicators.",
+      "indicator_or_subject": "education indicators",
+      "topic_tags": [
+        "education",
+        "sector_performance",
+        "data_quality"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "past_or_current",
+      "actor": "",
+      "actors": [],
+      "policy_or_programme": "",
+      "policy_or_programmes": [],
+      "constraint_or_risk": "",
+      "cause": "",
+      "effect": "Slight improvement in education indicators",
+      "comparison": {
+        "dimension": "time",
+        "baseline": "previous year",
+        "comparator": "2015 and estimated 2016",
+        "direction": "improvement"
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [
+        "estimated"
+      ],
+      "numeric_or_table_sensitive": true,
+      "requires_pdf_numeric_qa": true,
+      "markdown_quality_flags": [
+        "broken_words",
+        "table_layout_noise"
+      ],
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "source_year": "2015-16",
+      "source_file": "Education.md",
+      "sector": "Education",
+      "subsection": "NAVTTC",
+      "source_page": "9",
+      "source_table_or_figure": "",
+      "evidence_type": "prose",
+      "source_quote": "NAVTTC is an apex body and a national regulatory authority.",
+      "claim_type": "reform",
+      "claim": "NAVTTC is presented as the national authority for TVET policy, strategy, regulation, system revamping, and stakeholder linkages.",
+      "indicator_or_subject": "TVET reform",
+      "topic_tags": [
+        "education",
+        "skills",
+        "reform"
+      ],
+      "sentiment_signal": "positive",
+      "time_orientation": "ongoing",
+      "actor": "NAVTTC",
+      "actors": [
+        "NAVTTC",
+        "Federal government",
+        "Provincial TEVTAs"
+      ],
+      "policy_or_programme": "NAVTTC",
+      "policy_or_programmes": [
+        "NAVTTC",
+        "Prime Minister's Youth Skill Development Program"
+      ],
+      "constraint_or_risk": "technical and vocational stream challenges",
+      "cause": "Need to address TVET challenges",
+      "effect": "Policy making, strategy formulation, regulation, and TVET revamping",
+      "comparison": {
+        "dimension": "",
+        "baseline": "",
+        "comparator": "",
+        "direction": ""
+      },
+      "geography": "Pakistan",
+      "data_status_flags": [],
+      "numeric_or_table_sensitive": false,
+      "requires_pdf_numeric_qa": false,
+      "markdown_quality_flags": [],
+      "confidence": "high",
+      "needs_human_review": true
+    }
+  ]
+}
