@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-06-07T12:58:03.827239+00:00",
+  "total_jobs": 16,
+  "completed_job_count": 6,
+  "failed_job_count": 0,
+  "completed_job_ids": [
+    "job_0001",
+    "job_0002",
+    "job_0003",
+    "job_0004",
+    "job_0005",
+    "job_0006"
+  ],
+  "failed_job_ids": []
+}

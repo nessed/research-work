@@ -1,7 +1,12 @@
 """
-Generates smoke test claim records for Agriculture.md (2016-17 sections).
-Run: python gen_agriculture_claims.py
-Output: smoke_agriculture_claims.jsonl
+DEPRECATED SMOKE-TEST HELPER.
+
+This file records how the first Agriculture smoke-test claim file was produced.
+It is not a production Step 04 runner and must not be reused for full-year
+extraction. Production Step 04 runs must use the job-based flow documented in
+agentic/04_claims_json/README.md.
+
+Historical output: smoke_agriculture_claims.jsonl
 """
 
 import json
