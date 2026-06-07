@@ -1,0 +1,389 @@
+{
+  "generated_at_utc": "2026-06-07T07:47:17+00:00",
+  "overall_status": "PASS",
+  "structural_checks": {
+    "status": "PASS",
+    "issues": [],
+    "pdfs_found": 29,
+    "manifest_entries": 29,
+    "conversion_log_entries": 29,
+    "failed_conversions": 0,
+    "missing_outputs": [],
+    "zero_byte_outputs": [],
+    "output_hash_mismatches": [],
+    "source_hash_mismatches": [],
+    "source_size_mismatches": [],
+    "page_marker_mismatches": []
+  },
+  "prose_fidelity_checks": {
+    "status": "PASS",
+    "seed": 20260607,
+    "sample_count": 29,
+    "status_counts": {
+      "PASS": 29
+    },
+    "samples": [
+      {
+        "source_file_name": "Agriculture.pdf",
+        "page": 13,
+        "status": "PASS",
+        "token_overlap": 0.9898,
+        "source_snippet": "Agriculture 31 Table 2.12: Major Water Sector Projects under Implementation Project Location App. cost (Rs million) Live Storage Irrigated Area Status Restoration & Revamping of Orangi Nullah Sindh 15,007.25 - metropolitan city of Karachi -",
+        "markdown_snippet": "**Agriculture** |**Table 2.12: Major Water Sector Projects under Implementation**|**Table 2.12: Major Water Sector Projects under Implementation**|**Table 2.12: Major Water Sector Projects under Implementation**|**Table 2.12: Major Water Se"
+      },
+      {
+        "source_file_name": "Annex_I_Contingent_Liabilities.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9954,
+        "source_snippet": "277 Contingent liabilities are possible obligation that arises from past events and their existence will be confirmed only by the occurrence or non-occurrence of one or more uncertain future events, not wholly within the control of the Gove",
+        "markdown_snippet": "**==> picture [16 x 79] intentionally omitted <==** ## **ANNEXURE - I** ## **CONTINGENT LIABILITIES** **==> picture [74 x 74] intentionally omitted <==** Contingent liabilities are possible obligation that arises from past events and their "
+      },
+      {
+        "source_file_name": "Annex_Iii_Pakistan_Floods_2022.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9977,
+        "source_snippet": "281 The 2022 floods have shown Pakistan’s high vulnerability to climate change despite contributing less than one percent of global greenhouse gas emissions. This disaster has demonstrated what this vulnerability looks like for the people o",
+        "markdown_snippet": "**==> picture [16 x 79] intentionally omitted <==** ## **ANNEXURE - III** ## **PAKISTAN FLOODS 2022 IMPACT ASSESSMENT** The 2022 floods have shown Pakistan’s high vulnerability to climate change despite contributing less than one percent of"
+      },
+      {
+        "source_file_name": "Annexii_Tax_Expenditure_Fy_2023.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9133,
+        "source_snippet": "279 Tax expenditure has been estimated at Rs 2,239.6 billion. Detailed estimates are highlighted below: Income Tax Tax expenditure in respect of income taxes has been reﬂected in Table 1 . Table 1: Income Tax Expenditure Summary Rs Million ",
+        "markdown_snippet": "**==> picture [16 x 79] intentionally omitted <==** ## **ANNEXURE - II** ## **TAX EXPENDITURE REPORT - 2023** Tax expenditure has been estimated at Rs 2,239.6 billion. Detailed estimates are highlighted below: ## **Income Tax** Tax expendit"
+      },
+      {
+        "source_file_name": "Capital_Markets.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.993,
+        "source_snippet": "Pakistan Economic Survey 2022-23 104 Table 6.2 Profile of Pakistan Stock Exchange 2019 2020 2021 2022 2023 (Till 31st March 2023) Average Daily Shares Volume (Shares in million, Year to Date) 163.98 323.51 527.50 408.00 286.00 Total Volume ",
+        "markdown_snippet": "**Pakistan Economic Survey 2022-23** **Table 6.2 Profile of Pakistan Stock Exchange** ||**2019**|**2020**|**2021**|**2022**|**2023 (Till**<br>**31st March**<br>**2023)**| |---|---|---|---|---|---| |Average Daily Shares Volume<br>(Shares in "
+      },
+      {
+        "source_file_name": "Climate_Change.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "267 Climate change poses serious challenges to social, environmental and developmental activities, and leads to migration within and across national borders. The effects of global climate change in Pakistan are already evident in the form o",
+        "markdown_snippet": "**==> picture [16 x 79] intentionally omitted <==** ## **Chapter 17** ## **CLIMATE CHANGE** **==> picture [74 x 74] intentionally omitted <==** Climate change poses serious challenges to social, environmental and developmental activities, a"
+      },
+      {
+        "source_file_name": "Economic_Survey_2022_23.pdf",
+        "page": 259,
+        "status": "PASS",
+        "token_overlap": 0.9982,
+        "source_snippet": "Energy 233 Gas Sector Natural Gas’s indigenous supplies contribute about 29.3 percent (FY2021) of the country’s total primary energy supply mix. Pakistan has an extensive gas network of over 13,775 Km Transmission, 157,395 Km Mains, and 41,",
+        "markdown_snippet": "**Energy** ## **Gas Sector** Natural Gas’s indigenous supplies contribute about 29.3 percent (FY2021) of the country’s total primary energy supply mix. Pakistan has an extensive gas network of over 13,775 Km Transmission, 157,395 Km Mains, "
+      },
+      {
+        "source_file_name": "Education.pdf",
+        "page": 7,
+        "status": "PASS",
+        "token_overlap": 0.9946,
+        "source_snippet": "Education 177 Table 10.7: Expenditure on Education (Rs million) Years Current Expenditure Development Expenditure Total Expenditure Percent of GDP (2015-16 Base) 2016-17 Federal 91,139 16,890 108,029 2.0 Punjab 221,049 39,593 260,642 Sindh ",
+        "markdown_snippet": "**Education** |**Table 10.7: Expenditure on Education**<br>(Rs million)|**Table 10.7: Expenditure on Education**<br>(Rs million)|**Table 10.7: Expenditure on Education**<br>(Rs million)|**Table 10.7: Expenditure on Education**<br>(Rs millio"
+      },
+      {
+        "source_file_name": "Energy.pdf",
+        "page": 10,
+        "status": "PASS",
+        "token_overlap": 0.9917,
+        "source_snippet": "Pakistan Economic Survey 2022-23 234 are reasonably significant (over 186 billion tons) and sufficient to meet the country’s requirements on a long-term sustainable basis. Domestic coal production is expected to increase in the coming years",
+        "markdown_snippet": "## **Pakistan Economic Survey 2022-23** are reasonably significant (over 186 billion tons) and sufficient to meet the country’s requirements on a long-term sustainable basis. Domestic coal production is expected to increase in the coming ye"
+      },
+      {
+        "source_file_name": "Fiscal_Development.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Fiscal Development 65 Structure in Tax Revenues Buoyant tax revenues provide a steady and reliable source of income for a country. It is a fundamental source of public funds for investments in human capital, infrastructure, and the delivery",
+        "markdown_snippet": "**Fiscal Development** ## **Structure in Tax Revenues** Buoyant tax revenues provide a steady and reliable source of income for a country. It is a fundamental source of public funds for investments in human capital, infrastructure, and the "
+      },
+      {
+        "source_file_name": "Growth_And_Investment.pdf",
+        "page": 6,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2022-23 8 economy vis-à-vis in the main remit corridors, while NPI in rupees term posted a growth of 26.5 percent compared to 19.1 percent growth recorded last year. Regarding per capita income in dollar terms, ther",
+        "markdown_snippet": "**Pakistan Economic Survey 2022-23** economy vis-à-vis in the main remit corridors, while NPI in rupees term posted a growth of 26.5 percent compared to 19.1 percent growth recorded last year. Regarding per capita income in dollar terms, th"
+      },
+      {
+        "source_file_name": "Health.pdf",
+        "page": 10,
+        "status": "PASS",
+        "token_overlap": 0.9891,
+        "source_snippet": "Pakistan Economic Survey 2022-23 196 Table 11.5: Food Availability (kg) per Capita per Annum Food Items 2020-21 2021-22 2022-23 (P) Eggs (dozen) 8.0 7.9 8.6 Edible Oil/Ghee 14.8 13.4 13.5 Fruits & Vegetables 60.8 69.9 70 Sugar 28.8 28.4 28.",
+        "markdown_snippet": "**Pakistan Economic Survey 2022-23** **Table 11.5: Food Availability (kg) per Capita per Annum** |**Food Items**|**2020-21**|**2021-22**|**2022-23 (P)**| |---|---|---|---| |Eggs (dozen)|8.0|7.9|8.6| |Edible Oil/Ghee|14.8|13.4|13.5| |Fruits "
+      },
+      {
+        "source_file_name": "Highlights.pdf",
+        "page": 29,
+        "status": "PASS",
+        "token_overlap": 0.9877,
+        "source_snippet": "24 HIGHLIGHTS OF PAKISTAN ECONOMIC SURVEY 2022-23 Education The number of educational institutions recorded at 275.6 thousands during 2020-21 as compared to 271.3 thousand during 2019-20. However, the number of institutions are estimated to",
+        "markdown_snippet": "**HIGHLIGHTS OF PAKISTAN ECONOMIC SURVEY 2022-23** ## **Education** The **number of educational institutions** recorded at 275.6 thousands during 2020-21 as compared to 271.3 thousand during 2019-20. However, the number of institutions are "
+      },
+      {
+        "source_file_name": "Inflation.pdf",
+        "page": 9,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Inflation 125 Fig 7.6: FAO Food Commodity Prices Source: FAO International wheat prices fell by 2.3 percent, driven by ample global supplies and strong competition among exporters. The extension of the black sea grain initiative, allowing U",
+        "markdown_snippet": "**Inflation** **Fig 7.6: FAO Food Commodity Prices** **==> picture [174 x 178] intentionally omitted <==** **==> picture [172 x 174] intentionally omitted <==** Source: FAO International wheat prices fell by 2.3 percent, driven by ample glo"
+      },
+      {
+        "source_file_name": "Information_Technology.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 0.9955,
+        "source_snippet": "Pakistan Economic Survey 2022-23 244 Telecom Investment Telecom sector drew over US$ 6.3 billion investment in Pakistan during 2018-2022. Telecom investments reported by telecom operators during FY2022 reached to a significant amount of US$",
+        "markdown_snippet": "## **Pakistan Economic Survey 2022-23** **==> picture [218 x 182] intentionally omitted <==** **----- Start of picture text -----**<br> Fig-15.3: Teledensity<br>90% Fixed Mobile Total<br>84.6%<br>83.2%<br>81.7%<br>1.1%<br>1.1%<br>80% 76.3% "
+      },
+      {
+        "source_file_name": "Key_Indicators.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "SOCIAL INDICATORS 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 2021-22 2022-23 F R (Jul-Mar) P 28.9 -2.6 0.3 1.1 -3.9 -8.8 0.1 12.6 -2.1 -7.1 13.7 26.7 -11.0 14.9 12.8 -0.6 3.8 -0.8 -0.6 16.7 16.0 ",
+        "markdown_snippet": "## **SOCIAL INDICATORS** |**2010-11**|**2011-12**|**2012-13**|**2013-14**|**2014-15 **|**2015-16 **|**2016-17 **|**2017-18**|**2018-19**|**2019-20**|**2020-21**|**2021-22**|**2022-23**| |---|---|---|---|---|---|---|---|---|---|---|---|---| "
+      },
+      {
+        "source_file_name": "Manufacturing_And_Mining.pdf",
+        "page": 18,
+        "status": "PASS",
+        "token_overlap": 0.9982,
+        "source_snippet": "35 TABLE 3.4 PRODUCTION OF FERTILIZERS, VEGETABLE GHEE, SUGAR AND CEMENT (000 tonnes) Year Fertilizers Vegetable Ghee Sugar Cement Urea Super Phosphate Ammonium Nitrate Dia-Ammonium phosphate Nitro Phosphate 2010-11 4,552.1 173.3 275.1 663.",
+        "markdown_snippet": "## **TABLE 3.4** ## **PRODUCTION OF FERTILIZERS, VEGETABLE GHEE, SUGAR AND CEMENT** **(000 tonnes)** ||**(000 tonnes)**| |---|---| |**Year**|**Fertilizers**<br>**Vegetable**<br>**Ghee**<br>**Sugar**<br>**Cement**<br>**Urea**<br>**Super**<br"
+      },
+      {
+        "source_file_name": "Money_And_Credit.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.992,
+        "source_snippet": "Pakistan Economic Survey 2022-23 84 It is expected that another modest dollar depreciation in 2023 will observed as inflation eases slightly faster in the US than in the Euro area and as the FED-ECB interest rates differential narrows furth",
+        "markdown_snippet": "**Pakistan Economic Survey 2022-23** It is expected that another modest dollar depreciation in 2023 will observed as inflation eases slightly faster in the US than in the Euro area and as the FED-ECB interest rates differential narrows furt"
+      },
+      {
+        "source_file_name": "Overview_Of_The_Economy.pdf",
+        "page": 2,
+        "status": "PASS",
+        "token_overlap": 0.997,
+        "source_snippet": "Pakistan Economic Survey 2022-23 ii inclusion, and social safety net. In the near term, when fiscal space permits, countries should prioritize targeted and temporary support to protect the most vulnerable from still-high food and energy pri",
+        "markdown_snippet": "## **Pakistan Economic Survey 2022-23** inclusion, and social safety net. In the near term, when fiscal space permits, countries should prioritize targeted and temporary support to protect the most vulnerable from still-high food and energy"
+      },
+      {
+        "source_file_name": "Population.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.9925,
+        "source_snippet": "Pakistan Economic Survey 2022-23 204 cost of $ 110.00 million including $100.00 million loan from the Asian Development Bank. The major scope of the project involves; establishment of a center of excellences in 20 TVET institutes of Punjab,",
+        "markdown_snippet": "## **Pakistan Economic Survey 2022-23** cost of $ 110.00 million including $100.00 million loan from the Asian Development Bank. The major scope of the project involves; establishment of a center of excellences in 20 TVET institutes of Punj"
+      },
+      {
+        "source_file_name": "Public_Debt.pdf",
+        "page": 19,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "92 TABLE 9.6 GRANT ASSISTANCE AGREEMENTS SIGNED ($ Million) 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 2021-22 2022-23 (Jul-Mar) I. Paris Club Countries 1. Australia - - - - - - - - - - - 2. Austria - - - - - - ",
+        "markdown_snippet": "## **TABLE 9.6** ## **GRANT ASSISTANCE AGREEMENTS SIGNED** |**GRANT ASSISTANCE AGREEMENTS SIGNED**|**GRANT ASSISTANCE AGREEMENTS SIGNED**|**GRANT ASSISTANCE AGREEMENTS SIGNED**|**GRANT ASSISTANCE AGREEMENTS SIGNED**|**GRANT ASSISTANCE AGREE"
+      },
+      {
+        "source_file_name": "Social_Protection.pdf",
+        "page": 10,
+        "status": "PASS",
+        "token_overlap": 0.9629,
+        "source_snippet": "Pakistan Economic Survey 2022-23 258 Table 16.5: Province-wise Households benefited from PPAF Emergency Response (July 2022 to March 2023) Provinces Category-wise Beneficiary Households Food Items Hygiene Kits/MHM Kits Point of Use Water Su",
+        "markdown_snippet": "## **Pakistan Economic Survey 2022-23** |**Table 16.5: Province-wise Households benefited from PPAF Emergency Response (July 2022to March 2023)**|**Table 16.5: Province-wise Households benefited from PPAF Emergency Response (July 2022to Mar"
+      },
+      {
+        "source_file_name": "Supplement_2017_18.pdf",
+        "page": 186,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 13.8 MOTOR VEHICLES-PRODUCTION in Nos. Fiscal Year Motor Cycle Cars & Jeeps L.C.Vs Buses Trucks Tractors 2000-01 117,858 39,573 6,960 1,332 948 32,556 2001-02 133,334 41,171 8,491 1,099 1,141 24,331 2002-03 176,591 63,267 12,174 1,340",
+        "markdown_snippet": "## **TABLE 13.8** ## **MOTOR VEHICLES-PRODUCTION** **==> picture [382 x 259] intentionally omitted <==** **----- Start of picture text -----**<br> in Nos.<br>Fiscal Year Motor Cycle Cars & L.C.Vs Buses Trucks Tractors<br>Jeeps<br>2000-01 11"
+      },
+      {
+        "source_file_name": "Supplement_2018_19.pdf",
+        "page": 19,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 1.4 Rs Million Flows 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 F 2017-18 R 2018-19 P 2017-18 / 2016-17 2018-19/ 2017-18 Household Final Consumption Expenditure 7,700,707 7,865,407 8,304,881 8,545,418 9,196,738 9,978,329 10,659,9",
+        "markdown_snippet": "## **TABLE 1.4** ## **EXPENDITURE ON GROSS NATIONAL PRODUCT AT CONSTANT PRICES OF 2005-06** **==> picture [467 x 304] intentionally omitted <==** **----- Start of picture text -----**<br> Rs Million<br>% Change<br>Flows 2011-12 2012-13 2013"
+      },
+      {
+        "source_file_name": "Supplement_2019_20.pdf",
+        "page": 157,
+        "status": "PASS",
+        "token_overlap": 0.9973,
+        "source_snippet": "TABLE 10.1 NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX Numbers Year Middle Technical & Voca- Higher Sec/ Degree Univer- tional Institutions Inter Colleges Colleges sities Total Female Total Female Total Female Total Female Total",
+        "markdown_snippet": "## **TABLE 10.1** ## **NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX** |||||||**Numbers**| |---|---|---|---|---|---|---| |**Year**|**Total Female**<br>**Schools(000)**<br>**Primary***|**Middle**<br>**Total Female**<br>**Schools(00"
+      },
+      {
+        "source_file_name": "Supplement_2020_21.pdf",
+        "page": 7,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "(vii) 8.5 Economic Classification of Exports .............................................................................................. 123 8.6 Economic Classification of Imports .........................................................",
+        "markdown_snippet": "**==> picture [462 x 674] intentionally omitted <==** **----- Start of picture text -----**<br> 8.5 Economic Classification of Exports .............................................................................................. 123<br>8.6"
+      },
+      {
+        "source_file_name": "Supplement_2021_22.pdf",
+        "page": 124,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 8.8 US $ Million Years Basmati Other Varieties Total Qty(ton) Value Qty(ton) Value Qty(ton) Value 2000-01 502,061 236.46 1,792,224 289.09 2,294,285 525.55 2001-02 550,033 257.97 1,134,265 190.26 1,684,298 448.23 2002-03 716,726 360.81",
+        "markdown_snippet": "## **TABLE 8.8** ## **RICE EXPORTS** |||**US$ Million**| |---|---|---| |**Years**|**Basmati**<br>**Qty(ton)**<br>**Value**|**Other Varieties**<br>**Total**<br>**Qty(ton)**<br>**Value**<br>**Qty(ton)**<br>**Value**| |**2000-01**<br>**2001-02"
+      },
+      {
+        "source_file_name": "Trade_And_Payments.pdf",
+        "page": 24,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "73 TABLE 8.1 SUMMARY BALANCE OF PAYMENTS AS PER BPM6 US $ million ITEM 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 2021-22 R 2022-23 Jul-Mar P Current Account Balance -2,815 -4,961 -12,270 -19,195 -13,434 -4,449 -2,820 -17,481 -",
+        "markdown_snippet": "## **TABLE 8.1** ## **SUMMARY BALANCE OF PAYMENTS AS PER BPM6** |||||||||**US**|**$ million**| |---|---|---|---|---|---|---|---|---|---| |**ITEM**|**2014-15**|**2015-16**|**2016-17**|**2017-18**|**2018-19**|**2019-20**|**2020-21**|**2021-22"
+      },
+      {
+        "source_file_name": "Transport.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 0.9638,
+        "source_snippet": "Pakistan Economic Survey 2022-23 220 transactions due to non-availability of cash during ongoing fiscal year and only 158 transactions of an amount of Rs 13.03 million were processed during July-December of FY2023. However, the instant remi",
+        "markdown_snippet": "## **Pakistan Economic Survey 2022-23** transactions due to non-availability of cash during ongoing fiscal year and only 158 transactions of an amount of Rs 13.03 million were processed during July-December of FY2023. However, the instant r"
+      }
+    ]
+  },
+  "placeholder_checks": {
+    "status": "INFO",
+    "total_omitted_picture_placeholders": 914,
+    "files": [
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Agriculture.md",
+        "count": 2
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Annex_I_Contingent_Liabilities.md",
+        "count": 2
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Annex_Iii_Pakistan_Floods_2022.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Annexii_Tax_Expenditure_Fy_2023.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Capital_Markets.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Climate_Change.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Economic_Survey_2022_23.md",
+        "count": 206
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Education.md",
+        "count": 7
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Energy.md",
+        "count": 2
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Fiscal_Development.md",
+        "count": 17
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Growth_And_Investment.md",
+        "count": 8
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Health.md",
+        "count": 3
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Highlights.md",
+        "count": 132
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Inflation.md",
+        "count": 10
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Information_Technology.md",
+        "count": 7
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Manufacturing_And_Mining.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Money_And_Credit.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Overview_Of_The_Economy.md",
+        "count": 2
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Population.md",
+        "count": 3
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Public_Debt.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Social_Protection.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Supplement_2017_18.md",
+        "count": 211
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Supplement_2018_19.md",
+        "count": 205
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Supplement_2019_20.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Supplement_2020_21.md",
+        "count": 11
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Supplement_2021_22.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Trade_And_Payments.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2022-23_pymupdf4llm_hardened/converted_md/Transport.md",
+        "count": 5
+      }
+    ],
+    "research_use_note": "Charts/images are not certified from Markdown and require separate PDF review before use in research claims."
+  },
+  "limitation_statement_checks": {
+    "status": "PASS",
+    "missing_statements": [],
+    "policy": "Markdown is not certified for table, chart, numeric, row/column, total, ranking, or footnote fidelity."
+  },
+  "table_numeric_policy": {
+    "status": "NOT_CERTIFIED",
+    "policy": "Markdown is not certified for table, chart, numeric, row/column, total, ranking, or footnote fidelity.",
+    "required_follow_up": "Any numeric or table-derived claim must be verified against the source PDF and, where needed, rendered page evidence."
+  }
+}

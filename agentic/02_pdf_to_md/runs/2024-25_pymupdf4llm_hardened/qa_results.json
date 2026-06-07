@@ -1,0 +1,372 @@
+{
+  "generated_at_utc": "2026-06-07T08:00:27+00:00",
+  "overall_status": "PASS",
+  "structural_checks": {
+    "status": "PASS",
+    "issues": [],
+    "pdfs_found": 28,
+    "manifest_entries": 28,
+    "conversion_log_entries": 28,
+    "failed_conversions": 0,
+    "missing_outputs": [],
+    "zero_byte_outputs": [],
+    "hash_mismatches": [],
+    "page_marker_mismatches": []
+  },
+  "prose_fidelity_checks": {
+    "status": "PASS",
+    "seed": 20260607,
+    "sample_count": 28,
+    "status_counts": {
+      "PASS": 27,
+      "SKIP": 1
+    },
+    "samples": [
+      {
+        "source_file_name": "Agriculture.pdf",
+        "page": 26,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 2.2 LAND UTILIZATION Million Hectares Fiscal Total Reported Forest Not Avail- Culturable Area Sown Total Year Area Area Area able for Waste more than Cropped Cultivation Current Net Area Total Area once Area Fallow Sown Cultivated 1 2",
+        "markdown_snippet": "## **TABLE 2.2** ## **LAND UTILIZATION** **==> picture [466 x 232] intentionally omitted <==** **----- Start of picture text -----**<br> Million Hectares<br>Fiscal Total Reported Forest Not Avail- Culturable Cultivated Area Area Sown Total<"
+      },
+      {
+        "source_file_name": "Annex_I_Contingent_Liabilities.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "321 In analyzing a country’s pubic debt profile, it is essential to consider contingent liabilities alongside direct debt obligations. Contingent liabilities are possible obligations that can arise from specific future events. They can only",
+        "markdown_snippet": "Annexure - I **==> picture [8 x 8] intentionally omitted <==** **==> picture [7 x 7] intentionally omitted <==** **==> picture [41 x 28] intentionally omitted <==** **==> picture [5 x 5] intentionally omitted <==** **==> picture [6 x 6] int"
+      },
+      {
+        "source_file_name": "Annex_Ii_Tax_Expenditure.pdf",
+        "status": "SKIP",
+        "reason": "no page with at least 60 extractable tokens"
+      },
+      {
+        "source_file_name": "Annex_Iii_National_Accounts.pdf",
+        "page": 2,
+        "status": "PASS",
+        "token_overlap": 0.9705,
+        "source_snippet": "Pakistan Economic Survey 2024-25 326 public, and general government, as well as by industry. The QNA methodology identifies indicators and deflators by sector and activity based on their contribution to GDP in 2015-16. The private sector ho",
+        "markdown_snippet": "**Pakistan Economic Survey 2024-25** public, and general government, as well as by industry. The QNA methodology identifies indicators and deflators by sector and activity based on their contribution to GDP in 2015-16. The private sector ho"
+      },
+      {
+        "source_file_name": "Capital_Market.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 0.9935,
+        "source_snippet": "Pakistan Economic Survey 2024-25 104 Table 6.4: Sector-Wise Market Capitalization (Rs million) Sectors Market Cap End June 2024 Market Cap End March 2025 % Change % of Total Market Cap Automobile Assembler 452,137.2 606,849.8 34.2 4.2 Power",
+        "markdown_snippet": "**Pakistan Economic Survey 2024-25** **==> picture [448 x 120] intentionally omitted <==** **----- Start of picture text -----**<br> Table 6.4: Sector-Wise Market Capitalization (Rs million)<br>Sectors Market Cap Market Cap % % of Total<br>"
+      },
+      {
+        "source_file_name": "Climate_Change.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Climate Change 307 17.2-h Pakistan’s First Biennial Transparency Report (BTR-1) under the Enhanced Transparency Framework (ETF) of the Paris Agreement Pakistan’s First Biennial Transparency Report (BTR-1) was prepared under the Enhanced Tra",
+        "markdown_snippet": "**Climate Change** ## **17.2-h Pakistan’s First Biennial Transparency Report (BTR-1) under the Enhanced Transparency Framework (ETF) of the Paris Agreement** Pakistan’s First Biennial Transparency Report (BTR-1) was prepared under the Enhan"
+      },
+      {
+        "source_file_name": "Education.pdf",
+        "page": 3,
+        "status": "PASS",
+        "token_overlap": 0.9984,
+        "source_snippet": "Pakistan Economic Survey 2024-25 176 particularly focusing on the promotion of research and development within HEIs. Focusing on the provincial level offers a comprehensive overview of government efforts to spread education and knowledge th",
+        "markdown_snippet": "**Pakistan Economic Survey 2024-25** particularly focusing on the promotion of research and development within HEIs. Focusing on the provincial level offers a comprehensive overview of government efforts to spread education and knowledge th"
+      },
+      {
+        "source_file_name": "Energy.pdf",
+        "page": 15,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 14.1 COMMERCIAL ENERGY CONSUMPTION Fiscal Year Households Commercial Cement Fertilizer Power SSGC* Industry Transport Total CNG** 2010-11 232,244 36,466 1,378 228,460 337,401 291,667 113,055 1,240,671 2011-12 261,915 39,627 1,266 211,",
+        "markdown_snippet": "## **TABLE 14.1** ## **COMMERCIAL ENERGY CONSUMPTION** **==> picture [462 x 260] intentionally omitted <==** **----- Start of picture text -----**<br> Fiscal 2. Gas (mm cft)<br>Year Households Commercial Cement Fertilizer Power SSGC* Indust"
+      },
+      {
+        "source_file_name": "Fiscal_Development.pdf",
+        "page": 13,
+        "status": "PASS",
+        "token_overlap": 0.998,
+        "source_snippet": "Pakistan Economic Survey 2024-25 74 collection has increased to Rs 1,043.4 billion during July-April, FY 2025, from Rs 897.6 billion last year. The major revenue spinners of customs duty have been mineral fuels, vehicles, edible oil, and ma",
+        "markdown_snippet": "**Pakistan Economic Survey 2024-25** collection has increased to Rs 1,043.4 billion during July-April, FY 2025, from Rs 897.6 billion last year. The major revenue spinners of customs duty have been mineral fuels, vehicles, edible oil, and m"
+      },
+      {
+        "source_file_name": "Growth_And_Investment.pdf",
+        "page": 11,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2024-25 12 Investment activity showed a mild recovery, with total investment rising from 10.3 percent of GDP in Q1 to 12.7 percent in Q3, though still below the threshold needed for broad-based supply-side gains. Ne",
+        "markdown_snippet": "## **Pakistan Economic Survey 2024-25** Investment activity showed a mild recovery, with total investment rising from 10.3 percent of GDP in Q1 to 12.7 percent in Q3, though still below the threshold needed for broad-based supply-side gains"
+      },
+      {
+        "source_file_name": "Health_And_Nutrition.pdf",
+        "page": 6,
+        "status": "PASS",
+        "token_overlap": 0.9902,
+        "source_snippet": "Health and Nutrition 199 NHV 2016-25 across four domains: health systems, health security, universal health coverage (UHC), and multi-sectoral actions. This framework focused on both overall health outcomes and health equity improvements. T",
+        "markdown_snippet": "**Health and Nutrition** NHV 2016-25 across four domains: health systems, health security, universal health coverage (UHC), and multi-sectoral actions. This framework focused on both overall health outcomes and health equity improvements. T"
+      },
+      {
+        "source_file_name": "Highlights.pdf",
+        "page": 12,
+        "status": "PASS",
+        "token_overlap": 0.9925,
+        "source_snippet": "■Pakistan’s Real GDP recorded a growth of 2.68 percent in FY2025, underpinned by broad- based stabilization across key macroeconomic indicators. The real, fiscal, financial, and external sectors exhibited sustained resilience and continued ",
+        "markdown_snippet": "## CHAPTER ## 01 ## Growth and Investment **==> picture [108 x 144] intentionally omitted <==** - Pakistan’s Real GDP recorded a growth of 2.68 percent in FY2025, underpinned by broadbased stabilization across key macroeconomic indicators. "
+      },
+      {
+        "source_file_name": "Inflation.pdf",
+        "page": 20,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 7.3 (B) ANNUAL CHANGES IN PRICE INDICES AND GDP DEFLATOR Fiscal Wholesale Sensitive Price Annual Year National Urban Rural Price Index Indicator GDP Deflator 2010-11 13.66 - - 21.25 16.57 19.52 2011-12 11.01 - - 10.42 7.08 5.66 2012-1",
+        "markdown_snippet": "## **TABLE 7.3 (B)** ## **ANNUAL CHANGES IN PRICE INDICES AND GDP DEFLATOR** **==> picture [459 x 312] intentionally omitted <==** **----- Start of picture text -----**<br> Fiscal Consumer Price Index Wholesale Sensitive Price Annual<br>Yea"
+      },
+      {
+        "source_file_name": "Information_Technology.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 0.9931,
+        "source_snippet": "Information Technology and Telecommunication 267 Cybersecurity Policy, CERT Rules, CTDISR, Cybersecurity Strategy and regular cybersecurity audits across the telecom sector. The establishment of National Telecom CERT has further enhanced th",
+        "markdown_snippet": "**Information Technology and Telecommunication** Cybersecurity Policy, CERT Rules, CTDISR, Cybersecurity Strategy and regular cybersecurity audits across the telecom sector. The establishment of National Telecom CERT has further enhanced th"
+      },
+      {
+        "source_file_name": "Manufacturing_And_Mining.pdf",
+        "page": 10,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Manufacturing and Mining 53 expansion reflects significant investment and growth potential within the sector. However, capacity utilization has declined notably from a peak of 94.4 percent in FY 2018 to just 52.97 percent in the current fis",
+        "markdown_snippet": "**Manufacturing and Mining** expansion reflects significant investment and growth potential within the sector. However, capacity utilization has declined notably from a peak of 94.4 percent in FY 2018 to just 52.97 percent in the current fi"
+      },
+      {
+        "source_file_name": "Money_And_Credit.pdf",
+        "page": 16,
+        "status": "PASS",
+        "token_overlap": 0.9951,
+        "source_snippet": "Money and Credit 97 Table 5.9: Microfinance Outreach in Pakistan Dec-2023 Dec-2024 Number of Branches/Units 4,050 4,145 Number of Districts Covered 139 139 Active Borrowers 9,560,000 12,341,290 Gross Loan Portfolio (Rs millions) 573,490 604",
+        "markdown_snippet": "**Money and Credit** **Table 5.9: Microfinance Outreach in Pakistan** **==> picture [448 x 122] intentionally omitted <==** **----- Start of picture text -----**<br> Dec-2023 Dec-2024<br>Number of Branches/Units 4,050 4,145<br>Number of Dis"
+      },
+      {
+        "source_file_name": "Overview_2024_25.pdf",
+        "page": 16,
+        "status": "PASS",
+        "token_overlap": 0.9737,
+        "source_snippet": "Pakistan Economic Survey 2024-25 xvi Provincial governments also contributed Punjab launched the Climate Resilient Vision 2024, smog reduction programs, and green building initiatives. Sindh developed a Provincial Climate Action Plan, while",
+        "markdown_snippet": "## **Pakistan Economic Survey 2024-25** Provincial governments also contributed Punjab launched the Climate Resilient Vision 2024, smog reduction programs, and green building initiatives. Sindh developed a Provincial Climate Action Plan, wh"
+      },
+      {
+        "source_file_name": "Population.pdf",
+        "page": 21,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 12.6 15 Years 10 Years 15 Years 10 Years 15 Years 10 Years 15 Years 10 Years 15 Years 10 Years 15 Years 10 Years 15 Years 10 Years 15 Years 10 Years 15 Years 10 Years & Above & Above & Above & Above & Above & Above & Above & Above & A",
+        "markdown_snippet": "**TABLE 12.6** **LITERACY RATIOS OF POPULATION BY SEX, REGION AND URBAN/RURAL AREAS, 1998 TO 2023 CENSUS** **==> picture [468 x 255] intentionally omitted <==** **----- Start of picture text -----**<br> Total Urban Rural<br>2023 2017 1998 2"
+      },
+      {
+        "source_file_name": "Public_Debt.pdf",
+        "page": 19,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 9.6 GRANT ASSISTANCE AGREEMENTS SIGNED ($ Million) 2017-18 2018-19 2019-20 2020-21 2021-22 2022-23 2023-24 2024-25 (Jul-Mar) I. Paris Club Countries 1. Australia - - - - - - 2. Austria - - - - - - 3. Belguium - - - - - 5.4 3. Canada -",
+        "markdown_snippet": "**TABLE 9.6** ## **GRANT ASSISTANCE AGREEMENTS SIGNED** **==> picture [435 x 611] intentionally omitted <==** **----- Start of picture text -----**<br> ($ Million)<br>2024-25<br>2017-18 2018-19 2019-20 2020-21 2021-22 2022-23 2023-24<br>(Ju"
+      },
+      {
+        "source_file_name": "Social_Indicators.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "ECONOMIC AND 1960s 1970s 1980s 1990s 2000s 2008-09 2009-10 2010-11 2011-12 2012-13 GDP Rs billion - - - - - 14,706 16,507 19,731 22,435 25,042 US $ billion - - - - - 187.3 197.0 230.8 250.4 258.9 FINANCIAL SECTOR: GROWTH RATE (at constant f",
+        "markdown_snippet": "## **ECONOMIC AND** **==> picture [443 x 575] intentionally omitted <==** **----- Start of picture text -----**<br> 1960s 1970s 1980s 1990s 2000s 2008-09 2009-10 2010-11 2011-12 2012-13<br>INDICATORS<br>Average (Annual)<br>GDP<br>Rs billion"
+      },
+      {
+        "source_file_name": "Social_Protection.pdf",
+        "page": 25,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2024-25 298 also support long-term adaptation and mitigation. In this context, provincial governments must assume greater responsibility in financing and managing social welfare programs to ensure equitable access t",
+        "markdown_snippet": "## **Pakistan Economic Survey 2024-25** also support long-term adaptation and mitigation. In this context, provincial governments must assume greater responsibility in financing and managing social welfare programs to ensure equitable acces"
+      },
+      {
+        "source_file_name": "Supplement_2017_18.pdf",
+        "page": 33,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 2.2 BASIC DATA ON AGRICULTURE Crop- Improved Water Fertilizer Years ped Area seed dis- Availa- offtake (million tribution bility @ (000 N/T) hectares) (000 Tons) (MAF) 2000-01 22.04 193.80 134.77 2,966.03 2001-02 22.12 191.57 134.63 2",
+        "markdown_snippet": "## **TABLE 2.2** ## **BASIC DATA ON AGRICULTURE** **==> picture [407 x 303] intentionally omitted <==** **----- Start of picture text -----**<br> Crop- Improved Water Fertilizer<br>Years ped Area seed dis- Availa- offtake<br>(million tribut"
+      },
+      {
+        "source_file_name": "Supplement_2018_19.pdf",
+        "page": 174,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 12.12 In Percentage Major Industry Division Pakistan Punjab Sindh Balochistan Total Rural Urban Total Rural Urban Total Rural Urban Total Rural Urban Total Rural Urban Total 100.0 66.03 33.97 100.0 67.48 32.52 100.0 52.84 47.16 100.0 ",
+        "markdown_snippet": "## **TABLE 12.12 PERCENTAGE DISTRIBUTION OF EMPLOYED PERSONS OF 10 YEARS AGE AND ABOVE BY MAJOR INDUSTRY 2017-18** **==> picture [463 x 395] intentionally omitted <==** **----- Start of picture text -----**<br> In Percentage<br>Major Indust"
+      },
+      {
+        "source_file_name": "Supplement_2019_20.pdf",
+        "page": 32,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 2.1 INDEX OF AGRICULTURE PRODUCTION Years All Food Fibre Other Cash crops Fibre crops crops crops crops crops Wheat Maize Rice Surgcane Cotton 2000-01 93.0 91.2 95.5 94.0 - - - - - 2001-02 96.5 85.2 94.4 103.6 - - - - - 2002-03 104.0 ",
+        "markdown_snippet": "## **TABLE 2.1** ## **INDEX OF AGRICULTURE PRODUCTION** |**Years**|**All**<br>**Food**<br>**Fibre**<br>**Other**<br>**crops**<br>**crops**<br>**crops**<br>**crops**<br>**1999-2000 Base Year**|**2005-06 Base Year**|**2005-06 Base Year**|| |-"
+      },
+      {
+        "source_file_name": "Supplement_2020_21.pdf",
+        "page": 152,
+        "status": "PASS",
+        "token_overlap": 0.9961,
+        "source_snippet": "TABLE 9.3 ANNUAL COMMITMENTS, DISBURSEMENTS, SERVICE PAYMENTS AND EXTERNAL DEBT OUTSTANDING Disbursed* Undisbursed* Commit- ment** Disburse- ment** Principal Interest Total 2000-01 25,608 2,860 1,167 1,846 1,004 663 1,668 18.7% 11.7% 2.3% 2",
+        "markdown_snippet": "**TABLE 9.3** **ANNUAL COMMITMENTS, DISBURSEMENTS, SERVICE PAYMENTS AND EXTERNAL DEBT OUTSTANDING** |**Fiscal Year**|**D Oi**|**Transactions during period**|**Debt Servicing as % of**| |---|---|---|---| ||**Disbursed***<br>**Undisbursed***<"
+      },
+      {
+        "source_file_name": "Supplement_2021_22.pdf",
+        "page": 152,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 9.4 DEBT SERVICE PAYMENTS OF FOREIGN LOANS (Paid in Foreign Exchange) US$ Million Kind 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 2021-22 Fiscal Year III. Principal 728.13 721.22 755.35 778.36 757.57 744.00 803.00",
+        "markdown_snippet": "## **TABLE 9.4** ## **DEBT SERVICE PAYMENTS OF FOREIGN LOANS (Paid in Foreign Exchange)** ||||||||||||**US$ Million**| |---|---|---|---|---|---|---|---|---|---|---|---| |**Fiscal Year**||**Kind**|**2013-14**|**2014-15**|**2015-16**|**2016-1"
+      },
+      {
+        "source_file_name": "Trade_And_Payments.pdf",
+        "page": 6,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Trade and Payments 137 8.2-a(i) Workers Remittances During July-April FY 2025, workers’ remittances surged by posting a significant growth of 30.9 percent, reaching US$ 31.2 billion, providing crucial support to Pakistan’s external position",
+        "markdown_snippet": "**Trade and Payments** ## **Fig-8.2 B: Monthly Current Account Balance** (US$ million) **==> picture [443 x 172] intentionally omitted <==** **----- Start of picture text -----**<br> Goods Trade Balance Services Trade Balance Primary Income"
+      },
+      {
+        "source_file_name": "Transport_And_Communication.pdf",
+        "page": 19,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 13.2 PAKISTAN INTERNATIONAL AIRLINES CORPORATION-Operational PIA Fleet Available Route Passenger Available Operating No. of Seat Km Load Tonne Expenses Planes (Million Km) Factor% (Million Km) (Million Rs.) 2011 40 21,726 460,719 72.0",
+        "markdown_snippet": "## **TABLE 13.2** ## **PAKISTAN INTERNATIONAL AIRLINES CORPORATION-Operational** **==> picture [455 x 251] intentionally omitted <==** **----- Start of picture text -----**<br> PIA Fleet Available Route Passenger Available Operating<br>Year"
+      }
+    ]
+  },
+  "placeholder_checks": {
+    "status": "INFO",
+    "total_omitted_picture_placeholders": 1212,
+    "files": [
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Agriculture.md",
+        "count": 59
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Annex_I_Contingent_Liabilities.md",
+        "count": 14
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Annex_Ii_Tax_Expenditure.md",
+        "count": 15
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Annex_Iii_National_Accounts.md",
+        "count": 16
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Capital_Market.md",
+        "count": 32
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Climate_Change.md",
+        "count": 18
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Education.md",
+        "count": 31
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Energy.md",
+        "count": 54
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Fiscal_Development.md",
+        "count": 51
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Growth_And_Investment.md",
+        "count": 40
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Health_And_Nutrition.md",
+        "count": 28
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Highlights.md",
+        "count": 67
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Inflation.md",
+        "count": 31
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Information_Technology.md",
+        "count": 11
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Manufacturing_And_Mining.md",
+        "count": 36
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Money_And_Credit.md",
+        "count": 30
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Overview_2024_25.md",
+        "count": 13
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Population.md",
+        "count": 35
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Public_Debt.md",
+        "count": 36
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Social_Indicators.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Social_Protection.md",
+        "count": 42
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Supplement_2017_18.md",
+        "count": 211
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Supplement_2018_19.md",
+        "count": 205
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Supplement_2019_20.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Supplement_2020_21.md",
+        "count": 11
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Supplement_2021_22.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Trade_And_Payments.md",
+        "count": 60
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2024-25_pymupdf4llm_hardened/converted_md/Transport_And_Communication.md",
+        "count": 36
+      }
+    ],
+    "research_use_note": "Charts/images are not certified from Markdown and require separate PDF review before use in research claims."
+  },
+  "table_numeric_policy": {
+    "status": "NOT_CERTIFIED",
+    "policy": "Markdown is not certified for table, chart, numeric, row/column, total, ranking, or footnote fidelity.",
+    "required_follow_up": "Any numeric or table-derived claim must be verified against the source PDF and, where needed, rendered page evidence."
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "generated_at_utc": "2026-06-07T02:38:32+00:00",
+  "overall_status": "PASS",
+  "structural_checks": {
+    "status": "PASS",
+    "issues": [],
+    "pdfs_found": 28,
+    "manifest_entries": 28,
+    "conversion_log_entries": 28,
+    "failed_conversions": 0,
+    "missing_outputs": [],
+    "zero_byte_outputs": [],
+    "hash_mismatches": [],
+    "page_marker_mismatches": []
+  },
+  "prose_fidelity_checks": {
+    "status": "PASS",
+    "seed": 20260607,
+    "sample_count": 28,
+    "status_counts": {
+      "PASS": 27,
+      "SKIP": 1
+    },
+    "samples": [
+      {
+        "source_file_name": "Annex_I_Contingent.pdf",
+        "page": 2,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 310 During Jul-Mar FY 2021-22, the government issued fresh/rollover guarantees/Letter of Comforts (LoCs) aggregating to Rs.344 billion or 0.5 percent of GDP. The outstanding stock of guarantees was Rs. 2,700",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 310 During Jul-Mar FY 2021-22, the government issued fresh/rollover guarantees/Letter of Comforts (LoCs) aggregating to Rs.344 billion or 0.5 percent of GDP. The outstanding stock of guarantees was Rs. 2,700"
+      },
+      {
+        "source_file_name": "Annex_Ii_Tax_Expenditure_Errata.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Tax Expenditure Estimates – FY2022 Tax expenditure for FY2022 has been estimated at Rs 1,482.319 billion. Detailed estimates are highlighted below: Income Tax Tax expenditure in respect of income taxes during FY2022 has been reflected in Ta",
+        "markdown_snippet": "Tax Expenditure Estimates – FY2022 Tax expenditure for FY2022 has been estimated at Rs 1,482.319 billion. Detailed estimates are highlighted below: Income Tax Tax expenditure in respect of income taxes during FY2022 has been reflected in Ta"
+      },
+      {
+        "source_file_name": "Annex_Iii_Information.pdf",
+        "page": 6,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 318 Achievements during July to December FY2021 Table 17.5: Achievements Applications Received 2373 Startups Inducted 126 Startups Graduated 24 Female Founders 30+ Source: IGNITE NICs have been Declared a Ch",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 318 Achievements during July to December FY2021 Table 17.5: Achievements Applications Received 2373 Startups Inducted 126 Startups Graduated 24 Female Founders 30+ Source: IGNITE NICs have been Declared a Ch"
+      },
+      {
+        "source_file_name": "Economic_Indicators.pdf",
+        "page": 2,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "SOCIAL INDICATORS 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 2021-22 g F R (Jul-Mar) P 3.8 3.7 4.1 4.1 4.6 4.6 6.1 3.1 -0.9 5.7 6.0 3.6 2.7 2.5 2.1 0.2 2.2 3.9 0.9 3.9 3.5 4.4 2.1 4.9 5.7 3.9 3.7 4.9 7.1",
+        "markdown_snippet": "SOCIAL INDICATORS 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 2021-22 g F R (Jul-Mar) P 3.8 3.7 4.1 4.1 4.6 4.6 6.1 3.1 -0.9 5.7 6.0 3.6 2.7 2.5 2.1 0.2 2.2 3.9 0.9 3.9 3.5 4.4 2.1 4.9 5.7 3.9 3.7 4.9 7.1"
+      },
+      {
+        "source_file_name": "Economic_Survey_2021_22.pdf",
+        "page": 140,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 102 Table-5.10: Highlights of the Banking Sector Industry CY15 CY16 CY17 CY18 CY19 CY20 CY21 Key FSIs (Percent) NPLs to Loans (Gross) 11.4 10.1 8.4 8 8.6 9.2 7.9 Net NPLs to Net Loans 1.9 1.6 1.2 1.4 1.7 1.2",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 102 Table-5.10: Highlights of the Banking Sector Industry CY15 CY16 CY17 CY18 CY19 CY20 CY21 Key FSIs (Percent) NPLs to Loans (Gross) 11.4 10.1 8.4 8 8.6 9.2 7.9 Net NPLs to Net Loans 1.9 1.6 1.2 1.4 1.7 1.2"
+      },
+      {
+        "source_file_name": "Highlights.pdf",
+        "status": "SKIP",
+        "reason": "no page with at least 60 extractable tokens"
+      },
+      {
+        "source_file_name": "Overview.pdf",
+        "page": 2,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 ii growing budget deficits. Clear communication and forward guidance on the outlook for monetary policy and greater support from the treasury will be essential to minimize the risk of disruptive adjustments ",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 ii growing budget deficits. Clear communication and forward guidance on the outlook for monetary policy and greater support from the treasury will be essential to minimize the risk of disruptive adjustments "
+      },
+      {
+        "source_file_name": "Pes01_Growth.pdf",
+        "page": 14,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 14 The other components of Manufacturing, Small Scale, and Slaughtering posted growth of 8.9 and 6.2 percent, respectively. Thus, Manufacturing sector posted a growth of 9.8 percent. It is mentionable that M",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 14 The other components of Manufacturing, Small Scale, and Slaughtering posted growth of 8.9 and 6.2 percent, respectively. Thus, Manufacturing sector posted a growth of 9.8 percent. It is mentionable that M"
+      },
+      {
+        "source_file_name": "Pes02_Agriculture.pdf",
+        "page": 13,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Agriculture 29 Mohmand Dam projects. On completion, these dams will greatly mitigate water and power shortages in the country.  Kachhi Canal (Phase-I) with 72,000 CCA in Balochistan remained operational. 55,000 of this command area has bee",
+        "markdown_snippet": "Agriculture 29 Mohmand Dam projects. On completion, these dams will greatly mitigate water and power shortages in the country.  Kachhi Canal (Phase-I) with 72,000 CCA in Balochistan remained operational. 55,000 of this command area has bee"
+      },
+      {
+        "source_file_name": "Pes03_Manufacturing.pdf",
+        "page": 10,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 50 were reversed in the subsequent mini-budget thus frustrating the possible impetus to growth. New Auto Industry Development and Export Policy 2021-26 has been announced Besides Make in Pakistan notion, in ",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 50 were reversed in the subsequent mini-budget thus frustrating the possible impetus to growth. New Auto Industry Development and Export Policy 2021-26 has been announced Besides Make in Pakistan notion, in "
+      },
+      {
+        "source_file_name": "Pes04_Fiscal.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Fiscal Development 65 Review of Public Expenditures In developing countries, Governments find it difficult to sufficiently allocate resources for development purposes and to create employment opportunities due to limited resources. It is, t",
+        "markdown_snippet": "Fiscal Development 65 Review of Public Expenditures In developing countries, Governments find it difficult to sufficiently allocate resources for development purposes and to create employment opportunities due to limited resources. It is, t"
+      },
+      {
+        "source_file_name": "Pes05_Money_26Credit.pdf",
+        "page": 6,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 88 informed of matters that jointly concern the Ministry of Finance and the State Bank.14 Increasing Transparency: The amendments increase transparency in the operations of the SBP and strengthen its governa",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 88 informed of matters that jointly concern the Ministry of Finance and the State Bank.14 Increasing Transparency: The amendments increase transparency in the operations of the SBP and strengthen its governa"
+      },
+      {
+        "source_file_name": "Pes06_Capital.pdf",
+        "page": 10,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 120 Box-II: NBFC Reforms and Developmental Activities To facilitate the growth of the mutual fund industry and to protect the investor’s interest, the SECP has taken the following initiatives during the outg",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 120 Box-II: NBFC Reforms and Developmental Activities To facilitate the growth of the mutual fund industry and to protect the investor’s interest, the SECP has taken the following initiatives during the outg"
+      },
+      {
+        "source_file_name": "Pes07_Inflation.pdf",
+        "page": 7,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Inflation 133 (23.65 percent), Washing soap/detergents/match box (17.22 percent), Motor vehicle accessories (15.95 percent) and Household equipment (15.06 percent). CPI inflation-Rural increased by 15.1 percent on a YoY basis in April 2022 ",
+        "markdown_snippet": "Inflation 133 (23.65 percent), Washing soap/detergents/match box (17.22 percent), Motor vehicle accessories (15.95 percent) and Household equipment (15.06 percent). CPI inflation-Rural increased by 15.1 percent on a YoY basis in April 2022 "
+      },
+      {
+        "source_file_name": "Pes08_Trade.pdf",
+        "page": 9,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Trade and Payments 147 The purpose of the event was to provide opportunity to Pakistani SMEs to showcase their products in African and Central Asian markets, to explore opportunities for investments, JVs & brand franchising, and to promote ",
+        "markdown_snippet": "Trade and Payments 147 The purpose of the event was to provide opportunity to Pakistani SMEs to showcase their products in African and Central Asian markets, to explore opportunities for investments, JVs & brand franchising, and to promote "
+      },
+      {
+        "source_file_name": "Pes09_Public.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 174 respectively, whereas a net retirement amounting to Rs 178 billion and Rs 70 billion was observed in stock of Bai-Muajjal Sukuk and Prize Bonds, respectively. II. Floating Debt Floating debt was recorded",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 174 respectively, whereas a net retirement amounting to Rs 178 billion and Rs 70 billion was observed in stock of Bai-Muajjal Sukuk and Prize Bonds, respectively. II. Floating Debt Floating debt was recorded"
+      },
+      {
+        "source_file_name": "Pes10_Education.pdf",
+        "page": 16,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 198 c. HEC in collaboration with the British Council conducted 03 training workshops for ORIC Management in Karachi, Islamabad, and Faisalabad in which Director ORICs of different HEIs of Pakistan participat",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 198 c. HEC in collaboration with the British Council conducted 03 training workshops for ORIC Management in Karachi, Islamabad, and Faisalabad in which Director ORICs of different HEIs of Pakistan participat"
+      },
+      {
+        "source_file_name": "Pes11_Health.pdf",
+        "page": 21,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Health and Nutrition 223 11.14: Airport, Parcel, Seaport Seizures. Country Cases during Jul – Dec 2021 Airports Parcel Seaport UAE 10 1 Australia 10 Canada 3 1 Bahrain 21 2 Italy 3 KSA 3 2 1 Netherlands 5 New Zealand 3 UK 41 1 USA 2 Qatar 7",
+        "markdown_snippet": "Health and Nutrition 223 11.14: Airport, Parcel, Seaport Seizures. Country Cases during Jul – Dec 2021 Airports Parcel Seaport UAE 10 1 Australia 10 Canada 3 1 Bahrain 21 2 Italy 3 KSA 3 2 1 Netherlands 5 New Zealand 3 UK 41 1 USA 2 Qatar 7"
+      },
+      {
+        "source_file_name": "Pes12_Population.pdf",
+        "page": 14,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 238 next General Elections due to be held in 2023. As per recommendations of the Census Advisory Committee, the census questionnaire has been finalized and “Census Monitoring Committee” has also been propose",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 238 next General Elections due to be held in 2023. As per recommendations of the Census Advisory Committee, the census questionnaire has been finalized and “Census Monitoring Committee” has also been propose"
+      },
+      {
+        "source_file_name": "Pes13_Transport.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 244 List of PC-I processed by NHA for approval of DDWP in FY2022 2. 02 PC-Is processed by NHA in the FY2022, out of which 01 PC-I has been presented/approved in Departmental Development Working Party (DDWP) ",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 244 List of PC-I processed by NHA for approval of DDWP in FY2022 2. 02 PC-Is processed by NHA in the FY2022, out of which 01 PC-I has been presented/approved in Departmental Development Working Party (DDWP) "
+      },
+      {
+        "source_file_name": "Pes14_Energy.pdf",
+        "page": 15,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Energy 273 bidding for the contracting of renewable energy capacity to achieve the 2025 and 2030 targets in line with the ARE Policy 2019. ii. Carried out revision of AEDB (Certification) Regulations aimed to simplify the procedures laid th",
+        "markdown_snippet": "Energy 273 bidding for the contracting of renewable energy capacity to achieve the 2025 and 2030 targets in line with the ARE Policy 2019. ii. Carried out revision of AEDB (Certification) Regulations aimed to simplify the procedures laid th"
+      },
+      {
+        "source_file_name": "Pes15_Social.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 278 Tracking the Pro-Poor Expenditures: Expenditure on 14 pro-poor sectors is showing increasing trend in absolute terms in pro-poor public expenditure. In 2016-17 it stood at 8.5 percent of GDP, 8.1 percent",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 278 Tracking the Pro-Poor Expenditures: Expenditure on 14 pro-poor sectors is showing increasing trend in absolute terms in pro-poor public expenditure. In 2016-17 it stood at 8.5 percent of GDP, 8.1 percent"
+      },
+      {
+        "source_file_name": "Pes16_Climate.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2021-22 296  Gasifiers and 2,100 fuel efficient stoves are distributed.  Different communities have planted fruit and forest seedlings on 653 ha (653,000 plants).  Management plans for Chilgoza forests over 26,00",
+        "markdown_snippet": "Pakistan Economic Survey 2021-22 296  Gasifiers and 2,100 fuel efficient stoves are distributed.  Different communities have planted fruit and forest seedlings on 653 ha (653,000 plants).  Management plans for Chilgoza forests over 26,00"
+      },
+      {
+        "source_file_name": "Supplement_2017_18.pdf",
+        "page": 155,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 10.1 NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX Numbers Year Middle Technical & Voca- Higher Sec/ Degree Univer- tional Institutions Inter Colleges Colleges sities Total Female Total Female Total Female Total Female Total",
+        "markdown_snippet": "TABLE 10.1 NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX Numbers Year Middle Technical & Voca- Higher Sec/ Degree Univer- tional Institutions Inter Colleges Colleges sities Total Female Total Female Total Female Total Female Total"
+      },
+      {
+        "source_file_name": "Supplement_2018_19.pdf",
+        "page": 151,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 9.6 GRANT ASSISTANCE AGREEMENTS SIGNED ($ Million) 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 I. Paris Club Countries 1. Australia - - - - - - - - - 2. Austria - - - - - - - - - 3. Canada - - - - - - - - -",
+        "markdown_snippet": "TABLE 9.6 GRANT ASSISTANCE AGREEMENTS SIGNED ($ Million) 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 I. Paris Club Countries 1. Australia - - - - - - - - - 2. Austria - - - - - - - - - 3. Canada - - - - - - - - -"
+      },
+      {
+        "source_file_name": "Supplement_2019_20.pdf",
+        "page": 185,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 13.5 PAKISTAN INTERNATIONAL AIRLINES CORPORATION-Operational Year PIA Fleet Available Route Passenger Available Operating No. of Seat Kms. Load Tonne Expenses Planes (Million Kms.) Factor (Million Kms.) (Million % Rs.) 2000* 45 18,692",
+        "markdown_snippet": "TABLE 13.5 PAKISTAN INTERNATIONAL AIRLINES CORPORATION-Operational Year PIA Fleet Available Route Passenger Available Operating No. of Seat Kms. Load Tonne Expenses Planes (Million Kms.) Factor (Million Kms.) (Million % Rs.) 2000* 45 18,692"
+      },
+      {
+        "source_file_name": "Supplement_2020_21.pdf",
+        "page": 20,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 1.4 Rs million Flows 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 F 2019-20 R 2020-21 P 2019-20/ 2018-19 2020-21/ 2019-20 Household Final Consumption Expenditure 8,304,881 8,545,418 9,196,738 9,978,329 10,598,522 10,922,533 10,470,",
+        "markdown_snippet": "TABLE 1.4 Rs million Flows 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 F 2019-20 R 2020-21 P 2019-20/ 2018-19 2020-21/ 2019-20 Household Final Consumption Expenditure 8,304,881 8,545,418 9,196,738 9,978,329 10,598,522 10,922,533 10,470,"
+      },
+      {
+        "source_file_name": "Supplement_2021_22.pdf",
+        "page": 155,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 9.5 TERMS OF FOREIGN LOANS/CREDITS CONTRACTED BY PAKISTAN Amount Interest Rate Amortization Amount Interest Rate/ Amortization $ Million Commission (%) years $ Million Commission(%) years A. Paris Club Countries 1. Germany 32.1 Fixed ",
+        "markdown_snippet": "TABLE 9.5 TERMS OF FOREIGN LOANS/CREDITS CONTRACTED BY PAKISTAN Amount Interest Rate Amortization Amount Interest Rate/ Amortization $ Million Commission (%) years $ Million Commission(%) years A. Paris Club Countries 1. Germany 32.1 Fixed "
+      }
+    ]
+  },
+  "placeholder_checks": {
+    "status": "INFO",
+    "total_omitted_picture_placeholders": 0,
+    "files": [],
+    "research_use_note": "Charts/images are not certified from Markdown and require separate PDF review before use in research claims."
+  },
+  "table_numeric_policy": {
+    "status": "NOT_CERTIFIED",
+    "policy": "Markdown is not certified for table, chart, numeric, row/column, total, ranking, or footnote fidelity.",
+    "required_follow_up": "Any numeric or table-derived claim must be verified against the source PDF and, where needed, rendered page evidence."
+  }
+}

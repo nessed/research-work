@@ -92,7 +92,21 @@ def chunk_page_number(chunk: dict[str, Any], fallback: int) -> int:
     return fallback
 
 
-def markdown_with_page_markers(pdf_path: Path) -> tuple[str, int]:
+def chunk_text_for_page(pdf_path: Path, page_index: int) -> str:
+    with fitz.open(pdf_path) as doc:
+        return doc.load_page(page_index).get_text("text").strip()
+
+
+def markdown_with_page_markers(pdf_path: Path, source_page_count: int) -> tuple[str, int]:
+    sections: list[str] = []
+    for page_index in range(source_page_count):
+        page_no = page_index + 1
+        text = chunk_text_for_page(pdf_path, page_index)
+        sections.append(f"<!-- page {page_no} -->\n\n{text}")
+    return "\n\n".join(sections).rstrip() + "\n", len(sections)
+
+
+def markdown_with_page_markers_whole_document(pdf_path: Path) -> tuple[str, int]:
     chunks = pymupdf4llm.to_markdown(str(pdf_path), page_chunks=True)
     sections: list[str] = []
 
@@ -146,11 +160,14 @@ def main() -> int:
 
         try:
             source_page_count = page_count(pdf_path)
+            reused_output = bool(args.reuse_existing and output_path.exists())
             if args.reuse_existing and output_path.exists():
                 chunk_count = page_marker_count(output_path)
             else:
                 print(f"converting {pdf_path.name}", flush=True)
-                markdown, chunk_count = markdown_with_page_markers(pdf_path)
+                markdown, chunk_count = markdown_with_page_markers(
+                    pdf_path, source_page_count
+                )
                 output_path.write_text(markdown, encoding="utf-8", newline="\n")
 
             entry.update(
@@ -159,7 +176,7 @@ def main() -> int:
                     "page_count": source_page_count,
                     "converted_page_chunks": chunk_count,
                     "output_bytes": output_path.stat().st_size,
-                    "reused_existing_output": bool(args.reuse_existing),
+                    "reused_existing_output": reused_output,
                 }
             )
         except Exception as exc:
@@ -200,6 +217,8 @@ def main() -> int:
         "pdf_selection_rule": "all *.pdf files directly inside source_dir, sorted case-insensitively by filename",
         "generation_mode": "reuse_existing_outputs" if args.reuse_existing else "full_conversion",
         "non_pdf_scope_note": "manifest.csv is outside conversion scope; only direct PDF files are converted.",
+        "conversion_engine": "PyMuPDF page.get_text('text') with explicit Markdown page markers",
+        "conversion_engine_note": "Whole-document and page-wise pymupdf4llm conversion attempts timed out on the 548-page combined survey PDF in this environment; this retained hardened run uses deterministic PyMuPDF text extraction for completion.",
         "environment": {
             "python_executable": sys.executable,
             "python_version": sys.version,

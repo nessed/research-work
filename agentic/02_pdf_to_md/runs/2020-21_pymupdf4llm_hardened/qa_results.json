@@ -1,0 +1,269 @@
+{
+  "generated_at_utc": "2026-06-07T02:39:37+00:00",
+  "overall_status": "PASS",
+  "structural_checks": {
+    "status": "PASS",
+    "issues": [],
+    "pdfs_found": 29,
+    "manifest_entries": 29,
+    "conversion_log_entries": 29,
+    "failed_conversions": 0,
+    "missing_outputs": [],
+    "zero_byte_outputs": [],
+    "hash_mismatches": [],
+    "page_marker_mismatches": []
+  },
+  "prose_fidelity_checks": {
+    "status": "PASS",
+    "seed": 20260607,
+    "sample_count": 29,
+    "status_counts": {
+      "PASS": 29
+    },
+    "samples": [
+      {
+        "source_file_name": "Agriculture.pdf",
+        "page": 13,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Agriculture 29 equipment at reduced tariff (Custom Duty 0-2 percent and GST 07 percent) to encourage mechanized farming in the country. The domestic tractor industry has played a significant role in fulfilling the requirements of tractors. ",
+        "markdown_snippet": "Agriculture 29 equipment at reduced tariff (Custom Duty 0-2 percent and GST 07 percent) to encourage mechanized farming in the country. The domestic tractor industry has played a significant role in fulfilling the requirements of tractors. "
+      },
+      {
+        "source_file_name": "Annex_I_Contingent_Liabilities.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Contingent liabilities are possible obligations that arise from past events and their existence will be confirmed only by the occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the governmen",
+        "markdown_snippet": "Contingent liabilities are possible obligations that arise from past events and their existence will be confirmed only by the occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the governmen"
+      },
+      {
+        "source_file_name": "Annex_Ii_Tax_Expenditure.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Tax expenditure for FY2021 has been estimated at Rs 1,314.3 billion as per following Details: Income Tax Tax expenditure in respect of income taxes during FY2021 has been reflected in Table 1 below: Table 1: Tax Expenditure Estimates of Inc",
+        "markdown_snippet": "Tax expenditure for FY2021 has been estimated at Rs 1,314.3 billion as per following Details: Income Tax Tax expenditure in respect of income taxes during FY2021 has been reflected in Table 1 below: Table 1: Tax Expenditure Estimates of Inc"
+      },
+      {
+        "source_file_name": "Annex_Iii_Sezones.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2020-21 344 Table 1: Special Economic Zones established across Pakistan Year Name of SEZ Developer Area (Acres) Value Addition City (VAC), Faisalabad, Punjab FIEDMC 214 FY2019 Oil Village SEZ (OVSEZ), Rawalpindi, Pu",
+        "markdown_snippet": "Pakistan Economic Survey 2020-21 344 Table 1: Special Economic Zones established across Pakistan Year Name of SEZ Developer Area (Acres) Value Addition City (VAC), Faisalabad, Punjab FIEDMC 214 FY2019 Oil Village SEZ (OVSEZ), Rawalpindi, Pu"
+      },
+      {
+        "source_file_name": "Annex_Iv_Covid.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2020-21 352 activities. International Labor Organization (ILO) estimates 12.6 million to 19.1 million vulnerable workers may lose their jobs while PIDE estimates 15.54 million to 18.65 million job loss4. It is expec",
+        "markdown_snippet": "Pakistan Economic Survey 2020-21 352 activities. International Labor Organization (ILO) estimates 12.6 million to 19.1 million vulnerable workers may lose their jobs while PIDE estimates 15.54 million to 18.65 million job loss4. It is expec"
+      },
+      {
+        "source_file_name": "Capital_Markets.pdf",
+        "page": 2,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2020-21 126 introduced by the SECP, the apex regulator of the capital markets, to facilitate the capital markets. I – Equity Market An equity market, also known as a stock market, is a market in which shares of list",
+        "markdown_snippet": "Pakistan Economic Survey 2020-21 126 introduced by the SECP, the apex regulator of the capital markets, to facilitate the capital markets. I – Equity Market An equity market, also known as a stock market, is a market in which shares of list"
+      },
+      {
+        "source_file_name": "Climate_Change.pdf",
+        "page": 7,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Climate Change 327 concluded that in total, mangrove forests and mapped tidal marshes store approximately 21 million tonnes of organic carbon (Corg)or 76.4 million tonnes CO2e. It is estimated that the Sindh government’s Indus Delta Mangrov",
+        "markdown_snippet": "Climate Change 327 concluded that in total, mangrove forests and mapped tidal marshes store approximately 21 million tonnes of organic carbon (Corg)or 76.4 million tonnes CO2e. It is estimated that the Sindh government’s Indus Delta Mangrov"
+      },
+      {
+        "source_file_name": "Economic_Indicators.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "SOCIAL INDICATORS 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 F R (Jul-Mar) P 28.9 -2.6 0.3 1.1 -3.9 -8.8 0.1 12.6 -2.1 -7.1 6.5 * 14.9 12.8 -0.6 3.8 -0.8 -0.6 16.7 16.0 -6.8 -15.9 13.5 * 25.8 17.",
+        "markdown_snippet": "SOCIAL INDICATORS 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 F R (Jul-Mar) P 28.9 -2.6 0.3 1.1 -3.9 -8.8 0.1 12.6 -2.1 -7.1 6.5 * 14.9 12.8 -0.6 3.8 -0.8 -0.6 16.7 16.0 -6.8 -15.9 13.5 * 25.8 17."
+      },
+      {
+        "source_file_name": "Education.pdf",
+        "page": 10,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2020-21 208 Balochistan The Balochistan government has allocated Rs 9.1 billion for CFY2021 for 108 on-going and 176 new development projects. Out of the total allocation, an amount of Rs 1.1 billion has been alloca",
+        "markdown_snippet": "Pakistan Economic Survey 2020-21 208 Balochistan The Balochistan government has allocated Rs 9.1 billion for CFY2021 for 108 on-going and 176 new development projects. Out of the total allocation, an amount of Rs 1.1 billion has been alloca"
+      },
+      {
+        "source_file_name": "Energy.pdf",
+        "page": 12,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2020-21 296 v. Carried out stakeholder consultation for revision of AEDB (Certification) Regulations 2018 aimed to simply the procedures laid therein in order to ensure the implement the present Government’s policy ",
+        "markdown_snippet": "Pakistan Economic Survey 2020-21 296 v. Carried out stakeholder consultation for revision of AEDB (Certification) Regulations 2018 aimed to simply the procedures laid therein in order to ensure the implement the present Government’s policy "
+      },
+      {
+        "source_file_name": "Fiscal.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Fiscal Development 75 The total expenditures observed a significant rise due to higher current expenditures, while development spending decreased during FY2020. Total expenditures grew by 23.2 percent of GDP in FY2020 as compared with 21.9 ",
+        "markdown_snippet": "Fiscal Development 75 The total expenditures observed a significant rise due to higher current expenditures, while development spending decreased during FY2020. Total expenditures grew by 23.2 percent of GDP in FY2020 as compared with 21.9 "
+      },
+      {
+        "source_file_name": "Growth.pdf",
+        "page": 6,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2020-21 6 with continuing expansionary fiscal and monetary policies, they are expected to generate V-shaped economic recoveries. World GDP growth is expected to rebound by 6 percent in 2021. All Pakistan’s major exp",
+        "markdown_snippet": "Pakistan Economic Survey 2020-21 6 with continuing expansionary fiscal and monetary policies, they are expected to generate V-shaped economic recoveries. World GDP growth is expected to rebound by 6 percent in 2021. All Pakistan’s major exp"
+      },
+      {
+        "source_file_name": "Health.pdf",
+        "page": 14,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2020-21 230  Pakistan Atomic Energy Cancer Registry (PAECR) report for year 2020 is under process for finalization. Nutrition Security Proper nutrition is considered as a foundation of human development. It is a cr",
+        "markdown_snippet": "Pakistan Economic Survey 2020-21 230  Pakistan Atomic Energy Cancer Registry (PAECR) report for year 2020 is under process for finalization. Nutrition Security Proper nutrition is considered as a foundation of human development. It is a cr"
+      },
+      {
+        "source_file_name": "Inflation.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Inflation 145 for timely import of wheat & sugar as decided by ECC. In addition to that the frequency of NPMC meetings was increased to weekly basis for further stabilizing prices of essential items in particular. In Q3 FY2021, the governme",
+        "markdown_snippet": "Inflation 145 for timely import of wheat & sugar as decided by ECC. In addition to that the frequency of NPMC meetings was increased to weekly basis for further stabilizing prices of essential items in particular. In Q3 FY2021, the governme"
+      },
+      {
+        "source_file_name": "Manufacturing.pdf",
+        "page": 15,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Manufacturing and Mining 59 produced. During the current year, a major HCV unit had some technical issues which caused relatively low growth than other segments. Farm tractor may be seen on the path of revival with production and the sales ",
+        "markdown_snippet": "Manufacturing and Mining 59 produced. During the current year, a major HCV unit had some technical issues which caused relatively low growth than other segments. Farm tractor may be seen on the path of revival with production and the sales "
+      },
+      {
+        "source_file_name": "Money_And_Credit.pdf",
+        "page": 16,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2020-21 112 Table-5.8: Average Outstanding Open Market Operations1 Rs billion Full Year FY2017 FY2018 FY2019 FY2020 FY2021 1,045.8 1,228.7 (23.8) 1,103.2 935.6 Q1 1,094.0 1,440.9 1,035.2 1,337.7 1048.3 Q2 861.3 1,53",
+        "markdown_snippet": "Pakistan Economic Survey 2020-21 112 Table-5.8: Average Outstanding Open Market Operations1 Rs billion Full Year FY2017 FY2018 FY2019 FY2020 FY2021 1,045.8 1,228.7 (23.8) 1,103.2 935.6 Q1 1,094.0 1,440.9 1,035.2 1,337.7 1048.3 Q2 861.3 1,53"
+      },
+      {
+        "source_file_name": "Overview.pdf",
+        "page": 21,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Overview of the Economy xxi To revive the forest cover and wildlife resources in Pakistan the government has launched the Ten Billion Tree Tsunami Programme. The programme has achieved a plantation of 350 million plants in the first three q",
+        "markdown_snippet": "Overview of the Economy xxi To revive the forest cover and wildlife resources in Pakistan the government has launched the Ten Billion Tree Tsunami Programme. The programme has achieved a plantation of 350 million plants in the first three q"
+      },
+      {
+        "source_file_name": "Pes_2020_21.pdf",
+        "page": 108,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2020-21 74 restricted to the deficit of Rs 756.6 billion (-1.8 percent of GDP) for the entire year against the deficit of Rs 1,353.8 billion (-3.6 percent of GDP) in FY2019. The total revenue increased by 15.1 perce",
+        "markdown_snippet": "Pakistan Economic Survey 2020-21 74 restricted to the deficit of Rs 756.6 billion (-1.8 percent of GDP) for the entire year against the deficit of Rs 1,353.8 billion (-3.6 percent of GDP) in FY2019. The total revenue increased by 15.1 perce"
+      },
+      {
+        "source_file_name": "Population.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2020-21 240 Prime Minister’s Start-Up Pakistan Prime Minister’s Startup Pakistan is flagship initiative of KJP taken by the government and envisioned to develop a national startup ecosystem that provides training to",
+        "markdown_snippet": "Pakistan Economic Survey 2020-21 240 Prime Minister’s Start-Up Pakistan Prime Minister’s Startup Pakistan is flagship initiative of KJP taken by the government and envisioned to develop a national startup ecosystem that provides training to"
+      },
+      {
+        "source_file_name": "Public_Debt.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2020-21 182 digitally in Naya Pakistan Certificates (NPCs) through their Roshan Digital Accounts (RDA). The key highlights of the NPCs are presented in below box: Box-II: Naya Pakistan Certificates Naya Pakistan Cer",
+        "markdown_snippet": "Pakistan Economic Survey 2020-21 182 digitally in Naya Pakistan Certificates (NPCs) through their Roshan Digital Accounts (RDA). The key highlights of the NPCs are presented in below box: Box-II: Naya Pakistan Certificates Naya Pakistan Cer"
+      },
+      {
+        "source_file_name": "Social_Protection.pdf",
+        "page": 19,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Social Protection 315 PPAF under Ehsaas During July March FY2021, PPAF disbursed an amount of Rs 2,640.09 million to its Partner Organizations (POs) for various programmes funded by donors and PPAF’s own resources. The component-wise financ",
+        "markdown_snippet": "Social Protection 315 PPAF under Ehsaas During July March FY2021, PPAF disbursed an amount of Rs 2,640.09 million to its Partner Organizations (POs) for various programmes funded by donors and PPAF’s own resources. The component-wise financ"
+      },
+      {
+        "source_file_name": "Statistical_Supplement.pdf",
+        "page": 152,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 9.3 ANNUAL COMMITMENTS, DISBURSEMENTS, SERVICE PAYMENTS AND EXTERNAL DEBT OUTSTANDING Disbursed* Undisbursed* Commit- ment** Disburse- ment** Principal Interest Total 2000-01 25,608 2,860 1,167 1,846 1,004 663 1,668 18.7% 11.7% 2.3% 2",
+        "markdown_snippet": "TABLE 9.3 ANNUAL COMMITMENTS, DISBURSEMENTS, SERVICE PAYMENTS AND EXTERNAL DEBT OUTSTANDING Disbursed* Undisbursed* Commit- ment** Disburse- ment** Principal Interest Total 2000-01 25,608 2,860 1,167 1,846 1,004 663 1,668 18.7% 11.7% 2.3% 2"
+      },
+      {
+        "source_file_name": "Supplement_2017_18.pdf",
+        "page": 186,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 13.8 MOTOR VEHICLES-PRODUCTION in Nos. Fiscal Year Motor Cycle Cars & Jeeps L.C.Vs Buses Trucks Tractors 2000-01 117,858 39,573 6,960 1,332 948 32,556 2001-02 133,334 41,171 8,491 1,099 1,141 24,331 2002-03 176,591 63,267 12,174 1,340",
+        "markdown_snippet": "TABLE 13.8 MOTOR VEHICLES-PRODUCTION in Nos. Fiscal Year Motor Cycle Cars & Jeeps L.C.Vs Buses Trucks Tractors 2000-01 117,858 39,573 6,960 1,332 948 32,556 2001-02 133,334 41,171 8,491 1,099 1,141 24,331 2002-03 176,591 63,267 12,174 1,340"
+      },
+      {
+        "source_file_name": "Supplement_2018_19.pdf",
+        "page": 19,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 1.4 Rs Million Flows 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 F 2017-18 R 2018-19 P 2017-18 / 2016-17 2018-19/ 2017-18 Household Final Consumption Expenditure 7,700,707 7,865,407 8,304,881 8,545,418 9,196,738 9,978,329 10,659,9",
+        "markdown_snippet": "TABLE 1.4 Rs Million Flows 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 F 2017-18 R 2018-19 P 2017-18 / 2016-17 2018-19/ 2017-18 Household Final Consumption Expenditure 7,700,707 7,865,407 8,304,881 8,545,418 9,196,738 9,978,329 10,659,9"
+      },
+      {
+        "source_file_name": "Supplement_2019_20.pdf",
+        "page": 157,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 10.1 NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX Numbers Year Middle Technical & Voca- Higher Sec/ Degree Univer- tional Institutions Inter Colleges Colleges sities Total Female Total Female Total Female Total Female Total",
+        "markdown_snippet": "TABLE 10.1 NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX Numbers Year Middle Technical & Voca- Higher Sec/ Degree Univer- tional Institutions Inter Colleges Colleges sities Total Female Total Female Total Female Total Female Total"
+      },
+      {
+        "source_file_name": "Supplement_2020_21.pdf",
+        "page": 7,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "(vii) 8.5 Economic Classification of Exports .............................................................................................. 123 8.6 Economic Classification of Imports .........................................................",
+        "markdown_snippet": "(vii) 8.5 Economic Classification of Exports .............................................................................................. 123 8.6 Economic Classification of Imports ........................................................."
+      },
+      {
+        "source_file_name": "Supplement_2021_22.pdf",
+        "page": 124,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 8.8 US $ Million Years Basmati Other Varieties Total Qty(ton) Value Qty(ton) Value Qty(ton) Value 2000-01 502,061 236.46 1,792,224 289.09 2,294,285 525.55 2001-02 550,033 257.97 1,134,265 190.26 1,684,298 448.23 2002-03 716,726 360.81",
+        "markdown_snippet": "TABLE 8.8 US $ Million Years Basmati Other Varieties Total Qty(ton) Value Qty(ton) Value Qty(ton) Value 2000-01 502,061 236.46 1,792,224 289.09 2,294,285 525.55 2001-02 550,033 257.97 1,134,265 190.26 1,684,298 448.23 2002-03 716,726 360.81"
+      },
+      {
+        "source_file_name": "Trade_And_Payments.pdf",
+        "page": 12,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2020-21 164 Table 8.4: Structure of Imports Particulars Units July-March Value in US$ million % Change in Value July-March Quantity % Change in Quantity 2019-20 2020-21 (P) 2019-20 2020-21 (P) C. Petroleum Group 6,4",
+        "markdown_snippet": "Pakistan Economic Survey 2020-21 164 Table 8.4: Structure of Imports Particulars Units July-March Value in US$ million % Change in Value July-March Quantity % Change in Quantity 2019-20 2020-21 (P) 2019-20 2020-21 (P) C. Petroleum Group 6,4"
+      },
+      {
+        "source_file_name": "Transport.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2020-21 262 it will provide an outlet for land-locked Central Asian Republics (CARs), Western China and Afghanistan. Port Operations and Renovation: In May 2013, the port’s Concessional Rights were transferred to a ",
+        "markdown_snippet": "Pakistan Economic Survey 2020-21 262 it will provide an outlet for land-locked Central Asian Republics (CARs), Western China and Afghanistan. Port Operations and Renovation: In May 2013, the port’s Concessional Rights were transferred to a "
+      }
+    ]
+  },
+  "placeholder_checks": {
+    "status": "INFO",
+    "total_omitted_picture_placeholders": 0,
+    "files": [],
+    "research_use_note": "Charts/images are not certified from Markdown and require separate PDF review before use in research claims."
+  },
+  "table_numeric_policy": {
+    "status": "NOT_CERTIFIED",
+    "policy": "Markdown is not certified for table, chart, numeric, row/column, total, ranking, or footnote fidelity.",
+    "required_follow_up": "Any numeric or table-derived claim must be verified against the source PDF and, where needed, rendered page evidence."
+  }
+}

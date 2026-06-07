@@ -1,0 +1,370 @@
+{
+  "generated_at_utc": "2026-06-07T08:05:23+00:00",
+  "overall_status": "PASS",
+  "structural_checks": {
+    "status": "PASS",
+    "issues": [],
+    "pdfs_found": 29,
+    "manifest_entries": 29,
+    "conversion_log_entries": 29,
+    "failed_conversions": 0,
+    "missing_outputs": [],
+    "zero_byte_outputs": [],
+    "hash_mismatches": [],
+    "page_marker_mismatches": []
+  },
+  "prose_fidelity_checks": {
+    "status": "PASS",
+    "seed": 20260607,
+    "sample_count": 29,
+    "status_counts": {
+      "PASS": 29
+    },
+    "samples": [
+      {
+        "source_file_name": "Agriculture.pdf",
+        "page": 25,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 2.5 YIELD PER HECTARE OF MAJOR AGRICULTURAL CROPS Kg/Hectare Fiscal Year Wheat Rice Sugarcane Maize Gram Cotton 2010-11 2,833 2,039 55,981 3,806 471 725 2011-12 2,714 2,396 55,196 3,991 282 815 2012-13 2,796 2,398 56,466 3,981 757 769",
+        "markdown_snippet": "**TABLE 2.5** ## **YIELD PER HECTARE OF MAJOR AGRICULTURAL CROPS** **Kg/Hectare** |**Fiscal Year**|**Wheat**|**Rice**|**Sugarcane**|**Maize**|**Gram**|**Cotton**| |---|---|---|---|---|---|---| |**2010-11**|**2,833**|**2,039**|**55,981**|**3"
+      },
+      {
+        "source_file_name": "Annex_1_Contingent.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9819,
+        "source_snippet": "287 Contingent liabilities are possible obligation that arises from past events and their existence will be confirmed only by the occurrence or non- occurrence of one or more uncertain future events, not wholly within the control of the Gov",
+        "markdown_snippet": "Annex-I ## ~~**Contin ent Liabilities g**~~ Contingent liabilities are possible obligation that arises from past events and their existence will be confirmed only by the occurrence or nonoccurrence of one or more uncertain future events, no"
+      },
+      {
+        "source_file_name": "Annex_2_Tax_Expenditure.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9626,
+        "source_snippet": "289 Tax expenditure has been estimated at Rs 3,879.2 billion. Detailed estimates are highlighted below: Income Tax Tax expenditure in respect of income tax has been reflected in Table 1: Table 1: Income Tax Expenditure Summary Rs million Go",
+        "markdown_snippet": "~~Annex-II~~ ~~**Tax Expenditure Report - 2024**~~ Tax expenditure has been estimated at Rs 3,879.2 billion. Detailed estimates are highlighted below: ## **Income Tax** Tax expenditure in respect of income tax has been reflected in Table 1:"
+      },
+      {
+        "source_file_name": "Annex_3_Qna.pdf",
+        "page": 2,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2023-24 292 Additionally, some industries have neither quarterly nor annual indicators available. These industries are compiled annually based on fixed growth assumptions. The value addition for these industries is ",
+        "markdown_snippet": "**Pakistan Economic Survey 2023-24** Additionally, some industries have neither quarterly nor annual indicators available. These industries are compiled annually based on fixed growth assumptions. The value addition for these industries is "
+      },
+      {
+        "source_file_name": "Capital_Markets.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.9944,
+        "source_snippet": "Pakistan Economic Survey 2023-24 94 6.1-c Trend in Global Equity Markets The performance of major world stock markets for the first nine months of FY2024 is depicted in Figure 6.4, all markets revealed a positive trend except the Shanghai S",
+        "markdown_snippet": "**Pakistan Economic Survey 2023-24** ## **6.1-c Trend in Global Equity Markets** The performance of major world stock markets for the first nine months of FY2024 is depicted in Figure 6.4, all markets revealed a positive trend except the Sh"
+      },
+      {
+        "source_file_name": "Climate_Change.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9958,
+        "source_snippet": "275 Climate change is one of the most significant environmental challenges facing the world. Greenhouse gas (GHG) emissions resulting from human activities, particularly fossil fuel consumption and deforestation, have increased the concentr",
+        "markdown_snippet": "Chapter 17 ~~**Climate Chan e g**~~ Climate change is one of the most significant environmental challenges facing the world. Greenhouse gas (GHG) emissions resulting from human activities, particularly fossil fuel consumption and deforestat"
+      },
+      {
+        "source_file_name": "Economic_Survey_2023_24.pdf",
+        "page": 255,
+        "status": "PASS",
+        "token_overlap": 0.9849,
+        "source_snippet": "Transport and Communications 225 Table 13.6: Licensing Status Nos. Category Till 31st March, 2024 July-March 2023-24 Satellite TV Licenses Issued: 140 6 i. News & Current Affairs 37 1 ii. Entertainment 52 2 iii. Regional Languages 24 1 iv. ",
+        "markdown_snippet": "**Transport and Communications** |**Table 13.6: Licensing Status**|**Table 13.6: Licensing Status**|Nos.| |---|---|---| |**Category**|**Till 31st**<br>**March, 2024**|**July-March**<br>**2023-24**| |Satellite TV Licenses Issued:|140|6| |i.<"
+      },
+      {
+        "source_file_name": "Education.pdf",
+        "page": 13,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Education 175 have been planned for completion, out of which the funding for 12 projects has already been completed. ii. Human Resource Development As per bilateral agreements with different countries, the number of scholarships for Pakista",
+        "markdown_snippet": "**Education** have been planned for completion, out of which the funding for 12 projects has already been completed. ## **ii. Human Resource Development** As per bilateral agreements with different countries, the number of scholarships for "
+      },
+      {
+        "source_file_name": "Energy.pdf",
+        "page": 10,
+        "status": "PASS",
+        "token_overlap": 0.9922,
+        "source_snippet": "Pakistan Economic Survey 2023-24 240 Table 14.11: Sector-wise Consumption of Coal 000 metric tonnes Sector FY2024(July-March) Share (%) Power 11,906.70 68.91 Brick Kilns 2,572.26 14.89 Cement/Others 2,800.00 16.20 Household - - Total 17,278",
+        "markdown_snippet": "## **Pakistan Economic Survey 2023-24** |**Table 14.11: Sector-wise Consumption of Coal**<br>000 metric tonnes|**Table 14.11: Sector-wise Consumption of Coal**<br>000 metric tonnes|**Table 14.11: Sector-wise Consumption of Coal**<br>000 met"
+      },
+      {
+        "source_file_name": "Fiscal_Development.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Fiscal Development 59 Higher receipts from the petroleum levy have driven substantial growth in the non-tax collection due to a gradual increase in PDL from Rs 10 (July 2022) to Rs 50 per liter (November,2022). As a result of this adjustmen",
+        "markdown_snippet": "**Fiscal Development** Higher receipts from the petroleum levy have driven substantial growth in the non-tax collection due to a gradual increase in PDL from Rs 10 (July 2022) to Rs 50 per liter (November,2022). As a result of this adjustme"
+      },
+      {
+        "source_file_name": "Growth.pdf",
+        "page": 6,
+        "status": "PASS",
+        "token_overlap": 0.9962,
+        "source_snippet": "Pakistan Economic Survey 2023-24 8 sharp decline of -15.75 percent in Q3, mainly due to falls in cement (-15.42 percent) and iron & steel production (-2.83 percent). Services-Quarterly Growth After consecutive negative growth in Q3 and Q4 o",
+        "markdown_snippet": "## **Pakistan Economic Survey 2023-24** sharp decline of -15.75 percent in Q3, mainly due to falls in cement (-15.42 percent) and iron & steel production (-2.83 percent). **==> picture [218 x 196] intentionally omitted <==** **----- Start o"
+      },
+      {
+        "source_file_name": "Health.pdf",
+        "page": 14,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2023-24 196 Concluding Remarks Pakistan has made significant progress in promoting health and well-being by improving healthcare infrastructure and investing in preventive medicine. Efforts have been made to reduce ",
+        "markdown_snippet": "## **Pakistan Economic Survey 2023-24** ## **Concluding Remarks** Pakistan has made significant progress in promoting health and well-being by improving healthcare infrastructure and investing in preventive medicine. Efforts have been made "
+      },
+      {
+        "source_file_name": "Highlights.pdf",
+        "page": 25,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "■ SPI inflation stood at 28.7 percent during July-May, FY 2024 against 32.8 percent last year. ■ The government is taking various administrative, policy and relief measures to control the inflationary pressure. ■ Despite the Middle East con",
+        "markdown_snippet": "- SPI inflation stood at 28.7 percent during July-May, FY 2024 against 32.8 percent last year. - The government is taking various administrative, policy and relief measures to control the inflationary pressure. - Despite the Middle East con"
+      },
+      {
+        "source_file_name": "Inflation.pdf",
+        "page": 16,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 7.1 (B) PRICE INDICES (HEADLINE & CORE INFLATION) Year General Food Non-Food Core General Food Non-Food Core 2010-11 146.45 164.10 135.87 131.03 13.66 18.02 10.71 9.38 2011-12 162.57 182.20 150.81 144.78 11.01 11.03 11.00 10.49 2012-1",
+        "markdown_snippet": "## **TABLE 7.1 (B)** ## **PRICE INDICES (HEADLINE & CORE INFLATION)** |**Year**<br>**2010-11**<br>**2011-12**<br>**2012-13**<br>**2013-14**<br>**2014-15**<br>**2015-16**<br>**2016-17**<br>**2017-18**<br>**2018-19**|**General**<br>**Food**<b"
+      },
+      {
+        "source_file_name": "Information_Technology.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 0.9966,
+        "source_snippet": "Pakistan Economic Survey 2023-24 250 of 1.5 percent on GDP. The telecom industry in Pakistan has undergone significant transformations in recent years, thanks to the development of 3G and 4G services and the regulator’s commitment to enable",
+        "markdown_snippet": "**Pakistan Economic Survey 2023-24** ## of 1.5 percent on GDP. The telecom industry in Pakistan has undergone significant transformations in recent years, thanks to the development of 3G and 4G services and the regulator’s commitment to ena"
+      },
+      {
+        "source_file_name": "Manufacturing_And_Mining.pdf",
+        "page": 21,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 3.6 PERCENT GROWTH OF SELECTED INDUSTRIAL ITEMS (in %) Cotton Cotton Jute Caustic Yarn Cloth Goods Soda 2010-11 5.46 1.08 (12.30) 1.57 0.17 (8.88) (8.43) (7.70) (5.62) 32.62 2011-12 0.52 0.30 0.98 1.01 (5.27) 0.08 2.93 (1.93) 4.11 11.",
+        "markdown_snippet": "## **TABLE 3.6** ## **PERCENT GROWTH OF SELECTED INDUSTRIAL ITEMS** **(in %)** ||||||||||||**(in %)**| |---|---|---|---|---|---|---|---|---|---|---|---| |||**Cotton**|**Cotton**|**Jute**||||||**Caustic**|| |Year|||||**Veg.Ghee**|**Cigarette"
+      },
+      {
+        "source_file_name": "Money_And_Credit.pdf",
+        "page": 18,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 5.2 CAUSATIVE FACTORS ASSOCIATED WITH BROAD MONEY (M2) Rs million 2024 (Mar) 1 (i + ii + iii) 12,336,664 14,547,233 16,265,119 19,622,850 23,723,097 27,546,562 i. Net Budgetary Support 11,596,468 13,748,309 15,373,463 18,506,467 22,25",
+        "markdown_snippet": "## **TABLE 5.2** ## **CAUSATIVE FACTORS ASSOCIATED WITH BROAD MONEY (M2)** ||**Rs million**| |---|---| ||**2024**<br>**(Mar)**<br>**2019**<br>**2020**<br>**2023**<br>**2021**<br>**2022**| |**1**<br>**(i + ii + iii)**<br>**i.**<br>**Net Budg"
+      },
+      {
+        "source_file_name": "Overview_2023_24.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2023-24 iv implementing structural reforms to achieve stronger, more inclusive, and sustainable growth. The performance of the government in revenue collection and disciplined federal expenditure control facilitated",
+        "markdown_snippet": "**Pakistan Economic Survey 2023-24** implementing structural reforms to achieve stronger, more inclusive, and sustainable growth. The performance of the government in revenue collection and disciplined federal expenditure control facilitate"
+      },
+      {
+        "source_file_name": "Population.pdf",
+        "page": 26,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 12.12 In percentage Major Industry Division Pakistan Punjab Sindh Balochistan Total Rural Urban Total Rural Urban Total Rural Urban Total Rural Urban Total Rural Urban Total 100.0 68.0 32.0 58.1 39.9 18.2 22.8 12.3 10.5 14.0 11.9 2.1 ",
+        "markdown_snippet": "## **TABLE 12.12 PERCENTAGE DISTRIBUTION OF EMPLOYED PERSONS OF 10 YEARS AGE AND ABOVE BY MAJOR INDUSTRY 2020-21** ||||||**In percentage**| |---|---|---|---|---|---| |**Major Industry Division**|**Pakistan**<br>**Total**<br>**Rural**<br>**U"
+      },
+      {
+        "source_file_name": "Public_Debt.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.9962,
+        "source_snippet": "Pakistan Economic Survey 2023-24 152 9.4 Servicing of Public Debt Interest expense was recorded at Rs 5,517 billion during the first nine months of the current fiscal year against its annual budgeted estimate of Rs 7,302 billion. Interest e",
+        "markdown_snippet": "## **Pakistan Economic Survey 2023-24** on domestic debt in same period of preceding year. The main reasons for increase is due to high cost of borrowing on new domestic debt and resetting of existing floating rate debt at higher rates (aro"
+      },
+      {
+        "source_file_name": "Social_Indicators.pdf",
+        "page": 6,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "SOCIAL INDICATORS 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 2021-22 2022-23 2023-24 F R (Jul-Mar) P 0.3 1.1 -3.9 -8.8 0.1 12.6 -2.1 -7.1 13.7 26.7 -14.2 9.3 -0.6 3.8 -0.8 -0.6 16.7 16.0 -6.8 -15.9 24.3 31.8 -26",
+        "markdown_snippet": "## **SOCIAL INDICATORS** |**2012-13**|**2013-14**|**2014-15 **|**2015-16 **|**2016-17 **|**2017-18**|**2018-19**|**2019-20**|**2020-21**|**2021-22**|**2022-23**|**2023-24**|| |---|---|---|---|---|---|---|---|---|---|---|---|---| ||||||||||*"
+      },
+      {
+        "source_file_name": "Social_Protection.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.9979,
+        "source_snippet": "Pakistan Economic Survey 2023-24 260 Table 16.2: PRSP Budgetary Expenditures by Sector Rs million Sectors 2018-19 2019-20 2020-21 2021-22 2022-23* Population Planning 14,328 11,381 11,257 17,968 16,925 Social Security & Welfare** 173,443 28",
+        "markdown_snippet": "**Pakistan Economic Survey 2023-24** |**Table 16.2: PRSP Budgetary Expenditures by Sector**<br>Rs million|**Table 16.2: PRSP Budgetary Expenditures by Sector**<br>Rs million|**Table 16.2: PRSP Budgetary Expenditures by Sector**<br>Rs millio"
+      },
+      {
+        "source_file_name": "Supplement_2017_18.pdf",
+        "page": 155,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 10.1 NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX Numbers Year Middle Technical & Voca- Higher Sec/ Degree Univer- tional Institutions Inter Colleges Colleges sities Total Female Total Female Total Female Total Female Total",
+        "markdown_snippet": "## **TABLE 10.1** ## **NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX** **==> picture [453 x 291] intentionally omitted <==** **----- Start of picture text -----**<br> Numbers<br>Year Primary* Middle High Technical & Voca- Higher S"
+      },
+      {
+        "source_file_name": "Supplement_2018_19.pdf",
+        "page": 151,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 9.6 GRANT ASSISTANCE AGREEMENTS SIGNED ($ Million) 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 I. Paris Club Countries 1. Australia - - - - - - - - - 2. Austria - - - - - - - - - 3. Canada - - - - - - - - -",
+        "markdown_snippet": "**TABLE 9.6** **GRANT ASSISTANCE AGREEMENTS SIGNED** **==> picture [462 x 571] intentionally omitted <==** **----- Start of picture text -----**<br> ($ Million)<br>2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19<br>I"
+      },
+      {
+        "source_file_name": "Supplement_2019_20.pdf",
+        "page": 185,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 13.5 PAKISTAN INTERNATIONAL AIRLINES CORPORATION-Operational Year PIA Fleet Available Route Passenger Available Operating No. of Seat Kms. Load Tonne Expenses Planes (Million Kms.) Factor (Million Kms.) (Million % Rs.) 2000* 45 18,692",
+        "markdown_snippet": "**TABLE 13.5** **PAKISTAN INTERNATIONAL AIRLINES CORPORATION-Operational** |**Year**|**PIA Fleet**|**Available**|**Route**|**Passenger**|**Available**|**Operating**| |---|---|---|---|---|---|---| ||**No. of**|**Seat**|**Kms.**|**Load**|**To"
+      },
+      {
+        "source_file_name": "Supplement_2020_21.pdf",
+        "page": 20,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 1.4 Rs million Flows 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 F 2019-20 R 2020-21 P 2019-20/ 2018-19 2020-21/ 2019-20 Household Final Consumption Expenditure 8,304,881 8,545,418 9,196,738 9,978,329 10,598,522 10,922,533 10,470,",
+        "markdown_snippet": "**TABLE 1.4** **EXPENDITURE ON GROSS NATIONAL PRODUCT AT CONSTANT PRICES OF 2005-06** ||**Rs million**| |---|---| |**Flows**<br>**2013-14**<br>**2014-15**<br>**2015-16**<br>**2016-17**<br>**2017-18**<br>**2018-19**<br>**F**<br>**2019-20**<b"
+      },
+      {
+        "source_file_name": "Supplement_2021_22.pdf",
+        "page": 155,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 9.5 TERMS OF FOREIGN LOANS/CREDITS CONTRACTED BY PAKISTAN Amount Interest Rate Amortization Amount Interest Rate/ Amortization $ Million Commission (%) years $ Million Commission(%) years A. Paris Club Countries 1. Germany 32.1 Fixed ",
+        "markdown_snippet": "## **TABLE 9.5** ## **TERMS OF FOREIGN LOANS/CREDITS CONTRACTED BY PAKISTAN** |**Lending Country/Agency**|**Lending Country/Agency**|**2020-21**|**2020-21**|**2020-21**||**2021-22**|**2021-22**|**2021-22**| |---|---|---|---|---|---|---|---|"
+      },
+      {
+        "source_file_name": "Trade_And_Payments.pdf",
+        "page": 2,
+        "status": "PASS",
+        "token_overlap": 0.9655,
+        "source_snippet": "Pakistan Economic Survey 2023-24 124 at crucial maritime trade routes have decreased market capacity and increased freight charges, affecting global trade networks and economic stability. The growth pattern of global merchandise trade can b",
+        "markdown_snippet": "**Pakistan Economic Survey 2023-24** at crucial maritime trade routes have decreased market capacity and increased freight charges, affecting global trade networks and economic stability. The growth pattern of global merchandise trade can b"
+      },
+      {
+        "source_file_name": "Transport.pdf",
+        "page": 16,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 13.1 B RAILWAYS Fiscal Locomotives Freight Route Number of Freight Freight Gross Earnings Year (Nos.) Wagons (Km) Passengers carried Tonne (Rs. Million) (Nos.) carried (Million (Million (Million) Tonnes) Km) 2010-11 528 18,468 7,791 6",
+        "markdown_snippet": "## **TABLE 13.1 B** ## **RAILWAYS** |**Fiscal**|**Locomotives**|**Freight**|**Route**|**Number of**|**Freight**|**Freight**|**Gross Earnings**| |---|---|---|---|---|---|---|---| |**Year**|**(Nos.)**|**Wagons**|**(Km)**|**Passengers**|**carr"
+      }
+    ]
+  },
+  "placeholder_checks": {
+    "status": "INFO",
+    "total_omitted_picture_placeholders": 854,
+    "files": [
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Agriculture.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Annex_3_Qna.md",
+        "count": 7
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Capital_Markets.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Climate_Change.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Economic_Survey_2023_24.md",
+        "count": 192
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Education.md",
+        "count": 2
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Energy.md",
+        "count": 3
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Fiscal_Development.md",
+        "count": 17
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Growth.md",
+        "count": 11
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Health.md",
+        "count": 2
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Highlights.md",
+        "count": 94
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Inflation.md",
+        "count": 8
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Information_Technology.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Manufacturing_And_Mining.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Money_And_Credit.md",
+        "count": 9
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Population.md",
+        "count": 8
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Public_Debt.md",
+        "count": 9
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Social_Protection.md",
+        "count": 5
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Supplement_2017_18.md",
+        "count": 211
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Supplement_2018_19.md",
+        "count": 205
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Supplement_2019_20.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Supplement_2020_21.md",
+        "count": 11
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Supplement_2021_22.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Trade_And_Payments.md",
+        "count": 15
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2023-24_pymupdf4llm_hardened/converted_md/Transport.md",
+        "count": 3
+      }
+    ],
+    "research_use_note": "Charts/images are not certified from Markdown and require separate PDF review before use in research claims."
+  },
+  "table_numeric_policy": {
+    "status": "NOT_CERTIFIED",
+    "policy": "Markdown is not certified for table, chart, numeric, row/column, total, ranking, or footnote fidelity.",
+    "required_follow_up": "Any numeric or table-derived claim must be verified against the source PDF and, where needed, rendered page evidence."
+  }
+}
