@@ -1,0 +1,32 @@
+﻿{
+  "run_id": "2016-17_claims_pymupdf4llm_hardened_smoke",
+  "run_type": "smoke_test",
+  "source_section_run": "agentic/03_section_splitting/runs/2016-17_section_split_pymupdf4llm_hardened",
+  "source_sections_jsonl": "agentic/03_section_splitting/runs/2016-17_section_split_pymupdf4llm_hardened/sections.jsonl",
+  "source_year": "2016-17",
+  "schema_version": "commentary_schema_v0.1",
+  "schema_path": "agentic/archive/04_commentary_schema_discovery/schema/commentary_schema_v0.1.json",
+  "extraction_prompt": "agentic/04_claims_json/extraction_prompt.md",
+  "model": "claude-sonnet-4-6",
+  "execution_mode": "agent-assisted (in-session, no external API call)",
+  "smoke_test_scope": ["Agriculture.md", "Health.md", "Trade.md"],
+  "per_document_record_counts": {
+    "Agriculture.md": 32,
+    "Health.md": 20,
+    "Trade.md": 21
+  },
+  "total_record_count": 73,
+  "output_file": "smoke_test_claims.jsonl",
+  "output_sha256": "64d84a295b3a0ba382aaf4752a6ee583e57e583587355ddf4d5f5524ecba766e",
+  "validator_script": "agentic/04_claims_json/validate_claims.py",
+  "validation_result": "PASS",
+  "validation_errors": 0,
+  "validation_grounding_failures": 0,
+  "validation_warnings": 22,
+  "run_date": "2026-06-07",
+  "environment": {
+    "python_version": "3.14.5",
+    "os": "Windows 11"
+  },
+  "notes": "Smoke test covering 3 of 25 source files (Agriculture, Health, Trade). The 22 warnings are all expected coverage warnings for the 22 unextracted files in this scope. Full run will follow if adversarial review passes."
+}
