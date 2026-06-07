@@ -110,6 +110,10 @@ def structural_checks(repro_manifest: dict[str, Any], conversion_log: list[dict[
     missing_outputs: list[str] = []
     zero_byte_outputs: list[str] = []
     hash_mismatches: list[str] = []
+    log_hash_mismatches: list[str] = []
+    log_entries_by_output = {
+        item.get("output_md_path"): item for item in conversion_log if item.get("output_md_path")
+    }
 
     for entry in entries:
         output_path = PROJECT_ROOT / entry["output_md_path"]
@@ -123,8 +127,14 @@ def structural_checks(repro_manifest: dict[str, Any], conversion_log: list[dict[
             continue
         if output_path.stat().st_size == 0:
             zero_byte_outputs.append(output_key)
-        if sha256_file(output_path) != entry["output_sha256"]:
+        actual_output_sha256 = sha256_file(output_path)
+        if actual_output_sha256 != entry["output_sha256"]:
             hash_mismatches.append(output_key)
+        log_entry = log_entries_by_output.get(output_key)
+        if not log_entry:
+            issues.append(f"missing conversion log entry for output: {output_key}")
+        elif log_entry.get("success") and log_entry.get("output_sha256") != actual_output_sha256:
+            log_hash_mismatches.append(output_key)
 
         text = output_path.read_text(encoding="utf-8")
         marker_count = len(PAGE_MARKER_RE.findall(text))
@@ -141,6 +151,7 @@ def structural_checks(repro_manifest: dict[str, Any], conversion_log: list[dict[
     issues.extend(f"missing output: {item}" for item in missing_outputs)
     issues.extend(f"zero-byte output: {item}" for item in zero_byte_outputs)
     issues.extend(f"hash mismatch: {item}" for item in hash_mismatches)
+    issues.extend(f"conversion log output hash mismatch: {item}" for item in log_hash_mismatches)
     issues.extend(
         f"page marker mismatch: {item['output_md_path']}"
         for item in page_marker_mismatches
@@ -157,6 +168,7 @@ def structural_checks(repro_manifest: dict[str, Any], conversion_log: list[dict[
         "missing_outputs": missing_outputs,
         "zero_byte_outputs": zero_byte_outputs,
         "hash_mismatches": hash_mismatches,
+        "conversion_log_output_hash_mismatches": log_hash_mismatches,
         "page_marker_mismatches": page_marker_mismatches,
     }
 
@@ -258,6 +270,7 @@ def write_report(results: dict[str, Any]) -> None:
         f"- Missing outputs: `{len(structural['missing_outputs'])}`",
         f"- Zero-byte outputs: `{len(structural['zero_byte_outputs'])}`",
         f"- Hash mismatches: `{len(structural['hash_mismatches'])}`",
+        f"- Conversion log output hash mismatches: `{len(structural['conversion_log_output_hash_mismatches'])}`",
         "",
         "## Prose Fidelity",
         "",

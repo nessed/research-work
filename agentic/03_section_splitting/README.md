@@ -14,13 +14,12 @@ Raw PDF
 -> Database/table export
 ```
 
-This folder defines the section-splitting engine/spec only. It does not contain
-split output data.
+This folder contains the section-splitting spec and all run folders.
 
 ## Purpose
 
-The splitter should take a `converted_md/` folder from a reviewed PDF-to-MD run
-and produce smaller sections that preserve source grounding. Each section must
+The splitter takes a `converted_md/` folder from a reviewed PDF-to-MD run and
+produces smaller sections that preserve source grounding. Each section must
 retain the source year, source Markdown path, source PDF path, sector, heading,
 page span, text, and quality flags.
 
@@ -28,21 +27,36 @@ Section splitting must not create claims, summaries, interpretations, or
 database-ready facts. It only prepares source-tagged text units for later claim
 extraction.
 
-## Current Status
+## Runs
 
-- Spec only.
-- No data has been processed.
-- No run folder exists yet.
-- No `sections.jsonl` exists yet.
-- Raw PDFs and converted Markdown files are not modified.
+Run folders live under:
+
+```text
+agentic/03_section_splitting/runs/<year>_<tool>_<label>/
+```
+
+Each run folder must contain:
+
+- `sections.jsonl` — one JSON object per source-tagged section
+- `section_manifest.json` — inputs, outputs, counts, hashes, environment
+- `section_split_report.md` — counts, warnings, skipped files, QA summary
+- `how_to_reproduce.md` — exact input folder, script command, QA, result
+- `adv_review_prompt.md` — run-specific review prompt
+- `adv_review_results.md` — fresh-context reviewer findings
+
+Use `2016-17_section_split_pymupdf4llm_hardened` (PASS, 2,121 sections) as the
+template run.
 
 ## Files
 
 - `section_schema.json`
-  Defines the required output fields for each future section.
+  Defines the required output fields for each section.
 - `split_rules.md`
   Defines simple deterministic splitting rules.
 - `how_to_reproduce.md`
-  Explains how a future run should be executed and documented.
+  Stage-level execution guide; run-specific paths and commands live in each
+  run folder's own `how_to_reproduce.md`.
 - `adv_review_prompt.md`
-  Prompt for a future read-only adversarial reviewer.
+  Base review prompt for a fresh-context adversarial reviewer.
+- `runs/`
+  One subfolder per completed or in-progress section split run.

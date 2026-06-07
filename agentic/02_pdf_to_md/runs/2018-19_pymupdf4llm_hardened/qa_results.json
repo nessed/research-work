@@ -1,0 +1,362 @@
+{
+  "generated_at_utc": "2026-06-07T00:29:11+00:00",
+  "overall_status": "PASS",
+  "structural_checks": {
+    "status": "PASS",
+    "issues": [],
+    "pdfs_found": 27,
+    "manifest_entries": 27,
+    "conversion_log_entries": 27,
+    "failed_conversions": 0,
+    "missing_outputs": [],
+    "zero_byte_outputs": [],
+    "hash_mismatches": [],
+    "page_marker_mismatches": []
+  },
+  "prose_fidelity_checks": {
+    "status": "PASS",
+    "seed": 20260607,
+    "sample_count": 27,
+    "status_counts": {
+      "PASS": 27
+    },
+    "samples": [
+      {
+        "source_file_name": "Agriculture.pdf",
+        "page": 13,
+        "status": "PASS",
+        "token_overlap": 0.9902,
+        "source_snippet": "Agriculture 23 percent and 24.76 MAF, compared to 24.15 MAF during the same period last year. The province- wise details are shown in Table 2.16. Table 2.16: Canal Head Withdrawals (Below Rim Station) Million Acre Feet (MAF) Province Kharif",
+        "markdown_snippet": "**Agriculture** **==> picture [447 x 4] intentionally omitted <==** **==> picture [447 x 5] intentionally omitted <==** percent and 24.76 MAF, compared to 24.15 MAF during the same period last year. The provincewise details are shown in Tab"
+      },
+      {
+        "source_file_name": "Annex_I.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "ANNEXURE-I Contingent Liabilities Introduction Contingent liabilities are possible obligation that arises from past events and their existence will be confirmed only by the occurrence or nonoccurrence of one or more uncertain future events ",
+        "markdown_snippet": "## **ANNEXURE-I** ## Contingent Liabilities **==> picture [447 x 8] intentionally omitted <==** ## **Introduction** Contingent liabilities are possible obligation that arises from past events and their existence will be confirmed only by th"
+      },
+      {
+        "source_file_name": "Annex_Ii.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9824,
+        "source_snippet": "ANNEX-II Tax Expenditure Tax expenditure for FY2019 has been estimated at Rs.972.4 billion. Detailed estimates are highlighted below: Income Tax Tax expenditure in respect of direct taxes during FY2019 has been reflected in Table 1: Table-1",
+        "markdown_snippet": "## **ANNEX-II** ## Tax Expenditure **==> picture [447 x 8] intentionally omitted <==** Tax expenditure for FY2019 has been estimated at Rs.972.4 billion. Detailed estimates are highlighted below: ## **Income Tax** Tax expenditure in respect"
+      },
+      {
+        "source_file_name": "Captial_Markets.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 0.9886,
+        "source_snippet": "Pakistan Economic Survey 2018-19 94 Table 6.8: Equity Market Sr. Name of Company Book Building Date Retail Portion Subscription Date No. of Shares Offered (million) Offer Price /Strike price No. of Shares Subscribed (million) Times Subscrib",
+        "markdown_snippet": "**==> picture [447 x 4] intentionally omitted <==** ## **Pakistan Economic Survey 2018-19** **==> picture [447 x 5] intentionally omitted <==** **Table 6.8: Equity Market** |**Sr.**<br>1<br>2.|**Name of**<br>**Company**|**Book**<br>**Buildi"
+      },
+      {
+        "source_file_name": "Climate_Change.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.9937,
+        "source_snippet": "Pakistan Economic Survey 2018-19 262 Forests According to the Pakistan Forestry Outlook Study total area of forests in the country is 4.34 million ha (5.01 percent), out of which 3.44 million ha forests exist on state-owned lands and remain",
+        "markdown_snippet": "**Pakistan Economic Survey 2018-19** **==> picture [447 x 4] intentionally omitted <==** **==> picture [447 x 5] intentionally omitted <==** ## **Forests** According to the Pakistan Forestry Outlook Study total area of forests in the countr"
+      },
+      {
+        "source_file_name": "Economic_Indicators_1819.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "ECONOMIC AND 1960s 1970s 1980s 1990s 2000s 2005-06 2006-07 FINANCIAL SECTOR: GROWTH RATE (at constant fc) % GDP 6.8 4.8 6.5 4.6 4.5 5.6 5.5 Agriculture 5.1 2.4 5.4 4.4 2.8 1.3 3.4 Manufacturing 9.9 5.5 8.2 4.8 7.3 9.4 9.0 Commodity Producin",
+        "markdown_snippet": "## **ECONOMIC AND** **==> picture [404 x 557] intentionally omitted <==** **----- Start of picture text -----**<br> Base Year 2005-06<br>1960s 1970s 1980s 1990s 2000s 2005-06 2006-07<br>INDICATORS<br>Average (Annual)<br>FINANCIAL SECTOR:<br"
+      },
+      {
+        "source_file_name": "Economic_Survey_2018_19.pdf",
+        "page": 232,
+        "status": "PASS",
+        "token_overlap": 0.9964,
+        "source_snippet": "Pakistan Economic Survey 2018-19 200 Regional analysis of Unemployment Rate The unemployment situation in the region is comparatively better than in Pakistan except Iran. The unemployment statistics shows that Pakistan's unemployment rate a",
+        "markdown_snippet": "**Pakistan Economic Survey 2018-19** **==> picture [447 x 4] intentionally omitted <==** **==> picture [447 x 5] intentionally omitted <==** ## **Regional analysis of Unemployment Rate** The unemployment situation in the region is comparati"
+      },
+      {
+        "source_file_name": "Education.pdf",
+        "page": 7,
+        "status": "PASS",
+        "token_overlap": 0.9961,
+        "source_snippet": "Education 163 Development Programs 2018-19 Federal Public Sector Development Program (PSDP) The Federal Public Sector Development Program 2018-19 has allocated an amount of Rs 3.14 billion for 6 on-going and 3 new projects of the Ministry o",
+        "markdown_snippet": "**Education** **==> picture [447 x 4] intentionally omitted <==** **==> picture [447 x 5] intentionally omitted <==** ## **Development Programs 2018-19** ## **Federal Public Sector Development Program (PSDP)** The Federal Public Sector Deve"
+      },
+      {
+        "source_file_name": "Energy.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Energy 237 due to increase in its tariff. The increase in the share of industry in electricity consumption is a positive sign showing revival of industry which was suffering earlier due to load shedding. The comparison between consumption p",
+        "markdown_snippet": "**Energy** **==> picture [447 x 4] intentionally omitted <==** **==> picture [447 x 5] intentionally omitted <==** due to increase in its tariff. The increase in the share of industry in electricity consumption is a positive sign showing re"
+      },
+      {
+        "source_file_name": "Fiscal_Development.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 0.996,
+        "source_snippet": "Fiscal Development 55 The budget deficit of Rs 2,260.4 billion financed from both domestic and external sources. Government borrowed Rs 785.2 billion (34.7 percent of budget deficit) from external sources. While, Rs 1,475.2 billion or (65.3",
+        "markdown_snippet": "**Fiscal Development** **==> picture [447 x 4] intentionally omitted <==** **==> picture [447 x 5] intentionally omitted <==** The budget deficit of Rs 2,260.4 billion financed from both domestic and external sources. Government borrowed Rs"
+      },
+      {
+        "source_file_name": "Growth.pdf",
+        "page": 3,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Growth and Investment 3 markets in the spring of 2018 and then in advanced economies later in the year, weighing on global demand. According to World Bank report January 2019, “Global Economic Perspective”, South Asia growth is expected to ",
+        "markdown_snippet": "**Growth and Investment** **==> picture [447 x 4] intentionally omitted <==** **==> picture [447 x 5] intentionally omitted <==** markets in the spring of 2018 and then in advanced economies later in the year, weighing on global demand. Acc"
+      },
+      {
+        "source_file_name": "Health_And_Nutrition.pdf",
+        "page": 14,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2018-19 184 ii. Launch of Health Insurance Scheme (Sehat Sahulat Cards) The Government of Punjab is focusing to outreach marginalized segment of the society who are not able to meet expensive healthcare services fro",
+        "markdown_snippet": "**Pakistan Economic Survey 2018-19** **==> picture [447 x 4] intentionally omitted <==** **==> picture [447 x 5] intentionally omitted <==** ## **ii. Launch of Health Insurance Scheme (Sehat Sahulat Cards)** The Government of Punjab is focu"
+      },
+      {
+        "source_file_name": "Inflaton.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 0.9768,
+        "source_snippet": "Inflation 111 Table 7.5 : Wholesale Price Index Commodity Weights Jul-Apr (%) Point Contribution 2017-18 2018-19 2017-18 2018-19 Ores & Minerals, electricity gas & water 12.04 0.34 14.31 0.04 1.72 Food Products, Beverages and Tobacco, Texti",
+        "markdown_snippet": "**==> picture [447 x 4] intentionally omitted <==** ## **Inflation** **==> picture [447 x 5] intentionally omitted <==** |**Table 7.5 : Wholesale Price Index**|**Table 7.5 : Wholesale Price Index**||||| |---|---|---|---|---|---| |**Commodit"
+      },
+      {
+        "source_file_name": "Manufacturing.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2018-19 42 unleash when serious measures are taken on formulating and implementing Urban Transport Schemes in the cities by replacing the old and dilapidated buses, presently plying on the roads of most of metropoli",
+        "markdown_snippet": "**Pakistan Economic Survey 2018-19** **==> picture [447 x 4] intentionally omitted <==** **==> picture [447 x 5] intentionally omitted <==** unleash when serious measures are taken on formulating and implementing Urban Transport Schemes in "
+      },
+      {
+        "source_file_name": "Money_And_Credit.pdf",
+        "page": 16,
+        "status": "PASS",
+        "token_overlap": 0.9848,
+        "source_snippet": "Pakistan Economic Survey 2018-19 84 Table 5.16: Microfinance Banking Indicators Rs Billion Indicators Mar-18 Mar-19 Growth in (%) No. of Branches 916 1,087 18.67 Number of Borrowers 2,777,164 3,371,695 21.41 Gross Loan Portfolio 152 201.27 ",
+        "markdown_snippet": "**==> picture [447 x 4] intentionally omitted <==** ## **Pakistan Economic Survey 2018-19** **==> picture [447 x 5] intentionally omitted <==** |**Table 5.16: Microfinance Banking Indicators**<br>Rs Billion|**Table 5.16: Microfinance Bankin"
+      },
+      {
+        "source_file_name": "Overview_Of_The_Economy.pdf",
+        "page": 18,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2018-19 xviii imported to mitigate gas demand-supply shortfall. The average natural gas consumption was about 3,865 Million Cubic Feet per day (MMCFD) including 785 MMCFD volume of RLNG during July 2018 to February ",
+        "markdown_snippet": "**==> picture [447 x 4] intentionally omitted <==** ## **Pakistan Economic Survey 2018-19** **==> picture [447 x 5] intentionally omitted <==** imported to mitigate gas demand-supply shortfall. The average natural gas consumption was about "
+      },
+      {
+        "source_file_name": "Population.pdf",
+        "page": 2,
+        "status": "PASS",
+        "token_overlap": 0.9735,
+        "source_snippet": "Pakistan Economic Survey 2018-19 192 Conference on Population and Development (ICPD) beyond 2014 and Sustainable Development Goals (SDGs) of the 2030 Agenda. National Level Task Force for Population and Family Planning The federal governmen",
+        "markdown_snippet": "**Pakistan Economic Survey 2018-19** **==> picture [447 x 4] intentionally omitted <==** **==> picture [447 x 5] intentionally omitted <==** Conference on Population and Development (ICPD) beyond 2014 and Sustainable Development Goals (SDGs"
+      },
+      {
+        "source_file_name": "Public_Debt.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2018-19 140 Key Benefits to investors  Profit payments on semi-annual basis  Maturity in US Dollar as well as PKR  PKR maturity has an added incentive of 1 percent on the final premium  Can be encashed at any ti",
+        "markdown_snippet": "**==> picture [447 x 4] intentionally omitted <==** ## **Pakistan Economic Survey 2018-19** **==> picture [447 x 5] intentionally omitted <==** ## **Key Benefits to investors** - Profit payments on semi-annual basis - Maturity in US Dollar "
+      },
+      {
+        "source_file_name": "Social_Protection.pdf",
+        "page": 11,
+        "status": "PASS",
+        "token_overlap": 0.9771,
+        "source_snippet": "Social Protection 253 systems placed at various agents and mobile locations. With NADRA is actively pursuing cost reduction techniques, Banks have also been persuaded to perform customer verifications when opening new customer accounts. The",
+        "markdown_snippet": "**Social Protection** **==> picture [447 x 4] intentionally omitted <==** **==> picture [447 x 5] intentionally omitted <==** systems placed at various agents and mobile locations. With NADRA is actively pursuing cost reduction techniques, "
+      },
+      {
+        "source_file_name": "Statistical_Supplement.pdf",
+        "page": 31,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 2.1 INDEX OF AGRICULTURE PRODUCTION Years All Food Fibre Other Cash crops Fibre crops crops crops crops crops Wheat Maize Rice Surgcane Cotton 2000-01 93.0 91.2 95.5 94.0 - - - - - 2001-02 96.5 85.2 94.4 103.6 - - - - - 2002-03 104.0 ",
+        "markdown_snippet": "## **TABLE 2.1** ## **INDEX OF AGRICULTURE PRODUCTION** **==> picture [427 x 297] intentionally omitted <==** **----- Start of picture text -----**<br> Years 1999-2000 Base Year 2005-06 Base Year<br>All Food Fibre Other Food crops Cash crop"
+      },
+      {
+        "source_file_name": "Supplement_2017_18.pdf",
+        "page": 155,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 10.1 NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX Numbers Year Middle Technical & Voca- Higher Sec/ Degree Univer- tional Institutions Inter Colleges Colleges sities Total Female Total Female Total Female Total Female Total",
+        "markdown_snippet": "## **TABLE 10.1** ## **NUMBER OF EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX** **==> picture [453 x 291] intentionally omitted <==** **----- Start of picture text -----**<br> Numbers<br>Year Primary* Middle High Technical & Voca- Higher S"
+      },
+      {
+        "source_file_name": "Supplement_2018_19.pdf",
+        "page": 151,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 9.6 GRANT ASSISTANCE AGREEMENTS SIGNED ($ Million) 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 I. Paris Club Countries 1. Australia - - - - - - - - - 2. Austria - - - - - - - - - 3. Canada - - - - - - - - -",
+        "markdown_snippet": "**TABLE 9.6** **GRANT ASSISTANCE AGREEMENTS SIGNED** **==> picture [462 x 571] intentionally omitted <==** **----- Start of picture text -----**<br> ($ Million)<br>2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19<br>I"
+      },
+      {
+        "source_file_name": "Supplement_2019_20.pdf",
+        "page": 185,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 13.5 PAKISTAN INTERNATIONAL AIRLINES CORPORATION-Operational Year PIA Fleet Available Route Passenger Available Operating No. of Seat Kms. Load Tonne Expenses Planes (Million Kms.) Factor (Million Kms.) (Million % Rs.) 2000* 45 18,692",
+        "markdown_snippet": "**TABLE 13.5** **PAKISTAN INTERNATIONAL AIRLINES CORPORATION-Operational** |**Year**|**PIA Fleet**|**Available**|**Route**|**Passenger**|**Available**|**Operating**| |---|---|---|---|---|---|---| ||**No. of**|**Seat**|**Kms.**|**Load**|**To"
+      },
+      {
+        "source_file_name": "Supplement_2020_21.pdf",
+        "page": 20,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 1.4 Rs million Flows 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 F 2019-20 R 2020-21 P 2019-20/ 2018-19 2020-21/ 2019-20 Household Final Consumption Expenditure 8,304,881 8,545,418 9,196,738 9,978,329 10,598,522 10,922,533 10,470,",
+        "markdown_snippet": "**TABLE 1.4** **EXPENDITURE ON GROSS NATIONAL PRODUCT AT CONSTANT PRICES OF 2005-06** ||**Rs million**| |---|---| |**Flows**<br>**2013-14**<br>**2014-15**<br>**2015-16**<br>**2016-17**<br>**2017-18**<br>**2018-19**<br>**F**<br>**2019-20**<b"
+      },
+      {
+        "source_file_name": "Supplement_2021_22.pdf",
+        "page": 155,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 9.5 TERMS OF FOREIGN LOANS/CREDITS CONTRACTED BY PAKISTAN Amount Interest Rate Amortization Amount Interest Rate/ Amortization $ Million Commission (%) years $ Million Commission(%) years A. Paris Club Countries 1. Germany 32.1 Fixed ",
+        "markdown_snippet": "## **TABLE 9.5** ## **TERMS OF FOREIGN LOANS/CREDITS CONTRACTED BY PAKISTAN** |**Lending Country/Agency**|**Lending Country/Agency**|**2020-21**|**2020-21**|**2020-21**||**2021-22**|**2021-22**|**2021-22**| |---|---|---|---|---|---|---|---|"
+      },
+      {
+        "source_file_name": "Trade_And_Payments.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "CHAPTER 8 Trade and Payments According to World Economic Outlook global growth is expected to be moderate for the year 2019. Global trade during 2018 remained slow on account of decelerated export orders and global manufacturing activity, p",
+        "markdown_snippet": "**CHAPTER 8** ## Trade and Payments **==> picture [447 x 8] intentionally omitted <==** According to World Economic Outlook global growth is expected to be moderate for the year 2019. Global trade during 2018 remained slow on account of dec"
+      },
+      {
+        "source_file_name": "Transport.pdf",
+        "page": 15,
+        "status": "PASS",
+        "token_overlap": 0.9954,
+        "source_snippet": "Transport and Communication 217 irrespective of their originally subscribed networks. These will be first of their kind projects to offer this facility in Pakistan. In current fiscal year, USF has successfully launched a project to provide ",
+        "markdown_snippet": "**Transport and Communication** **==> picture [447 x 4] intentionally omitted <==** **==> picture [447 x 5] intentionally omitted <==** irrespective of their originally subscribed networks. These will be first of their kind projects to offe"
+      }
+    ]
+  },
+  "placeholder_checks": {
+    "status": "INFO",
+    "total_omitted_picture_placeholders": 2152,
+    "files": [
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Agriculture.md",
+        "count": 51
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Annex_I.md",
+        "count": 7
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Annex_Ii.md",
+        "count": 10
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Captial_Markets.md",
+        "count": 42
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Climate_Change.md",
+        "count": 22
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Economic_Indicators_1819.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Economic_Survey_2018_19.md",
+        "count": 832
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Education.md",
+        "count": 30
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Energy.md",
+        "count": 21
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Fiscal_Development.md",
+        "count": 40
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Growth.md",
+        "count": 22
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Health_And_Nutrition.md",
+        "count": 44
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Inflaton.md",
+        "count": 23
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Manufacturing.md",
+        "count": 32
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Money_And_Credit.md",
+        "count": 40
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Overview_Of_The_Economy.md",
+        "count": 37
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Population.md",
+        "count": 28
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Public_Debt.md",
+        "count": 49
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Social_Protection.md",
+        "count": 33
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Statistical_Supplement.md",
+        "count": 205
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Supplement_2017_18.md",
+        "count": 211
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Supplement_2018_19.md",
+        "count": 205
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Supplement_2019_20.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Supplement_2020_21.md",
+        "count": 11
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Supplement_2021_22.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Trade_And_Payments.md",
+        "count": 56
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Transport.md",
+        "count": 71
+      }
+    ],
+    "research_use_note": "Charts/images are not certified from Markdown and require separate PDF review before use in research claims."
+  },
+  "table_numeric_policy": {
+    "status": "NOT_CERTIFIED",
+    "policy": "Markdown is not certified for table, chart, numeric, row/column, total, ranking, or footnote fidelity.",
+    "required_follow_up": "Any numeric or table-derived claim must be verified against the source PDF and, where needed, rendered page evidence."
+  }
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Agriculture.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Agriculture.md",
+    "success": true,
+    "page_count": 23,
+    "converted_page_chunks": 23,
+    "error_message": null,
+    "output_bytes": 93823,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Annex_I.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Annex_I.md",
+    "success": true,
+    "page_count": 2,
+    "converted_page_chunks": 2,
+    "error_message": null,
+    "output_bytes": 5254,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Annex_Ii.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Annex_Ii.md",
+    "success": true,
+    "page_count": 3,
+    "converted_page_chunks": 3,
+    "error_message": null,
+    "output_bytes": 5787,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Captial_Markets.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Captial_Markets.md",
+    "success": true,
+    "page_count": 19,
+    "converted_page_chunks": 19,
+    "error_message": null,
+    "output_bytes": 65575,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Climate_Change.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Climate_Change.md",
+    "success": true,
+    "page_count": 11,
+    "converted_page_chunks": 11,
+    "error_message": null,
+    "output_bytes": 39409,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Economic_Indicators_1819.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Economic_Indicators_1819.md",
+    "success": true,
+    "page_count": 6,
+    "converted_page_chunks": 6,
+    "error_message": null,
+    "output_bytes": 14933,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Economic_Survey_2018_19.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Economic_Survey_2018_19.md",
+    "success": true,
+    "page_count": 503,
+    "converted_page_chunks": 503,
+    "error_message": null,
+    "output_bytes": 1445754,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Education.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Education.md",
+    "success": true,
+    "page_count": 14,
+    "converted_page_chunks": 14,
+    "error_message": null,
+    "output_bytes": 57430,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Energy.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Energy.md",
+    "success": true,
+    "page_count": 9,
+    "converted_page_chunks": 9,
+    "error_message": null,
+    "output_bytes": 30488,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Fiscal_Development.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Fiscal_Development.md",
+    "success": true,
+    "page_count": 17,
+    "converted_page_chunks": 17,
+    "error_message": null,
+    "output_bytes": 63749,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Growth.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Growth.md",
+    "success": true,
+    "page_count": 10,
+    "converted_page_chunks": 10,
+    "error_message": null,
+    "output_bytes": 39318,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Health_And_Nutrition.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Health_And_Nutrition.md",
+    "success": true,
+    "page_count": 19,
+    "converted_page_chunks": 19,
+    "error_message": null,
+    "output_bytes": 80537,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Inflaton.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Inflaton.md",
+    "success": true,
+    "page_count": 8,
+    "converted_page_chunks": 8,
+    "error_message": null,
+    "output_bytes": 21499,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Manufacturing.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Manufacturing.md",
+    "success": true,
+    "page_count": 15,
+    "converted_page_chunks": 15,
+    "error_message": null,
+    "output_bytes": 58746,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Money_And_Credit.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Money_And_Credit.md",
+    "success": true,
+    "page_count": 17,
+    "converted_page_chunks": 17,
+    "error_message": null,
+    "output_bytes": 69442,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Overview_Of_The_Economy.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Overview_Of_The_Economy.md",
+    "success": true,
+    "page_count": 19,
+    "converted_page_chunks": 19,
+    "error_message": null,
+    "output_bytes": 76083,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Population.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Population.md",
+    "success": true,
+    "page_count": 12,
+    "converted_page_chunks": 12,
+    "error_message": null,
+    "output_bytes": 41362,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Public_Debt.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Public_Debt.md",
+    "success": true,
+    "page_count": 19,
+    "converted_page_chunks": 19,
+    "error_message": null,
+    "output_bytes": 71108,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Social_Protection.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Social_Protection.md",
+    "success": true,
+    "page_count": 15,
+    "converted_page_chunks": 15,
+    "error_message": null,
+    "output_bytes": 59876,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Statistical_Supplement.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Statistical_Supplement.md",
+    "success": true,
+    "page_count": 208,
+    "converted_page_chunks": 208,
+    "error_message": null,
+    "output_bytes": 527605,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Supplement_2017_18.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Supplement_2017_18.md",
+    "success": true,
+    "page_count": 206,
+    "converted_page_chunks": 206,
+    "error_message": null,
+    "output_bytes": 468740,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Supplement_2018_19.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Supplement_2018_19.md",
+    "success": true,
+    "page_count": 208,
+    "converted_page_chunks": 208,
+    "error_message": null,
+    "output_bytes": 527605,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Supplement_2019_20.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Supplement_2019_20.md",
+    "success": true,
+    "page_count": 209,
+    "converted_page_chunks": 209,
+    "error_message": null,
+    "output_bytes": 730482,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Supplement_2020_21.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Supplement_2020_21.md",
+    "success": true,
+    "page_count": 216,
+    "converted_page_chunks": 216,
+    "error_message": null,
+    "output_bytes": 762419,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Supplement_2021_22.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Supplement_2021_22.md",
+    "success": true,
+    "page_count": 216,
+    "converted_page_chunks": 216,
+    "error_message": null,
+    "output_bytes": 794288,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Trade_And_Payments.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Trade_And_Payments.md",
+    "success": true,
+    "page_count": 22,
+    "converted_page_chunks": 22,
+    "error_message": null,
+    "output_bytes": 84778,
+    "reused_existing_output": true
+  },
+  {
+    "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2018-19/Transport.pdf",
+    "output_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Transport.md",
+    "success": true,
+    "page_count": 30,
+    "converted_page_chunks": 30,
+    "error_message": null,
+    "output_bytes": 97242,
+    "reused_existing_output": true
+  }
+]

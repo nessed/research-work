@@ -1,6 +1,6 @@
 {
   "task": "2016-17_section_split_pymupdf4llm_hardened",
-  "generated_at_utc": "2026-06-06T21:06:04+00:00",
+  "generated_at_utc": "2026-06-07T00:29:42+00:00",
   "project_root": "C:\\Users\\Ali\\Desktop\\datalab_ali",
   "input_pdf_to_md_run": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened",
   "input_repro_manifest": "agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/repro_manifest.json",
@@ -22,7 +22,7 @@
   },
   "git": {
     "branch": "main",
-    "commit": "e1a35c2862ae2164c9aad879686f1949c9af7622"
+    "commit": "2927124a0730ef205b7211c7300efae3fedbf2dc"
   },
   "input_entries": [
     {

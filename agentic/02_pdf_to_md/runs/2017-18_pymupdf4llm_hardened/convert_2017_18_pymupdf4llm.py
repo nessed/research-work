@@ -165,9 +165,10 @@ def main() -> int:
         except Exception as exc:
             entry["error_message"] = repr(exc)
 
+        output_sha256 = sha256_file(output_path) if output_path.exists() else None
+        entry["output_sha256"] = output_sha256
         conversion_log.append(entry)
 
-        output_sha256 = sha256_file(output_path) if output_path.exists() else None
         manifest_entries.append(
             {
                 "label": manifest_row.get("label"),

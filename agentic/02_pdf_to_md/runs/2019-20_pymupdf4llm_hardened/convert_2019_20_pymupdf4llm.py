@@ -92,7 +92,21 @@ def chunk_page_number(chunk: dict[str, Any], fallback: int) -> int:
     return fallback
 
 
-def markdown_with_page_markers(pdf_path: Path) -> tuple[str, int]:
+def chunk_text(chunk: Any) -> str:
+    if isinstance(chunk, dict):
+        return chunk.get("text") or ""
+    return str(chunk)
+
+
+def markdown_with_page_markers(pdf_path: Path, source_page_count: int) -> tuple[str, int]:
+    if source_page_count > 100:
+        sections: list[str] = []
+        with fitz.open(pdf_path) as doc:
+            for page_index in range(doc.page_count):
+                text = doc.load_page(page_index).get_text("text").strip()
+                sections.append(f"<!-- page {page_index + 1} -->\n\n{text}")
+        return "\n\n".join(sections).rstrip() + "\n", source_page_count
+
     chunks = pymupdf4llm.to_markdown(str(pdf_path), page_chunks=True)
     sections: list[str] = []
 
@@ -146,11 +160,13 @@ def main() -> int:
 
         try:
             source_page_count = page_count(pdf_path)
-            if args.reuse_existing and output_path.exists():
+            if args.reuse_existing and output_path.exists() and source_page_count <= 100:
                 chunk_count = page_marker_count(output_path)
             else:
                 print(f"converting {pdf_path.name}", flush=True)
-                markdown, chunk_count = markdown_with_page_markers(pdf_path)
+                markdown, chunk_count = markdown_with_page_markers(
+                    pdf_path, source_page_count
+                )
                 output_path.write_text(markdown, encoding="utf-8", newline="\n")
 
             entry.update(
@@ -160,10 +176,18 @@ def main() -> int:
                     "converted_page_chunks": chunk_count,
                     "output_bytes": output_path.stat().st_size,
                     "reused_existing_output": bool(args.reuse_existing),
+                    "conversion_method": "pymupdf_text_long_pdf_fallback"
+                    if source_page_count > 100
+                    else "pymupdf4llm_layout_page_chunks",
                 }
             )
         except Exception as exc:
             entry["error_message"] = repr(exc)
+
+        if entry["success"] and output_path.exists():
+            entry["output_sha256"] = sha256_file(output_path)
+        else:
+            entry["output_sha256"] = None
 
         conversion_log.append(entry)
 
@@ -200,6 +224,7 @@ def main() -> int:
         "pdf_selection_rule": "all *.pdf files directly inside source_dir, sorted case-insensitively by filename",
         "generation_mode": "reuse_existing_outputs" if args.reuse_existing else "full_conversion",
         "non_pdf_scope_note": "manifest.csv and processed_pdfs/ are outside conversion scope; only direct PDF files are converted.",
+        "long_pdf_conversion_note": "PDFs over 100 pages were converted page-by-page with PyMuPDF text extraction after PyMuPDF4LLM layout conversion exceeded practical runtime for the 516-page full survey PDF; tables/charts/numbers remain NOT_CERTIFIED.",
         "environment": {
             "python_executable": sys.executable,
             "python_version": sys.version,
