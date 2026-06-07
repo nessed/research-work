@@ -19,3 +19,4 @@ agentic/02_pdf_to_md/education_pdf_check_pages/
 Thumbs.db
 *.tmp
 *.log
+__pycache__/

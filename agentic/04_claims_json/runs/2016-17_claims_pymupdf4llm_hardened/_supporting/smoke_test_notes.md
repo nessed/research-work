@@ -1,4 +1,4 @@
-﻿# Smoke Test Notes — 2016-17 Claims Smoke Test
+# Smoke Test Notes — 2016-17 Claims Smoke Test
 
 Date: 2026-06-07
 Scope: Agriculture.md, Health.md, Trade.md

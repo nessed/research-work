@@ -1,4 +1,4 @@
-﻿# How to Reproduce — 2016-17 Claims Smoke Test
+# How to Reproduce — 2016-17 Claims Smoke Test
 
 Run: `2016-17_claims_pymupdf4llm_hardened` (smoke test)
 Date: 2026-06-07
@@ -33,11 +33,11 @@ Three source files extracted:
    - smoke_health_claims.jsonl (20 records, via gen_health_claims.py)
    - smoke_trade_claims.jsonl (21 records, direct in-session generation)
 
-3. Combine into smoke_test_claims.jsonl:
+3. Combine into final root claims.jsonl:
    python -c "
    import json
    files = ['smoke_agriculture_claims.jsonl','smoke_health_claims.jsonl','smoke_trade_claims.jsonl']
-   with open('smoke_test_claims.jsonl','w',encoding='utf-8') as out:
+   with open('../claims.jsonl','w',encoding='utf-8') as out:
        for fn in files:
            for line in open(fn,encoding='utf-8'):
                if line.strip(): out.write(line)
@@ -45,7 +45,7 @@ Three source files extracted:
 
 4. Validate:
    python agentic/04_claims_json/validate_claims.py \
-     --claims agentic/04_claims_json/runs/2016-17_claims_pymupdf4llm_hardened/smoke_test_claims.jsonl \
+     --claims agentic/04_claims_json/runs/2016-17_claims_pymupdf4llm_hardened/claims.jsonl \
      --sections agentic/03_section_splitting/runs/2016-17_section_split_pymupdf4llm_hardened/sections.jsonl
 
    Result: PASS (0 errors, 0 grounding failures, 22 expected coverage warnings)
@@ -58,4 +58,4 @@ Three source files extracted:
   75% word-overlap fallback for grounding.
 - Source quotes for two Health sections (EPI, Hepatitis) are slightly truncated because
   the section text was cut off at the section boundary (text_cutoff flag set).
-- SHA-256 of smoke_test_claims.jsonl: 64d84a295b3a0ba382aaf4752a6ee583e57e583587355ddf4d5f5524ecba766e
+- SHA-256 of root claims.jsonl: dd65e72b7f6dd39bc8b1e267c5b921e12324c111fef6ad9d6a4236fbce2f358e

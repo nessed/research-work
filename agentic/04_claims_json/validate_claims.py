@@ -1,8 +1,13 @@
-﻿"""
-QA validator for claims.jsonl output from step 04.
+"""
+QA validator for claims.jsonl output from step 04 (hardened gate).
 Usage:
     python validate_claims.py --claims <path/claims.jsonl> --sections <path/sections.jsonl>
 Exits 0 on clean, 1 on any validation failure.
+
+This script is the objective gate for step 04. It enforces exact frozen-schema-v0.1
+compliance so that any CLI agent (Claude Code / GPT Codex / Antigravity) producing
+claims is held to an identical standard. Do not rewrite this file inside a run; only
+run it.
 """
 
 import argparse
@@ -12,13 +17,24 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
-REQUIRED_FIELDS = [
-    "source_year", "source_file", "source_page", "evidence_type",
-    "source_quote", "claim_type", "claim", "confidence", "needs_human_review",
-    "numeric_or_table_sensitive", "requires_pdf_numeric_qa",
-    "topic_tags", "actors", "policy_or_programmes", "data_status_flags",
-    "comparison",
-]
+# Exact top-level key set from commentary_schema_v0.1 record_template (29 keys).
+SCHEMA_KEYS = {
+    "source_year", "source_file", "sector", "subsection", "source_page",
+    "source_table_or_figure", "evidence_type", "source_quote", "claim_type", "claim",
+    "indicator_or_subject", "topic_tags", "sentiment_signal", "time_orientation",
+    "actor", "actors", "policy_or_programme", "policy_or_programmes",
+    "constraint_or_risk", "cause", "effect", "comparison", "geography",
+    "data_status_flags", "numeric_or_table_sensitive", "requires_pdf_numeric_qa",
+    "markdown_quality_flags", "confidence", "needs_human_review",
+}
+
+# Exact comparison sub-object key set.
+COMPARISON_KEYS = {"dimension", "baseline", "comparator", "direction"}
+
+LIST_FIELDS = ("topic_tags", "actors", "policy_or_programmes", "data_status_flags",
+               "markdown_quality_flags")
+BOOL_FIELDS = ("numeric_or_table_sensitive", "requires_pdf_numeric_qa",
+               "needs_human_review")
 
 CLAIM_TYPES = {
     "sector_performance", "cause_effect", "policy_action", "commitment_or_plan",
@@ -50,6 +66,11 @@ DATA_STATUS_FLAGS = {
     "provisional", "revised", "final", "not_available", "estimated",
     "base_year_change", "definition_note", "rounding_note", "source_note",
     "projection_based", "survey_method_note",
+}
+
+MARKDOWN_QUALITY_FLAGS = {
+    "broken_words", "table_layout_noise", "figure_text", "page_order_noise",
+    "omitted_picture_placeholder", "low_confidence_heading",
 }
 
 
@@ -137,64 +158,74 @@ def validate(claims_path, sections_path):
     for line_no, rec in valid_rows:
         src = f"line {line_no} ({rec.get('source_file', '?')} p{rec.get('source_page', '?')})"
 
-        for field in REQUIRED_FIELDS:
-            if field not in rec:
-                errors.append(f"{src}: missing field '{field}'")
+        # Exact field set: no missing, no extra.
+        present = set(rec.keys())
+        for missing in SCHEMA_KEYS - present:
+            errors.append(f"{src}: missing field '{missing}'")
+        for extra in present - SCHEMA_KEYS:
+            errors.append(f"{src}: extra field '{extra}' not in schema v0.1")
 
         if rec.get("needs_human_review") is not True:
             errors.append(f"{src}: needs_human_review is not true (value: {rec.get('needs_human_review')!r})")
 
-        for bfield in ("numeric_or_table_sensitive", "requires_pdf_numeric_qa"):
+        for bfield in BOOL_FIELDS:
             if not isinstance(rec.get(bfield), bool):
                 errors.append(f"{src}: {bfield} must be boolean, got {type(rec.get(bfield)).__name__!r}")
 
-        for afield in ("topic_tags", "actors", "policy_or_programmes", "data_status_flags"):
+        for afield in LIST_FIELDS:
             if not isinstance(rec.get(afield), list):
                 errors.append(f"{src}: {afield} must be a list")
 
-        if not isinstance(rec.get("comparison"), dict):
+        # comparison: exact 4-key dict, valid direction.
+        comp = rec.get("comparison")
+        if not isinstance(comp, dict):
             errors.append(f"{src}: comparison must be a dict")
         else:
-            direction = rec["comparison"].get("direction", "")
+            comp_keys = set(comp.keys())
+            for missing in COMPARISON_KEYS - comp_keys:
+                errors.append(f"{src}: comparison missing key '{missing}'")
+            for extra in comp_keys - COMPARISON_KEYS:
+                errors.append(f"{src}: comparison has extra key '{extra}' not in schema v0.1")
+            direction = comp.get("direction", "")
             if direction not in COMPARISON_DIRECTIONS:
                 errors.append(f"{src}: comparison.direction '{direction}' not in controlled vocab")
 
+        # Controlled vocabularies.
         if rec.get("claim_type") not in CLAIM_TYPES:
             errors.append(f"{src}: claim_type '{rec.get('claim_type')}' not in controlled vocab")
-
         if rec.get("evidence_type") not in EVIDENCE_TYPES:
             errors.append(f"{src}: evidence_type '{rec.get('evidence_type')}' not in controlled vocab")
-
-        sentiment = rec.get("sentiment_signal", "")
-        if sentiment not in SENTIMENT_SIGNALS:
-            errors.append(f"{src}: sentiment_signal '{sentiment}' not in controlled vocab")
-
-        time_ori = rec.get("time_orientation", "")
-        if time_ori not in TIME_ORIENTATIONS:
-            errors.append(f"{src}: time_orientation '{time_ori}' not in controlled vocab")
-
+        if rec.get("sentiment_signal", "") not in SENTIMENT_SIGNALS:
+            errors.append(f"{src}: sentiment_signal '{rec.get('sentiment_signal')}' not in controlled vocab")
+        if rec.get("time_orientation", "") not in TIME_ORIENTATIONS:
+            errors.append(f"{src}: time_orientation '{rec.get('time_orientation')}' not in controlled vocab")
         if rec.get("confidence") not in CONFIDENCE_VALUES:
             errors.append(f"{src}: confidence '{rec.get('confidence')}' not in controlled vocab")
 
-        for flag in rec.get("data_status_flags", []):
-            if flag not in DATA_STATUS_FLAGS:
-                warnings.append(f"{src}: unknown data_status_flag '{flag}'")
+        if isinstance(rec.get("data_status_flags"), list):
+            for flag in rec["data_status_flags"]:
+                if flag not in DATA_STATUS_FLAGS:
+                    errors.append(f"{src}: data_status_flag '{flag}' not in controlled vocab")
 
-        if not rec.get("source_quote", "").strip():
+        if isinstance(rec.get("markdown_quality_flags"), list):
+            for flag in rec["markdown_quality_flags"]:
+                if flag not in MARKDOWN_QUALITY_FLAGS:
+                    errors.append(f"{src}: markdown_quality_flag '{flag}' not in controlled vocab")
+
+        if not str(rec.get("source_quote", "")).strip():
             errors.append(f"{src}: source_quote is empty")
-
-        if not rec.get("source_page", "").strip():
+        if not str(rec.get("source_page", "")).strip():
             errors.append(f"{src}: source_page is empty")
 
         if rec.get("numeric_or_table_sensitive") is True and rec.get("requires_pdf_numeric_qa") is not True:
             errors.append(f"{src}: numeric_or_table_sensitive=true but requires_pdf_numeric_qa is not true")
 
+        # Grounding.
         if section_index is not None:
             source_file = rec.get("source_file", "")
-            source_quote = rec.get("source_quote", "").strip()
+            source_quote = str(rec.get("source_quote", "")).strip()
             source_page_str = rec.get("source_page", "")
             sections_for_file = section_index.get(source_file, [])
-
             if source_file and source_quote and sections_for_file:
                 try:
                     source_page = int(source_page_str)
@@ -207,8 +238,7 @@ def validate(claims_path, sections_path):
                             f"{src}: source_page {source_page} not found in any section for {source_file}"
                         )
                     else:
-                        found = check_grounding(source_quote, matching)
-                        if not found:
+                        if not check_grounding(source_quote, matching):
                             grounding_failures.append(
                                 f"{src}: source_quote not found in sections for page {source_page}"
                             )
@@ -253,13 +283,12 @@ def validate(claims_path, sections_path):
     if not errors and not grounding_failures:
         print("\nRESULT: PASS")
         return 0
-    else:
-        print("\nRESULT: FAIL -- fix errors before downstream use")
-        return 1
+    print("\nRESULT: FAIL -- fix errors before downstream use")
+    return 1
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Validate claims.jsonl output")
+    parser = argparse.ArgumentParser(description="Validate claims.jsonl output (hardened gate)")
     parser.add_argument("--claims", required=True, help="Path to claims.jsonl")
     parser.add_argument("--sections", required=False, default=None,
                         help="Path to source sections.jsonl (for grounding checks)")

@@ -19,6 +19,7 @@ source page marker, and a short source quote from the Markdown.
   run under `agentic/03_section_splitting/runs/`.
 - Do not extract from unreviewed or in-progress section runs.
 - Original PDFs remain source truth. Markdown is a working text layer.
+- Do not touch, rewrite, move, or annotate raw PDFs during Step 04.
 - Table, chart, and numeric values from Markdown are not source truth unless
   separately QA'd against the PDFs.
 
@@ -44,6 +45,12 @@ Required fields per record: `source_year`, `source_file`, `sector`,
 
 Derived from the five-file random extraction pilot and stress tests in
 `agentic/archive/04_commentary_schema_discovery/`.
+
+Step 04 is a CLI-agent execution stage. It does not require an API client or
+API key. Process source documents internally one at a time, using each
+document's section records from the year-level `sections.jsonl`. Govern the run
+at the year level: one reviewed source-year input, one Step 04 run folder, one
+final root `claims.jsonl`.
 
 **Granularity**
 - Extract one record per distinct commentary claim, not one record per sentence.
@@ -86,19 +93,18 @@ agentic/04_claims_json/runs/<year>_<tool>_<label>/
 
 Each run folder must contain:
 
-- `claims.jsonl` — one JSON object per extracted claim record
-- `extraction_manifest.json` — input section run path, schema version used,
-  record count, output hashes, and run environment
-- `extraction_report.md` — counts, warnings, skipped sections, schema-fit notes,
-  and QA summary
-- `how_to_reproduce.md` — exact input path, script or prompt used, run settings,
-  and result
-- `adv_review_prompt.md` — run-specific review prompt
-- `adv_review_results.md` — fresh-context reviewer findings
+- `claims.jsonl` - the only final output at the run root; one JSON object per
+  extracted claim record.
+- `_supporting/` - all non-final run evidence, including the manifest, report,
+  how-to, review prompt/results, logs, helper scripts, notes, and intermediate
+  files.
+
+The run root must not contain intermediate claim files, logs, scripts, review
+paperwork, or prompt copies outside `_supporting/`.
 
 ## Required QA
 
-Every run must verify:
+The validator is the objective gate for Step 04. Every run must verify:
 
 - All required fields are present on every record.
 - `claim_type` values are from the controlled vocabulary in schema v0.1.
@@ -111,6 +117,9 @@ Every run must verify:
 - No fabricated values, no inferred numeric claims presented as source text, no
   database-ready normalized facts.
 
+Do not normalize, export, deduplicate into final fact tables, or start Step 05/06
+work in Step 04.
+
 ## Review Gate
 
 Before downstream use, a fresh-context read-only reviewer must verify:
@@ -122,6 +131,9 @@ Before downstream use, a fresh-context read-only reviewer must verify:
 - No fabricated or inferred claims presented as source quotes.
 - Extraction manifest, input path, schema version, and record counts reconcile.
 - `needs_human_review` is `true` on every record.
+
+Do not proceed downstream if the validator fails or the fresh-context review
+fails. Fix the Step 04 output first, then rerun validation and review.
 
 ## Run-Level Reproducibility
 

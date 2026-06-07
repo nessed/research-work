@@ -14,6 +14,9 @@ model versions, and results belong in each run folder's own `how_to_reproduce.md
   `agentic/archive/04_commentary_schema_discovery/schema/commentary_schema_v0.1.json`.
 - This stage's `extraction_prompt.md` (the single source of extraction rules).
 - `validate_claims.py` (this stage folder) for post-extraction QA.
+- Step 04 is CLI-agent execution only; no API client or API key is required.
+- Do not touch raw PDFs. The reviewed Step 03 `sections.jsonl` is the working
+  input; original PDFs remain source truth.
 
 ## Step 1 — Create the run folder
 
@@ -41,6 +44,8 @@ for p, n in sorted(paths.items()):
 
 This gives you the list of documents to process and their section counts.
 Record this list in the run's `extraction_manifest.json`.
+Govern the run per source year: one PASS-rated source-year `sections.jsonl`, one
+Step 04 run folder, and one final year-level `claims.jsonl`.
 
 ## Step 3 — Extract claims per document
 
@@ -53,6 +58,8 @@ For each `source_md_path`:
 4. Append each claim record as one line to `claims.jsonl` (newline-delimited JSON).
 
 Process documents one at a time. Do not batch multiple documents in one LLM call.
+Do not edit the frozen schema mid-run. If schema gaps appear, document them in
+the run report.
 
 ## Step 4 — QA
 
@@ -65,23 +72,29 @@ python agentic/04_claims_json/validate_claims.py \
     --sections agentic/03_section_splitting/runs/<run>/sections.jsonl
 ```
 
-Fix any validation errors and re-run until the script exits clean.
+Fix any validation errors and re-run until the script exits clean. The validator
+is the objective gate for Step 04.
 
 ## Step 5 — Write run evidence files
 
-Every run folder must contain:
+Every run folder must contain only the final `claims.jsonl` at the root and a
+`_supporting/` directory for all other run evidence:
 
-- `claims.jsonl` — one JSON object per claim record, newline-delimited.
-- `extraction_manifest.json` — input section run path, schema version used,
-  model name and version, per-document record counts, total record count,
+- `claims.jsonl` - one JSON object per claim record, newline-delimited.
+- `_supporting/extraction_manifest.json` - input section run path, schema version
+  used, model name and version, per-document record counts, total record count,
   SHA-256 hash of `claims.jsonl`, and run environment (OS, Python version, date).
-- `extraction_report.md` — per-document claim counts, skipped sections and
-  reasons, schema-fit notes (flagged future schema needs, not new fields),
-  QA summary, and overall pass/fail judgement.
-- `how_to_reproduce.md` — year, source section run path, schema version, exact
-  prompt file used, model, QA command and result, run date, caveats.
-- `adv_review_prompt.md` — run-specific fresh-context reviewer instructions.
-- `adv_review_results.md` — reviewer findings and PASS/FAIL verdict.
+- `_supporting/extraction_report.md` - per-document claim counts, skipped
+  sections and reasons, schema-fit notes (flagged future schema needs, not new
+  fields), QA summary, and overall pass/fail judgement.
+- `_supporting/how_to_reproduce.md` - year, source section run path, schema
+  version, exact prompt file used, model, QA command and result, run date,
+  caveats.
+- `_supporting/adv_review_prompt.md` - run-specific fresh-context reviewer
+  instructions.
+- `_supporting/adv_review_results.md` - reviewer findings and PASS/FAIL verdict.
+- `_supporting/` also contains logs, helper scripts, notes, prompt copies, and
+  intermediate files.
 
 ## Step 6 — Adversarial review
 
@@ -93,7 +106,8 @@ flagging, no fabricated quotes, and manifest/count reconciliation.
 ## Review gate
 
 Do not pass `claims.jsonl` to step 05 (normalize) until `adv_review_results.md`
-carries a PASS verdict.
+carries a PASS verdict and the validator exits clean. Do not normalize, export,
+or prepare Step 05/06 artifacts inside Step 04.
 
 ## Source truth
 
