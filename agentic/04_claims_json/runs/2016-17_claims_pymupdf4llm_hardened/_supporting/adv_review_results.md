@@ -1,4 +1,4 @@
-﻿# Adversarial Review Results — 2016-17 Claims Smoke Test
+# Adversarial Review Results — 2016-17 Claims Smoke Test
 
 Reviewer: Claude Sonnet 4.6 (fresh-context systematic verification)
 Date: 2026-06-07
@@ -15,8 +15,8 @@ All blocking checks passed. Residual risks are documented below but do not block
 ## 2. Evidence Checked
 
 **Manifest verification:**
-- SHA-256 of smoke_test_claims.jsonl computed and matched the value in extraction_manifest.json.
-  Expected: `64d84a295b3a0ba382aaf4752a6ee583e57e583587355ddf4d5f5524ecba766e` — confirmed.
+- SHA-256 of root `claims.jsonl` computed and matched the value in extraction_manifest.json.
+  Expected: `dd65e72b7f6dd39bc8b1e267c5b921e12324c111fef6ad9d6a4236fbce2f358e` - confirmed.
 - Line count: 73 records, matches manifest.
 - Schema version: commentary_schema_v0.1 as declared.
 - Input section run path: `agentic/03_section_splitting/runs/2016-17_section_split_pymupdf4llm_hardened` — path exists and is PASS-reviewed.

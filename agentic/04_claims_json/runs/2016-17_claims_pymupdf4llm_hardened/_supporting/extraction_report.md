@@ -1,4 +1,4 @@
-﻿# Extraction Report — 2016-17 Claims Smoke Test
+# Extraction Report — 2016-17 Claims Smoke Test
 
 Run: `2016-17_claims_pymupdf4llm_hardened` (smoke test scope)
 Date: 2026-06-07

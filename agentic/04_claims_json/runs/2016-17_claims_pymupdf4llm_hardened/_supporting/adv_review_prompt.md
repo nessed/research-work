@@ -1,4 +1,4 @@
-﻿# Adversarial Review Prompt — 2016-17 Claims Smoke Test
+# Adversarial Review Prompt — 2016-17 Claims Smoke Test
 
 You are a fresh-context reviewer. You have not seen the extraction run or the
 conversation that produced it. Your task: decide PASS or FAIL on this smoke test
@@ -6,7 +6,7 @@ output before it is used downstream.
 
 ## What to review
 
-- `smoke_test_claims.jsonl` — 73 claim records across 3 source files:
+- `../claims.jsonl` - final root output containing 73 claim records across 3 source files:
   Agriculture.md (32), Health.md (20), Trade.md (21).
 - `extraction_manifest.json` — run metadata and SHA-256 hash.
 - `extraction_report.md` — per-document counts, notes, QA summary.
@@ -16,8 +16,8 @@ output before it is used downstream.
 ## Checks
 
 ### 1. Manifest reconciliation
-- Does smoke_test_claims.jsonl line count = 73 (as stated in manifest)?
-- Does SHA-256 match? Expected: 64d84a295b3a0ba382aaf4752a6ee583e57e583587355ddf4d5f5524ecba766e
+- Does root `claims.jsonl` line count = 73 (as stated in manifest)?
+- Does SHA-256 match? Expected: dd65e72b7f6dd39bc8b1e267c5b921e12324c111fef6ad9d6a4236fbce2f358e
 - Does the schema version match commentary_schema_v0.1?
 
 ### 2. Required fields (sample 20+ records spread across all 3 files)

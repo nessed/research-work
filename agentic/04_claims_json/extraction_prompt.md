@@ -12,6 +12,11 @@ You will receive a batch of section records from a single PES Markdown document.
 Each record is one JSON object from `sections.jsonl`. Your job is to read each
 section's `text` field and extract structured commentary claims from it.
 
+Run this as a CLI-agent workflow. No API client or API key is required by this
+stage prompt. Process one source document internally at a time, then append that
+document's records to the year-level Step 04 run output. Govern completion per
+source year, not per individual file.
+
 Output one JSON object per distinct commentary claim. Do not output one record
 per sentence — one claim can span several sentences. Do not merge unrelated claims
 from different paragraphs into one record.
@@ -21,6 +26,8 @@ from different paragraphs into one record.
 ## Input format (one document's sections)
 
 Each input record has these fields (already computed — do not re-derive them):
+Do not touch raw PDFs while extracting claims. Use the reviewed Step 03 section
+records as the working input.
 
 ```
 section_id        unique ID for the source section
@@ -43,6 +50,7 @@ text              the Markdown section text to extract claims from
 
 Produce a JSON object matching this template exactly. Do not add new fields.
 Leave a field as `""`, `[]`, or `{}` if nothing explicit in the source supports it.
+Do not edit the frozen schema mid-run.
 
 ```json
 {
@@ -192,6 +200,12 @@ Leave a field as `""`, `[]`, or `{}` if nothing explicit in the source supports 
 Return a JSON array of claim records. Each element is one claim object matching the
 template above. Output valid JSON only — no prose commentary, no markdown fences,
 no trailing commas. One array per document batch.
+
+The final Step 04 run root contains only `claims.jsonl`; put the manifest,
+report, how-to, review files, logs, scripts, notes, and intermediate files under
+`_supporting/`. Validate `claims.jsonl` with `validate_claims.py`; the validator
+is the objective gate. Do not proceed if validation or review fails. Do not
+normalize, export, or prepare Step 05/06 outputs in this stage.
 
 Example minimal valid output:
 

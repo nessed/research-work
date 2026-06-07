@@ -1,4 +1,4 @@
-﻿{
+{
   "run_id": "2016-17_claims_pymupdf4llm_hardened_smoke",
   "run_type": "smoke_test",
   "source_section_run": "agentic/03_section_splitting/runs/2016-17_section_split_pymupdf4llm_hardened",
@@ -16,8 +16,8 @@
     "Trade.md": 21
   },
   "total_record_count": 73,
-  "output_file": "smoke_test_claims.jsonl",
-  "output_sha256": "64d84a295b3a0ba382aaf4752a6ee583e57e583587355ddf4d5f5524ecba766e",
+  "output_file": "claims.jsonl",
+  "output_sha256": "dd65e72b7f6dd39bc8b1e267c5b921e12324c111fef6ad9d6a4236fbce2f358e",
   "validator_script": "agentic/04_claims_json/validate_claims.py",
   "validation_result": "PASS",
   "validation_errors": 0,
@@ -28,5 +28,7 @@
     "python_version": "3.14.5",
     "os": "Windows 11"
   },
+  "folder_layout": "Output claims.jsonl at run root; all inputs, paperwork, scripts, and intermediates under _supporting/.",
+  "post_run_corrections": "2026-06-07: re-validated under hardened validate_claims.py. Fixed 41 records whose comparison object used a non-schema {comparator,direction,value} shape (now {dimension,baseline,comparator,direction}); fixed 38 records with off-vocab markdown_quality_flags (dropped numeric_dense_text and text_cutoff; mapped broken_word_artifact->broken_words). Output hash updated accordingly.",
   "notes": "Smoke test covering 3 of 25 source files (Agriculture, Health, Trade). The 22 warnings are all expected coverage warnings for the 22 unextracted files in this scope. Full run will follow if adversarial review passes."
 }
