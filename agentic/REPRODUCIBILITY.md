@@ -68,6 +68,7 @@ Run-level reproduction docs:
 
 - `agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/how_to_reproduce.md`
 - `agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened/how_to_reproduce.md`
+- `agentic/02_pdf_to_md/runs/2021-22_pymupdf4llm_hardened/how_to_reproduce.md`
 
 Rule:
 
@@ -85,6 +86,14 @@ Important path note:
 
 - `processed_pdfs/` is not an active destination.
 - Active derived PDF-to-Markdown outputs live under `agentic/02_pdf_to_md/runs/`.
+
+Latest completed run:
+
+- `agentic/02_pdf_to_md/runs/2021-22_pymupdf4llm_hardened/`
+  Result: PASS after adversarial review. 28 direct PDFs converted; table,
+  chart, numeric, ranking, and footnote content remains NOT_CERTIFIED. The run
+  discloses PyMuPDF text extraction because `pymupdf4llm` attempts timed out on
+  the 548-page combined survey PDF in this environment.
 
 ## Step 03: Sections
 
@@ -209,4 +218,3 @@ The active pipeline outline is:
 ```text
 PDF -> MD -> Sections -> Claims JSON -> Normalize -> Export
 ```
-

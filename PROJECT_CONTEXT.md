@@ -62,11 +62,11 @@ This section is changeable. Overwrite it only after major task milestones, not a
 Current live state:
 
 - Active pipeline outline: PDF -> MD -> Sections -> Claims JSON -> Normalize -> Export.
-- Current major task: 2018-19 Step 02 PDF-to-MD and Step 03 section splitting are completed and reviewed; continue from reviewed section outputs into controlled Claims JSON extraction when Ali asks.
+- Current major task: 2021-22 Step 02 PDF-to-MD is completed and reviewed; stop at Step 02 until Ali asks for the next stage.
 - Completed baseline: `agentic/01_pes_folder_map/`
 - Folder map output: `pes_folder_tree.json`
 - Folder map result: PASS / High confidence; 10 year folders, 287 PDFs, no filesystem count/path/size mismatches.
-- PDF-to-MD runs: retained under `agentic/02_pdf_to_md/runs/` with conversion/QA scripts, manifest/log evidence, and QA reports. Latest completed run: `2018-19_pymupdf4llm_hardened` PASS; 27 direct PDFs converted; table/chart/numeric content remains NOT_CERTIFIED.
+- PDF-to-MD runs: retained under `agentic/02_pdf_to_md/runs/` with conversion/QA scripts, manifest/log evidence, and QA reports. Latest completed run: `2021-22_pymupdf4llm_hardened` PASS; 28 direct PDFs converted; table/chart/numeric content remains NOT_CERTIFIED; completed with disclosed PyMuPDF text extraction after `pymupdf4llm` timeout on the 548-page combined survey PDF.
 - Section runs: retained under `agentic/03_section_splitting/runs/`; section manifests must record included and excluded inputs because folder year is not automatically source year. Latest completed run: `2018-19_section_split_pymupdf4llm_hardened` PASS after corrected scope; 2,736 sections from 22 included Markdown files; 5 files excluded (`Supplement_2017_18`, `Supplement_2019_20`, `Supplement_2020_21`, `Supplement_2021_22`, duplicate `Statistical_Supplement`).
 - Schema discovery/hardening work: `agentic/archive/04_commentary_schema_discovery/` is completed provenance for Claims JSON extraction, not an active recurring pipeline stage.
 - Raw PDFs were not modified.

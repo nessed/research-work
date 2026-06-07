@@ -92,7 +92,43 @@ def chunk_page_number(chunk: dict[str, Any], fallback: int) -> int:
     return fallback
 
 
+def markdown_for_single_page(pdf_path: Path, page_index: int) -> str:
+    chunks = pymupdf4llm.to_markdown(
+        str(pdf_path),
+        pages=[page_index],
+        page_chunks=True,
+    )
+    if isinstance(chunks, list):
+        if not chunks:
+            return ""
+        chunk = chunks[0]
+        if isinstance(chunk, dict):
+            return str(chunk.get("text") or "")
+        return str(chunk)
+    return str(chunks)
+
+
 def markdown_with_page_markers(pdf_path: Path) -> tuple[str, int]:
+    source_page_count = page_count(pdf_path)
+    sections: list[str] = []
+
+    for page_index in range(source_page_count):
+        text = markdown_for_single_page(pdf_path, page_index)
+        sections.append(f"<!-- page {page_index + 1} -->\n\n{text.strip()}")
+
+    return "\n\n".join(sections).rstrip() + "\n", source_page_count
+
+
+def markdown_with_pymupdf_text_page_markers(pdf_path: Path) -> tuple[str, int]:
+    sections: list[str] = []
+    with fitz.open(pdf_path) as doc:
+        for page_index in range(doc.page_count):
+            text = doc.load_page(page_index).get_text("text")
+            sections.append(f"<!-- page {page_index + 1} -->\n\n{text.strip()}")
+        return "\n\n".join(sections).rstrip() + "\n", doc.page_count
+
+
+def markdown_with_page_markers_legacy(pdf_path: Path) -> tuple[str, int]:
     chunks = pymupdf4llm.to_markdown(str(pdf_path), page_chunks=True)
     sections: list[str] = []
 
@@ -111,9 +147,13 @@ def markdown_with_page_markers(pdf_path: Path) -> tuple[str, int]:
     return text, 0
 
 
+def use_text_fallback(pdf_path: Path) -> bool:
+    return True
+
+
 def main() -> int:
     parser = ArgumentParser(
-        description="Convert PES 2020-21 PDFs with PyMuPDF4LLM and write reproducibility evidence."
+        description="Convert PES 2020-21 PDFs with hardened page-marked PyMuPDF text extraction and write reproducibility evidence."
     )
     parser.add_argument(
         "--reuse-existing",
@@ -148,9 +188,17 @@ def main() -> int:
             source_page_count = page_count(pdf_path)
             if args.reuse_existing and output_path.exists():
                 chunk_count = page_marker_count(output_path)
+                method = "reused_existing_output"
             else:
                 print(f"converting {pdf_path.name}", flush=True)
-                markdown, chunk_count = markdown_with_page_markers(pdf_path)
+                if use_text_fallback(pdf_path):
+                    markdown, chunk_count = markdown_with_pymupdf_text_page_markers(
+                        pdf_path
+                    )
+                    method = "pymupdf_text_hardened_fallback"
+                else:
+                    markdown, chunk_count = markdown_with_page_markers(pdf_path)
+                    method = "pymupdf4llm_page_by_page"
                 output_path.write_text(markdown, encoding="utf-8", newline="\n")
 
             entry.update(
@@ -158,6 +206,7 @@ def main() -> int:
                     "success": True,
                     "page_count": source_page_count,
                     "converted_page_chunks": chunk_count,
+                    "conversion_method": method,
                     "output_bytes": output_path.stat().st_size,
                     "reused_existing_output": bool(args.reuse_existing),
                 }
@@ -186,6 +235,7 @@ def main() -> int:
                 else None,
                 "output_sha256": output_sha256,
                 "conversion_success": entry["success"],
+                "conversion_method": entry.get("conversion_method"),
                 "error_message": entry["error_message"],
             }
         )
@@ -200,6 +250,7 @@ def main() -> int:
         "pdf_selection_rule": "all *.pdf files directly inside source_dir, sorted case-insensitively by filename",
         "generation_mode": "reuse_existing_outputs" if args.reuse_existing else "full_conversion",
         "non_pdf_scope_note": "manifest.csv is outside conversion scope; only direct PDF files are converted.",
+        "fallback_note": "All selected PDFs are converted with PyMuPDF plain text extraction after PyMuPDF4LLM terminated before final manifest/log creation on the large combined PDF and table-heavy annex/supplement files. Page markers, hashes, page counts, and prose QA still apply; Markdown remains working text only.",
         "environment": {
             "python_executable": sys.executable,
             "python_version": sys.version,

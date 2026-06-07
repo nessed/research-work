@@ -125,6 +125,60 @@ def markdown_with_page_markers(pdf_path: Path) -> tuple[str, int]:
     return text, 0
 
 
+def write_json(path: Path, data: Any) -> None:
+    path.write_text(
+        json.dumps(data, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+        newline="\n",
+    )
+
+
+def build_repro_manifest(
+    *,
+    args: Any,
+    pdf_paths: list[Path],
+    conversion_log: list[dict[str, Any]],
+    manifest_entries: list[dict[str, Any]],
+) -> dict[str, Any]:
+    return {
+        "task": "2022-23_pymupdf4llm_hardened",
+        "generated_at_utc": datetime.now(UTC).isoformat(timespec="seconds"),
+        "project_root": str(PROJECT_ROOT),
+        "source_dir": relative(SOURCE_DIR),
+        "source_manifest_csv": relative(SOURCE_MANIFEST_CSV)
+        if SOURCE_MANIFEST_CSV.exists()
+        else None,
+        "converted_dir": relative(CONVERTED_DIR),
+        "pdf_selection_rule": "all *.pdf files directly inside source_dir, sorted case-insensitively by filename",
+        "generation_mode": "reuse_existing_outputs" if args.reuse_existing else "full_conversion",
+        "only_filter": args.only,
+        "scope_guardrails": [
+            "Only direct child PDFs in the 2022-23 source folder were selected.",
+            "Raw PDFs were read only and were not moved, renamed, edited, deleted, normalized, or deduplicated.",
+            "Markdown is working text only; numeric/table/chart/ranking/footnote content is NOT_CERTIFIED unless separately QA'd against source PDFs.",
+        ],
+        "environment": {
+            "python_executable": sys.executable,
+            "python_version": sys.version,
+            "platform": platform.platform(),
+            "pymupdf": package_version("pymupdf"),
+            "pymupdf4llm": package_version("pymupdf4llm"),
+        },
+        "git": {
+            "branch": git_value(["branch", "--show-current"]),
+            "commit": git_value(["rev-parse", "HEAD"]),
+            "dirty": git_dirty(),
+        },
+        "totals": {
+            "pdfs_found": len(pdf_paths),
+            "converted": sum(1 for item in conversion_log if item["success"]),
+            "failures": sum(1 for item in conversion_log if not item["success"]),
+        },
+        "selected_pdfs": [path.name for path in pdf_paths],
+        "entries": manifest_entries,
+    }
+
+
 def main() -> int:
     parser = ArgumentParser(
         description="Convert PES 2022-23 PDFs with PyMuPDF4LLM and write reproducibility evidence."
@@ -134,6 +188,12 @@ def main() -> int:
         action="store_true",
         help="Do not reconvert Markdown files that already exist; generate logs/manifests from existing outputs.",
     )
+    parser.add_argument(
+        "--only",
+        action="append",
+        default=[],
+        help="Convert/log only the named PDF file. May be repeated for targeted retries.",
+    )
     args = parser.parse_args()
 
     if not SOURCE_DIR.exists():
@@ -142,6 +202,12 @@ def main() -> int:
     CONVERTED_DIR.mkdir(parents=True, exist_ok=True)
     source_manifest = load_source_manifest()
     pdf_paths = sorted(SOURCE_DIR.glob("*.pdf"), key=lambda path: path.name.lower())
+    if args.only:
+        requested = set(args.only)
+        pdf_paths = [path for path in pdf_paths if path.name in requested]
+        missing_requested = sorted(requested - {path.name for path in pdf_paths})
+        if missing_requested:
+            raise FileNotFoundError(f"--only PDF(s) not found: {missing_requested}")
 
     conversion_log: list[dict[str, Any]] = []
     manifest_entries: list[dict[str, Any]] = []
@@ -164,7 +230,8 @@ def main() -> int:
 
         try:
             source_page_count = page_count(pdf_path)
-            if args.reuse_existing and output_path.exists():
+            reused_existing_output = bool(args.reuse_existing and output_path.exists())
+            if reused_existing_output:
                 chunk_count = page_marker_count(output_path)
             else:
                 print(f"converting {pdf_path.name}", flush=True)
@@ -177,7 +244,7 @@ def main() -> int:
                     "page_count": source_page_count,
                     "converted_page_chunks": chunk_count,
                     "output_bytes": output_path.stat().st_size,
-                    "reused_existing_output": bool(args.reuse_existing and output_path.exists()),
+                    "reused_existing_output": reused_existing_output,
                 }
             )
         except Exception as exc:
@@ -209,54 +276,23 @@ def main() -> int:
                 "error_message": entry["error_message"],
             }
         )
+        repro_manifest = build_repro_manifest(
+            args=args,
+            pdf_paths=pdf_paths,
+            conversion_log=conversion_log,
+            manifest_entries=manifest_entries,
+        )
+        write_json(CONVERSION_LOG_PATH, conversion_log)
+        write_json(REPRO_MANIFEST_PATH, repro_manifest)
 
-    repro_manifest = {
-        "task": "2022-23_pymupdf4llm_hardened",
-        "generated_at_utc": datetime.now(UTC).isoformat(timespec="seconds"),
-        "project_root": str(PROJECT_ROOT),
-        "source_dir": relative(SOURCE_DIR),
-        "source_manifest_csv": relative(SOURCE_MANIFEST_CSV)
-        if SOURCE_MANIFEST_CSV.exists()
-        else None,
-        "converted_dir": relative(CONVERTED_DIR),
-        "pdf_selection_rule": "all *.pdf files directly inside source_dir, sorted case-insensitively by filename",
-        "generation_mode": "reuse_existing_outputs" if args.reuse_existing else "full_conversion",
-        "scope_guardrails": [
-            "Only direct child PDFs in the 2022-23 source folder were selected.",
-            "Raw PDFs were read only and were not moved, renamed, edited, deleted, normalized, or deduplicated.",
-            "Markdown is working text only; numeric/table/chart/ranking/footnote content is NOT_CERTIFIED unless separately QA'd against source PDFs.",
-        ],
-        "environment": {
-            "python_executable": sys.executable,
-            "python_version": sys.version,
-            "platform": platform.platform(),
-            "pymupdf": package_version("pymupdf"),
-            "pymupdf4llm": package_version("pymupdf4llm"),
-        },
-        "git": {
-            "branch": git_value(["branch", "--show-current"]),
-            "commit": git_value(["rev-parse", "HEAD"]),
-            "dirty": git_dirty(),
-        },
-        "totals": {
-            "pdfs_found": len(pdf_paths),
-            "converted": sum(1 for item in conversion_log if item["success"]),
-            "failures": sum(1 for item in conversion_log if not item["success"]),
-        },
-        "selected_pdfs": [path.name for path in pdf_paths],
-        "entries": manifest_entries,
-    }
-
-    CONVERSION_LOG_PATH.write_text(
-        json.dumps(conversion_log, indent=2, ensure_ascii=False),
-        encoding="utf-8",
-        newline="\n",
+    repro_manifest = build_repro_manifest(
+        args=args,
+        pdf_paths=pdf_paths,
+        conversion_log=conversion_log,
+        manifest_entries=manifest_entries,
     )
-    REPRO_MANIFEST_PATH.write_text(
-        json.dumps(repro_manifest, indent=2, ensure_ascii=False),
-        encoding="utf-8",
-        newline="\n",
-    )
+    write_json(CONVERSION_LOG_PATH, conversion_log)
+    write_json(REPRO_MANIFEST_PATH, repro_manifest)
 
     failures = [item for item in conversion_log if not item["success"]]
     print(
