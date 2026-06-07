@@ -37,7 +37,13 @@ CLAIM_FIELD_NAMES = {
     "outlook",
     "sentiment",
 }
-LATER_YEAR_SUPPLEMENT_RE = re.compile(r"^Supplement_20(?:19_20|20_21|21_22)\.pdf$", re.IGNORECASE)
+EXCLUDED_SOURCE_FILES = {
+    "Supplement_2017_18.pdf": "prior-year supplement file in 2018-19 folder; excluded to keep section layer source_year homogeneous",
+    "Supplement_2019_20.pdf": "later-year supplement file in 2018-19 folder; excluded to keep section layer source_year homogeneous",
+    "Supplement_2020_21.pdf": "later-year supplement file in 2018-19 folder; excluded to keep section layer source_year homogeneous",
+    "Supplement_2021_22.pdf": "later-year supplement file in 2018-19 folder; excluded to keep section layer source_year homogeneous",
+    "Statistical_Supplement.pdf": "duplicate alias of Supplement_2018_19.pdf by source and output hash; excluded from sections to avoid duplicate 2018-19 supplement sections",
+}
 
 
 def relative(path: Path) -> str:
@@ -184,7 +190,7 @@ def included_entries(repro_manifest: dict[str, Any]) -> list[dict[str, Any]]:
     return [
         entry
         for entry in repro_manifest["entries"]
-        if not LATER_YEAR_SUPPLEMENT_RE.match(entry["source_file_name"])
+        if entry["source_file_name"] not in EXCLUDED_SOURCE_FILES
     ]
 
 
@@ -192,7 +198,7 @@ def excluded_entries(repro_manifest: dict[str, Any]) -> list[dict[str, Any]]:
     return [
         entry
         for entry in repro_manifest["entries"]
-        if LATER_YEAR_SUPPLEMENT_RE.match(entry["source_file_name"])
+        if entry["source_file_name"] in EXCLUDED_SOURCE_FILES
     ]
 
 
@@ -349,7 +355,7 @@ def write_outputs(sections: list[dict[str, Any]], manifest: dict[str, Any]) -> N
         f"- Source PDF-to-MD run: `{manifest['input_pdf_to_md_run']}`",
         f"- Source Markdown files: `{qa['source_md_files']}`",
         f"- Markdown files with sections: `{qa['source_md_files_with_sections']}`",
-        f"- Later-year supplement Markdown files excluded: `{len(manifest['excluded_input_entries'])}`",
+        f"- Excluded Markdown files: `{len(manifest['excluded_input_entries'])}`",
         f"- Sections written: `{qa['sections_total']}`",
         f"- Numeric/table-sensitive sections: `{qa['numeric_or_table_sensitive_sections']}`",
         f"- Forbidden claim/summary fields present: `{qa['forbidden_claim_summary_fields_present']}`",
@@ -416,7 +422,7 @@ def main() -> int:
         "output_sections_jsonl": relative(SECTIONS_PATH),
         "source_year": "2018-19",
         "split_rules": {
-            "input_scope": "reviewed 2018-19 PDF-to-MD outputs excluding later-year Supplement_2019_20, Supplement_2020_21, and Supplement_2021_22 files that live in the 2018-19 source folder",
+            "input_scope": "reviewed 2018-19 PDF-to-MD outputs excluding Supplement_2017_18, later-year Supplement_2019_20/Supplement_2020_21/Supplement_2021_22, and duplicate Statistical_Supplement alias of Supplement_2018_19",
             "page_tracking": "existing <!-- page N --> markers",
             "primary_boundaries": "Markdown headings within each page",
             "fallback_boundaries": "paragraph blocks capped around 4500 characters",
@@ -445,7 +451,7 @@ def main() -> int:
             {
                 "source_pdf_path": entry["source_pdf_path"],
                 "source_md_path": entry["output_md_path"],
-                "reason": "later-year supplement file in 2018-19 folder; excluded to keep section layer source_year homogeneous",
+                "reason": EXCLUDED_SOURCE_FILES[entry["source_file_name"]],
             }
             for entry in excluded
         ],

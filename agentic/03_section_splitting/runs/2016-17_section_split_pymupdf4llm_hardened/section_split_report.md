@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Generated UTC: `2026-06-06T21:06:04+00:00`
+- Generated UTC: `2026-06-07T00:29:42+00:00`
 - Overall status: `PASS`
 - Source year: `2016-17`
 - Source PDF-to-MD run: `agentic/02_pdf_to_md/runs/2016-17_pymupdf4llm_hardened`

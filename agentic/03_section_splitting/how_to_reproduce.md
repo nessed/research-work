@@ -1,12 +1,12 @@
 ﻿# How To Reproduce
 
-This folder currently defines the section-splitting spec only. No section split
-run has been executed.
+Stage-level guide for section splitting. Run-specific paths, exact commands,
+observed environment, and results live in each run folder's own
+`how_to_reproduce.md`.
 
-## Future Input
+## Input
 
-A future run should take one reviewed converted Markdown folder as input, for
-example:
+A run takes one reviewed converted Markdown folder as input, for example:
 
 ```text
 agentic/02_pdf_to_md/runs/<pdf_to_md_run_name>/converted_md/
@@ -18,15 +18,15 @@ The converted Markdown must already contain source page markers such as:
 <!-- page 1 -->
 ```
 
-## Future Output
+## Output
 
-A future run should write outputs to a new run folder, for example:
+A run writes outputs to a new run folder:
 
 ```text
 agentic/03_section_splitting/runs/<section_split_run_name>/
 ```
 
-Expected future outputs:
+Expected outputs:
 
 - `sections.jsonl`
   One JSON object per source-tagged section, following `section_schema.json`.
@@ -40,9 +40,9 @@ Expected future outputs:
 - `adv_review_results.md`
   Fresh-context read-only review results.
 
-## Future Run Requirements
+## Run Requirements
 
-The future splitter must:
+The splitter must:
 
 1. Read converted Markdown files from the input `converted_md/` folder.
 2. Preserve source page markers for page tracking.
@@ -54,12 +54,4 @@ The future splitter must:
    `section_split_report.md`.
 8. Avoid any claim extraction, summary writing, interpretation, or database
    export.
-
-## Current Non-Actions
-
-Do not run the splitter yet.
-Do not create a run folder yet.
-Do not create `sections.jsonl` yet.
-Do not modify raw PDFs.
-Do not modify converted Markdown.
 

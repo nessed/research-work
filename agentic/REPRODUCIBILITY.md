@@ -110,6 +110,16 @@ Important invariant:
 - Folder year is not automatically source year. Section runs must decide which
   Markdown files are valid inputs for the intended `source_year`.
 
+Completed runs:
+
+- `agentic/03_section_splitting/runs/2016-17_section_split_pymupdf4llm_hardened/`
+  Result: PASS — 2,121 sections, adversarial review passed. Use as template.
+
+In-progress runs:
+
+- `agentic/03_section_splitting/runs/2018-19_section_split_pymupdf4llm_hardened/`
+  Status: script committed; `sections.jsonl` not yet produced.
+
 ## Archived Design Evidence: Commentary Schema
 
 Folder:

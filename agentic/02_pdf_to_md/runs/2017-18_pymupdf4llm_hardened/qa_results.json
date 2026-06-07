@@ -1,0 +1,363 @@
+{
+  "generated_at_utc": "2026-06-07T00:38:58+00:00",
+  "overall_status": "PASS",
+  "structural_checks": {
+    "status": "PASS",
+    "issues": [],
+    "pdfs_found": 29,
+    "manifest_entries": 29,
+    "conversion_log_entries": 29,
+    "failed_conversions": 0,
+    "missing_outputs": [],
+    "zero_byte_outputs": [],
+    "hash_mismatches": [],
+    "conversion_log_output_hash_mismatches": [],
+    "page_marker_mismatches": []
+  },
+  "prose_fidelity_checks": {
+    "status": "PASS",
+    "seed": 20260607,
+    "sample_count": 29,
+    "status_counts": {
+      "PASS": 29
+    },
+    "samples": [
+      {
+        "source_file_name": "Agriculture.pdf",
+        "page": 13,
+        "status": "PASS",
+        "token_overlap": 0.9935,
+        "source_snippet": "Agriculture 25 iv) Agricultural Credit In the backdrop of the government’s budgetary initiatives for promotion of agriculture sector, SBP has assigned the indicative agriculture credit disbursement targets of Rs 1,001 billion to 52 particip",
+        "markdown_snippet": "**Agriculture** ## **iv) Agricultural Credit** In the backdrop of the government’s budgetary initiatives for promotion of agriculture sector, SBP has assigned the indicative agriculture credit disbursement targets of Rs 1,001 billion to 52 "
+      },
+      {
+        "source_file_name": "Annex_I_Contingent_Liabilities.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9933,
+        "source_snippet": "Annexure I Contingent Liabilities Introduction Contingent liabilities are conditional obligations that arise from events that may require an outflow of resources dependent on occurrence of events not wholly within the control of the governm",
+        "markdown_snippet": "## **Annexure I** ## **Contingent Liabilities** ## **Introduction** Contingent liabilities are conditional obligations that arise from events that may require an outflow of resources dependent on occurrence of events not wholly within the c"
+      },
+      {
+        "source_file_name": "Annex_Ii_Tax_Expenditure.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9358,
+        "source_snippet": "Annexure II Tax Expenditure Tax expenditure for FY2018 has been estimated at Rs 540.98 billion. Detailed estimates are highlighted below: Income Tax Tax expenditure in respect of direct taxes during FY2018 has been reflected in Table 1: Tab",
+        "markdown_snippet": "## **Annexure II** ## **Tax Expenditure** Tax expenditure for FY2018 has been estimated at Rs 540.98 billion. Detailed estimates are highlighted below: ## **Income Tax** Tax expenditure in respect of direct taxes during FY2018 has been refl"
+      },
+      {
+        "source_file_name": "Annex_Iii_Poverty.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Annexure III Poverty Over the last decade, Pakistan’s poverty headcount has witnessed a persistent decline both at national and regional levels. Percentage of people living below poverty line has declined from 50.4% in 2005-06 to 24.3% in 2",
+        "markdown_snippet": "## **Annexure III** ## **Poverty** Over the last decade, Pakistan’s poverty headcount has witnessed a persistent decline both at national and regional levels. Percentage of people living below poverty line has declined from 50.4% in 2005-06"
+      },
+      {
+        "source_file_name": "Annex_Iv_Impact_Of_War.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9927,
+        "source_snippet": "Annexure-IV Impact of War in Afghanistan and Ensuing Terrorism on Pakistan’s Economy After facing protracted violence for more than a decade, Pakistan has achieved progressive and significant improvement in the country’s overall security la",
+        "markdown_snippet": "## **Annexure-IV** ## **Impact of War in Afghanistan and Ensuing Terrorism on Pakistan’s Economy** After facing protracted violence for more than a decade, Pakistan has achieved progressive and significant improvement in the country’s overa"
+      },
+      {
+        "source_file_name": "Captial_Markets.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Chapter 6 Capital Markets Capital markets plays a pivotal role in mobilizing domestic resources and channelling them efficiently for productive uses, thus raising national productivity. The level of capital market development is an importan",
+        "markdown_snippet": "## **Chapter 6** ## **Capital Markets** Capital markets plays a pivotal role in mobilizing domestic resources and channelling them efficiently for productive uses, thus raising national productivity. The level of capital market development "
+      },
+      {
+        "source_file_name": "Climate_Change.pdf",
+        "page": 7,
+        "status": "PASS",
+        "token_overlap": 0.9971,
+        "source_snippet": "Climate Change 239 the CPEIR, and uses IT-based expenditure data maintained by the Controller General of Accounts (CGA). Initially, the system provides basic information on how much the federal government is spending on mitigation and adapt",
+        "markdown_snippet": "**Climate Change** the CPEIR, and uses IT-based expenditure data maintained by the Controller General of Accounts (CGA). Initially, the system provides basic information on how much the federal government is spending on mitigation and adapt"
+      },
+      {
+        "source_file_name": "Economic_Indicators_2018.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "SOCIAL INDICATORS 2007-08 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 F R (Jul-Feb) P 18.0 -6.4 2.9 28.9 -2.6 0.4 1.1 -3.9 -8.8 -0.2 12.2 31.6 -10.3 -1.7 14.9 12.8 -0.6 3.8 -0.9 -0.1 17.6 17.3 17.4 21.1 1",
+        "markdown_snippet": "## **SOCIAL INDICATORS** |**2007-08**|**2008-09**|**2009-10**|**2010-11**|**2011-12**|**2012-13**|**2013-14**|**2014-15 **|**2015-16 **|**2016-17**|**2017-18**|| |---|---|---|---|---|---|---|---|---|---|---|---| |||||||||**F**|**R **|**(Jul"
+      },
+      {
+        "source_file_name": "Economic_Survey_2017_18.pdf",
+        "page": 154,
+        "status": "PASS",
+        "token_overlap": 0.9904,
+        "source_snippet": "Public Debt 135 Table-9.3: Public Debt Cost and Risk Indicators* Risk Indicators Indicative Ranges ( MTDS 2015/16 - 2018/19) External Debt Domestic Debt Public Debt 2013 2017 2013 2017 2013 2017 Debt Re-Fixing in 1 year (% of total) 50% and",
+        "markdown_snippet": "## **Public Debt** **Table-9.3: Public Debt Cost and Risk Indicators*** |**Table-9.3: Public Debt Cost and Risk Indicators***|**Table-9.3: Public Debt Cost and Risk Indicators***|**Table-9.3: Public Debt Cost and Risk Indicators***|**Table-"
+      },
+      {
+        "source_file_name": "Education.pdf",
+        "page": 3,
+        "status": "PASS",
+        "token_overlap": 0.9371,
+        "source_snippet": "Table 10.1: Number of Mainstream Years Pre- Primary Prima Enrolment 2012-13 9284.3 187 2013-14 9267.7 194 2014-15 9589.2 198 2015-16 9791.7 215 2016-17* 11436.6 216 2017-18** 12328.7 225 Institutions 2012-13 - 1 2013-14 - 1 2014-15 - 1 2015",
+        "markdown_snippet": "## **Education** **==> picture [423 x 361] intentionally omitted <==** **----- Start of picture text -----**<br> Fig-10.1: Enrolment at each level Primary Fig-10.2: Institution at each level Primary<br>Middle<br>Middle<br>175<br>22500 High<"
+      },
+      {
+        "source_file_name": "Energy.pdf",
+        "page": 3,
+        "status": "PASS",
+        "token_overlap": 0.8671,
+        "source_snippet": "gives the comparison of i Fig-1: Compar With regards to share of dif electricity generation, it can share of hydro in electricit decreased over the last fiv availability of water is the reduced generation from hyd The indent as conveyed by ",
+        "markdown_snippet": "**Energy** **==> picture [446 x 198] intentionally omitted <==** **----- Start of picture text -----**<br> gives the comparison of i nstalled capacity (MW) and generation (G W /h).<br>Fig-1: Comparison of Installed Capacity (MW) and Generat"
+      },
+      {
+        "source_file_name": "Fiscal.pdf",
+        "page": 14,
+        "status": "PASS",
+        "token_overlap": 0.9939,
+        "source_snippet": "Pakistan Economic Survey 2017-18 62 BTB 4 Years Achievements S.No. Period from July 2013 to 31st August 2017 Total 1 Notices issued u/s 114 of the Income Tax Ordinance 2001 547,008 2 Total Income Tax Returns Enforced 216,765 3 Tax paid with",
+        "markdown_snippet": "## **Pakistan Economic Survey 2017-18** ## **BTB 4 Years Achievements** |**Pakistan Economic Survey 2017-18**|**Pakistan Economic Survey 2017-18**|**Pakistan Economic Survey 2017-18**| |---|---|---| |**BTB 4 Years Achievements**||| |**S.No."
+      },
+      {
+        "source_file_name": "Growth.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 0.8912,
+        "source_snippet": "increase of 5.80 percent pro back of growth of mining and percent compared to negativ percent last year. The Produ lime stone increased by 5.7 percent and bauxites 37.2 perc Manufacturing grew by 6.24 to 5.82 percent last year. I LSM regist",
+        "markdown_snippet": "## **Growth and Investment** increase of 5.80 percent pr **o** visionally on the back of growth of mining and quarrying of 3.04 percent compared to negative growth of 0.38 percent last year. The Production of coal and lime stone increased b"
+      },
+      {
+        "source_file_name": "Health.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 0.9982,
+        "source_snippet": "Pakistan Economic Survey 2017-18 172 • Conduction of greater than 1.5 million advocacy and awareness programmes. • Strengthening surveillance system: Improved surveillance in 66+5 in (District Medical Units) DMUs supported district. • Condu",
+        "markdown_snippet": "## **Pakistan Economic Survey 2017-18** - Conduction of greater than 1.5 million advocacy and awareness programmes. - Strengthening surveillance system: Improved surveillance in 66+5 in (District Medical Units) DMUs supported district. - Co"
+      },
+      {
+        "source_file_name": "Inflation.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 0.9451,
+        "source_snippet": "Pakistan Economic Survey 2 104 Sensitive Price Indicator (SP SPI monitors the prices of 5 items taken from 17 different is reported on weekly basis. index is monitored regularly measures are taken to control prices. The SPI year-on-year rem",
+        "markdown_snippet": "## **Pakistan Economic Survey 2017-18** ## **Sensitive Price Indicator (SPI)** SPI monitors the prices of **5** 3 most essential items taken from 17 different urban centers and is reported on weekly basis. The trend of this index is monitor"
+      },
+      {
+        "source_file_name": "Manufacturing.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.9915,
+        "source_snippet": "Pakistan Economic Survey 2017-18 36 Coke and Petroleum rebounded strongly during the period on account of Jute batching oil 17.02 percent, LPG 39.49 percent, diesel oil 27.34 percent and motor spirits 15.60 percent. Improving trades as well",
+        "markdown_snippet": "## **Pakistan Economic Survey 2017-18** Coke and Petroleum rebounded strongly during the period on account of Jute batching oil 17.02 percent, LPG 39.49 percent, diesel oil 27.34 percent and motor spirits 15.60 percent. Improving trades as "
+      },
+      {
+        "source_file_name": "Money_And_Credit.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.8801,
+        "source_snippet": "Pakistan Economic Survey 2 70 Government Bank Borrowin During the period 01 Jul-3 government borrowing for b stood at Rs 858.3 billion agai of Rs 704.0 billion in the corr of FY2017. During the peri government borrowed Rs 2,2 SBP as compare",
+        "markdown_snippet": "**Pakistan Economic Survey 2017-18** ## **Government Bank Borrowing** During the period 01 Jul- **3** 0 Mar FY2018, government borrowing for **b** udgetary support stood at Rs 858.3 billion aga **i** nst the borrowing of Rs 704.0 billion in"
+      },
+      {
+        "source_file_name": "Overview_2017_18.pdf",
+        "page": 11,
+        "status": "PASS",
+        "token_overlap": 0.9896,
+        "source_snippet": "Overview of the Economy xi Disbursements against external public debt were cumulatively recorded at around US$ 7,300 million during first eight months of current fiscal year while external public debt servicing was US$ 3,338 million during ",
+        "markdown_snippet": "**Overview of the Economy** Disbursements against external public debt were cumulatively recorded at around US$ 7,300 million during first eight months of current fiscal year while external public debt servicing was US$ 3,338 million during"
+      },
+      {
+        "source_file_name": "Population.pdf",
+        "page": 2,
+        "status": "PASS",
+        "token_overlap": 0.8686,
+        "source_snippet": "Pakistan Economic Survey 2 180 Table 12.2: Province wise Popu Area Po 199 Pakistan Khyber Pakhtunkhwa Punjab Sindh Balochistan FATA Islamabad Source: Population Census 201 The province wise population that Punjab has the largest po million,",
+        "markdown_snippet": "**Pakistan Economic Survey 2017-18** |**Table 12.2: Province wise Popu**<br>**lation and Growth Rates**|**Table 12.2: Province wise Popu**<br>**lation and Growth Rates**|**Table 12.2: Province wise Popu**<br>**lation and Growth Rates**|**Ta"
+      },
+      {
+        "source_file_name": "Public_Debt.pdf",
+        "page": 19,
+        "status": "PASS",
+        "token_overlap": 0.8667,
+        "source_snippet": "9.7.2 Impact of Exchange Fluctuations In Pakistan, external loans various currencies, however, effectively converted into Pak Rupee is not an internationally other international currencies sold via selling and buying Hence, the currency exp",
+        "markdown_snippet": "## **Public Debt** **==> picture [437 x 212] intentionally omitted <==** **----- Start of picture text -----**<br> Fig-9.15: External Public Debt Repayment Projections (US$ in million)<br>(Based o n Outstanding at December 31, 2017)<br>7000"
+      },
+      {
+        "source_file_name": "Social_Safety_Nets.pdf",
+        "page": 10,
+        "status": "PASS",
+        "token_overlap": 0.9816,
+        "source_snippet": "Pakistan Economic Survey 2017-18 228 others including Commercial Financial Institutions (CFIs) and Non-Government Organizations (NGOs). Table-15.6 presents the number of Micro-Credit beneficiaries with outstanding loan portfolio and disburs",
+        "markdown_snippet": "## **Pakistan Economic Survey 2017-18** others including Commercial Financial Institutions (CFIs) and Non-Government Organizations (NGOs). Table-15.6 presents the number of Micro-Credit beneficiaries with outstanding loan portfolio and disb"
+      },
+      {
+        "source_file_name": "Statistical_Supplement.pdf",
+        "page": 186,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 13.8 MOTOR VEHICLES-PRODUCTION in Nos. Fiscal Year Motor Cycle Cars & Jeeps L.C.Vs Buses Trucks Tractors 2000-01 117,858 39,573 6,960 1,332 948 32,556 2001-02 133,334 41,171 8,491 1,099 1,141 24,331 2002-03 176,591 63,267 12,174 1,340",
+        "markdown_snippet": "## **TABLE 13.8** ## **MOTOR VEHICLES-PRODUCTION** **==> picture [382 x 259] intentionally omitted <==** **----- Start of picture text -----**<br> in Nos.<br>Fiscal Year Motor Cycle Cars & L.C.Vs Buses Trucks Tractors<br>Jeeps<br>2000-01 11"
+      },
+      {
+        "source_file_name": "Supplement_2017_18.pdf",
+        "page": 21,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 1.5 (Rs million) Sectors 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 F 2016-17 R 2017-18 P 2016-17 / 2015-16 2017-18 / 2016-17 A. Agriculture 4,592,720 4,753,075 5,334,976 5,976,217 6,536,122 6,749,966 7,313,329 7,764,218 8.3 6.2 ",
+        "markdown_snippet": "## **TABLE 1.5** ## **GROSS NATIONAL PRODUCT AT CURRENT PRICES** **==> picture [463 x 363] intentionally omitted <==** **----- Start of picture text -----**<br> (Rs million)<br>% Change<br>Sectors 2010-11 2011-12 2012-13 2013-14 2014-15 201"
+      },
+      {
+        "source_file_name": "Supplement_2018_19.pdf",
+        "page": 155,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 10.2 Year Primary Stage Middle Stage High Stage Technical & Higher Sec/ Degree Universities I-V VI-VIII IX-X Vocational Inter Colleges Colleges Numbers in 000 in 000 in 000 in 000 in 000 Numbers Total Female Total Female Total Female ",
+        "markdown_snippet": "**TABLE 10.2** ## **ENROLMENT IN EDUCATIONAL INSTITUTIONS BY KIND, LEVEL & SEX** **==> picture [467 x 257] intentionally omitted <==** **----- Start of picture text -----**<br> Year Primary Stage Middle Stage High Stage Technical & Higher S"
+      },
+      {
+        "source_file_name": "Supplement_2019_20.pdf",
+        "page": 7,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "(vii) 8.5 Economic Classification of Exports .............................................................................................. 120 8.6 Economic Classification of Imports .........................................................",
+        "markdown_snippet": "**==> picture [468 x 683] intentionally omitted <==** **----- Start of picture text -----**<br> 8.5 Economic Classification of Exports .............................................................................................. 120<br>8.6"
+      },
+      {
+        "source_file_name": "Supplement_2020_21.pdf",
+        "page": 124,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 8.7 Paints & Varnishes Tobacco Raw & Ready Made Garments Manufactured & Hosiery Year Value Qty U.V. Value Qty U.V. Value Qty U.V. Rs mln. m.kg Rs/kg Rs mln. Rs mln. 2000-01 17 0.2 113.7 587 - - 101,560 - - 2001-02 54 0.4 134.3 286 - -",
+        "markdown_snippet": "## **TABLE 8.7** **MAJOR EXPORTS BY VALUE, QUANTITY & UNIT VALUE** |**Year**|**Paints & Varnishes**<br>**Value**<br>**Qty**<br>**U.V.**<br>**Rs mln.**<br>**m.kg**<br>**Rs/kg**|**Tobacco Raw &**<br>**Ready Made Garments**<br>**Manufactured**"
+      },
+      {
+        "source_file_name": "Supplement_2021_22.pdf",
+        "page": 97,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TABLE 7.7 Income Group/ All Income Upto Rs 3001 to Rs 5001 to Above Fiscal Year Groups Rs 3000 5000 12000 Rs 12,000 2000-01 100.00 100.00 100.00 100.00 100.00 2001-02 103.54 102.97 104.88 103.44 103.64 2002-03 106.75 105.95 106.70 106.68 10",
+        "markdown_snippet": "## **TABLE 7.7** ## **PRICE INDICES BY CONSUMER INCOME GROUPS** |**PRICE INDICES BY CONSUMER INCOME GROUPS**|**PRICE INDICES BY CONSUMER INCOME GROUPS**| |---|---| |**Income Group/**<br>**All Income**<br>**Upto**<br>**Rs 3001 to**<br>**Rs 5"
+      },
+      {
+        "source_file_name": "Trade.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 0.9862,
+        "source_snippet": "Pakistan Economic Survey 2017-18 118 accelerated growth, conducive business, regulatory and legal environment in Pakistan. E-Commerce is not only a growing global industry, it is also one of the important pillars on which an increasing shar",
+        "markdown_snippet": "## **Pakistan Economic Survey 2017-18** accelerated growth, conducive business, regulatory and legal environment in Pakistan. E-Commerce is not only a growing global industry, it is also one of the important pillars on which an increasing s"
+      },
+      {
+        "source_file_name": "Transport_And_Communications.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.8671,
+        "source_snippet": "Pakistan Economic Survey 2 192 In addition to road projects, P have agreed to establish a dry ground breaking of the proje year. Besides rail and road project on urban development in its the purpose, 6th Joint Coordin (JCC) has approved inc",
+        "markdown_snippet": "## **Pakistan Economic Survey 2017-18** In addition to road projects, **P** akistan and China have agreed to establish a dr **y** port at Havelian, ground breaking of the proj **e** ct is planned this year. Besides rail and road projec **t*"
+      }
+    ]
+  },
+  "placeholder_checks": {
+    "status": "INFO",
+    "total_omitted_picture_placeholders": 885,
+    "files": [
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Agriculture.md",
+        "count": 5
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Captial_Markets.md",
+        "count": 2
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Climate_Change.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Economic_Survey_2017_18.md",
+        "count": 118
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Education.md",
+        "count": 5
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Energy.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Fiscal.md",
+        "count": 7
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Growth.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Health.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Inflation.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Manufacturing.md",
+        "count": 3
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Money_And_Credit.md",
+        "count": 10
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Population.md",
+        "count": 2
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Public_Debt.md",
+        "count": 14
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Social_Safety_Nets.md",
+        "count": 3
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Statistical_Supplement.md",
+        "count": 211
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Supplement_2017_18.md",
+        "count": 211
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Supplement_2018_19.md",
+        "count": 205
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Supplement_2019_20.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Supplement_2020_21.md",
+        "count": 11
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Supplement_2021_22.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Trade.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2017-18_pymupdf4llm_hardened/converted_md/Transport_And_Communications.md",
+        "count": 11
+      }
+    ],
+    "research_use_note": "Charts/images are not certified from Markdown and require separate PDF review before use in research claims."
+  },
+  "table_numeric_policy": {
+    "status": "NOT_CERTIFIED",
+    "policy": "Markdown is not certified for table, chart, numeric, row/column, total, ranking, or footnote fidelity.",
+    "required_follow_up": "Any numeric or table-derived claim must be verified against the source PDF and, where needed, rendered page evidence."
+  }
+}

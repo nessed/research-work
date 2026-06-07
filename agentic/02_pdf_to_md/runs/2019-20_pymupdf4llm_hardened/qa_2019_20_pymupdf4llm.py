@@ -29,6 +29,7 @@ SEED = 20260607
 
 PAGE_MARKER_RE = re.compile(r"<!-- page (\d+) -->")
 TOKEN_RE = re.compile(r"[A-Za-z0-9]+")
+WORD_RE = re.compile(r"[A-Za-z]{3,}")
 
 
 def sha256_file(path: Path) -> str:
@@ -73,12 +74,29 @@ def pdf_page_text(pdf_path: Path, page_number: int) -> str:
         return page.get_text("text").strip()
 
 
+def prose_candidate(text: str) -> bool:
+    page_tokens = tokens(text)
+    if len(page_tokens) < 60:
+        return False
+    words = WORD_RE.findall(text)
+    if len(words) < 45:
+        return False
+    compact_start = " ".join(text.split()[:12]).upper()
+    if compact_start.startswith("TABLE "):
+        return False
+    table_mentions = len(re.findall(r"\bTABLE\b", text, flags=re.IGNORECASE))
+    if table_mentions >= 3:
+        return False
+    numeric_tokens = sum(1 for token in page_tokens if any(char.isdigit() for char in token))
+    return numeric_tokens / len(page_tokens) <= 0.45
+
+
 def choose_sample_page(pdf_path: Path, rng: random.Random) -> int | None:
     with fitz.open(pdf_path) as doc:
         candidates: list[int] = []
         for index in range(doc.page_count):
             text = doc.load_page(index).get_text("text")
-            if len(tokens(text)) >= 60:
+            if prose_candidate(text):
                 candidates.append(index + 1)
         if not candidates:
             return None
@@ -136,9 +154,25 @@ def structural_checks(repro_manifest: dict[str, Any], conversion_log: list[dict[
             )
 
     failed_conversions = [item for item in conversion_log if not item.get("success")]
+    log_hash_mismatches: list[str] = []
+    missing_log_hashes: list[str] = []
+    for item in conversion_log:
+        output_key = item.get("output_md_path")
+        output_hash = item.get("output_sha256")
+        if not item.get("success"):
+            continue
+        if not output_hash:
+            missing_log_hashes.append(output_key)
+            continue
+        output_path = PROJECT_ROOT / output_key
+        if output_path.exists() and sha256_file(output_path) != output_hash:
+            log_hash_mismatches.append(output_key)
+
     issues.extend(f"missing output: {item}" for item in missing_outputs)
     issues.extend(f"zero-byte output: {item}" for item in zero_byte_outputs)
     issues.extend(f"hash mismatch: {item}" for item in hash_mismatches)
+    issues.extend(f"missing conversion log output hash: {item}" for item in missing_log_hashes)
+    issues.extend(f"conversion log hash mismatch: {item}" for item in log_hash_mismatches)
     issues.extend(
         f"page marker mismatch: {item['output_md_path']}"
         for item in page_marker_mismatches
@@ -155,6 +189,8 @@ def structural_checks(repro_manifest: dict[str, Any], conversion_log: list[dict[
         "missing_outputs": missing_outputs,
         "zero_byte_outputs": zero_byte_outputs,
         "hash_mismatches": hash_mismatches,
+        "missing_log_hashes": missing_log_hashes,
+        "log_hash_mismatches": log_hash_mismatches,
         "page_marker_mismatches": page_marker_mismatches,
     }
 
@@ -256,6 +292,8 @@ def write_report(results: dict[str, Any]) -> None:
         f"- Missing outputs: `{len(structural['missing_outputs'])}`",
         f"- Zero-byte outputs: `{len(structural['zero_byte_outputs'])}`",
         f"- Hash mismatches: `{len(structural['hash_mismatches'])}`",
+        f"- Missing conversion log output hashes: `{len(structural['missing_log_hashes'])}`",
+        f"- Conversion log hash mismatches: `{len(structural['log_hash_mismatches'])}`",
         "",
         "## Prose Fidelity",
         "",

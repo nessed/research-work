@@ -2,6 +2,25 @@
 
 This file defines the canonical folder layout for `datalab_ali`.
 
+## Instruction File Hierarchy
+
+Read files in this order when starting work on a pipeline step:
+
+1. Global rules — `PROJECT_CONTEXT.md` (FIXED_CONTEXT + PERMANENT_CONSTRAINTS),
+   `datalab_master/CLAUDE.md`
+2. Pipeline workflow — `agentic/PIPELINE_PLANNING_REPORT.md`
+3. Folder layout — `agentic/WORKSPACE_STRUCTURE.md` (this file)
+4. Reproducibility index — `agentic/REPRODUCIBILITY.md`
+5. Step instructions — `agentic/0N_<stepname>/README.md` and step spec files
+   (e.g. `split_rules.md`, `section_schema.json`)
+6. Run template — one reviewed run under `agentic/0N_<stepname>/runs/`
+7. Active status — `CURRENT_PROGRESS.md` (snapshot only, not instructions)
+
+Run evidence (manifests, QA reports, `adv_review_results.md`, `sections.jsonl`,
+etc.) lives under run folders and must not be edited by future pipeline agents.
+Situation reports under `agentic/sitreps/` are auto-generated history; do not
+treat them as instructions.
+
 ## Root
 
 - `.claude/`

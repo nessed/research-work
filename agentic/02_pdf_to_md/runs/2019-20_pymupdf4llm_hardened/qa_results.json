@@ -1,0 +1,347 @@
+{
+  "generated_at_utc": "2026-06-07T01:59:11+00:00",
+  "overall_status": "PASS",
+  "structural_checks": {
+    "status": "PASS",
+    "issues": [],
+    "pdfs_found": 29,
+    "manifest_entries": 29,
+    "conversion_log_entries": 29,
+    "failed_conversions": 0,
+    "missing_outputs": [],
+    "zero_byte_outputs": [],
+    "hash_mismatches": [],
+    "missing_log_hashes": [],
+    "log_hash_mismatches": [],
+    "page_marker_mismatches": []
+  },
+  "prose_fidelity_checks": {
+    "status": "PASS",
+    "seed": 20260607,
+    "sample_count": 29,
+    "status_counts": {
+      "PASS": 27,
+      "SKIP": 2
+    },
+    "samples": [
+      {
+        "source_file_name": "Agriculture.pdf",
+        "page": 18,
+        "status": "PASS",
+        "token_overlap": 0.9968,
+        "source_snippet": "Pakistan Economic Survey 2019-20 34 \u0001 Crop Loan Insurance Scheme \u0001 Livestock Insurance Scheme for Borrowers \u0001 Electronic Warehouse Receipt Financing \u0001 Government of Punjab E-Credit Scheme \u0001 Adoption of Automation of Land Record for Agricult",
+        "markdown_snippet": "## **Pakistan Economic Survey 2019-20** - Crop Loan Insurance Scheme - Livestock Insurance Scheme for Borrowers - Electronic Warehouse Receipt Financing - Government of Punjab E-Credit Scheme - Adoption of Automation of Land Record for Agri"
+      },
+      {
+        "source_file_name": "Annex_I_Contingent_Liabilities.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9925,
+        "source_snippet": "Contingent liabilities are possible obligation that arises from past events and their existence will be confirmed only by the occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the governmen",
+        "markdown_snippet": "**==> picture [112 x 31] intentionally omitted <==** **----- Start of picture text -----**<br> Annex-I<br>**----- End of picture text -----**<br> ## **CONTINGENT LIABILITIES** Contingent liabilities are possible obligation that arises from "
+      },
+      {
+        "source_file_name": "Annex_Ii_Tax_Expenditure.pdf",
+        "status": "SKIP",
+        "reason": "no page with at least 60 extractable tokens"
+      },
+      {
+        "source_file_name": "Annex_Iii_Covid_19_Advent_And_Impact_Assesment.pdf",
+        "page": 3,
+        "status": "PASS",
+        "token_overlap": 0.9976,
+        "source_snippet": "COVID-19 Advent and Impact Assessment 325 due to economic slowdown will take away a major component of FDI, that is, the reinvested earnings. Pakistan’s economy may face a loss in business activities because of disruptions in trade, both in",
+        "markdown_snippet": "**COVID-19 Advent and Impact Assessment** due to economic slowdown will take away a major component of FDI, that is, the reinvested earnings. Pakistan’s economy may face a loss in business activities because of disruptions in trade, both in"
+      },
+      {
+        "source_file_name": "Capital_Markets.pdf",
+        "page": 5,
+        "status": "PASS",
+        "token_overlap": 0.9927,
+        "source_snippet": "Capital Markets and Corporate Sector 115 The total funds mobilized between July 2019 and March 2020 in the national stock exchange amounted to Rs 250,020 million, as compared to Rs 22,350 million in the corresponding period last year. The s",
+        "markdown_snippet": "**==> picture [452 x 224] intentionally omitted <==** **----- Start of picture text -----**<br> Capital Markets and Corporate Sector<br>Fig-3: Pakistan Stock Exchange Market Capitalization July 2019-Apr 2020<br>8,500<br>8,000<br>7,500<br>7,"
+      },
+      {
+        "source_file_name": "Climate_Change.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 0.9953,
+        "source_snippet": "Pakistan Economic Survey 2019-20 308 Based on the SDG costing tool, it is estimated that Pakistan needs Rs 450 billion annually to meet SDG targets by 2030. Presently, Pakistan is spending Rs 61 billion annually through public sector while ",
+        "markdown_snippet": "## **Pakistan Economic Survey 2019-20** Based on the SDG costing tool, it is estimated that Pakistan needs Rs 450 billion annually to meet SDG targets by 2030. Presently, Pakistan is spending Rs 61 billion annually through public sector whi"
+      },
+      {
+        "source_file_name": "Economic_Indicators.pdf",
+        "status": "SKIP",
+        "reason": "no page with at least 60 extractable tokens"
+      },
+      {
+        "source_file_name": "Education.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9954,
+        "source_snippet": "Education plays a pivotal role in the creation of skills and human capital, which certainly leads to higher economic growth. The development of human capital is critical for improving productivity through technological innovation that in tu",
+        "markdown_snippet": "**==> picture [112 x 31] intentionally omitted <==** **----- Start of picture text -----**<br> Chapter 10<br>**----- End of picture text -----**<br> ## **EDUCATION** Education plays a pivotal role in the creation of skills and human capital"
+      },
+      {
+        "source_file_name": "Energy.pdf",
+        "page": 11,
+        "status": "PASS",
+        "token_overlap": 0.9907,
+        "source_snippet": "Energy 283 \u0001 The policy has an expanded scope encompassing all alternative and renewable energy sources, competitive procurement and addresses areas like distributed generation systems, off-grid solutions, B2B methodologies and rural energy",
+        "markdown_snippet": "**Energy** - The policy has an expanded scope encompassing all alternative and renewable energy sources, competitive procurement and addresses areas like distributed generation systems, off-grid solutions, B2B methodologies and rural energy"
+      },
+      {
+        "source_file_name": "Executive_Summary.pdf",
+        "page": 7,
+        "status": "PASS",
+        "token_overlap": 0.9962,
+        "source_snippet": "Overview of the Economy vii comparable period of FY2019. Total expenditures grew by 15.8 percent during July-March, FY2020 over the same period last year. Within total, current expenditure posted 16.9 percent growth in nine months of curren",
+        "markdown_snippet": "**Overview of the Economy** ## comparable period of FY2019. Total expenditures grew by 15.8 percent during July-March, FY2020 over the same period last year. Within total, current expenditure posted 16.9 percent growth in nine months of cur"
+      },
+      {
+        "source_file_name": "Fiscal_Development.pdf",
+        "page": 8,
+        "status": "PASS",
+        "token_overlap": 0.9167,
+        "source_snippet": "Pakistan Economic Survey 2 74 Table 4.3.: Structure of Federal Ta Year Total (FBR) Tax R % of FY2016 3,112.7 FY2017 3,367.9 FY2018 3,843.8 FY2019 3,828.5 FY2020 BE 5,555.0 []as % of total taxes, {} as % of indi Source: Federal Board of Reve",
+        "markdown_snippet": "## **Pakistan Economic Survey 2019-20** |**Pakistan Economic Survey 2**<br>**019-20**|**Pakistan Economic Survey 2**<br>**019-20**|**Pakistan Economic Survey 2**<br>**019-20**|**Pakistan Economic Survey 2**<br>**019-20**||||| |---|---|---|-"
+      },
+      {
+        "source_file_name": "Growth_And_Investment.pdf",
+        "page": 13,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Growth and Investment 13 The conservative reporting of provisional capital formation by private companies in the main the reason behind this decline. There was an increase of 6.3 percent in GFCF in Electricity Generation & Distribution and ",
+        "markdown_snippet": "**Growth and Investment** The conservative reporting of provisional capital formation by private companies in the main the reason behind this decline. There was an increase of 6.3 percent in GFCF in Electricity Generation & Distribution and"
+      },
+      {
+        "source_file_name": "Health_And_Nutrition.pdf",
+        "page": 6,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2019-20 220 vii) Safe Blood Transfusion Services (SBTS) Programme The government is keen to streamline interventions to prevent and control endemic communicable diseases in the country through blood transfusion by s",
+        "markdown_snippet": "**Pakistan Economic Survey 2019-20** ## **vii) Safe Blood Transfusion Services (SBTS) Programme** The government is keen to streamline interventions to prevent and control endemic communicable diseases in the country through blood transfusi"
+      },
+      {
+        "source_file_name": "Inflation(1).pdf",
+        "page": 3,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Inflation 133 Box 7.1: Comparison of Base Years for CPI With the introduction of rural markets in the new base, PBS is collecting prices from both rural and urban markets to compute CPI. The following table compares the coverage of both bas",
+        "markdown_snippet": "**Inflation** ## **Box 7.1: Comparison of Base Years for CPI** With the introduction of rural markets in the new base, PBS is collecting prices from both rural and urban markets to compute CPI. The following table compares the coverage of b"
+      },
+      {
+        "source_file_name": "Inflation.pdf",
+        "page": 9,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Inflation 139 The Palm oil and Soybean oil prices are recorded at $ 609/MT and $ 680/MT respectively in April 2020 showing a decline of 4.1 percent and 9.1 percent over March 2020. Keeping the present scenario, Malaysia has directed palm pl",
+        "markdown_snippet": "## **Inflation** The Palm oil and Soybean oil prices are recorded at $ 609/MT and $ 680/MT respectively in April 2020 showing a decline of 4.1 percent and 9.1 percent over March 2020. Keeping the present scenario, Malaysia has directed palm"
+      },
+      {
+        "source_file_name": "Manufacturing_And_Mining.pdf",
+        "page": 14,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2019-20 56 nine months (July-March) of the current fiscal year was 6067 thousand tonnes which was 5.3 percent more as compared to the corresponding period of the last year. This increase in production is attributed ",
+        "markdown_snippet": "## **Pakistan Economic Survey 2019-20** nine months (July-March) of the current fiscal year was 6067 thousand tonnes which was 5.3 percent more as compared to the corresponding period of the last year. This increase in production is attribu"
+      },
+      {
+        "source_file_name": "Money_And_Credit.pdf",
+        "page": 17,
+        "status": "PASS",
+        "token_overlap": 0.9984,
+        "source_snippet": "Money and Credit 105 Regulatory Reforms \u0001 To further align Anti Money laundering (AML) and Combating the Financing of Terrorism (CFT) with requirements embodied in Financial Action Task Force (FATF) following measures were taken: • SBP upda",
+        "markdown_snippet": "**Money and Credit** ## **Regulatory Reforms** - To further align Anti Money laundering (AML) and Combating the Financing of Terrorism (CFT) with requirements embodied in Financial Action Task Force (FATF) following measures were taken: - S"
+      },
+      {
+        "source_file_name": "Pes_2019_20.pdf",
+        "page": 325,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Social Protection 297 training) to 16,388 households in 20 districts of Punjab, Sindh and Khyber Pakhtunkhwa Provinces. However, the programme has made substantial progress in these three provinces till March 2020 and has transferred 9,704 ",
+        "markdown_snippet": "Social Protection 297 training) to 16,388 households in 20 districts of Punjab, Sindh and Khyber Pakhtunkhwa Provinces. However, the programme has made substantial progress in these three provinces till March 2020 and has transferred 9,704 "
+      },
+      {
+        "source_file_name": "Population_Labour_Force_And_Employment.pdf",
+        "page": 12,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2019-20 246 (MSU), ToR’s for Lady Health Workers and Village based Family Planning Workers and other regulatory mechanism on population. This mechanism will ensure standardization of basic facilities, so that popula",
+        "markdown_snippet": "## **Pakistan Economic Survey 2019-20** (MSU), ToR’s for Lady Health Workers and Village based Family Planning Workers and other regulatory mechanism on population. This mechanism will ensure standardization of basic facilities, so that pop"
+      },
+      {
+        "source_file_name": "Public_Debt.pdf",
+        "page": 25,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Public Debt 193 External public debt to foreign exchange reserves ratio increased and recorded at 5.1 times during 2018-19 compared with 4.3 times during 2017-18. Moderate growth in external public debt and depletion of foreign exchange res",
+        "markdown_snippet": "**Public Debt** External public debt to foreign exchange reserves ratio increased and recorded at 5.1 times during 2018-19 compared with 4.3 times during 2017-18. Moderate growth in external public debt and depletion of foreign exchange res"
+      },
+      {
+        "source_file_name": "Social_Protection.pdf",
+        "page": 2,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2019-20 288 expected to have a negative impact on the Pakistan's economy, and the number of people living below the poverty line may rise from the existing figure of 50 to 60 million. The present government has take",
+        "markdown_snippet": "## **Pakistan Economic Survey 2019-20** expected to have a negative impact on the Pakistan's economy, and the number of people living below the poverty line may rise from the existing figure of 50 to 60 million. The present government has t"
+      },
+      {
+        "source_file_name": "Statistical_Supplement.pdf",
+        "page": 4,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "(iii) Dr. Imtiaz Ahmad Economic Adviser / Team Leader Mr. Sohail Hanif Joint Economic Adviser Muhammad Shoaib Malik Deputy Economic Adviser Ms. Nazia Gul Assistant Economic Adviser Mr. Attaullah Shah Assistant Economic Adviser Ms. Samina Kh",
+        "markdown_snippet": "(iii) Dr. Imtiaz Ahmad Economic Adviser / Team Leader Mr. Sohail Hanif Joint Economic Adviser Muhammad Shoaib Malik Deputy Economic Adviser Ms. Nazia Gul Assistant Economic Adviser Mr. Attaullah Shah Assistant Economic Adviser Ms. Samina Kh"
+      },
+      {
+        "source_file_name": "Supplement_2017_18.pdf",
+        "page": 178,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TRANSPORT & COMMUNICATIONS HIGHLIGHTS Items Unit 2017-18 Roads Total Roads Kilometers 156,197 High Type Kilometers 79,994 Low Type Kilometers 76,203 Railways Route Kilometers 7,791 Passengers carried Millions Nos. 54.9 Freight carried Milli",
+        "markdown_snippet": "TRANSPORT & COMMUNICATIONS HIGHLIGHTS Items Unit 2017-18 Roads Total Roads Kilometers 156,197 High Type Kilometers 79,994 Low Type Kilometers 76,203 Railways Route Kilometers 7,791 Passengers carried Millions Nos. 54.9 Freight carried Milli"
+      },
+      {
+        "source_file_name": "Supplement_2018_19.pdf",
+        "page": 3,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "(iii) Dr. Imtiaz Ahmad Economic Adviser Muhammad Faisal Shamim Composer Mr. Faheem Anwar Web Master Muhammad Umar Zahid Director Debt (Debt Wing) Ms. Rabia Akbar Research Officer Hafiz Syed Mohammad Azeem Research Officer Mr. Sangeen Khan R",
+        "markdown_snippet": "(iii) Dr. Imtiaz Ahmad Economic Adviser Muhammad Faisal Shamim Composer Mr. Faheem Anwar Web Master Muhammad Umar Zahid Director Debt (Debt Wing) Ms. Rabia Akbar Research Officer Hafiz Syed Mohammad Azeem Research Officer Mr. Sangeen Khan R"
+      },
+      {
+        "source_file_name": "Supplement_2019_20.pdf",
+        "page": 180,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TRANSPORT & COMMUNICATIONS HIGHLIGHTS Items Unit 2019-20 Roads Total Roads Kilometers 501,424 Railways Route Kilometers 7,791 Passengers carried Millions Nos. 44.3 Freight carried Million tons 7.4 Locomotives Nos. 473.0 Freight Wagons Nos. ",
+        "markdown_snippet": "TRANSPORT & COMMUNICATIONS HIGHLIGHTS Items Unit 2019-20 Roads Total Roads Kilometers 501,424 Railways Route Kilometers 7,791 Passengers carried Millions Nos. 44.3 Freight carried Million tons 7.4 Locomotives Nos. 473.0 Freight Wagons Nos. "
+      },
+      {
+        "source_file_name": "Supplement_2020_21.pdf",
+        "page": 184,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "TRANSPORT & COMMUNICATIONS HIGHLIGHTS Items Roads Total Roads Kilometers 500,749 Railways Route Kilometers 7,791 Passengers carried Millions Nos. 28.4 Freight carried Million tons 8.2 Locomotives Nos. 467.0 Freight Wagons Nos. 14448.0 Pakis",
+        "markdown_snippet": "TRANSPORT & COMMUNICATIONS HIGHLIGHTS Items Roads Total Roads Kilometers 500,749 Railways Route Kilometers 7,791 Passengers carried Millions Nos. 28.4 Freight carried Million tons 8.2 Locomotives Nos. 467.0 Freight Wagons Nos. 14448.0 Pakis"
+      },
+      {
+        "source_file_name": "Supplement_2021_22.pdf",
+        "page": 3,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Dr. Imtiaz Ahmad Economic Adviser / Team Leader Dr. Hasan Muhammad Mohsin Joint Economic Adviser Dr. Naseem Faraz Deputy Economic Adviser Ms. Naiza Gul Deputy Economic Adviser Mr. Attaullah Shah Assistant Economic Adviser Ms. Samina Khatoon",
+        "markdown_snippet": "Dr. Imtiaz Ahmad Economic Adviser / Team Leader Dr. Hasan Muhammad Mohsin Joint Economic Adviser Dr. Naseem Faraz Deputy Economic Adviser Ms. Naiza Gul Deputy Economic Adviser Mr. Attaullah Shah Assistant Economic Adviser Ms. Samina Khatoon"
+      },
+      {
+        "source_file_name": "Trade_And_Payments.pdf",
+        "page": 22,
+        "status": "PASS",
+        "token_overlap": 1.0,
+        "source_snippet": "Pakistan Economic Survey 2019-20 164 Table 8.7: Country/Region Wise Cash Worker's Remittances Country/Region July-April ($ Billions) 2018-19 2019-20 % Change Share Saudi Arabia 4.2 4.4 4.8 23.3 U.A.E. 3.8 3.9 3.2 20.8 USA 2.7 3.3 21.3 17.5 ",
+        "markdown_snippet": "**Pakistan Economic Survey 2019-20** **Table 8.7: Country/Region Wise Cash Worker's Remittances** |Country/Region|July-April|July-April|($ Billions)|($ Billions)| |---|---|---|---|---| ||2018-19|2019-20|% Change|Share| |Saudi Arabia|4.2|4.4"
+      },
+      {
+        "source_file_name": "Transport_And_Communication.pdf",
+        "page": 1,
+        "status": "PASS",
+        "token_overlap": 0.9872,
+        "source_snippet": "Amid today's highly competitive and globalized world, effective and efficient transport and the logistic sector is the backbone of an economy, linking economic and urban clusters with domestic and international markets to enhance broader ec",
+        "markdown_snippet": "## **Chapter 13** ## **TRANSPORT AND COMMUNICATIONS** Amid today's highly competitive and globalized world, effective and efficient transport and the logistic sector is the backbone of an economy, linking economic and urban clusters with do"
+      }
+    ]
+  },
+  "placeholder_checks": {
+    "status": "INFO",
+    "total_omitted_picture_placeholders": 110,
+    "files": [
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Agriculture.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Annex_I_Contingent_Liabilities.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Annex_Ii_Tax_Expenditure.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Capital_Markets.md",
+        "count": 3
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Climate_Change.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Education.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Energy.md",
+        "count": 8
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Executive_Summary.md",
+        "count": 1
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Fiscal_Development.md",
+        "count": 9
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Growth_And_Investment.md",
+        "count": 5
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Health_And_Nutrition.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Inflation(1).md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Inflation.md",
+        "count": 6
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Manufacturing_And_Mining.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Money_And_Credit.md",
+        "count": 8
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Population_Labour_Force_And_Employment.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Public_Debt.md",
+        "count": 16
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Social_Protection.md",
+        "count": 4
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Trade_And_Payments.md",
+        "count": 12
+      },
+      {
+        "output_md_path": "agentic/02_pdf_to_md/runs/2019-20_pymupdf4llm_hardened/converted_md/Transport_And_Communication.md",
+        "count": 7
+      }
+    ],
+    "research_use_note": "Charts/images are not certified from Markdown and require separate PDF review before use in research claims."
+  },
+  "table_numeric_policy": {
+    "status": "NOT_CERTIFIED",
+    "policy": "Markdown is not certified for table, chart, numeric, row/column, total, ranking, or footnote fidelity.",
+    "required_follow_up": "Any numeric or table-derived claim must be verified against the source PDF and, where needed, rendered page evidence."
+  }
+}
