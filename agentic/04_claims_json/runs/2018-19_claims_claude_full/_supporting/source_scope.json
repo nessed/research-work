@@ -1,0 +1,190 @@
+{
+  "source_year": "2018-19",
+  "scope_type": "full_year_chapter_files",
+  "sections_jsonl": "agentic/03_section_splitting/runs/2018-19_section_split_pymupdf4llm_hardened/sections.jsonl",
+  "total_sections_in_jsonl": 2736,
+  "included_section_count": 970,
+  "excluded_section_count": 1766,
+  "sections_per_job": 20,
+  "job_count": 56,
+  "included_sources": [
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Agriculture.md",
+      "source_file": "Agriculture.md",
+      "source_section_count": 71,
+      "included_section_count": 71,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Captial_Markets.md",
+      "source_file": "Captial_Markets.md",
+      "source_section_count": 71,
+      "included_section_count": 71,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Climate_Change.md",
+      "source_file": "Climate_Change.md",
+      "source_section_count": 58,
+      "included_section_count": 58,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Education.md",
+      "source_file": "Education.md",
+      "source_section_count": 67,
+      "included_section_count": 67,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Energy.md",
+      "source_file": "Energy.md",
+      "source_section_count": 24,
+      "included_section_count": 24,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Fiscal_Development.md",
+      "source_file": "Fiscal_Development.md",
+      "source_section_count": 49,
+      "included_section_count": 49,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Growth.md",
+      "source_file": "Growth.md",
+      "source_section_count": 22,
+      "included_section_count": 22,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Health_And_Nutrition.md",
+      "source_file": "Health_And_Nutrition.md",
+      "source_section_count": 80,
+      "included_section_count": 80,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Inflaton.md",
+      "source_file": "Inflaton.md",
+      "source_section_count": 19,
+      "included_section_count": 19,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Manufacturing.md",
+      "source_file": "Manufacturing.md",
+      "source_section_count": 50,
+      "included_section_count": 50,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Money_And_Credit.md",
+      "source_file": "Money_And_Credit.md",
+      "source_section_count": 50,
+      "included_section_count": 50,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Overview_Of_The_Economy.md",
+      "source_file": "Overview_Of_The_Economy.md",
+      "source_section_count": 38,
+      "included_section_count": 38,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Population.md",
+      "source_file": "Population.md",
+      "source_section_count": 42,
+      "included_section_count": 42,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Public_Debt.md",
+      "source_file": "Public_Debt.md",
+      "source_section_count": 65,
+      "included_section_count": 65,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Social_Protection.md",
+      "source_file": "Social_Protection.md",
+      "source_section_count": 33,
+      "included_section_count": 33,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Trade_And_Payments.md",
+      "source_file": "Trade_And_Payments.md",
+      "source_section_count": 75,
+      "included_section_count": 75,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Transport.md",
+      "source_file": "Transport.md",
+      "source_section_count": 156,
+      "included_section_count": 156,
+      "excluded_section_count": 0,
+      "inclusion_reason": "Chapter-level source file; included in full-year extraction."
+    }
+  ],
+  "excluded_sources": [
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Annex_I.md",
+      "source_file": "Annex_I.md",
+      "source_section_count": 5,
+      "included_section_count": 0,
+      "excluded_section_count": 5,
+      "reason": "Statistical annex tables; no narrative claims."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Annex_Ii.md",
+      "source_file": "Annex_Ii.md",
+      "source_section_count": 8,
+      "included_section_count": 0,
+      "excluded_section_count": 8,
+      "reason": "Statistical annex tables; no narrative claims."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Economic_Indicators_1819.md",
+      "source_file": "Economic_Indicators_1819.md",
+      "source_section_count": 6,
+      "included_section_count": 0,
+      "excluded_section_count": 6,
+      "reason": "Indicator tables; no narrative claims."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Economic_Survey_2018_19.md",
+      "source_file": "Economic_Survey_2018_19.md",
+      "source_section_count": 1355,
+      "included_section_count": 0,
+      "excluded_section_count": 1355,
+      "reason": "Duplicate full-survey Markdown; chapter-level files are the extraction source for this run."
+    },
+    {
+      "source_md_path": "agentic/02_pdf_to_md/runs/2018-19_pymupdf4llm_hardened/converted_md/Supplement_2018_19.md",
+      "source_file": "Supplement_2018_19.md",
+      "source_section_count": 392,
+      "included_section_count": 0,
+      "excluded_section_count": 392,
+      "reason": "Statistical tables supplement; contains no narrative claims to extract."
+    }
+  ]
+}

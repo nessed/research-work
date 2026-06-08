@@ -76,21 +76,34 @@ claims.jsonl
 
 Create `_supporting/` for all other files.
 
-## Step 3 - Build source_scope.json
+## Step 3 - Build source_scope.json and jobs.jsonl
 
-Read the full Step 03 `sections.jsonl` and count sections by `source_md_path`.
+Each run ships a `_supporting/gen_jobs.py` that builds both files in one pass.
+Write `gen_jobs.py` for the run, then execute it from the repo root:
 
-Write:
-
-```text
-_supporting/source_scope.json
+```powershell
+python agentic/04_claims_json/runs/<run>/_supporting/gen_jobs.py
 ```
 
-The source scope must explicitly record included and excluded source files. Do
-not silently skip any source file.
+`gen_jobs.py` must:
+
+- Read the full Step 03 `sections.jsonl`.
+- Determine included and excluded source files with explicit reasons for each
+  exclusion (e.g. duplicate full-survey file, statistical supplement, annex tables).
+- Group included sections by `source_md_path`, preserving original section order.
+- Split into jobs of 20 sections each (never split a single section record across
+  jobs; if one section alone exceeds model limits, process it as a solo job).
+- Compute SHA-256 hashes for each job's section content, the prompt file, and the
+  schema file.
+- Write `_supporting/source_scope.json` with all inclusions, exclusions, counts,
+  and reasons.
+- Write `_supporting/jobs.jsonl` — one JSON line per job, containing:
+  `job_id`, `source_year`, `source_file`, `source_md_path`, `section_ids`,
+  `n_sections`, `sections` (full records), `input_hash`, `prompt_hash`,
+  `schema_hash`, `runner_label`, `engine_contract`.
 
 For years where Step 03 includes both chapter-level files and a duplicate
-full-survey file, exclude the duplicate only if this is recorded, for example:
+full-survey file, exclude the duplicate and record the reason, for example:
 
 ```json
 {
@@ -99,68 +112,44 @@ full-survey file, exclude the duplicate only if this is recorded, for example:
 }
 ```
 
-## Step 4 - Create jobs.jsonl
+## Step 4 - (Included in Step 3)
 
-Group included sections by `source_md_path`. Within each source file, keep the
-original section order and split into jobs:
-
-- default: 20 sections per job;
-- if a 20-section job is too large for a model call, split it smaller;
-- never split one section record across jobs;
-- if one section is huge, process that section alone.
-
-Write one line per job to:
-
-```text
-_supporting/jobs.jsonl
-```
-
-Each job must contain stable metadata: `job_id`, source file/path, ordered
-section ids, section records, input hash, prompt hash, schema hash, runner label,
-and engine contract.
-
-Example with 20-section jobs:
-
-```text
-Agriculture.md, 66 sections -> 4 jobs
-Health.md, 41 sections -> 3 jobs
-Trade.md, 46 sections -> 3 jobs
-```
+`gen_jobs.py` writes both `source_scope.json` and `jobs.jsonl` in one pass.
+There is no separate Step 4.
 
 ## Step 5 - Run extraction jobs
 
-For each incomplete job:
-
-1. Create a fresh prompt from:
-   - `extraction_prompt.md`;
-   - schema v0.1;
-   - only the section records inside the current job.
-2. Run Claude headlessly. The `--json-schema` argument must receive the JSON
-   schema content, so the runner should read
-   `agentic/04_claims_json/claim_array_output_schema.json` and pass that string:
+Use the shared multi-engine runner at `agentic/04_claims_json/run_step04.py`.
+It reads `jobs.jsonl`, calls the chosen engine per job, accumulates results in
+`_supporting/job_results.jsonl`, and tracks progress in `_supporting/run_state.json`.
+It never writes `claims.jsonl`.
 
 ```powershell
-$schema = Get-Content -Raw agentic/04_claims_json/claim_array_output_schema.json
-claude.cmd --print --output-format json --json-schema $schema "<job prompt>"
+python agentic/04_claims_json/run_step04.py `
+  --engine claude `
+  --run-dir agentic/04_claims_json/runs/<run> `
+  --schema-file agentic/04_claims_json/claim_array_output_schema.json `
+  --prompt-file agentic/04_claims_json/extraction_prompt.md `
+  --chunk 20 `
+  --concurrency 3
 ```
 
-3. Parse the model output as JSON.
-4. Validate the job output before accepting it.
-5. Append accepted job output to:
+The runner is safely resumable: re-running the same command skips jobs already in
+`completed[]`. Failed jobs are written to `_supporting/failed_jobs/<job_id>.txt`
+and can be retried with `--only-failed`. Two terminals can run different engines
+against the same run-dir using `--shard`/`--num-shards` without corrupting shared
+files.
 
-```text
-_supporting/job_results.jsonl
-```
+For each job the runner:
 
-6. Update:
-
-```text
-_supporting/run_state.json
-```
-
-If a job fails parsing, schema validation, quote grounding, or numeric-flag
-checks, save the failure under `_supporting/failed_jobs/` and stop or retry that
-job. Do not continue as if the run passed.
+1. Splits the job's sections into chunks of `--chunk` size.
+2. Builds a prompt from `extraction_prompt.md` + the current chunk's section JSON.
+3. Calls the engine and parses the JSON claim array from its output.
+4. Validates claims against the schema if `jsonschema` is installed.
+5. On success: appends `{job_id, engine, n_sections, n_claims, claims, ts}` to
+   `job_results.jsonl` and updates `run_state.json`.
+6. On failure: retries up to 4 attempts (2/4/8 s backoff) then writes the failure
+   to `failed_jobs/` without aborting the whole run.
 
 ## Step 6 - Finalize claims.jsonl
 

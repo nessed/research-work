@@ -67,20 +67,53 @@ rewrite, or annotate raw PDFs during Step 04.
 
 ## Production Mechanics
 
-Step 04 is a local CLI-agent workflow. No API key is assumed.
+Step 04 uses two scripts under each run's `_supporting/` folder.
 
-- Primary engine: `claude.cmd --print`.
-- Fallback engine, only if explicitly implemented for a run: `codex.cmd exec`.
-- Default chunk size: 20 section records per job.
-- Character cap fallback: if 20 sections exceed the model context or command
-  limits, split into smaller jobs without splitting any section record.
-- Each job is a fresh model context.
-- The model must extract claims only from the section records inside that job.
-- Headless Claude calls must use the JSON content from
-  `agentic/04_claims_json/claim_array_output_schema.json` as the structured
-  output schema.
-- Final `claims.jsonl` is rebuilt from validated job results. Do not manually
-  append model output directly to final `claims.jsonl`.
+### Step 1 — Build jobs (`gen_jobs.py`)
+
+Each run ships a `_supporting/gen_jobs.py` that reads the Step 03 `sections.jsonl`,
+applies the source scope (inclusions/exclusions), splits into 20-section jobs, and
+writes `source_scope.json` and `jobs.jsonl`. Run it once from the repo root:
+
+```powershell
+python agentic/04_claims_json/runs/<run>/_supporting/gen_jobs.py
+```
+
+### Step 2 — Extract claims (`run_step04.py`)
+
+The shared multi-engine runner at `agentic/04_claims_json/run_step04.py` powers
+extraction. It reads `jobs.jsonl`, calls the chosen engine per job, accumulates
+results in `_supporting/job_results.jsonl`, and tracks progress in
+`_supporting/run_state.json`. It **never writes `claims.jsonl`** — that is
+Step 06 finalize.
+
+```powershell
+python agentic/04_claims_json/run_step04.py `
+  --engine <gemini|claude|codex> `
+  --run-dir agentic/04_claims_json/runs/<run> `
+  --schema-file agentic/04_claims_json/claim_array_output_schema.json `
+  --prompt-file agentic/04_claims_json/extraction_prompt.md `
+  --chunk <N> `
+  --concurrency <N>
+```
+
+Available engines:
+
+- `claude` — Claude Code subscription, headless non-bare OAuth. Default full-run
+  engine. Chunk default: 3 sections/call.
+- `gemini` — Google Gemini Flash, free tier via `google-genai` SDK. Bulk lane.
+  Requires `GEMINI_API_KEY` env var. Chunk default: 8.
+- `codex` — OpenAI Codex CLI. Scalpel/reserve; use via `--only-failed` passes.
+  Chunk default: 1.
+
+The runner is safely resumable: re-running the same command skips already-completed
+jobs. Use `--only-failed` to reprocess exactly the jobs in `failed[]`. Use
+`--shard`/`--num-shards` to split across two terminals with different engines.
+
+Each job is a fresh model context. The model must extract claims only from the
+section records inside that job. Final `claims.jsonl` is rebuilt from validated
+job results in Step 06. Do not manually append model output directly to final
+`claims.jsonl`.
 
 ## Source Scope
 

@@ -1,0 +1,10 @@
+{
+  "last_engine": "claude",
+  "completed": [
+    "job_0001"
+  ],
+  "failed": [],
+  "n_completed": 1,
+  "n_failed": 0,
+  "updated": "2026-06-07T18:29:50.023976+00:00"
+}
