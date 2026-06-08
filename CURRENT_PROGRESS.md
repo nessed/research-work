@@ -6,17 +6,17 @@ Last updated: 2026-06-07
 
 | Year | 02 PDF→MD | 03 Sections | 04 Claims |
 |---|---|---|---|
-| 2015-16 | ⏳ runs exist; audit pending | ❌ not started | ❌ |
-| 2016-17 | ⏳ runs exist; audit pending | ✅ PASS (2,121 sections) | ⬜ empty stub |
-| 2017-18 | ⏳ runs exist; audit pending | ❌ not started | ❌ |
-| 2018-19 | ⏳ runs exist; audit pending | ✅ PASS (2,736 sections) | ❌ |
-| 2019-20 | ⏳ runs exist; audit pending | ❌ not started | ❌ |
-| 2020-21 | ⏳ runs exist; audit pending | ❌ not started | ❌ |
-| 2021-22 | ⏳ runs exist; audit pending | ❌ not started | ❌ |
-| 2022-23 | ⏳ runs exist; audit pending | ❌ not started | ❌ |
-| 2023-24 | ⏳ runs exist; audit pending | ❌ not started | ❌ |
-| 2024-25 | ⏳ runs exist; audit pending | ❌ not started | ❌ |
-| **Totals** | **0/10 audited** | **2/10** | **0/10** |
+| 2015-16 | ✅ PASS audited | ❌ not started | ❌ |
+| 2016-17 | ✅ PASS audited | ✅ PASS (2,121 sections) | ⬜ empty stub |
+| 2017-18 | ✅ PASS audited | ❌ not started | ❌ |
+| 2018-19 | ✅ PASS audited | ✅ PASS (2,736 sections) | ❌ |
+| 2019-20 | ✅ PASS audited | ❌ not started | ❌ |
+| 2020-21 | ✅ PASS audited | ❌ not started | ❌ |
+| 2021-22 | ✅ PASS audited | ❌ not started | ❌ |
+| 2022-23 | ✅ PASS audited | ❌ not started | ❌ |
+| 2023-24 | ✅ PASS audited | ❌ not started | ❌ |
+| 2024-25 | ✅ PASS audited | ❌ not started | ❌ |
+| **Totals** | **10/10 PASS audited** | **2/10 PASS** | **0/10 production-ready** |
 
 ## Active Area
 
@@ -32,7 +32,7 @@ Step 03 (section splitting) — 8 years pending.
 
 ## Notes
 
-- Step 02 uses no LLM tokens (local pymupdf4llm library). All 10 years runs exist; completion audit pending.
+- Step 02 uses no LLM tokens (local pymupdf4llm library). All 10 years PASS audited.
 - Step 03 uses no LLM tokens (deterministic regex script). Use `split_2016_17_sections.py` as template.
 - Step 04 is the only token-heavy step. Do not start until Step 02 is audited, all years are at step 03, and an extraction benchmark passes.
 - Step 04 needs 3 files written before any run: `how_to_reproduce.md`, `extraction_prompt.md`, `adv_review_prompt.md`.
@@ -41,7 +41,6 @@ Step 03 (section splitting) — 8 years pending.
 
 ## Next Immediate Actions
 
-1. Create Step 02 Completion Audit Table and verify no zero-byte runs exist.
-2. Build gold-standard extraction benchmark (annotate 20-30 sections manually).
-3. Upgrade PDF-to-MD QA script to check first/middle/last pages and separate table checks.
-4. Pause all full Step 03 and Step 04 runs until audits pass.
+1. Build gold-standard extraction benchmark (annotate 20-30 sections manually).
+2. Upgrade PDF-to-MD QA script to check first/middle/last pages and separate table checks.
+3. Pause all full Step 03 and Step 04 runs until audits pass.

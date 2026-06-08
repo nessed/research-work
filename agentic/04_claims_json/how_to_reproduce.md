@@ -136,9 +136,9 @@ python agentic/04_claims_json/run_step04.py `
 
 The runner is safely resumable: re-running the same command skips jobs already in
 `completed[]`. Failed jobs are written to `_supporting/failed_jobs/<job_id>.txt`
-and can be retried with `--only-failed`. Two terminals can run different engines
-against the same run-dir using `--shard`/`--num-shards` without corrupting shared
-files.
+and can be retried with `--only-failed`. Do not run multiple processes against the
+same run-dir unless real cross-process file locking is added. Use one process
+at a time or separate run dirs.
 
 For each job the runner:
 

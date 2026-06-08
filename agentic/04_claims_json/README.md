@@ -31,7 +31,7 @@ says, not verified facts. Every claim must trace to a Step 03 source section,
 source page, and short source quote from the Markdown text.
 
 Step 04 stops at `claims.jsonl`. Do not normalize, deduplicate into fact tables,
-export to a database, or start Step 05/06 work inside Step 04.
+export to a database, or start global pipeline Step 05/06 work inside Step 04.
 
 ## Autonomous Agent Handoff
 
@@ -85,7 +85,7 @@ The shared multi-engine runner at `agentic/04_claims_json/run_step04.py` powers
 extraction. It reads `jobs.jsonl`, calls the chosen engine per job, accumulates
 results in `_supporting/job_results.jsonl`, and tracks progress in
 `_supporting/run_state.json`. It **never writes `claims.jsonl`** — that is
-Step 06 finalize.
+done in sub-step 6 (Finalize claims.jsonl).
 
 ```powershell
 python agentic/04_claims_json/run_step04.py `
@@ -112,7 +112,7 @@ jobs. Use `--only-failed` to reprocess exactly the jobs in `failed[]`. Use
 
 Each job is a fresh model context. The model must extract claims only from the
 section records inside that job. Final `claims.jsonl` is rebuilt from validated
-job results in Step 06. Do not manually append model output directly to final
+job results in sub-step 6. Do not manually append model output directly to final
 `claims.jsonl`.
 
 ## Source Scope
