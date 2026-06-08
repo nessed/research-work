@@ -1,0 +1,262 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Codex Step 04 wrapped claim extraction job output",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "claims"
+  ],
+  "properties": {
+    "claims": {
+      "$schema": "https://json-schema.org/draft/2020-12/schema",
+      "title": "Step 04 claim extraction job output",
+      "description": "Structured output schema for one Step 04 extraction job. The model must return an array of claim records.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "source_year",
+          "source_file",
+          "sector",
+          "subsection",
+          "source_page",
+          "source_table_or_figure",
+          "evidence_type",
+          "source_quote",
+          "claim_type",
+          "claim",
+          "indicator_or_subject",
+          "topic_tags",
+          "sentiment_signal",
+          "time_orientation",
+          "actor",
+          "actors",
+          "policy_or_programme",
+          "policy_or_programmes",
+          "constraint_or_risk",
+          "cause",
+          "effect",
+          "comparison",
+          "geography",
+          "data_status_flags",
+          "numeric_or_table_sensitive",
+          "requires_pdf_numeric_qa",
+          "markdown_quality_flags",
+          "confidence",
+          "needs_human_review"
+        ],
+        "properties": {
+          "source_year": {
+            "type": "string"
+          },
+          "source_file": {
+            "type": "string"
+          },
+          "sector": {
+            "type": "string"
+          },
+          "subsection": {
+            "type": "string"
+          },
+          "source_page": {
+            "type": "string"
+          },
+          "source_table_or_figure": {
+            "type": "string"
+          },
+          "evidence_type": {
+            "type": "string",
+            "enum": [
+              "prose",
+              "table_note",
+              "table_or_indicator",
+              "figure_text",
+              "preface_or_publication_note",
+              "table_of_contents",
+              "mixed"
+            ]
+          },
+          "source_quote": {
+            "type": "string"
+          },
+          "claim_type": {
+            "type": "string",
+            "enum": [
+              "sector_performance",
+              "cause_effect",
+              "policy_action",
+              "commitment_or_plan",
+              "constraint",
+              "risk_or_shock",
+              "outlook",
+              "reform",
+              "investment_priority",
+              "programme_or_project",
+              "regional_comparison",
+              "data_caveat",
+              "need_for_improvement",
+              "security_cost",
+              "publication_note",
+              "other"
+            ]
+          },
+          "claim": {
+            "type": "string"
+          },
+          "indicator_or_subject": {
+            "type": "string"
+          },
+          "topic_tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "sentiment_signal": {
+            "type": "string",
+            "enum": [
+              "positive",
+              "negative",
+              "mixed",
+              "neutral",
+              "unclear",
+              ""
+            ]
+          },
+          "time_orientation": {
+            "type": "string",
+            "enum": [
+              "past",
+              "current",
+              "past_or_current",
+              "future",
+              "ongoing",
+              "multi_period",
+              "general",
+              "unclear",
+              ""
+            ]
+          },
+          "actor": {
+            "type": "string"
+          },
+          "actors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "policy_or_programme": {
+            "type": "string"
+          },
+          "policy_or_programmes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "constraint_or_risk": {
+            "type": "string"
+          },
+          "cause": {
+            "type": "string"
+          },
+          "effect": {
+            "type": "string"
+          },
+          "comparison": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "dimension",
+              "baseline",
+              "comparator",
+              "direction"
+            ],
+            "properties": {
+              "dimension": {
+                "type": "string"
+              },
+              "baseline": {
+                "type": "string"
+              },
+              "comparator": {
+                "type": "string"
+              },
+              "direction": {
+                "type": "string",
+                "enum": [
+                  "increase",
+                  "decrease",
+                  "improvement",
+                  "deterioration",
+                  "higher_than",
+                  "lower_than",
+                  "shift",
+                  "no_change",
+                  "unclear",
+                  ""
+                ]
+              }
+            }
+          },
+          "geography": {
+            "type": "string"
+          },
+          "data_status_flags": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "provisional",
+                "revised",
+                "final",
+                "not_available",
+                "estimated",
+                "base_year_change",
+                "definition_note",
+                "rounding_note",
+                "source_note",
+                "projection_based",
+                "survey_method_note"
+              ]
+            }
+          },
+          "numeric_or_table_sensitive": {
+            "type": "boolean"
+          },
+          "requires_pdf_numeric_qa": {
+            "type": "boolean"
+          },
+          "markdown_quality_flags": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "broken_words",
+                "table_layout_noise",
+                "figure_text",
+                "page_order_noise",
+                "omitted_picture_placeholder",
+                "low_confidence_heading"
+              ]
+            }
+          },
+          "confidence": {
+            "type": "string",
+            "enum": [
+              "high",
+              "medium",
+              "low"
+            ]
+          },
+          "needs_human_review": {
+            "type": "boolean",
+            "const": true
+          }
+        }
+      }
+    }
+  }
+}

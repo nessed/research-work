@@ -3,6 +3,16 @@
 Date: 2026-06-07
 Scope: Agriculture.md, Health.md, Trade.md
 
+## Production warning
+
+These notes describe a historical smoke test. They are not the production
+runbook. Full Step 04 extraction must use the autonomous job-based contract in
+`agentic/04_claims_json/README.md`, with `source_scope.json`, `jobs.jsonl`,
+`job_results.jsonl`, final `claims.jsonl`, final validation, and adversarial
+review.
+
+Do not use this smoke-test folder as a template for full-year extraction.
+
 ## Key observations
 
 ### Validator

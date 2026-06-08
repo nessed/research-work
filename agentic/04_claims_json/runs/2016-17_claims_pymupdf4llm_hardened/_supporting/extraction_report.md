@@ -5,6 +5,20 @@ Date: 2026-06-07
 Model: claude-sonnet-4-6 (agent-assisted, in-session)
 Schema: commentary_schema_v0.1
 
+## Production Status
+
+This is smoke-test evidence only. It proves that Step 03 sections can be turned
+into schema-compliant Step 04 claims for three chapters, but it is not the
+production extraction pattern. Future full-year Step 04 runs must use the
+job-based flow documented in `agentic/04_claims_json/README.md`:
+
+```text
+sections.jsonl -> source_scope.json -> jobs.jsonl -> job_results.jsonl -> claims.jsonl
+```
+
+The `smoke_*` files under `_supporting/` are historical intermediates, not
+required production outputs.
+
 ## Scope
 
 Smoke test: 3 documents out of 25 in the 2016-17 sections JSONL.
@@ -85,4 +99,6 @@ The following gaps were observed but NOT added as new fields (flagged here inste
 
 ## Next Steps
 
-Pending adversarial review PASS, proceed to full 2016-17 extraction (remaining 22 files).
+Proceed to full 2016-17 extraction only through the autonomous job-based Step 04
+contract. Do not reuse `gen_agriculture_claims.py` or the per-chapter smoke-file
+pattern for production.
