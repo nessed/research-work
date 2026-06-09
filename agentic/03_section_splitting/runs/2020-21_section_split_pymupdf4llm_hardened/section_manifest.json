@@ -1,0 +1,249 @@
+{
+  "task": "2020-21_section_split_pymupdf4llm_hardened",
+  "generated_at_utc": "2026-06-08T18:11:20+00:00",
+  "project_root": "C:\\Users\\Ali\\Desktop\\datalab_ali",
+  "input_pdf_to_md_run": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened",
+  "input_repro_manifest": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/repro_manifest.json",
+  "input_converted_md_dir": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md",
+  "output_sections_jsonl": "agentic/03_section_splitting/runs/2020-21_section_split_pymupdf4llm_hardened/sections.jsonl",
+  "source_year": "2020-21",
+  "split_rules": {
+    "input_scope": "reviewed 2020-21 PDF-to-MD outputs excluding duplicate files and off-year supplements",
+    "page_tracking": "existing <!-- page N --> markers",
+    "primary_boundaries": "Markdown headings within each page",
+    "fallback_boundaries": "paragraph blocks capped around 4500 characters",
+    "source_text_policy": "verbatim or near-verbatim Markdown text only; no summaries or interpretations",
+    "section_id_policy": "stable per source Markdown filename, section order, and start page"
+  },
+  "environment": {
+    "python_executable": "C:\\Users\\Ali\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+    "python_version": "3.14.5 (tags/v3.14.5:5607950, May 10 2026, 10:43:50) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0"
+  },
+  "git": {
+    "branch": "main",
+    "commit": "838d8f8de129fb67220cc14fa3da30827a3a7d40"
+  },
+  "input_entries": [
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Agriculture.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Agriculture.md",
+      "source_md_sha256": "5f1bf7942f411147f4c4a8bcfa5377cf724009b741beff3b092f8d7016b4b81d",
+      "page_count": 27
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Annex_I_Contingent_Liabilities.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Annex_I_Contingent_Liabilities.md",
+      "source_md_sha256": "7a0a4916d083de46f63ccc23ba49e8662ddd780e73a43fe7766c781924e54d47",
+      "page_count": 2
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Annex_Ii_Tax_Expenditure.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Annex_Ii_Tax_Expenditure.md",
+      "source_md_sha256": "ad84b7494051ceb7f121579f576ccaa8c7933f124e73594a87576816a6e19ce3",
+      "page_count": 2
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Annex_Iii_Sezones.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Annex_Iii_Sezones.md",
+      "source_md_sha256": "8f76fb1311285e8a05227eb8c9649a890652afaea1c53499124c61dfb34697c9",
+      "page_count": 8
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Annex_Iv_Covid.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Annex_Iv_Covid.md",
+      "source_md_sha256": "160b5f8546c7f15c439917e1a2bafc6a175dab0d77abe1b9bd056f06a4d6853c",
+      "page_count": 11
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Capital_Markets.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Capital_Markets.md",
+      "source_md_sha256": "d33a30da7517a8a75b0de9db770e89f1037fbbb778c88eae1edd0c8b8e8c740f",
+      "page_count": 16
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Climate_Change.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Climate_Change.md",
+      "source_md_sha256": "d3b539f99894bf85532b781b65d2574186bc89acc9117d2dc9b0dc4cc1f43091",
+      "page_count": 15
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Economic_Indicators.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Economic_Indicators.md",
+      "source_md_sha256": "ce77d780b6db07016c5ec0b6628ee79dc4c78b5956c1328b9e16a15ee1d80e5d",
+      "page_count": 6
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Education.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Education.md",
+      "source_md_sha256": "c6e0ed169e9b1640cdbd7f7a547c883b417c490af2f21afde406fb2977bd48bc",
+      "page_count": 18
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Energy.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Energy.md",
+      "source_md_sha256": "b08f56ec7d8d617c2c0ce80a9f51b70d0f5e123691a7a63e24d0264b9e207838",
+      "page_count": 12
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Fiscal.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Fiscal.md",
+      "source_md_sha256": "804524250f63b12a0c86ad30c0b007d7ab569f0f83bea8e213705db21f80c663",
+      "page_count": 25
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Growth.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Growth.md",
+      "source_md_sha256": "8567e3ad3dee83faf8e0b8b9c65fd356c6c378fb8698b52ad4265a6936426167",
+      "page_count": 16
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Health.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Health.md",
+      "source_md_sha256": "8cb5570d08a39bfae898686254383115649b7060dbe19c8ba5d9ee42bbd4f7f1",
+      "page_count": 19
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Inflation.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Inflation.md",
+      "source_md_sha256": "ea53a2fda35f431fbc2eba3c471fcefa8528ad3cc676e69f221a21b2da9a8fd2",
+      "page_count": 11
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Manufacturing.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Manufacturing.md",
+      "source_md_sha256": "5808124b9ba554de0d619b2f6c6be2a38fcfedba3348e8239195272b4f991ac0",
+      "page_count": 25
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Money_And_Credit.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Money_And_Credit.md",
+      "source_md_sha256": "7396534dce0b903547b14dfd00917409e22c29dee2d44c65e97ea8db27cb5c3f",
+      "page_count": 28
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Overview.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Overview.md",
+      "source_md_sha256": "14e6166b3c54a37ec2b304939e33b4e38b3fee91a82f0007dee6b09e8c6332a4",
+      "page_count": 21
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Pes_2020_21.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Pes_2020_21.md",
+      "source_md_sha256": "637be5da9fb9bbf9564fc6c3410cc06f7c9979de001890619289ec136714826d",
+      "page_count": 566
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Population.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Population.md",
+      "source_md_sha256": "d8b56fb0894c0693ce845171301a8d468a2fefa1e94d61477175e6c3d3322765",
+      "page_count": 17
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Public_Debt.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Public_Debt.md",
+      "source_md_sha256": "5d10f89cd058e7190527c22352c7c65de2071f6aac3447f6f6da1e75cb78bb52",
+      "page_count": 19
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Social_Protection.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Social_Protection.md",
+      "source_md_sha256": "0248da783310be3a6eaa99750ecbe6ea588a218f0464cd06d9606cbe712d1440",
+      "page_count": 24
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Supplement_2020_21.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Supplement_2020_21.md",
+      "source_md_sha256": "11ffc2ac5db5e412b62fea08b807e380398410affea0021cdd403dd6d29ba850",
+      "page_count": 216
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Trade_And_Payments.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Trade_And_Payments.md",
+      "source_md_sha256": "8e96582ba68468dc872a530b4e57f6ba8af7fec987f438e6e8338bd5297f874b",
+      "page_count": 25
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Transport.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Transport.md",
+      "source_md_sha256": "9be30ed224dc8ea8e175ac89c3d406358c4b9ade365407b7f92e5318385747a2",
+      "page_count": 29
+    }
+  ],
+  "excluded_input_entries": [
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Statistical_Supplement.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Statistical_Supplement.md",
+      "reason": "duplicate alias of Supplement_2020_21.pdf; excluded to avoid double counting"
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Supplement_2017_18.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Supplement_2017_18.md",
+      "reason": "prior-year supplement file in 2020-21 folder"
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Supplement_2018_19.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Supplement_2018_19.md",
+      "reason": "prior-year supplement file in 2020-21 folder"
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Supplement_2019_20.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Supplement_2019_20.md",
+      "reason": "prior-year supplement file in 2020-21 folder"
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2020-21/Supplement_2021_22.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Supplement_2021_22.md",
+      "reason": "later-year supplement file in 2020-21 folder"
+    }
+  ],
+  "qa_results": {
+    "status": "PASS",
+    "issues": [],
+    "sections_total": 1136,
+    "source_md_files": 24,
+    "source_md_files_with_sections": 24,
+    "sections_by_file": {
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Agriculture.md": 27,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Annex_I_Contingent_Liabilities.md": 2,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Annex_Ii_Tax_Expenditure.md": 2,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Annex_Iii_Sezones.md": 8,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Annex_Iv_Covid.md": 11,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Capital_Markets.md": 16,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Climate_Change.md": 15,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Economic_Indicators.md": 6,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Education.md": 18,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Energy.md": 12,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Fiscal.md": 25,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Growth.md": 16,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Health.md": 19,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Inflation.md": 11,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Manufacturing.md": 25,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Money_And_Credit.md": 28,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Overview.md": 21,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Pes_2020_21.md": 542,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Population.md": 17,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Public_Debt.md": 19,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Social_Protection.md": 24,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Supplement_2020_21.md": 218,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Trade_And_Payments.md": 25,
+      "agentic/02_pdf_to_md/runs/2020-21_pymupdf4llm_hardened/converted_md/Transport.md": 29
+    },
+    "numeric_or_table_sensitive_sections": 1135,
+    "markdown_quality_flag_counts": {
+      "broken_words": 295,
+      "figure_text": 28,
+      "none": 5,
+      "numeric_dense_text": 1131,
+      "table_layout_noise": 578
+    },
+    "section_type_counts": {
+      "heading_section": 2,
+      "paragraph_block": 546,
+      "table_or_figure_adjacent": 588
+    },
+    "forbidden_claim_summary_fields_present": false
+  },
+  "output_sha256": "b5428d0f773fd6ce62a3feb6d2c718dcd3aaee66aefe96582e95f017b5cdc7a1",
+  "output_size_bytes": 3584286
+}

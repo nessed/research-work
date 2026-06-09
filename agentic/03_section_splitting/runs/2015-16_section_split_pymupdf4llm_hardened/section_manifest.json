@@ -1,0 +1,251 @@
+{
+  "task": "2015-16_section_split_pymupdf4llm_hardened",
+  "generated_at_utc": "2026-06-08T18:00:05+00:00",
+  "project_root": "C:\\Users\\Ali\\Desktop\\datalab_ali",
+  "input_pdf_to_md_run": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened",
+  "input_repro_manifest": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/repro_manifest.json",
+  "input_converted_md_dir": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md",
+  "output_sections_jsonl": "agentic/03_section_splitting/runs/2015-16_section_split_pymupdf4llm_hardened/sections.jsonl",
+  "source_year": "2015-16",
+  "split_rules": {
+    "input_scope": "reviewed 2015-16 PDF-to-MD outputs excluding later-year supplements",
+    "page_tracking": "existing <!-- page N --> markers",
+    "primary_boundaries": "Markdown headings within each page",
+    "fallback_boundaries": "paragraph blocks capped around 4500 characters",
+    "source_text_policy": "verbatim or near-verbatim Markdown text only; no summaries or interpretations",
+    "section_id_policy": "stable per source Markdown filename, section order, and start page"
+  },
+  "environment": {
+    "python_executable": "C:\\Users\\Ali\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+    "python_version": "3.14.5 (tags/v3.14.5:5607950, May 10 2026, 10:43:50) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0"
+  },
+  "git": {
+    "branch": "main",
+    "commit": "838d8f8de129fb67220cc14fa3da30827a3a7d40"
+  },
+  "input_entries": [
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Agriculture.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Agriculture.md",
+      "source_md_sha256": "d483b20ba0ad3d639e046f8fd77e40c884c656c365e793d62a4061cebaf8d3ff",
+      "page_count": 41
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Annexure_I_Contingent.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Annexure_I_Contingent.md",
+      "source_md_sha256": "02b0949e94257b216c25058e13976456c759edf85f895e8b0f2290b22993280a",
+      "page_count": 2
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Annexure_Ii_Tax_Expenditure.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Annexure_Ii_Tax_Expenditure.md",
+      "source_md_sha256": "867053d95713e143ad1005a3d932ded4e0df6b5984474a5e86cbddab9af2fd5b",
+      "page_count": 2
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Annexure_Iii_Poverty.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Annexure_Iii_Poverty.md",
+      "source_md_sha256": "15d98f9a693b304c82c2e5aab59fe5eb409e195d65974f971125c584153e4213",
+      "page_count": 5
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Annexure_Iv_War_On_Terror.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Annexure_Iv_War_On_Terror.md",
+      "source_md_sha256": "88e4d90d969115e6da4296f4e13f13bd6e0071cf68b033d8198f51c70c73b72c",
+      "page_count": 2
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Capital_Markets.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Capital_Markets.md",
+      "source_md_sha256": "5bdd882b7abd0ca9366674051b268aee168d874deb9b35f6575d198d7d76e585",
+      "page_count": 20
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Economic_Indicators.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Economic_Indicators.md",
+      "source_md_sha256": "5f954a446661e0b16ef7c5f04c73b8ec0f818c9363b2ac73a44a1e66f3291c28",
+      "page_count": 6
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Education.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Education.md",
+      "source_md_sha256": "aa889c4053f408376166da1c8bf4b727eb3e35e9ce0b0a692fad4d66f1763a1b",
+      "page_count": 23
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Energy.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Energy.md",
+      "source_md_sha256": "2a699a780ea0a7b8f7fd825bc3b44f6b4f469e6ff8b2a77e638bb9b78a9922d7",
+      "page_count": 27
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Environment.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Environment.md",
+      "source_md_sha256": "3cd66851c0c7d299efd14c93bf9bdec7881d17e4483fc524bb54faec04eb2f57",
+      "page_count": 12
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Fiscal_Development.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Fiscal_Development.md",
+      "source_md_sha256": "ffb4c3a11d9dd24f6f1ad3b4978b57a4e78c17102a957b75e9564094eebde751",
+      "page_count": 18
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Growth_And_Investment.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Growth_And_Investment.md",
+      "source_md_sha256": "f048a9ff1dbb0893e25602b8aad1f7f4f5546b667feb18a972b65d914b173883",
+      "page_count": 34
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Health.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Health.md",
+      "source_md_sha256": "ac6a0b3affbc43e25af0fc5736d972b3de17cd10cf2b9032d334babbeac8b369",
+      "page_count": 15
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Highlights_2015_16.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Highlights_2015_16.md",
+      "source_md_sha256": "8283b2d860aba2b41995d95743b253593f6b815c583841e7d07d0f5e14f01829",
+      "page_count": 17
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Inflation.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Inflation.md",
+      "source_md_sha256": "cd2d4a0c021784bd8c41f9c15625cc165aa866fd4a5f58afac686a5a8c6b87b4",
+      "page_count": 27
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Manufacturing.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Manufacturing.md",
+      "source_md_sha256": "234aced9affc07c235daa11680c2aa47314e25ce742470695571428d198b3fb3",
+      "page_count": 29
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Money_And_Credit.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Money_And_Credit.md",
+      "source_md_sha256": "7dd00307238dac24e80a0c0d0d24d61cdca39d1de2ad1121c0f5fce2fd3f0d08",
+      "page_count": 28
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Overview_Of_The_Economy.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Overview_Of_The_Economy.md",
+      "source_md_sha256": "4d0e3633498e6d207bd31ef50f04707aaec1163f0ed77fd869e971b04d01ba61",
+      "page_count": 15
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Population.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Population.md",
+      "source_md_sha256": "b2e8b82ecc43e510614956cda06b32b49d6c361b770b1316dc3bdc99e87e489b",
+      "page_count": 30
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Public_Debt.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Public_Debt.md",
+      "source_md_sha256": "94f58199b800538eb36c3b8b5bbf0f6a422591639d85ccc25da24a69b21961ae",
+      "page_count": 31
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Research_Team.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Research_Team.md",
+      "source_md_sha256": "f412780e45d684a821d51fff5deafd0fe573f77700adae2aca3f992a6d040cde",
+      "page_count": 1
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Social_Safety.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Social_Safety.md",
+      "source_md_sha256": "4f184f08decdc90b85a75ab3b0eb1e7270725bdd0d965c731bcc0f5b7a33c2a3",
+      "page_count": 14
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Trade.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Trade.md",
+      "source_md_sha256": "15377de3ec2e9c1adf7f54da56326f774e859b7cfc9f32315392059f8a7f041f",
+      "page_count": 36
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Transport.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Transport.md",
+      "source_md_sha256": "2964fc5b10494757a021aa71d972b47d5a975fef7437918f75402493dbc30be0",
+      "page_count": 32
+    }
+  ],
+  "excluded_input_entries": [
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Supplement_2017_18.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Supplement_2017_18.md",
+      "reason": "later-year supplement file in 2015-16 folder; excluded to keep section layer source_year homogeneous"
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Supplement_2018_19.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Supplement_2018_19.md",
+      "reason": "later-year supplement file in 2015-16 folder; excluded to keep section layer source_year homogeneous"
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Supplement_2019_20.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Supplement_2019_20.md",
+      "reason": "later-year supplement file in 2015-16 folder; excluded to keep section layer source_year homogeneous"
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Supplement_2020_21.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Supplement_2020_21.md",
+      "reason": "later-year supplement file in 2015-16 folder; excluded to keep section layer source_year homogeneous"
+    },
+    {
+      "source_pdf_path": "datalab_master/Master Data/pakistan_economic_survey/2015-16/Supplement_2021_22.pdf",
+      "source_md_path": "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Supplement_2021_22.md",
+      "reason": "later-year supplement file in 2015-16 folder; excluded to keep section layer source_year homogeneous"
+    }
+  ],
+  "qa_results": {
+    "status": "PASS",
+    "issues": [],
+    "sections_total": 1157,
+    "source_md_files": 24,
+    "source_md_files_with_sections": 24,
+    "sections_by_file": {
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Agriculture.md": 100,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Annexure_I_Contingent.md": 5,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Annexure_Ii_Tax_Expenditure.md": 6,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Annexure_Iii_Poverty.md": 10,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Annexure_Iv_War_On_Terror.md": 3,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Capital_Markets.md": 56,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Economic_Indicators.md": 8,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Education.md": 82,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Energy.md": 59,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Environment.md": 47,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Fiscal_Development.md": 44,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Growth_And_Investment.md": 61,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Health.md": 40,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Highlights_2015_16.md": 39,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Inflation.md": 56,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Manufacturing.md": 81,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Money_And_Credit.md": 69,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Overview_Of_The_Economy.md": 18,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Population.md": 68,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Public_Debt.md": 75,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Research_Team.md": 3,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Social_Safety.md": 27,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Trade.md": 80,
+      "agentic/02_pdf_to_md/runs/2015-16_pymupdf4llm_hardened/converted_md/Transport.md": 120
+    },
+    "numeric_or_table_sensitive_sections": 1134,
+    "markdown_quality_flag_counts": {
+      "broken_words": 34,
+      "encoding_artifact": 16,
+      "figure_text": 12,
+      "none": 177,
+      "numeric_dense_text": 864,
+      "omitted_picture_placeholder": 136,
+      "table_layout_noise": 459
+    },
+    "section_type_counts": {
+      "heading_section": 566,
+      "paragraph_block": 128,
+      "table_or_figure_adjacent": 463
+    },
+    "forbidden_claim_summary_fields_present": false
+  },
+  "output_sha256": "9267b29b07f1d8f822b0c1a6e363c9780d2a1c68281628393d940823b09dae56",
+  "output_size_bytes": 2292180
+}

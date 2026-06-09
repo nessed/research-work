@@ -1,0 +1,9 @@
+# Portable Step 04 — Python dependencies
+#
+# OPTIONAL. Installing this only enables run_step04.py's in-runner per-claim
+# JSON-Schema check. The FINAL gate (engine/validate_claims.py) is pure standard
+# library and always runs without it, as do build_jobs.py and finalize_claims.py.
+#
+# So on a locked-down machine you can skip `pip install` entirely and still run
+# the full Step 04 flow. Install this only if you want the extra in-runner check.
+jsonschema>=4.0
