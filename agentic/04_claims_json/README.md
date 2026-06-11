@@ -10,6 +10,14 @@ agent can be told only:
 and then produce the Step 04 output without manual chapter slicing or
 hand-written claim files.
 
+## Runner
+
+Extraction is executed by an independent, tried-and-tested portable runner:
+**https://github.com/nessed/portable-claims-extractor**. This folder builds the
+jobs (`gen_jobs.py` → `jobs.jsonl`) and points them at that runner, which owns the
+engine/parallelism mechanics. A local mirror lives under `portable_step04/`. The
+runner passed a live Claude smoke run (`runs/_smoke_run_step04/`, 1 job, 0 failed).
+
 ## Purpose
 
 Step 04 converts a reviewed Step 03 `sections.jsonl` into one source-grounded

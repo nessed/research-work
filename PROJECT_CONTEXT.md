@@ -62,15 +62,16 @@ This section is changeable. Overwrite it only after major task milestones, not a
 Current live state:
 
 - Active pipeline outline: PDF -> MD -> Sections -> Claims JSON -> Normalize -> Export.
-- Current major task: 2021-22 Step 02 PDF-to-MD is completed and reviewed; stop at Step 02 until Ali asks for the next stage.
+- Current major task: Step 04 (claims extraction) first real per-year run. Steps 01-03 are complete and reviewed for all 10 years. See `CURRENT_PROGRESS.md` for the live per-year table and next actions.
 - Completed baseline: `agentic/01_pes_folder_map/`
 - Folder map output: `pes_folder_tree.json`
 - Folder map result: PASS / High confidence; 10 year folders, 287 PDFs, no filesystem count/path/size mismatches.
-- PDF-to-MD runs: retained under `agentic/02_pdf_to_md/runs/` with conversion/QA scripts, manifest/log evidence, and QA reports. Latest completed run: `2021-22_pymupdf4llm_hardened` PASS; 28 direct PDFs converted; table/chart/numeric content remains NOT_CERTIFIED; completed with disclosed PyMuPDF text extraction after `pymupdf4llm` timeout on the 548-page combined survey PDF.
-- Section runs: retained under `agentic/03_section_splitting/runs/`; section manifests must record included and excluded inputs because folder year is not automatically source year. Latest completed run: `2018-19_section_split_pymupdf4llm_hardened` PASS after corrected scope; 2,736 sections from 22 included Markdown files; 5 files excluded (`Supplement_2017_18`, `Supplement_2019_20`, `Supplement_2020_21`, `Supplement_2021_22`, duplicate `Statistical_Supplement`).
+- PDF-to-MD (Step 02): COMPLETE and PASS-audited for all 10 years under `agentic/02_pdf_to_md/runs/` (each `<year>_pymupdf4llm_hardened`), with conversion/QA scripts, manifest/log evidence, and QA reports. Table/chart/numeric content remains NOT_CERTIFIED across all years.
+- Section splitting (Step 03): COMPLETE and PASS for all 10 years under `agentic/03_section_splitting/runs/` (each `<year>_section_split_pymupdf4llm_hardened`); ~17,800 sections total. Section manifests record included and excluded inputs because folder year is not automatically source year.
 - Schema discovery/hardening work: `agentic/archive/04_commentary_schema_discovery/` is completed provenance for Claims JSON extraction, not an active recurring pipeline stage.
+- Step 04 engine: extraction runs on an independent, tried-and-tested portable runner at https://github.com/nessed/portable-claims-extractor (live-Claude smoke PASSED, `agentic/04_claims_json/runs/_smoke_run_step04/`, 1 job, 0 failed). This repo builds jobs and points them at that runner. 2018-19 full job set built but not yet executed/finalized.
 - Raw PDFs were not modified.
-- No production Claims JSON normalization, export, family mapping, or database import has started.
+- No production Claims JSON exists yet (0/10 finalized); no normalization, export, family mapping, or database import has started.
 
 Update policy: overwrite this LIVE section only after a major task milestone. Keep only current status, key outputs, blockers, and next immediate task. Move old detail into the relevant task folder, not this file.
 
