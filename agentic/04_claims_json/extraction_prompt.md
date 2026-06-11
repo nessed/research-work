@@ -11,6 +11,7 @@ PES Markdown document. Each record is one JSON object from `sections.jsonl`.
 Read each section's `text` field and extract structured commentary claims from
 only those provided section records.
 
+
 Run this as a fresh-context CLI-agent job. No API client or API key is required
 by this stage prompt. Do not rely on memory from earlier jobs. Do not extract
 claims from sections that are not included in the current job. A separate runner

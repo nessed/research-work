@@ -1,30 +1,23 @@
 # Pipeline Planning Report
 
-This document defines the timeless workflow for Pakistan Economic Survey
-commentary work. Live status, blockers, review queues, git state, and next
-actions belong in `CURRENT_PROGRESS.md`, not here.
+This document defines the timeless workflow for Pakistan Economic Survey.
+commentary work. Live status, blockers, review queues, git state, and
+next actions belong in `CURRENT_PROGRESS.md`, not here.
 
-## 1. Final Pipeline Outline
+## 1. Pipeline Order
 
-The active workflow is:
+The workflow order is:
 
-```text
-PDF
-  ↓
-MD
-  ↓
-Sections
-  ↓
-Claims JSON
-  ↓
-Normalize
-  ↓
-Export
-```
+1. `01_pes_folder_map`
+2. `02_pdf_to_md`
+3. `03_section_splitting`
+4. `04_commentary_schema_discovery` / Schema Discovery & Hardening
+5. `05_extraction_pilots`
+6. `06_structured_claim_extraction`
+7. `07_json_normalization`
+8. `08_database_export`
 
-Schema discovery and hardening are completed design/provenance work. They are
-not recurring active pipeline stages unless Claims JSON extraction exposes a
-specific schema failure that requires a justified revision.
+Do not change this order without an explicit design decision.
 
 ## 2. Ground Rules
 
@@ -41,35 +34,33 @@ specific schema failure that requires a justified revision.
 
 ## 3. Stage Workflow
 
-### PDF
+### 01 PES Folder Map
 
 Purpose:
 
-- Inventory and select source PDFs without modifying raw data.
-- Record paths, counts, file sizes, source-folder structure, and source-scope
-  decisions.
+- Inventory the PES source folders and files without modifying raw data.
+- Record paths, counts, file sizes, and source-folder structure.
 
 Expected output:
 
-- Folder/file inventory.
-- Source selection manifest.
+- `pes_folder_tree.json`
 - `how_to_reproduce.md`
 - `adv_review_prompt.md`
 - `adv_review_results.md`
 
 Review gate:
 
-- Recount folders/files and verify paths, counts, sizes, and source-scope
-  decisions against the filesystem.
+- Recount folders/files and verify paths, counts, sizes, and classifications
+  against the filesystem.
 
-### MD
+### 02 PDF To Markdown
 
 Purpose:
 
 - Convert selected source PDFs into Markdown with explicit page markers.
 - Preserve enough provenance to reproduce the conversion and QA it against PDFs.
 
-Expected output:
+Expected run output:
 
 - `converted_md/`
 - `repro_manifest.json`
@@ -97,7 +88,7 @@ Review gate:
 - Fresh reviewer verifies manifests, logs, counts, hashes, page markers,
   sampled PDF-to-MD fidelity, raw-PDF non-mutation, and numeric/table limits.
 
-### Sections
+### 03 Section Splitting
 
 Purpose:
 
@@ -114,7 +105,7 @@ Important invariant:
   `2016-17` folder, exclude it from that year's section layer or label it
   separately.
 
-Expected output:
+Expected run output:
 
 - `sections.jsonl`
 - `section_manifest.json`
@@ -149,31 +140,50 @@ Review gate:
 - Fresh reviewer verifies the manifest, included/excluded inputs, source scope,
   page spans, source Markdown traceability, flags, and no-extraction invariant.
 
-### Claims JSON
+### 04 Commentary Schema Hardening
 
 Purpose:
 
-- Extract source-grounded commentary records from reviewed sections.
-- Track what the survey commentary said at a given time: summaries, narratives,
-  cause-effect claims, policy/programme explanations, constraints, risks, and
-  outlooks.
-- Start with a small reviewed pilot inside this stage, then scale only after
-  pilot QA/review passes.
-
-Schema reference:
-
-- Use the archived schema discovery/hardening work as the current extraction
-  schema reference.
-- Do not repeat schema hardening as a separate stage unless extraction reveals
-  a concrete schema failure.
+- Maintain and stress-test the qualitative commentary schema.
+- Future years should mostly harden the existing schema with justified edge
+  cases, not rediscover the schema from scratch.
 
 Expected output:
 
-- Claims input manifest.
+- Sample selection manifest.
+- Schema stress-test notes.
+- Proposed schema changes or a clear "no change needed" decision.
+- Updated schema draft only when justified.
+- QA/review notes.
+
+Sample requirements:
+
+- Use small, diverse samples from reviewed section outputs.
+- Cover prose-heavy narrative, table/numeric-sensitive material,
+  policy/programme material, and weak Markdown where available.
+- Do not create a full research dataset.
+- Do not treat pilot/schema-hardening records as final data.
+
+Review gate:
+
+- Verify that schema changes are justified by samples and that the work did not
+  become full extraction.
+
+### 05 Extraction Pilots
+
+Purpose:
+
+- Run controlled pilot extraction using reviewed sections and the hardened
+  commentary schema.
+- Test whether prompts/rules produce source-grounded commentary summaries,
+  narrative tracking records, and cause-effect claims without over-inference.
+
+Expected output:
+
+- Pilot input manifest.
 - Extraction prompt/rules.
-- Pilot Claims JSON/JSONL and QA report.
-- Full-batch Claims JSON/JSONL only after pilot approval.
-- Extraction logs.
+- Pilot output JSON/JSONL.
+- Pilot QA report.
 - `how_to_reproduce.md`
 - `adv_review_prompt.md`
 - `adv_review_results.md`
@@ -181,13 +191,33 @@ Expected output:
 Review gate:
 
 - Verify schema conformance, source quotes, page references, numeric/table QA
-  flags, no unsupported claims, batch completeness, and duplicate handling.
+  flags, and no unsupported claims.
 
-### Normalize
+### 06 Structured Claim Extraction
 
 Purpose:
 
-- Normalize reviewed Claims JSON into stable machine-readable JSON without
+- Run approved extraction over a defined batch after pilot review passes.
+- Preserve source grounding and human-review flags.
+
+Expected output:
+
+- Extraction manifest.
+- Raw extraction JSON/JSONL.
+- Extraction logs.
+- QA report.
+- Review files.
+
+Review gate:
+
+- Verify batch completeness, source grounding, duplicate handling, schema
+  validity, and numeric/table flags.
+
+### 07 JSON Normalization
+
+Purpose:
+
+- Normalize reviewed extraction output into stable machine-readable JSON without
   changing evidence meaning.
 
 Expected output:
@@ -204,7 +234,7 @@ Review gate:
 - Verify IDs, source references, flags, counts, and preservation of evidence
   meaning.
 
-### Export
+### 08 Database Export
 
 Purpose:
 
@@ -249,8 +279,7 @@ Do not:
 
 - Modify, move, rename, or delete raw PDFs.
 - Treat Markdown tables/charts/numbers as source truth.
-- Start full Claims JSON extraction before section review and pilot review pass.
-- Create production normalized JSON before reviewed Claims JSON exists.
+- Start full extraction before section and schema gates pass.
+- Create production normalized JSON before reviewed extraction exists.
 - Export to database/table before normalization review passes.
-- Treat pilot, schema-discovery, or schema-hardening outputs as final research
-  data.
+- Treat pilot/schema-hardening outputs as final research data.

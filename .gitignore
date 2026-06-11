@@ -1,5 +1,6 @@
 # Local assistant state
 .claude/settings.local.json
+.env
 
 # Local tool installs
 codex.exe
@@ -20,5 +21,3 @@ Thumbs.db
 *.tmp
 *.log
 __pycache__/
-
-.env
